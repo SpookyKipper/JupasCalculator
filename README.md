@@ -115,17 +115,17 @@ data belongs to its respective owners and is **not** covered by this project's
 license — it's bundled here only to make the calculator usable. If you reuse this
 project, you are responsible for your own use of that data.
 
-## License & attribution
+## License
 
-The **original JUPASCal 2026 project** is released under the **[MIT License](https://github.com/JUPASCal/JUPASCal.github.io/blob/main/LICENSE)**.
-That licence applies to the original project, not to this unpublished 2027 fork.
-No `LICENSE` file is included in this working copy and no licence is granted for
-this 2027 fork.
+This repository includes the **MIT License** at [`LICENSE`](LICENSE). The original
+JUPASCal 2026 project is also MIT-licensed; see its
+[LICENSE](https://github.com/JUPASCal/JUPASCal.github.io/blob/main/LICENSE).
 
 A couple of notes:
 
-- The bundled admission data is third-party (see *Data sources & attribution*
-  above) and is not yours to relicense — use it responsibly.
+- The licence covers the **code only**. The bundled admission data is third-party
+  (see *Data sources & attribution* above) and is not yours to relicense — use it
+  responsibly.
 - "JUPAS Cal" and **jupascal.com** refer to the original project. This 2027 fork
   is unofficial; please don't run it in a way that impersonates the official site
   or implies its endorsement.

@@ -18,7 +18,7 @@
 ## Original project
 
 - Original 2026 JUPASCal live site: <https://jupascal.com/>
-- Original 2026 JUPASCal source (MIT License): <https://github.com/JUPASCal/JUPASCal.github.io>
+- Original 2026 JUPASCal source: <https://github.com/JUPASCal/JUPASCal.github.io>
 
 ## Disclaimer
 

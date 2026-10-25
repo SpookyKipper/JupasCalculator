@@ -98,11 +98,11 @@ export const STRINGS = {
     zh: "關於此 2027 分支"
   },
   "about.source.p.pre": {
-    en: "JUPASCal 2027 is an unofficial fork of the original JUPASCal 2026 project, which is released under the MIT License. The 2027 weightings and entrance requirements, and the 2026 intake scores, were gathered with AI assistance and manual checking. They may contain errors and their accuracy is not guaranteed. Always verify against official JUPAS and institution publications.",
-    zh: "JUPASCal 2027 是原 JUPASCal 2026 項目的非官方分支；原項目以 MIT 授權條款發布。2027 年科目比重及入學要求、以及 2026 年入學收生分數，均由 AI 協助整理並經人工抽查，仍可能有錯漏，準確性不受保證。作出決定前，請務必以 JUPAS 及各院校官方資料為準。"
+    en: "JUPASCal 2027 is an unofficial fork of the original JUPASCal 2026 project. The 2027 weightings and entrance requirements, and the 2026 intake scores, were gathered with AI assistance and manual checking. They may contain errors and their accuracy is not guaranteed. Always verify against official JUPAS and institution publications.",
+    zh: "JUPASCal 2027 是原 JUPASCal 2026 項目的非官方分支。2027 年科目比重及入學要求、以及 2026 年入學收生分數，均由 AI 協助整理並經人工抽查，仍可能有錯漏，準確性不受保證。作出決定前，請務必以 JUPAS 及各院校官方資料為準。"
   },
   "about.source.original": { en: "Original 2026 site ↗︎", zh: "原 2026 網站 ↗︎" },
-  "about.source.github": { en: "Original 2026 GitHub (MIT) ↗︎", zh: "原 2026 GitHub（MIT）↗︎" },
+  "about.source.github": { en: "Original 2026 GitHub ↗︎", zh: "原 2026 GitHub ↗︎" },
   "about.source.jupas": { en: "Official JUPAS site ↗︎", zh: "JUPAS 官方網站 ↗︎" },
   "about.ai.h": { en: "AI-assisted data", zh: "AI 輔助資料" },
   "about.ai.p": {

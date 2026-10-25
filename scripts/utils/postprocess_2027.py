@@ -155,3 +155,144 @@ json.dump(d, open(P, 'w', encoding='utf-8'), ensure_ascii=False, indent=2)
 h = hashlib.sha1(open(P, 'rb').read()).hexdigest()[:12]
 open('data/processed/JUPAS_2027_Unified_Data.version', 'w').write(h)
 print('extended clean-up done; version', h)
+
+# ── Curated 2027 corrections / final overlays ──────────────────────────────
+d = {x['jupas_code']: x for x in json.load(open(P, encoding='utf-8'))}
+
+# 8) Tuition from the 2027 JUPAS pages (the old dataset carried the 2026 fee).
+import os
+_tuition = 'work/2027/tuition_2027.json'
+if os.path.exists(_tuition):
+    for code, fee in json.load(open(_tuition, encoding='utf-8')).items():
+        if code in d and fee:
+            d[code]['tuition_fee_first_year'] = fee
+
+# 9) Strip a duplicated JUPAS code from scraped names (JS1063/JS1120).
+for code, x in d.items():
+    for key in ('name_en', 'name_zh'):
+        val = x.get(key)
+        if isinstance(val, str) and val.startswith(code + ' '):
+            val = val[len(code):].strip()
+        if isinstance(val, str):
+            val = re.sub(r'\s*#\s*(?:COLLEGE|SCHOOL|FACULTY)\s+OF\b.*$', '', val, flags=re.I).strip()
+            x[key] = val
+
+# 10) JS4472 Robotics (new for 2027) shipped as a bare overview placeholder.
+#     Official JUPAS page: Math 4, Any 1 subject 3 + one of Bio/Chem/ICT/DAT/
+#     Physics/M1/M2 3, tuition HK$49,500. 2027 weighting supplied by CUHK's
+#     2027 programme information; kept at "partial" because the central
+#     score-calculator JSON has not yet been refreshed for new 2027 programmes.
+js4472 = d['JS4472']
+js4472['name_en'] = 'Robotics'
+js4472['name_zh'] = '機器人學'
+js4472['formula_2027'] = 'Best 5 Subjects'
+js4472['formula_2027_id'] = 'best5'
+js4472['subject_weights_2027'] = {
+    'Mathematics (Compulsory Part)': 1.75,
+    'Physics': 1.75,
+    'Biology': 1.25,
+    'Chemistry': 1.25,
+    'Design and Applied Technology': 1.25,
+    'Information and Communication Technology': 1.25,
+}
+js4472['best_of_weights_2027'] = [{
+    'count': 1,
+    'subjects': ['Mathematics Extended Part (Module 1)', 'Mathematics Extended Part (Module 2)'],
+    'weight': 1.75,
+}]
+js4472['min_requirements_2027'] = {
+    'chi': '3', 'eng': '3', 'math': '4', 'csd': 'A',
+    'elect1': {'count': 1, 'subjects': ['Any'], 'grade': '3', 'note': 'Any 1 subject at Level 3'},
+    'elect2': {'count': 1,
+               'subjects': ['Biology', 'Chemistry', 'Information and Communication Technology',
+                            'Design and Applied Technology', 'Physics',
+                            'Mathematics Extended Part (Module 1)', 'Mathematics Extended Part (Module 2)'],
+               'grade': '3',
+               'note': 'One of Biology / Chemistry / ICT / DAT / Physics / M1/M2 at Level 3'},
+}
+js4472['tuition_fee_first_year'] = 'HK$49,500'
+js4472['quota'] = 20
+js4472['scores_2026'] = {'uq': None, 'median': None, 'lq': None, 'mean': None, 'expected_score': None}
+js4472['scores_status'] = 'unavailable_2026'
+js4472['weights_status'] = 'partial_2027'
+js4472['data_confidence'] = 'partial'
+js4472['data_sources'] = [
+    'https://www.jupas.edu.hk/en/programme/cuhk/JS4472/',
+    'https://admission.cuhk.edu.hk/programme/rosen/',
+]
+js4472['year_changes'] = None
+
+out = list(d.values())
+json.dump(out, open(P, 'w', encoding='utf-8'), ensure_ascii=False, indent=2)
+h = hashlib.sha1(open(P, 'rb').read()).hexdigest()[:12]
+open('data/processed/JUPAS_2027_Unified_Data.version', 'w').write(h)
+print('final corrections + tuition overlay done; version', h)
+
+# 11) JS3923 Applied Biology with Biotechnology (new 2027 PolyU code) was
+#     created from the overview baseline; use PolyU's official 2027 weighting PDF
+#     and JUPAS entrance requirements.
+d = {x['jupas_code']: x for x in json.load(open(P, encoding='utf-8'))}
+if 'JS3923' in d:
+    p = d['JS3923']
+    p['formula_2027'] = 'Any Best 5 Subjects'
+    p['formula_2027_id'] = 'best5'
+    p['min_requirements_2027'] = {
+        'chi': '3', 'eng': '3', 'math': '2', 'csd': 'A',
+        'elect1': {'count': 1, 'subjects': ['Any'], 'grade': '3', 'note': ''},
+        'elect2': {'count': 1, 'subjects': ['Any'], 'grade': '3', 'note': ''},
+    }
+    w = {
+        'Biology': 10, 'Business, Accounting and Financial Studies': 5,
+        'Business, Accounting and Financial Studies (Accounting)': 5,
+        'Business, Accounting and Financial Studies (Business Management)': 5,
+        'Chemistry': 7, 'Chinese History': 5, 'Chinese Language': 7,
+        'Chinese Literature': 5,
+        'Combined Science: Biology + Chemistry': 10,
+        'Combined Science: Biology + Physics': 10,
+        'Combined Science: Physics + Chemistry': 7,
+        'Design and Applied Technology': 5, 'Economics': 5,
+        'English Language': 10, 'Ethics and Religious Studies': 5,
+        'Geography': 5, 'Health Management and Social Care': 5,
+        'History': 5, 'Information and Communication Technology': 5,
+        'Integrated Science': 7, 'Literature in English': 5,
+        'Mathematics (Compulsory Part)': 7,
+        'Mathematics Extended Part (Module 1)': 7,
+        'Mathematics Extended Part (Module 2)': 7,
+        'Music': 5, 'Physical Education': 5, 'Physics': 7,
+        'Technology and Living (Fashion, Clothing and Textiles)': 5,
+        'Technology and Living (Food Science and Technology)': 5,
+        'Tourism and Hospitality Studies': 5, 'Visual Arts': 5,
+    }
+    # PolyU lists the BAFS strands separately; the app's canonical dropdown uses
+    # the combined BAFS subject, so fold them into that one key.
+    bafs = max(w.pop('Business, Accounting and Financial Studies (Accounting)', 5),
+               w.pop('Business, Accounting and Financial Studies (Business Management)', 5))
+    w['Business, Accounting and Financial Studies'] = bafs
+    p['subject_weights_2027'] = w
+    p['best_of_weights_2027'] = []
+    p['weights_status'] = 'official_2027'
+    p['data_confidence'] = 'partial'
+    p['data_sources'] = [
+        'https://www.jupas.edu.hk/en/programme/polyu/JS3923/',
+        'https://www.polyu.edu.hk/saso/docdrive/jupas/2027_JS3923_SW.pdf',
+    ]
+    p['year_changes'] = None
+
+out = list(d.values())
+json.dump(out, open(P, 'w', encoding='utf-8'), ensure_ascii=False, indent=2)
+h = hashlib.sha1(open(P, 'rb').read()).hexdigest()[:12]
+open('data/processed/JUPAS_2027_Unified_Data.version', 'w').write(h)
+print('JS3923 correction done; version', h)
+
+# 12) JS6626's 2026 admission median (50) was published under HKU's 2026
+#     "Best 6 Subjects" formula, but the rebased record inherited the older
+#     best-5 id. Align the comparison formula with the benchmark.
+d = {x['jupas_code']: x for x in json.load(open(P, encoding='utf-8'))}
+if 'JS6626' in d:
+    d['JS6626']['formula_2026'] = 'Best 6 Subjects'
+    d['JS6626']['formula_2026_id'] = 'best6'
+out = list(d.values())
+json.dump(out, open(P, 'w', encoding='utf-8'), ensure_ascii=False, indent=2)
+h = hashlib.sha1(open(P, 'rb').read()).hexdigest()[:12]
+open('data/processed/JUPAS_2027_Unified_Data.version', 'w').write(h)
+print('JS6626 formula correction done; version', h)
