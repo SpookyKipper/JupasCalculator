@@ -115,7 +115,10 @@ for x in d:
         cv = w.pop('Combined Science')
         for _s in ('Combined Science: Biology + Chemistry','Combined Science: Biology + Physics','Combined Science: Physics + Chemistry'):
             w[_s] = cv
-    # 6) New CityU code with a missing core requirement: use the CityU baseline.
+    # 6) Give every record a source link (new programmes inherit their JUPAS page).
+    if not x.get('data_sources') and x.get('jupas_url'):
+        x['data_sources'] = [x['jupas_url']]
+    # 7) New CityU code with a missing core requirement: use the CityU baseline.
     if code in ('JS1063','JS1120') and not (x.get('min_requirements_2027') or {}).get('chi'):
         x['min_requirements_2027']['chi'] = '3'
 

@@ -18075,7 +18075,10 @@
     "scores_status": "unavailable_2026",
     "weights_status": "unavailable_2027",
     "data_confidence": "estimated",
-    "year_changes": null
+    "year_changes": null,
+    "data_sources": [
+      "https://www.jupas.edu.hk/en/programme/cuhk/JS4472"
+    ]
   },
   {
     "jupas_code": "JS4501",
@@ -142576,7 +142579,10 @@
     "scores_status": "unavailable_2026",
     "weights_status": "unavailable_2027",
     "data_confidence": "estimated",
-    "year_changes": null
+    "year_changes": null,
+    "data_sources": [
+      "https://www.jupas.edu.hk/en/programme/polyu/JS3923"
+    ]
   },
   {
     "jupas_code": "JS3997",
