@@ -294,8 +294,8 @@
 }
 
 
-/* GitHub = the quieter "good to have" option next to the primary Google Form
-   button: muted text, no accent tint. */
+/* Changelog = the quieter secondary action next to the primary GitHub
+   report button: muted text, no accent tint. */
 .about-source-btn.is-secondary {
   color: var(--muted);
 }

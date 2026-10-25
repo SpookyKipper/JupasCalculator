@@ -98,11 +98,10 @@ export const STRINGS = {
     zh: "回報錯誤或意見"
   },
   "about.source.p.pre": {
-    en: "Found a wrong score, requirement, or anything off? You can report it or send feedback through the Google Form. JUPASCal is also open source on GitHub, where you can file an issue or contribute directly.",
-    zh: "發現分數、入學要求或其他地方出錯？你可透過 Google 表單回報或提供意見。JUPASCal 亦於 GitHub 開源，你可在該處提交 issue 或直接參與貢獻。"
+    en: "Found a wrong score, requirement, or anything off? JUPASCal is open source on GitHub, where you can open an issue to report it or contribute directly.",
+    zh: "發現分數、入學要求或其他地方出錯？JUPASCal 於 GitHub 開源，你可在該處提交 issue 回報或直接參與貢獻。"
   },
-  "about.source.github": { en: "View on GitHub ↗︎", zh: "前往 GitHub ↗︎" },
-  "about.source.form": { en: "Report via Google Form ↗︎", zh: "透過 Google 表單回報 ↗︎" },
+  "about.source.github": { en: "Report on GitHub ↗︎", zh: "前往 GitHub 回報 ↗︎" },
   "about.source.changelog": { en: "Changelog ↗︎", zh: "更新紀錄 ↗︎" },
   "about.more.h": { en: "Data sources", zh: "數據來源" },
   "about.more.p": { en: "2027 subject weightings and entrance requirements come from each institution's 2027 admissions publications and the official JUPAS 2027 catalogue. Benchmarks are the institutions' published 2026 intake admission scores (UQ / median / LQ, or a published mean where quartiles are not released). New or restructured programmes without a published 2026 cohort show no benchmark. All figures remain reference estimates — always confirm with the institution and JUPAS before relying on them.", zh: "2027 年科目比重及入學要求整理自各院校的 2027 年收生刊物及 JUPAS 2027 官方課程目錄。收生基準為各院校公佈的 2026 年入學（2026 intake）分數（UQ／中位數／LQ；若院校只公佈平均分則採用平均分）。尚未有 2026 年收生紀錄的新課程或重組課程會顯示暫無基準。所有數字僅屬參考估算，作決定前請務必向院校及 JUPAS 官方資料核實。" },

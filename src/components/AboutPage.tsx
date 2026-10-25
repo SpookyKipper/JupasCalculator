@@ -116,15 +116,7 @@ export function AboutPage({ onClose }: Props) {
             <div className="about-source-actions">
               <a
                 className="about-source-btn"
-                href="https://forms.gle/f2V4m5TrWpKSySPD8"
-                target="_blank"
-                rel="noreferrer"
-              >
-                {t("about.source.form")}
-              </a>
-              <a
-                className="about-source-btn is-secondary"
-                href="https://github.com/JUPASCal/JUPASCal.github.io"
+                href="https://github.com/JUPASCal/JUPASCal.github.io/issues/new"
                 target="_blank"
                 rel="noreferrer"
               >

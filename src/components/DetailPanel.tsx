@@ -908,11 +908,11 @@ export function DetailPanel({ results, activeCode, reviewRequest, onActiveCodeCh
         <OfficialLinksCard programme={programme} />
 
         {/* Crowd-sourced correction: scores/weightings are compiled from public
-            sources and can lag or err. Routes to the same Google Form the About
-            page uses; the code is in the label so the reporter knows what to cite. */}
+            sources and can lag or err. Routes to the GitHub issue tracker; the
+            code is in the label so the reporter knows what to cite. */}
         <a
           className="detail-report-link"
-          href="https://forms.gle/f2V4m5TrWpKSySPD8"
+          href="https://github.com/JUPASCal/JUPASCal.github.io/issues/new"
           target="_blank"
           rel="noopener noreferrer"
         >
