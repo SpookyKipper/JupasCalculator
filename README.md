@@ -6,7 +6,7 @@ estimates your admission score for every JUPAS programme (400+ across 10
 institutions) and compares it against historical admission data — a fast **DSE
 score calculator** that works out each programme's own weighting for you.
 
-🔗 **Live site: <https://jupascal.com>** — no account, no download, no ads.
+🔗 **Original project: <https://jupascal.com>** — this working copy is the 2027 data refresh of that MIT-licensed app. Remove/change the canonical URL and branding before publishing your own deployment.
 
 > [!IMPORTANT]
 > **This is an unofficial, educational tool — not affiliated with JUPAS or any

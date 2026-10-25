@@ -43,7 +43,7 @@ jobs:
       - name: Build
         run: npm run build
 
-      - name: Bundle runtime data + CNAME into the published artifact
+      - name: Bundle runtime data into the published artifact
         # The app fetches these at runtime relative to index.html, so they must
         # sit next to it in the deployed site (they are NOT part of the Vite build).
         run: |
@@ -52,7 +52,6 @@ jobs:
           cp data/processed/JUPAS_2027_Unified_Data.version dist/data/processed/
           cp data/processed/programme_details_2027.json dist/data/processed/
           cp data/raw/subjects.canonical.json dist/data/raw/
-          cp CNAME dist/CNAME
 
       - name: Configure Pages
         uses: actions/configure-pages@v5
