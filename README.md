@@ -1,14 +1,15 @@
 # JUPASCal 2027 · unofficial fork of JUPASCal 2026
 
-An **unofficial 2027 fork** of the original [JUPASCal 2026 project](https://jupascal.com/),
-for Hong Kong DSE students. The original 2026 app is MIT-licensed and available at
-<https://jupascal.com/>; this 2027 fork is **not currently published as an open-source
-repository** and has no public GitHub repository. Enter your HKDSE grades, build your A1–B6 programme list, and the tool
+An **unofficial 2027 fork** of the original [JUPASCal 2026 project](https://github.com/JUPASCal/JUPASCal.github.io),
+for Hong Kong DSE students. The original 2026 project is released under the
+**MIT License** and is available on [GitHub](https://github.com/JUPASCal/JUPASCal.github.io)
+and at <https://jupascal.com/>. This 2027 fork is **not currently published as an
+open-source repository** and has no public GitHub repository. Enter your HKDSE grades, build your A1–B6 programme list, and the tool
 estimates your admission score for every JUPAS programme (400+ across 10
 institutions) and compares it against historical admission data — a fast **DSE
 score calculator** that works out each programme's own weighting for you.
 
-🔗 **Original project: <https://jupascal.com>** — this working copy is the 2027 data refresh of that MIT-licensed app. Remove/change the canonical URL and branding before publishing your own deployment.
+🔗 **Original 2026 project:** [GitHub](https://github.com/JUPASCal/JUPASCal.github.io) (MIT License) · [jupascal.com](https://jupascal.com/) — this working copy is the 2027 data refresh of that MIT-licensed app. Remove/change the canonical URL and branding before publishing your own deployment.
 
 > [!IMPORTANT]
 > **This is an unofficial, educational tool — not affiliated with JUPAS or any
@@ -114,20 +115,20 @@ data belongs to its respective owners and is **not** covered by this project's
 license — it's bundled here only to make the calculator usable. If you reuse this
 project, you are responsible for your own use of that data.
 
-## License
+## License & attribution
 
-The source code is licensed under the **[MIT License](LICENSE)** — you're free to
-use, copy, modify, and distribute it, with attribution. Contributions are very
-welcome.
+The **original JUPASCal 2026 project** is released under the **[MIT License](https://github.com/JUPASCal/JUPASCal.github.io/blob/main/LICENSE)**.
+That licence applies to the original project, not to this unpublished 2027 fork.
+No `LICENSE` file is included in this working copy and no licence is granted for
+this 2027 fork.
 
 A couple of notes:
 
-- This license covers the **code only**. The bundled admission data is
-  third-party (see *Data sources & attribution* above) and is not yours to
-  relicense — use it responsibly.
-- "JUPAS Cal" and **jupascal.com** refer to this official project. Please don't
-  run a copy in a way that impersonates the official site or implies its
-  endorsement — the goal is to help students, not to confuse them.
+- The bundled admission data is third-party (see *Data sources & attribution*
+  above) and is not yours to relicense — use it responsibly.
+- "JUPAS Cal" and **jupascal.com** refer to the original project. This 2027 fork
+  is unofficial; please don't run it in a way that impersonates the official site
+  or implies its endorsement.
 
 ## Disclaimer
 
