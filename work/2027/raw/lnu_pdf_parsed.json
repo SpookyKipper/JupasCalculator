@@ -1,0 +1,439 @@
+{
+ "JS7101": {
+  "jupas_code": "JS7101",
+  "median": 28.77,
+  "lq": 26.28,
+  "grades_median": {
+   "chi": 5.0,
+   "eng": 3.0,
+   "math": 3.5,
+   "e1": 5.0,
+   "e2": 4.0
+  },
+  "grades_lq": {
+   "chi": 4.0,
+   "eng": 3.0,
+   "math": 3.0,
+   "e1": 4.0,
+   "e2": 4.0
+  }
+ },
+ "JS7123": {
+  "jupas_code": "JS7123",
+  "median": 29.0,
+  "lq": 27.5,
+  "grades_median": {
+   "chi": 4.0,
+   "eng": 4.0,
+   "math": 4.0,
+   "e1": 4.0,
+   "e2": 4.0
+  },
+  "grades_lq": {
+   "chi": 3.0,
+   "eng": 3.0,
+   "math": 4.0,
+   "e1": 4.0,
+   "e2": 4.0
+  }
+ },
+ "JS7133": {
+  "jupas_code": "JS7133",
+  "median": 27.5,
+  "lq": 24.5,
+  "grades_median": {
+   "chi": 4.0,
+   "eng": 4.0,
+   "math": 4.0,
+   "e1": 4.0,
+   "e2": 4.0
+  },
+  "grades_lq": {
+   "chi": 3.0,
+   "eng": 3.0,
+   "math": 3.0,
+   "e1": 4.0,
+   "e2": 3.0
+  }
+ },
+ "JS7204": {
+  "jupas_code": "JS7204",
+  "median": 27.1,
+  "lq": 25.05,
+  "grades_median": {
+   "chi": 4.0,
+   "eng": 3.0,
+   "math": 3.0,
+   "e1": 4.0,
+   "e2": 3.0
+  },
+  "grades_lq": {
+   "chi": 4.0,
+   "eng": 3.0,
+   "math": 3.0,
+   "e1": 4.0,
+   "e2": 3.0
+  }
+ },
+ "JS7211": {
+  "jupas_code": "JS7211",
+  "median": 33.5,
+  "lq": 30.05,
+  "grades_median": {
+   "chi": 4.0,
+   "eng": 3.0,
+   "math": 4.0,
+   "e1": 5.0,
+   "e2": 4.0
+  },
+  "grades_lq": {
+   "chi": 3.0,
+   "eng": 3.0,
+   "math": 4.0,
+   "e1": 4.0,
+   "e2": 4.0
+  }
+ },
+ "JS7212": {
+  "jupas_code": "JS7212",
+  "median": 34.0,
+  "lq": 31.5,
+  "grades_median": {
+   "chi": 3.5,
+   "eng": 3.0,
+   "math": 3.5,
+   "e1": 5.0,
+   "e2": 4.0
+  },
+  "grades_lq": {
+   "chi": 3.0,
+   "eng": 3.0,
+   "math": 4.0,
+   "e1": 4.0,
+   "e2": 4.0
+  }
+ },
+ "JS7213": {
+  "jupas_code": "JS7213",
+  "median": 34.15,
+  "lq": 31.5,
+  "grades_median": {
+   "chi": 4.0,
+   "eng": 3.0,
+   "math": 4.0,
+   "e1": 4.0,
+   "e2": 4.0
+  },
+  "grades_lq": {
+   "chi": 3.0,
+   "eng": 3.0,
+   "math": 4.0,
+   "e1": 4.0,
+   "e2": 4.0
+  }
+ },
+ "JS7214": {
+  "jupas_code": "JS7214",
+  "median": 33.0,
+  "lq": 30.05,
+  "grades_median": {
+   "chi": 4.0,
+   "eng": 4.0,
+   "math": 4.0,
+   "e1": 4.0,
+   "e2": 4.0
+  },
+  "grades_lq": {
+   "chi": 3.0,
+   "eng": 3.0,
+   "math": 3.0,
+   "e1": 4.0,
+   "e2": 4.0
+  }
+ },
+ "JS7215": {
+  "jupas_code": "JS7215",
+  "median": 32.1,
+  "lq": 30.05,
+  "grades_median": {
+   "chi": 4.0,
+   "eng": 4.0,
+   "math": 4.0,
+   "e1": 4.0,
+   "e2": 4.0
+  },
+  "grades_lq": {
+   "chi": 4.0,
+   "eng": 3.0,
+   "math": 4.0,
+   "e1": 4.0,
+   "e2": 4.0
+  }
+ },
+ "JS7216": {
+  "jupas_code": "JS7216",
+  "median": 34.05,
+  "lq": 30.05,
+  "grades_median": {
+   "chi": 4.0,
+   "eng": 3.0,
+   "math": 4.0,
+   "e1": 4.0,
+   "e2": 4.0
+  },
+  "grades_lq": {
+   "chi": 3.0,
+   "eng": 3.0,
+   "math": 4.0,
+   "e1": 4.0,
+   "e2": 4.0
+  }
+ },
+ "JS7225": {
+  "jupas_code": "JS7225",
+  "median": 38.0,
+  "lq": 35.0,
+  "grades_median": {
+   "chi": 4.0,
+   "eng": 3.0,
+   "math": 3.5,
+   "e1": 4.0,
+   "e2": 4.0
+  },
+  "grades_lq": {
+   "chi": 3.0,
+   "eng": 3.0,
+   "math": 4.0,
+   "e1": 4.0,
+   "e2": 4.0
+  }
+ },
+ "JS7301": {
+  "jupas_code": "JS7301",
+  "median": 30.0,
+  "lq": 26.5,
+  "grades_median": {
+   "chi": 3.0,
+   "eng": 3.0,
+   "math": 4.0,
+   "e1": 5.0,
+   "e2": 4.0
+  },
+  "grades_lq": {
+   "chi": 3.0,
+   "eng": 3.0,
+   "math": 4.0,
+   "e1": 4.0,
+   "e2": 4.0
+  }
+ },
+ "JS7302": {
+  "jupas_code": "JS7302",
+  "median": 31.0,
+  "lq": 30.0,
+  "grades_median": {
+   "chi": 3.0,
+   "eng": 3.0,
+   "math": 4.0,
+   "e1": 5.0,
+   "e2": 4.0
+  },
+  "grades_lq": {
+   "chi": 3.0,
+   "eng": 3.0,
+   "math": 4.0,
+   "e1": 4.0,
+   "e2": 4.0
+  }
+ },
+ "JS7303": {
+  "jupas_code": "JS7303",
+  "median": 27.5,
+  "lq": 27.0,
+  "grades_median": {
+   "chi": 3.0,
+   "eng": 4.0,
+   "math": 4.0,
+   "e1": 4.0,
+   "e2": 4.0
+  },
+  "grades_lq": {
+   "chi": 3.0,
+   "eng": 4.0,
+   "math": 4.0,
+   "e1": 4.0,
+   "e2": 4.0
+  }
+ },
+ "JS7304": {
+  "jupas_code": "JS7304",
+  "median": 27.0,
+  "lq": 25.4,
+  "grades_median": {
+   "chi": 3.5,
+   "eng": 3.0,
+   "math": 4.0,
+   "e1": 5.0,
+   "e2": 4.0
+  },
+  "grades_lq": {
+   "chi": 3.0,
+   "eng": 3.0,
+   "math": 4.0,
+   "e1": 4.0,
+   "e2": 4.0
+  }
+ },
+ "JS7305": {
+  "jupas_code": "JS7305",
+  "median": 28.5,
+  "lq": 21.5,
+  "grades_median": {
+   "chi": 4.0,
+   "eng": 3.0,
+   "math": 4.0,
+   "e1": 4.0,
+   "e2": 4.0
+  },
+  "grades_lq": {
+   "chi": 4.0,
+   "eng": 3.0,
+   "math": 3.0,
+   "e1": 4.0,
+   "e2": 4.0
+  }
+ },
+ "JS7306": {
+  "jupas_code": "JS7306",
+  "median": 27.0,
+  "lq": 26.0,
+  "grades_median": {
+   "chi": 4.0,
+   "eng": 4.0,
+   "math": 4.0,
+   "e1": 4.0,
+   "e2": 4.0
+  },
+  "grades_lq": {
+   "chi": 4.0,
+   "eng": 3.0,
+   "math": 4.0,
+   "e1": 4.0,
+   "e2": 4.0
+  }
+ },
+ "JS7307": {
+  "jupas_code": "JS7307",
+  "median": 28.5,
+  "lq": 26.0,
+  "grades_median": {
+   "chi": 3.5,
+   "eng": 3.0,
+   "math": 4.0,
+   "e1": 4.0,
+   "e2": 4.0
+  },
+  "grades_lq": {
+   "chi": 3.0,
+   "eng": 3.0,
+   "math": 4.0,
+   "e1": 4.0,
+   "e2": 4.0
+  }
+ },
+ "JS7503": {
+  "jupas_code": "JS7503",
+  "median": 32.15,
+  "lq": 28.15,
+  "grades_median": {
+   "chi": 4.0,
+   "eng": 4.0,
+   "math": 3.0,
+   "e1": 4.0,
+   "e2": 3.5
+  },
+  "grades_lq": {
+   "chi": 4.0,
+   "eng": 4.0,
+   "math": 3.0,
+   "e1": 4.0,
+   "e2": 3.0
+  }
+ },
+ "JS7606": {
+  "jupas_code": "JS7606",
+  "median": 28.2,
+  "lq": 25.15,
+  "grades_median": {
+   "chi": 4.5,
+   "eng": 3.5,
+   "math": 3.0,
+   "e1": 4.0,
+   "e2": 3.0
+  },
+  "grades_lq": {
+   "chi": 4.0,
+   "eng": 3.0,
+   "math": 3.0,
+   "e1": 4.0,
+   "e2": 3.0
+  }
+ },
+ "JS7709": {
+  "jupas_code": "JS7709",
+  "median": 28.6,
+  "lq": 26.8,
+  "grades_median": {
+   "chi": 4.0,
+   "eng": 3.0,
+   "math": 3.0,
+   "e1": 4.0,
+   "e2": 4.0
+  },
+  "grades_lq": {
+   "chi": 4.0,
+   "eng": 3.0,
+   "math": 3.0,
+   "e1": 4.0,
+   "e2": 4.0
+  }
+ },
+ "JS7802": {
+  "jupas_code": "JS7802",
+  "median": 30.5,
+  "lq": 28.0,
+  "grades_median": {
+   "chi": 5.0,
+   "eng": 4.0,
+   "math": 4.0,
+   "e1": 4.0,
+   "e2": 3.0
+  },
+  "grades_lq": {
+   "chi": 4.0,
+   "eng": 3.0,
+   "math": 4.0,
+   "e1": 4.0,
+   "e2": 3.0
+  }
+ },
+ "JS7905": {
+  "jupas_code": "JS7905",
+  "median": 30.5,
+  "lq": 27.0,
+  "grades_median": {
+   "chi": 4.0,
+   "eng": 4.0,
+   "math": 4.0,
+   "e1": 4.0,
+   "e2": 3.5
+  },
+  "grades_lq": {
+   "chi": 4.0,
+   "eng": 3.0,
+   "math": 3.0,
+   "e1": 4.0,
+   "e2": 3.0
+  }
+ }
+}

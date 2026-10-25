@@ -1,0 +1,1512 @@
+[
+ {
+  "jupas_code": "JS6004",
+  "institution": "HKU",
+  "name": "Bachelor of Arts in Architectural Studies",
+  "faculty": "Faculty of Architecture",
+  "degree_type": "BA(AS)",
+  "formula_2027": "Best 5 Subjects",
+  "subject_weights_2027": {},
+  "subject_weight_text": "",
+  "min_requirements_2027": {
+   "req_eng": "English Language",
+   "req_chin": "Chinese Language",
+   "req_math": "Mathematics",
+   "req_csd": "Liberal Studies / Citizenship and Social Development",
+   "req_e1": "Elective Subject 1",
+   "req_e2": "Elective Subject 2"
+  },
+  "scores_2026": {
+   "uq": 31.0,
+   "median": 29.0,
+   "lq": 27.0
+  },
+  "formula_2026": "a Best 5 Subjects",
+  "source": "HKU 2027 JUPAS Admissions PDF + admissions.hku.hk API"
+ },
+ {
+  "jupas_code": "JS6016",
+  "institution": "HKU",
+  "name": "Bachelor of Science in Surveying",
+  "faculty": "Faculty of Architecture",
+  "degree_type": "BSc(Surv)",
+  "formula_2027": "Best 5 Subjects",
+  "subject_weights_2027": {},
+  "subject_weight_text": "",
+  "min_requirements_2027": {
+   "req_eng": "English Language",
+   "req_chin": "Chinese Language",
+   "req_math": "Mathematics",
+   "req_csd": "Liberal Studies / Citizenship and Social Development",
+   "req_e1": "Elective Subject 1",
+   "req_e2": "Elective Subject 2"
+  },
+  "scores_2026": {
+   "uq": 32.0,
+   "median": 31.0,
+   "lq": 29.0
+  },
+  "formula_2026": "a Best 5 Subjects",
+  "source": "HKU 2027 JUPAS Admissions PDF + admissions.hku.hk API"
+ },
+ {
+  "jupas_code": "JS6028",
+  "institution": "HKU",
+  "name": "Bachelor of Arts in Landscape Studies",
+  "faculty": "Faculty of Architecture",
+  "degree_type": "BA(LS)",
+  "formula_2027": "Best 5 Subjects",
+  "subject_weights_2027": {},
+  "subject_weight_text": "",
+  "min_requirements_2027": {
+   "req_eng": "English Language",
+   "req_chin": "Chinese Language",
+   "req_math": "Mathematics",
+   "req_csd": "Liberal Studies / Citizenship and Social Development",
+   "req_e1": "Elective Subject 1",
+   "req_e2": "Elective Subject 2"
+  },
+  "scores_2026": {
+   "uq": 34.0,
+   "median": 25.0,
+   "lq": 25.0
+  },
+  "formula_2026": "a Best 5 Subjects",
+  "source": "HKU 2027 JUPAS Admissions PDF + admissions.hku.hk API"
+ },
+ {
+  "jupas_code": "JS6042",
+  "institution": "HKU",
+  "name": "Bachelor of Arts in Urban Studies",
+  "faculty": "Faculty of Architecture",
+  "degree_type": "BA(US)",
+  "formula_2027": "Best 5 Subjects",
+  "subject_weights_2027": {},
+  "subject_weight_text": "",
+  "min_requirements_2027": {
+   "req_eng": "English Language",
+   "req_chin": "Chinese Language",
+   "req_math": "Mathematics",
+   "req_csd": "Liberal Studies / Citizenship and Social Development",
+   "req_e1": "Elective Subject 1",
+   "req_e2": "Elective Subject 2"
+  },
+  "scores_2026": {
+   "uq": 31.0,
+   "median": 31.0,
+   "lq": 29.0
+  },
+  "formula_2026": "a Best 5 Subjects",
+  "source": "HKU 2027 JUPAS Admissions PDF + admissions.hku.hk API"
+ },
+ {
+  "jupas_code": "JS6054",
+  "institution": "HKU",
+  "name": "Bachelor of Arts",
+  "faculty": "Faculty of Arts",
+  "degree_type": "BA",
+  "formula_2027": "2 x Eng + Best 4 Subjects with WEIGHTING 1",
+  "subject_weights_2027": {
+   "Chinese Language": 1.5
+  },
+  "subject_weight_text": "<p><strong><sup>1</sup>Subject Weighting(s)</strong></p>\r\n\r\n<table cellpadding=\"1\" cellspacing=\"1\" class=\"table-style-2\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<th scope=\"row\">X 1.5</th>\r\n\t\t\t<td>Chinese Language</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n\r\n<p>&nbsp;</p>\r\n",
+  "min_requirements_2027": {
+   "req_eng": "English Language",
+   "req_chin": "Chinese Language",
+   "req_math": "Mathematics",
+   "req_csd": "Liberal Studies / Citizenship and Social Development",
+   "req_e1": "Elective Subject 1",
+   "req_e2": "Elective Subject 2"
+  },
+  "scores_2026": {
+   "uq": 39.0,
+   "median": 37.0,
+   "lq": 36.0
+  },
+  "formula_2026": "a 2 x Eng + Best 4 Subjects with WEIGHTING 1",
+  "source": "HKU 2027 JUPAS Admissions PDF + admissions.hku.hk API"
+ },
+ {
+  "jupas_code": "JS6066",
+  "institution": "HKU",
+  "name": "Bachelor of Arts and Bachelor of Education in Language Education - English",
+  "faculty": "Faculty of Education",
+  "degree_type": "BA&BEd(LangEd)-Eng",
+  "formula_2027": "1.5 x Eng + Best 4 Subjects",
+  "subject_weights_2027": {},
+  "subject_weight_text": "",
+  "min_requirements_2027": {
+   "req_eng": "English Language",
+   "req_chin": "Chinese Language",
+   "req_math": "Mathematics",
+   "req_csd": "Liberal Studies / Citizenship and Social Development",
+   "req_e1": "Elective Subject 1",
+   "req_e2": "Elective Subject 2"
+  },
+  "scores_2026": {
+   "uq": 38.0,
+   "median": 36.0,
+   "lq": 35.0
+  },
+  "formula_2026": "a 1.5 x Eng + Best 4 Subjects",
+  "source": "HKU 2027 JUPAS Admissions PDF + admissions.hku.hk API"
+ },
+ {
+  "jupas_code": "JS6078",
+  "institution": "HKU",
+  "name": "Bachelor of Arts and Bachelor of Laws ",
+  "faculty": "Faculty of Law",
+  "degree_type": "BA&LLB",
+  "formula_2027": "Eng + Best 5 Subjects",
+  "subject_weights_2027": {},
+  "subject_weight_text": "",
+  "min_requirements_2027": {
+   "req_eng": "English Language",
+   "req_chin": "Chinese Language",
+   "req_math": "Mathematics",
+   "req_csd": "Liberal Studies / Citizenship and Social Development",
+   "req_e1": "Elective Subject 1",
+   "req_e2": "Elective Subject 2"
+  },
+  "scores_2026": {
+   "uq": 41.0,
+   "median": 38.0,
+   "lq": 36.0
+  },
+  "formula_2026": "Eng + Best 5 Subjects",
+  "source": "HKU 2027 JUPAS Admissions PDF + admissions.hku.hk API"
+ },
+ {
+  "jupas_code": "JS6080",
+  "institution": "HKU",
+  "name": "Bachelor of Arts and Bachelor of Education in Language Education - Chinese",
+  "faculty": "Faculty of Education",
+  "degree_type": "BA&BEd(LangEd)-Chin",
+  "formula_2027": "1.5 x Chin + Best 4 Subjects",
+  "subject_weights_2027": {},
+  "subject_weight_text": "",
+  "min_requirements_2027": {
+   "req_eng": "English Language",
+   "req_chin": "Chinese Language",
+   "req_math": "Mathematics",
+   "req_csd": "Liberal Studies / Citizenship and Social Development",
+   "req_e1": "Elective Subject 1",
+   "req_e2": "Elective Subject 2"
+  },
+  "scores_2026": {
+   "uq": 35.0,
+   "median": 35.0,
+   "lq": 35.0
+  },
+  "formula_2026": "a 1.5 x Chin + Best 4 Subjects",
+  "source": "HKU 2027 JUPAS Admissions PDF + admissions.hku.hk API"
+ },
+ {
+  "jupas_code": "JS6092",
+  "institution": "HKU",
+  "name": "Bachelor of Education in Early Childhood Education and Special Education",
+  "faculty": "Faculty of Education",
+  "degree_type": "BEd(ECE&SE)",
+  "formula_2027": "1.5 x Eng + Best 4 Subjects",
+  "subject_weights_2027": {},
+  "subject_weight_text": "",
+  "min_requirements_2027": {
+   "req_eng": "English Language",
+   "req_chin": "Chinese Language",
+   "req_math": "Mathematics",
+   "req_csd": "Liberal Studies / Citizenship and Social Development",
+   "req_e1": "Elective Subject 1",
+   "req_e2": "Elective Subject 2"
+  },
+  "scores_2026": {
+   "uq": 29.0,
+   "median": 27.0,
+   "lq": 27.0
+  },
+  "formula_2026": "a 1.5 x Eng + Best 4 Subjects",
+  "source": "HKU 2027 JUPAS Admissions PDF + admissions.hku.hk API"
+ },
+ {
+  "jupas_code": "JS6107",
+  "institution": "HKU",
+  "name": "Bachelor of Dental Surgery",
+  "faculty": "Faculty of Dentistry",
+  "degree_type": "BDS",
+  "formula_2027": "Best of Biology or Chemistry with WEIGHTING 3 + Best 5 Subjects",
+  "subject_weights_2027": {
+   "Biology": 1.3,
+   "Chemistry": 1.3
+  },
+  "subject_weight_text": "<p><strong><sup>1</sup>Subject Weighting(s)</strong></p>\r\n\r\n<table cellpadding=\"1\" cellspacing=\"1\" class=\"table-style-2\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<th scope=\"row\">X 1.3</th>\r\n\t\t\t<td>Biology / Chemistry</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n\r\n<p>&nbsp;</p>\r\n",
+  "min_requirements_2027": {
+   "req_eng": "English Language",
+   "req_chin": "Chinese Language",
+   "req_math": "Mathematics",
+   "req_csd": "Liberal Studies / Citizenship and Social Development",
+   "req_e1": "Elective Subject 1",
+   "req_e2": "Elective Subject 2"
+  },
+  "scores_2026": {
+   "uq": 47.0,
+   "median": 46.0,
+   "lq": 44.0
+  },
+  "formula_2026": "Best of Biology or Chemistry with WEIGHTING 3 + Best 5 Subjects",
+  "source": "HKU 2027 JUPAS Admissions PDF + admissions.hku.hk API"
+ },
+ {
+  "jupas_code": "JS6119",
+  "institution": "HKU",
+  "name": "Bachelor of Education and Bachelor of Science",
+  "faculty": "Faculty of Education",
+  "degree_type": "BEd&BSc",
+  "formula_2027": "Eng + 1.5 x Math + 1.5 x Best Sci b Subject + Best 2 Subjects with WEIGHTING 4",
+  "subject_weights_2027": {
+   "Biology": 1.5,
+   "Chemistry": 1.5,
+   "Mathematics Extended Part (Module 1 or 2)": 1.5,
+   "Physics": 1.5
+  },
+  "subject_weight_text": "<p><strong><sup>1</sup>Subject Weighting(s)</strong></p>\r\n\r\n<table cellpadding=\"1\" cellspacing=\"1\" class=\"table-style-2\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<th scope=\"row\">X 1.5</th>\r\n\t\t\t<td>Biology / Chemistry / Mathematics Extended Part (Module 1 or 2) / Physics</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n\r\n<p>&nbsp;</p>\r\n",
+  "min_requirements_2027": {
+   "req_eng": "English Language",
+   "req_chin": "Chinese Language",
+   "req_math": "Mathematics",
+   "req_csd": "Liberal Studies / Citizenship and Social Development",
+   "req_e1": "Elective Subject 1",
+   "req_e2": "Elective Subject 2"
+  },
+  "scores_2026": {
+   "uq": 47.0,
+   "median": 45.0,
+   "lq": 45.0
+  },
+  "formula_2026": "Eng + 1.5 x Math + 1.5 x Best b Sci Subject + Best 2 Subjects with WEIGHTING 4",
+  "source": "HKU 2027 JUPAS Admissions PDF + admissions.hku.hk API"
+ },
+ {
+  "jupas_code": "JS6133",
+  "institution": "HKU",
+  "name": "Bachelor of Arts Elite Programme*",
+  "faculty": "Faculty of Arts",
+  "degree_type": "BA(Elite)",
+  "formula_2027": "2 x Eng + Best 4 Subjects with WEIGHTING 1",
+  "subject_weights_2027": {
+   "Chinese Language": 1.5
+  },
+  "subject_weight_text": "<p><strong><sup>1</sup>Subject Weighting(s)</strong></p>\r\n\r\n<table cellpadding=\"1\" cellspacing=\"1\" class=\"table-style-2\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<th scope=\"row\">X 1.5</th>\r\n\t\t\t<td>Chinese Language</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n\r\n<p>&nbsp;</p>\r\n",
+  "min_requirements_2027": {
+   "req_eng": "English Language",
+   "req_chin": "Chinese Language",
+   "req_math": "Mathematics",
+   "req_csd": "Liberal Studies / Citizenship and Social Development",
+   "req_e1": "Elective Subject 1",
+   "req_e2": "Elective Subject 2"
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": null,
+   "lq": null
+  },
+  "formula_2026": "–",
+  "source": "HKU 2027 JUPAS Admissions PDF + admissions.hku.hk API"
+ },
+ {
+  "jupas_code": "JS6157",
+  "institution": "HKU",
+  "name": "Bachelor of Science in Speech-Language Pathology",
+  "faculty": "Faculty of Education",
+  "degree_type": "BSc(SLP)",
+  "formula_2027": "Best 5 Subjects",
+  "subject_weights_2027": {},
+  "subject_weight_text": "",
+  "min_requirements_2027": {
+   "req_eng": "English Language",
+   "req_chin": "Chinese Language",
+   "req_math": "Mathematics",
+   "req_csd": "Liberal Studies / Citizenship and Social Development",
+   "req_e1": "Elective Subject 1",
+   "req_e2": "Elective Subject 2"
+  },
+  "scores_2026": {
+   "uq": 35.0,
+   "median": 35.0,
+   "lq": 34.0
+  },
+  "formula_2026": "Best 5 Subjects",
+  "source": "HKU 2027 JUPAS Admissions PDF + admissions.hku.hk API"
+ },
+ {
+  "jupas_code": "JS6200",
+  "institution": "HKU",
+  "name": "Computing and Data Science (Delta+) ",
+  "faculty": "School of Computing and Data Science",
+  "degree_type": "CDS(Delta+)",
+  "formula_2027": "Eng + Math + Best 3 Subjects",
+  "subject_weights_2027": {},
+  "subject_weight_text": "<p><br />\r\n&nbsp;</p>\r\n",
+  "min_requirements_2027": {
+   "req_eng": "English Language",
+   "req_chin": "Chinese Language",
+   "req_math": "Mathematics",
+   "req_csd": "Liberal Studies / Citizenship and Social Development",
+   "req_e1": "Elective Subject 1",
+   "req_e2": "Elective Subject 2"
+  },
+  "scores_2026": {
+   "uq": 37.0,
+   "median": 35.0,
+   "lq": 35.0
+  },
+  "formula_2026": "Eng + Math + Best 3 Subjects",
+  "source": "HKU 2027 JUPAS Admissions PDF + admissions.hku.hk API"
+ },
+ {
+  "jupas_code": "JS6224",
+  "institution": "HKU",
+  "name": "Bachelor of Arts and Sciences in Applied Artificial Intelligence",
+  "faculty": "School of Computing and Data Science",
+  "degree_type": "BASc(AppliedAI)",
+  "formula_2027": "Eng + Math + Best 3 Subjects",
+  "subject_weights_2027": {},
+  "subject_weight_text": "",
+  "min_requirements_2027": {
+   "req_eng": "English Language",
+   "req_chin": "Chinese Language",
+   "req_math": "Mathematics",
+   "req_csd": "Liberal Studies / Citizenship and Social Development",
+   "req_e1": "Elective Subject 1",
+   "req_e2": "Elective Subject 2"
+  },
+  "scores_2026": {
+   "uq": 34.0,
+   "median": 32.0,
+   "lq": 31.0
+  },
+  "formula_2026": "Eng + Math + Best 3 Subjects",
+  "source": "HKU 2027 JUPAS Admissions PDF + admissions.hku.hk API"
+ },
+ {
+  "jupas_code": "JS6236",
+  "institution": "HKU",
+  "name": "Bachelor of Arts and Sciences in Design+",
+  "faculty": "Faculty of Architecture",
+  "degree_type": "BASc(Design+)",
+  "formula_2027": "Best 5 Subjects",
+  "subject_weights_2027": {},
+  "subject_weight_text": "",
+  "min_requirements_2027": {
+   "req_eng": "English Language",
+   "req_chin": "Chinese Language",
+   "req_math": "Mathematics",
+   "req_csd": "Liberal Studies / Citizenship and Social Development",
+   "req_e1": "Elective Subject 1",
+   "req_e2": "Elective Subject 2"
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": null,
+   "lq": null
+  },
+  "formula_2026": "a Best 5 Subjects",
+  "source": "HKU 2027 JUPAS Admissions PDF + admissions.hku.hk API"
+ },
+ {
+  "jupas_code": "JS6248",
+  "institution": "HKU",
+  "name": "Bachelor of Arts and Sciences in Financial Technology",
+  "faculty": "School of Computing and Data Science",
+  "degree_type": "BASc(FinTech)",
+  "formula_2027": "Eng + Math + Best 3 Subjects",
+  "subject_weights_2027": {},
+  "subject_weight_text": "",
+  "min_requirements_2027": {
+   "req_eng": "English Language",
+   "req_chin": "Chinese Language",
+   "req_math": "Mathematics",
+   "req_csd": "Liberal Studies / Citizenship and Social Development",
+   "req_e1": "Elective Subject 1",
+   "req_e2": "Elective Subject 2"
+  },
+  "scores_2026": {
+   "uq": 35.0,
+   "median": 34.0,
+   "lq": 34.0
+  },
+  "formula_2026": "Eng + Math + Best 3 Subjects",
+  "source": "HKU 2027 JUPAS Admissions PDF + admissions.hku.hk API"
+ },
+ {
+  "jupas_code": "JS6250",
+  "institution": "HKU",
+  "name": "Bachelor of Arts and Sciences in Global Health and Development",
+  "faculty": "Li Ka Shing Faculty of Medicine",
+  "degree_type": "BASc(GHD)",
+  "formula_2027": "Best 5 Subjects",
+  "subject_weights_2027": {},
+  "subject_weight_text": "",
+  "min_requirements_2027": {
+   "req_eng": "English Language",
+   "req_chin": "Chinese Language",
+   "req_math": "Mathematics",
+   "req_csd": "Liberal Studies / Citizenship and Social Development",
+   "req_e1": "Elective Subject 1",
+   "req_e2": "Elective Subject 2"
+  },
+  "scores_2026": {
+   "uq": 35.0,
+   "median": 31.0,
+   "lq": 29.0
+  },
+  "formula_2026": "a Best 5 Subjects",
+  "source": "HKU 2027 JUPAS Admissions PDF + admissions.hku.hk API"
+ },
+ {
+  "jupas_code": "JS6274",
+  "institution": "HKU",
+  "name": "Bachelor of Arts in Global Creative Industries",
+  "faculty": "School of Future Media",
+  "degree_type": "BA(GCIN)",
+  "formula_2027": "2 x Eng + 2 x Chin + Best 3 a Subjects",
+  "subject_weights_2027": {},
+  "subject_weight_text": "",
+  "min_requirements_2027": {
+   "req_eng": "English Language",
+   "req_chin": "Chinese Language",
+   "req_math": "Mathematics",
+   "req_csd": "Liberal Studies / Citizenship and Social Development",
+   "req_e1": "Elective Subject 1",
+   "req_e2": "Elective Subject 2"
+  },
+  "scores_2026": {
+   "uq": 39.0,
+   "median": 38.0,
+   "lq": 37.0
+  },
+  "formula_2026": "a 2 x Eng + Best 4 Subjects with WEIGHTING 7",
+  "source": "HKU 2027 JUPAS Admissions PDF + admissions.hku.hk API"
+ },
+ {
+  "jupas_code": "JS6286",
+  "institution": "HKU",
+  "name": "Bachelor of Arts in Humanities and Digital Technologies",
+  "faculty": "Faculty of Arts",
+  "degree_type": "BA(HDT)",
+  "formula_2027": "2 x Eng + Best 4 Subjects with WEIGHTING 1",
+  "subject_weights_2027": {
+   "Chinese Language": 1.5
+  },
+  "subject_weight_text": "<p><strong><sup>1</sup>Subject Weighting(s)</strong></p>\r\n\r\n<table cellpadding=\"1\" cellspacing=\"1\" class=\"table-style-2\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<th scope=\"row\">X 1.5</th>\r\n\t\t\t<td>Chinese Language</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n\r\n<p>&nbsp;</p>\r\n",
+  "min_requirements_2027": {
+   "req_eng": "English Language",
+   "req_chin": "Chinese Language",
+   "req_math": "Mathematics",
+   "req_csd": "Liberal Studies / Citizenship and Social Development",
+   "req_e1": "Elective Subject 1",
+   "req_e2": "Elective Subject 2"
+  },
+  "scores_2026": {
+   "uq": 38.0,
+   "median": 34.0,
+   "lq": 32.0
+  },
+  "formula_2026": "a 2 x Eng + Best 4 Subjects with WEIGHTING 1",
+  "source": "HKU 2027 JUPAS Admissions PDF + admissions.hku.hk API"
+ },
+ {
+  "jupas_code": "JS6298",
+  "institution": "HKU",
+  "name": "Bachelor of Arts and Bachelor of Engineering in Artificial Intelligence and Data Science",
+  "faculty": "Faculty of Arts",
+  "degree_type": "BA&BEng(AI&DataSc)",
+  "formula_2027": "Eng + Math + Best 3 Subjects",
+  "subject_weights_2027": {},
+  "subject_weight_text": "",
+  "min_requirements_2027": {
+   "req_eng": "English Language",
+   "req_chin": "Chinese Language",
+   "req_math": "Mathematics",
+   "req_csd": "Liberal Studies / Citizenship and Social Development",
+   "req_e1": "Elective Subject 1",
+   "req_e2": "Elective Subject 2"
+  },
+  "scores_2026": {
+   "uq": 47.0,
+   "median": 45.0,
+   "lq": 44.0
+  },
+  "formula_2026": "2 x Eng + 1.5 x Math + Best 2 Subjects with WEIGHTING 2 + Best Subject",
+  "source": "HKU 2027 JUPAS Admissions PDF + admissions.hku.hk API"
+ },
+ {
+  "jupas_code": "JS6303",
+  "institution": "HKU",
+  "name": "Bachelor of Engineering Elite Programme",
+  "faculty": "Faculty of Engineering",
+  "degree_type": "BEng(Elite)",
+  "formula_2027": "Eng + Math + Best 3 Subjects",
+  "subject_weights_2027": {},
+  "subject_weight_text": "",
+  "min_requirements_2027": {
+   "req_eng": "English Language",
+   "req_chin": "Chinese Language",
+   "req_math": "Mathematics",
+   "req_csd": "Liberal Studies / Citizenship and Social Development",
+   "req_e1": "Elective Subject 1",
+   "req_e2": "Elective Subject 2"
+  },
+  "scores_2026": {
+   "uq": 41.0,
+   "median": 40.0,
+   "lq": 38.0
+  },
+  "formula_2026": "c Eng + Math + Best 3 Subjects",
+  "source": "HKU 2027 JUPAS Admissions PDF + admissions.hku.hk API"
+ },
+ {
+  "jupas_code": "JS6315",
+  "institution": "HKU",
+  "name": "Bachelor of Engineering in Data and Systems Engineering",
+  "faculty": "Faculty of Engineering",
+  "degree_type": "BEng(DASE)",
+  "formula_2027": "Eng + Math + Best 3 Subjects",
+  "subject_weights_2027": {},
+  "subject_weight_text": "",
+  "min_requirements_2027": {
+   "req_eng": "English Language",
+   "req_chin": "Chinese Language",
+   "req_math": "Mathematics",
+   "req_csd": "Liberal Studies / Citizenship and Social Development",
+   "req_e1": "Elective Subject 1",
+   "req_e2": "Elective Subject 2"
+  },
+  "scores_2026": {
+   "uq": 31.0,
+   "median": 31.0,
+   "lq": 31.0
+  },
+  "formula_2026": "c Eng + Math + Best 3 Subjects",
+  "source": "HKU 2027 JUPAS Admissions PDF + admissions.hku.hk API"
+ },
+ {
+  "jupas_code": "JS6339",
+  "institution": "HKU",
+  "name": "Bachelor of Engineering in Mechanical Engineering",
+  "faculty": "Faculty of Engineering",
+  "degree_type": "BEng(ME)",
+  "formula_2027": "Eng + Math + Best 3 Subjects",
+  "subject_weights_2027": {},
+  "subject_weight_text": "",
+  "min_requirements_2027": {
+   "req_eng": "English Language",
+   "req_chin": "Chinese Language",
+   "req_math": "Mathematics",
+   "req_csd": "Liberal Studies / Citizenship and Social Development",
+   "req_e1": "Elective Subject 1",
+   "req_e2": "Elective Subject 2"
+  },
+  "scores_2026": {
+   "uq": 32.0,
+   "median": 31.0,
+   "lq": 29.0
+  },
+  "formula_2026": "c Eng + Math + Best 3 Subjects",
+  "source": "HKU 2027 JUPAS Admissions PDF + admissions.hku.hk API"
+ },
+ {
+  "jupas_code": "JS6353",
+  "institution": "HKU",
+  "name": "Bachelor of Engineering in Civil Engineering",
+  "faculty": "Faculty of Engineering",
+  "degree_type": "BEng(CivE)",
+  "formula_2027": "Eng + Math + Best 3 Subjects",
+  "subject_weights_2027": {},
+  "subject_weight_text": "",
+  "min_requirements_2027": {
+   "req_eng": "English Language",
+   "req_chin": "Chinese Language",
+   "req_math": "Mathematics",
+   "req_csd": "Liberal Studies / Citizenship and Social Development",
+   "req_e1": "Elective Subject 1",
+   "req_e2": "Elective Subject 2"
+  },
+  "scores_2026": {
+   "uq": 32.0,
+   "median": 29.0,
+   "lq": 28.0
+  },
+  "formula_2026": "c Eng + Math + Best 3 Subjects",
+  "source": "HKU 2027 JUPAS Admissions PDF + admissions.hku.hk API"
+ },
+ {
+  "jupas_code": "JS6365",
+  "institution": "HKU",
+  "name": "Bachelor of Engineering in Robotics Engineering*",
+  "faculty": "Faculty of Engineering",
+  "degree_type": "BEng(Robo)",
+  "formula_2027": "Eng + Math + Best 3 Subjects",
+  "subject_weights_2027": {},
+  "subject_weight_text": "",
+  "min_requirements_2027": {
+   "req_eng": "English Language",
+   "req_chin": "Chinese Language",
+   "req_math": "Mathematics",
+   "req_csd": "Liberal Studies / Citizenship and Social Development",
+   "req_e1": "Elective Subject 1",
+   "req_e2": "Elective Subject 2"
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": null,
+   "lq": null
+  },
+  "formula_2026": "–",
+  "source": "HKU 2027 JUPAS Admissions PDF + admissions.hku.hk API"
+ },
+ {
+  "jupas_code": "JS6377",
+  "institution": "HKU",
+  "name": "Bachelor of Engineering and Master of Science in Engineering in Artificial Intelligence in Engineering",
+  "faculty": "Faculty of Engineering",
+  "degree_type": "BEng X + MScEng AIE",
+  "formula_2027": "Eng + Math + Best 3 Subjects",
+  "subject_weights_2027": {},
+  "subject_weight_text": "",
+  "min_requirements_2027": {
+   "req_eng": "English Language",
+   "req_chin": "Chinese Language",
+   "req_math": "Mathematics",
+   "req_csd": "Liberal Studies / Citizenship and Social Development",
+   "req_e1": "Elective Subject 1",
+   "req_e2": "Elective Subject 2"
+  },
+  "scores_2026": {
+   "uq": 35.0,
+   "median": 35.0,
+   "lq": 34.0
+  },
+  "formula_2026": "c Eng + Math + Best 3 Subjects",
+  "source": "HKU 2027 JUPAS Admissions PDF + admissions.hku.hk API"
+ },
+ {
+  "jupas_code": "JS6406",
+  "institution": "HKU",
+  "name": "Bachelor of Laws",
+  "faculty": "Faculty of Law",
+  "degree_type": "LLB",
+  "formula_2027": "Eng + Best 5 Subjects",
+  "subject_weights_2027": {},
+  "subject_weight_text": "",
+  "min_requirements_2027": {
+   "req_eng": "English Language",
+   "req_chin": "Chinese Language",
+   "req_math": "Mathematics",
+   "req_csd": "Liberal Studies / Citizenship and Social Development",
+   "req_e1": "Elective Subject 1",
+   "req_e2": "Elective Subject 2"
+  },
+  "scores_2026": {
+   "uq": 36.0,
+   "median": 35.0,
+   "lq": 35.0
+  },
+  "formula_2026": "Eng + Best 5 Subjects",
+  "source": "HKU 2027 JUPAS Admissions PDF + admissions.hku.hk API"
+ },
+ {
+  "jupas_code": "JS6418",
+  "institution": "HKU",
+  "name": "Bachelor of Nursing Advanced Leadership Track",
+  "faculty": "Li Ka Shing Faculty of Medicine",
+  "degree_type": "BNurs-ALT",
+  "formula_2027": "Best 5 Subjects + 0.5 x 6th Best a Subject",
+  "subject_weights_2027": {},
+  "subject_weight_text": "",
+  "min_requirements_2027": {
+   "req_eng": "English Language",
+   "req_chin": "Chinese Language",
+   "req_math": "Mathematics",
+   "req_csd": "Liberal Studies / Citizenship and Social Development",
+   "req_e1": "Elective Subject 1",
+   "req_e2": "Elective Subject 2"
+  },
+  "scores_2026": {
+   "uq": 38.0,
+   "median": 37.0,
+   "lq": 36.0
+  },
+  "formula_2026": "a Best 5 Subjects + 0.5 x 6th Best a Subject",
+  "source": "HKU 2027 JUPAS Admissions PDF + admissions.hku.hk API"
+ },
+ {
+  "jupas_code": "JS6456",
+  "institution": "HKU",
+  "name": "Bachelor of Medicine and Bachelor of Surgery",
+  "faculty": "Li Ka Shing Faculty of Medicine",
+  "degree_type": "MBBS",
+  "formula_2027": "Best 6 Subjects",
+  "subject_weights_2027": {},
+  "subject_weight_text": "",
+  "min_requirements_2027": {
+   "req_eng": "English Language",
+   "req_chin": "Chinese Language",
+   "req_math": "Mathematics",
+   "req_csd": "Liberal Studies / Citizenship and Social Development",
+   "req_e1": "Elective Subject 1",
+   "req_e2": "Elective Subject 2"
+  },
+  "scores_2026": {
+   "uq": 45.0,
+   "median": 45.0,
+   "lq": 44.0
+  },
+  "formula_2026": "Best 6 Subjects",
+  "source": "HKU 2027 JUPAS Admissions PDF + admissions.hku.hk API"
+ },
+ {
+  "jupas_code": "JS6468",
+  "institution": "HKU",
+  "name": "Bachelor of Nursing",
+  "faculty": "Li Ka Shing Faculty of Medicine",
+  "degree_type": "BNurs",
+  "formula_2027": "Best 5 Subjects + 0.5 x 6th Best a Subject",
+  "subject_weights_2027": {},
+  "subject_weight_text": "",
+  "min_requirements_2027": {
+   "req_eng": "English Language",
+   "req_chin": "Chinese Language",
+   "req_math": "Mathematics",
+   "req_csd": "Liberal Studies / Citizenship and Social Development",
+   "req_e1": "Elective Subject 1",
+   "req_e2": "Elective Subject 2"
+  },
+  "scores_2026": {
+   "uq": 28.0,
+   "median": 28.0,
+   "lq": 26.0
+  },
+  "formula_2026": "a Best 5 Subjects + 0.5 x 6th Best a Subject",
+  "source": "HKU 2027 JUPAS Admissions PDF + admissions.hku.hk API"
+ },
+ {
+  "jupas_code": "JS6482",
+  "institution": "HKU",
+  "name": "Bachelor of Chinese Medicine",
+  "faculty": "Li Ka Shing Faculty of Medicine",
+  "degree_type": "BChinMed",
+  "formula_2027": "Best 5 Subjects + 0.5 x 6th Best a Subject",
+  "subject_weights_2027": {},
+  "subject_weight_text": "",
+  "min_requirements_2027": {
+   "req_eng": "English Language",
+   "req_chin": "Chinese Language",
+   "req_math": "Mathematics",
+   "req_csd": "Liberal Studies / Citizenship and Social Development",
+   "req_e1": "Elective Subject 1",
+   "req_e2": "Elective Subject 2"
+  },
+  "scores_2026": {
+   "uq": 35.0,
+   "median": 34.0,
+   "lq": 33.0
+  },
+  "formula_2026": "a Best 5 Subjects + 0.5 x 6th Best a Subject",
+  "source": "HKU 2027 JUPAS Admissions PDF + admissions.hku.hk API"
+ },
+ {
+  "jupas_code": "JS6494",
+  "institution": "HKU",
+  "name": "Bachelor of Pharmacy",
+  "faculty": "Li Ka Shing Faculty of Medicine",
+  "degree_type": "BPharm",
+  "formula_2027": "Best 6 Subjects",
+  "subject_weights_2027": {},
+  "subject_weight_text": "",
+  "min_requirements_2027": {
+   "req_eng": "English Language",
+   "req_chin": "Chinese Language",
+   "req_math": "Mathematics",
+   "req_csd": "Liberal Studies / Citizenship and Social Development",
+   "req_e1": "Elective Subject 1",
+   "req_e2": "Elective Subject 2"
+  },
+  "scores_2026": {
+   "uq": 41.0,
+   "median": 41.0,
+   "lq": 41.0
+  },
+  "formula_2026": "Best 6 Subjects",
+  "source": "HKU 2027 JUPAS Admissions PDF + admissions.hku.hk API"
+ },
+ {
+  "jupas_code": "JS6602",
+  "institution": "HKU",
+  "name": "Bachelor of Science in Innovation and Technology",
+  "faculty": "School of Innovation",
+  "degree_type": "BSc(I&T)",
+  "formula_2027": "2 x Eng + 2 x Math + Best 3 Subjects with WEIGHTING 8",
+  "subject_weights_2027": {
+   "Biology": 2.0,
+   "Chemistry": 2.0,
+   "Combined Science": 2.0,
+   "Design and Applied Technology": 2.0,
+   "Information and Communication Technology": 2.0,
+   "Integrated Science": 2.0,
+   "Mathematics Extended Part (Module 1 or 2)": 2.0,
+   "Physics": 2.0,
+   "Technology and Living": 2.0,
+   "Other Subjects": 1.5
+  },
+  "subject_weight_text": "<p><strong><sup>1</sup>Subject Weighting(s)</strong></p>\r\n\r\n<table cellpadding=\"1\" cellspacing=\"1\" class=\"table-style-2\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<th scope=\"row\">X 2</th>\r\n\t\t\t<td>Biology / Chemistry / Combined Science / Design and Applied Technology / Information and Communication Technology /&nbsp;Integrated Science / Mathematics Extended Part (Module 1 or 2)&nbsp;/ Physics&nbsp;/&nbsp;Technology and Living</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n\r\n<table cellpadding=\"1\" cellspacing=\"1\" class=\"table-style-2\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<th scope=\"row\">X 1.5</th>\r\n\t\t\t<td>Other Subjects</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n",
+  "min_requirements_2027": {
+   "req_eng": "English Language",
+   "req_chin": "Chinese Language",
+   "req_math": "Mathematics",
+   "req_csd": "Liberal Studies / Citizenship and Social Development",
+   "req_e1": "Elective Subject 1",
+   "req_e2": "Elective Subject 2"
+  },
+  "scores_2026": {
+   "uq": 55.0,
+   "median": 53.0,
+   "lq": 52.0
+  },
+  "formula_2026": "2 x Eng + 2 x Math + Best 3 Subjects with WEIGHTING 8",
+  "source": "HKU 2027 JUPAS Admissions PDF + admissions.hku.hk API"
+ },
+ {
+  "jupas_code": "JS6626",
+  "institution": "HKU",
+  "name": "Bachelor of Medicine and Bachelor of Surgery (Distinguished MedScholar)",
+  "faculty": "Li Ka Shing Faculty of Medicine",
+  "degree_type": "MBBS(DMS)",
+  "formula_2027": "Best 6 Subjects",
+  "subject_weights_2027": {},
+  "subject_weight_text": "",
+  "min_requirements_2027": {
+   "req_eng": "English Language",
+   "req_chin": "Chinese Language",
+   "req_math": "Mathematics",
+   "req_csd": "Liberal Studies / Citizenship and Social Development",
+   "req_e1": "Elective Subject 1",
+   "req_e2": "Elective Subject 2"
+  },
+  "scores_2026": {
+   "uq": 51.0,
+   "median": 50.0,
+   "lq": 48.0
+  },
+  "formula_2026": "Best 6 Subjects",
+  "source": "HKU 2027 JUPAS Admissions PDF + admissions.hku.hk API"
+ },
+ {
+  "jupas_code": "JS6688",
+  "institution": "HKU",
+  "name": "Science Master Class",
+  "faculty": "Faculty of Science",
+  "degree_type": "SMC",
+  "formula_2027": "Eng + 1.3 x Math + 1.3 x Best 2 from Biology / Chemistry / M1 / M2 / Physics + Best Remaining Subject with WEIGHTING 5",
+  "subject_weights_2027": {
+   "Biology": 1.3,
+   "Chemistry": 1.3,
+   "Mathematics Extended Part (Module 1 or 2)": 1.3,
+   "Physics": 1.3
+  },
+  "subject_weight_text": "<p><strong><sup>1</sup>Subject Weighting(s)</strong></p>\r\n\r\n<table cellpadding=\"1\" cellspacing=\"1\" class=\"table-style-2\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<th scope=\"row\">X 1.3</th>\r\n\t\t\t<td>Biology / Chemistry /&nbsp;Mathematics Extended Part (Module 1 or 2) /&nbsp;Physics</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n\r\n<p>&nbsp;</p>\r\n",
+  "min_requirements_2027": {
+   "req_eng": "English Language",
+   "req_chin": "Chinese Language",
+   "req_math": "Mathematics",
+   "req_csd": "Liberal Studies / Citizenship and Social Development",
+   "req_e1": "Elective Subject 1",
+   "req_e2": "Elective Subject 2"
+  },
+  "scores_2026": {
+   "uq": 46.0,
+   "median": 43.0,
+   "lq": 42.0
+  },
+  "formula_2026": "Eng + 1.3 x Math + 1.3 x Best 2 from Biology / Chemistry / M1 / M2 / Physics + Best Remaining Subject with WEIGHTING 5",
+  "source": "HKU 2027 JUPAS Admissions PDF + admissions.hku.hk API"
+ },
+ {
+  "jupas_code": "JS6705",
+  "institution": "HKU",
+  "name": "Bachelor of Psychology",
+  "faculty": "Faculty of Social Sciences",
+  "degree_type": "BPsych",
+  "formula_2027": "Best 5 Subjects",
+  "subject_weights_2027": {},
+  "subject_weight_text": "",
+  "min_requirements_2027": {
+   "req_eng": "English Language",
+   "req_chin": "Chinese Language",
+   "req_math": "Mathematics",
+   "req_csd": "Liberal Studies / Citizenship and Social Development",
+   "req_e1": "Elective Subject 1",
+   "req_e2": "Elective Subject 2"
+  },
+  "scores_2026": {
+   "uq": 31.0,
+   "median": 31.0,
+   "lq": 29.0
+  },
+  "formula_2026": "a Best 5 Subjects",
+  "source": "HKU 2027 JUPAS Admissions PDF + admissions.hku.hk API"
+ },
+ {
+  "jupas_code": "JS6717",
+  "institution": "HKU",
+  "name": "Bachelor of Social Sciences",
+  "faculty": "Faculty of Social Sciences",
+  "degree_type": "BSocSc",
+  "formula_2027": "Best 5 Subjects",
+  "subject_weights_2027": {},
+  "subject_weight_text": "",
+  "min_requirements_2027": {
+   "req_eng": "English Language",
+   "req_chin": "Chinese Language",
+   "req_math": "Mathematics",
+   "req_csd": "Liberal Studies / Citizenship and Social Development",
+   "req_e1": "Elective Subject 1",
+   "req_e2": "Elective Subject 2"
+  },
+  "scores_2026": {
+   "uq": 31.0,
+   "median": 29.0,
+   "lq": 28.0
+  },
+  "formula_2026": "a Best 5 Subjects",
+  "source": "HKU 2027 JUPAS Admissions PDF + admissions.hku.hk API"
+ },
+ {
+  "jupas_code": "JS6729",
+  "institution": "HKU",
+  "name": "Bachelor of Science in Actuarial Science",
+  "faculty": "School of Computing and Data Science",
+  "degree_type": "BSc(ActuarSc)",
+  "formula_2027": "1.2 x Eng + 1.2 x Math + 1.2 x M1 / M2 + Best 2 Subjects",
+  "subject_weights_2027": {},
+  "subject_weight_text": "",
+  "min_requirements_2027": {
+   "req_eng": "English Language",
+   "req_chin": "Chinese Language",
+   "req_math": "Mathematics",
+   "req_csd": "Liberal Studies / Citizenship and Social Development",
+   "req_e1": "Elective Subject 1",
+   "req_e2": "Elective Subject 2"
+  },
+  "scores_2026": {
+   "uq": 38.0,
+   "median": 36.0,
+   "lq": 36.0
+  },
+  "formula_2026": "1.2 x Eng + 1.2 x Math + 1.2 x M1 / M2 + Best 2 Subjects",
+  "source": "HKU 2027 JUPAS Admissions PDF + admissions.hku.hk API"
+ },
+ {
+  "jupas_code": "JS6731",
+  "institution": "HKU",
+  "name": "Bachelor of Social Work",
+  "faculty": "Faculty of Social Sciences",
+  "degree_type": "BSW",
+  "formula_2027": "Best 5 Subjects",
+  "subject_weights_2027": {},
+  "subject_weight_text": "",
+  "min_requirements_2027": {
+   "req_eng": "English Language",
+   "req_chin": "Chinese Language",
+   "req_math": "Mathematics",
+   "req_csd": "Liberal Studies / Citizenship and Social Development",
+   "req_e1": "Elective Subject 1",
+   "req_e2": "Elective Subject 2"
+  },
+  "scores_2026": {
+   "uq": 28.0,
+   "median": 27.0,
+   "lq": 26.0
+  },
+  "formula_2026": "a Best 5 Subjects",
+  "source": "HKU 2027 JUPAS Admissions PDF + admissions.hku.hk API"
+ },
+ {
+  "jupas_code": "JS6755",
+  "institution": "HKU",
+  "name": "Bachelor of Business Administration",
+  "faculty": "HKU Business School",
+  "degree_type": "BBA",
+  "formula_2027": "1.5 x Eng + 1.5 x Math + Best 3 Subjects + 0.2 x 6th Best Subject",
+  "subject_weights_2027": {},
+  "subject_weight_text": "",
+  "min_requirements_2027": {
+   "req_eng": "English Language",
+   "req_chin": "Chinese Language",
+   "req_math": "Mathematics",
+   "req_csd": "Liberal Studies / Citizenship and Social Development",
+   "req_e1": "Elective Subject 1",
+   "req_e2": "Elective Subject 2"
+  },
+  "scores_2026": {
+   "uq": 38.0,
+   "median": 38.0,
+   "lq": 37.0
+  },
+  "formula_2026": "1.5 x Eng + 1.5 x Math + Best 3 Subjects + 0.2 x 6th Best Subject",
+  "source": "HKU 2027 JUPAS Admissions PDF + admissions.hku.hk API"
+ },
+ {
+  "jupas_code": "JS6767",
+  "institution": "HKU",
+  "name": "Bachelor of Economics/ Bachelor of Economics and Finance",
+  "faculty": "HKU Business School",
+  "degree_type": "BEcon/BEcon&Fin",
+  "formula_2027": "1.5 x Eng + 1.5 x Math + Best 3 Subjects + 0.2 x 6th Best Subject",
+  "subject_weights_2027": {},
+  "subject_weight_text": "",
+  "min_requirements_2027": {
+   "req_eng": "English Language",
+   "req_chin": "Chinese Language",
+   "req_math": "Mathematics",
+   "req_csd": "Liberal Studies / Citizenship and Social Development",
+   "req_e1": "Elective Subject 1",
+   "req_e2": "Elective Subject 2"
+  },
+  "scores_2026": {
+   "uq": 42.0,
+   "median": 41.0,
+   "lq": 40.0
+  },
+  "formula_2026": "1.5 x Eng + 1.5 x Math + Best 3 Subjects + 0.2 x 6th Best Subject",
+  "source": "HKU 2027 JUPAS Admissions PDF + admissions.hku.hk API"
+ },
+ {
+  "jupas_code": "JS6779",
+  "institution": "HKU",
+  "name": "Statistical Decision Sciences",
+  "faculty": "School of Computing and Data Science",
+  "degree_type": "SDS",
+  "formula_2027": "1.5 x Math + Best 4 Subjects",
+  "subject_weights_2027": {},
+  "subject_weight_text": "",
+  "min_requirements_2027": {
+   "req_eng": "English Language",
+   "req_chin": "Chinese Language",
+   "req_math": "Mathematics",
+   "req_csd": "Liberal Studies / Citizenship and Social Development",
+   "req_e1": "Elective Subject 1",
+   "req_e2": "Elective Subject 2"
+  },
+  "scores_2026": {
+   "uq": 37.0,
+   "median": 36.0,
+   "lq": 36.0
+  },
+  "formula_2026": "1.5 x Math + Best 4 Subjects",
+  "source": "HKU 2027 JUPAS Admissions PDF + admissions.hku.hk API"
+ },
+ {
+  "jupas_code": "JS6781",
+  "institution": "HKU",
+  "name": "Bachelor of Business Administration in Accounting and Finance / Bachelor of Business Administration in Accounting Data Analytics",
+  "faculty": "HKU Business School",
+  "degree_type": "BBA(Acc&Fin)/BBA(ADA)",
+  "formula_2027": "1.5 x Eng + 1.5 x Math + Best 3 Subjects + 0.2 x 6th Best Subject",
+  "subject_weights_2027": {},
+  "subject_weight_text": "",
+  "min_requirements_2027": {
+   "req_eng": "English Language",
+   "req_chin": "Chinese Language",
+   "req_math": "Mathematics",
+   "req_csd": "Liberal Studies / Citizenship and Social Development",
+   "req_e1": "Elective Subject 1",
+   "req_e2": "Elective Subject 2"
+  },
+  "scores_2026": {
+   "uq": 38.0,
+   "median": 37.0,
+   "lq": 36.0
+  },
+  "formula_2026": "1.5 x Eng + 1.5 x Math + Best 3 Subjects + 0.2 x 6th Best Subject",
+  "source": "HKU 2027 JUPAS Admissions PDF + admissions.hku.hk API"
+ },
+ {
+  "jupas_code": "JS6793",
+  "institution": "HKU",
+  "name": "Bachelor of Business Administration (Business Analytics)",
+  "faculty": "HKU Business School",
+  "degree_type": "BBA(BA)",
+  "formula_2027": "1.5 x Eng + 1.5 x Math + Best 3 Subjects + 0.2 x 6th Best Subject",
+  "subject_weights_2027": {},
+  "subject_weight_text": "",
+  "min_requirements_2027": {
+   "req_eng": "English Language",
+   "req_chin": "Chinese Language",
+   "req_math": "Mathematics",
+   "req_csd": "Liberal Studies / Citizenship and Social Development",
+   "req_e1": "Elective Subject 1",
+   "req_e2": "Elective Subject 2"
+  },
+  "scores_2026": {
+   "uq": 37.0,
+   "median": 35.0,
+   "lq": 35.0
+  },
+  "formula_2026": "1.5 x Eng + 1.5 x Math + Best 3 Subjects + 0.2 x 6th Best Subject",
+  "source": "HKU 2027 JUPAS Admissions PDF + admissions.hku.hk API"
+ },
+ {
+  "jupas_code": "JS6808",
+  "institution": "HKU",
+  "name": "Bachelor of Business Administration (Law) and Bachelor of Laws",
+  "faculty": "HKU Business School",
+  "degree_type": "BBA(Law)&LLB",
+  "formula_2027": "1.5 x Eng + 1.5 x Math + Best 4 Subjects + 0.2 x 7th Best Subject",
+  "subject_weights_2027": {},
+  "subject_weight_text": "",
+  "min_requirements_2027": {
+   "req_eng": "English Language",
+   "req_chin": "Chinese Language",
+   "req_math": "Mathematics",
+   "req_csd": "Liberal Studies / Citizenship and Social Development",
+   "req_e1": "Elective Subject 1",
+   "req_e2": "Elective Subject 2"
+  },
+  "scores_2026": {
+   "uq": 48.0,
+   "median": 47.0,
+   "lq": 45.0
+  },
+  "formula_2026": "1.5 x Eng + 1.5 x Math + Best 4 Subjects + 0.2 x 7th Best Subject",
+  "source": "HKU 2027 JUPAS Admissions PDF + admissions.hku.hk API"
+ },
+ {
+  "jupas_code": "JS6810",
+  "institution": "HKU",
+  "name": "Bachelor of Social Sciences (Government and Laws) and Bachelor of Laws",
+  "faculty": "Faculty of Social Sciences",
+  "degree_type": "BSocSc(Govt&Laws)&LLB",
+  "formula_2027": "Best 6 Subjects",
+  "subject_weights_2027": {},
+  "subject_weight_text": "",
+  "min_requirements_2027": {
+   "req_eng": "English Language",
+   "req_chin": "Chinese Language",
+   "req_math": "Mathematics",
+   "req_csd": "Liberal Studies / Citizenship and Social Development",
+   "req_e1": "Elective Subject 1",
+   "req_e2": "Elective Subject 2"
+  },
+  "scores_2026": {
+   "uq": 39.0,
+   "median": 38.0,
+   "lq": 36.0
+  },
+  "formula_2026": "Best 6 Subjects",
+  "source": "HKU 2027 JUPAS Admissions PDF + admissions.hku.hk API"
+ },
+ {
+  "jupas_code": "JS6822",
+  "institution": "HKU",
+  "name": "Bachelor of Journalism, Media and Artificial Intelligence",
+  "faculty": "School of Future Media",
+  "degree_type": "BJMAI",
+  "formula_2027": "1.5 x Eng + Best 4 Subjects",
+  "subject_weights_2027": {},
+  "subject_weight_text": "",
+  "min_requirements_2027": {
+   "req_eng": "English Language",
+   "req_chin": "Chinese Language",
+   "req_math": "Mathematics",
+   "req_csd": "Liberal Studies / Citizenship and Social Development",
+   "req_e1": "Elective Subject 1",
+   "req_e2": "Elective Subject 2"
+  },
+  "scores_2026": {
+   "uq": 36.0,
+   "median": 33.0,
+   "lq": 31.0
+  },
+  "formula_2026": "a 1.5 x Eng + Best 4 Subjects",
+  "source": "HKU 2027 JUPAS Admissions PDF + admissions.hku.hk API"
+ },
+ {
+  "jupas_code": "JS6846",
+  "institution": "HKU",
+  "name": "Bachelor of Science in Marketing Analytics and Technology",
+  "faculty": "HKU Business School",
+  "degree_type": "BSc(MAT)",
+  "formula_2027": "1.5 x Eng + 1.5 x Math + Best 3 Subjects + 0.2 x 6th Best Subject",
+  "subject_weights_2027": {},
+  "subject_weight_text": "",
+  "min_requirements_2027": {
+   "req_eng": "English Language",
+   "req_chin": "Chinese Language",
+   "req_math": "Mathematics",
+   "req_csd": "Liberal Studies / Citizenship and Social Development",
+   "req_e1": "Elective Subject 1",
+   "req_e2": "Elective Subject 2"
+  },
+  "scores_2026": {
+   "uq": 35.0,
+   "median": 35.0,
+   "lq": 35.0
+  },
+  "formula_2026": "1.5 x Eng + 1.5 x Math + Best 3 Subjects + 0.2 x 6th Best Subject",
+  "source": "HKU 2027 JUPAS Admissions PDF + admissions.hku.hk API"
+ },
+ {
+  "jupas_code": "JS6858",
+  "institution": "HKU",
+  "name": "Bachelor of Science and Bachelor of Laws",
+  "faculty": "Faculty of Science",
+  "degree_type": "BSc&LLB",
+  "formula_2027": "2 x Eng + 2 x Math / M1 / M2 + b 2 x Best Sci Subject + Best 3 Subjects",
+  "subject_weights_2027": {},
+  "subject_weight_text": "",
+  "min_requirements_2027": {
+   "req_eng": "English Language",
+   "req_chin": "Chinese Language",
+   "req_math": "Mathematics",
+   "req_csd": "Liberal Studies / Citizenship and Social Development",
+   "req_e1": "Elective Subject 1",
+   "req_e2": "Elective Subject 2"
+  },
+  "scores_2026": {
+   "uq": 59.0,
+   "median": 56.0,
+   "lq": 54.0
+  },
+  "formula_2026": "2 x Eng + 2 x Math / M1 / M2 + b 2 x Best Sci Subject + Best 3 Subjects",
+  "source": "HKU 2027 JUPAS Admissions PDF + admissions.hku.hk API"
+ },
+ {
+  "jupas_code": "JS6860",
+  "institution": "HKU",
+  "name": "Bachelor of Finance in Asset Management and Private Banking",
+  "faculty": "HKU Business School",
+  "degree_type": "BFin(AMPB)",
+  "formula_2027": "1.5 x Eng + 1.5 x Math + Best 4 Subjects + 0.2 x 7th Best Subject",
+  "subject_weights_2027": {},
+  "subject_weight_text": "",
+  "min_requirements_2027": {
+   "req_eng": "English Language",
+   "req_chin": "Chinese Language",
+   "req_math": "Mathematics",
+   "req_csd": "Liberal Studies / Citizenship and Social Development",
+   "req_e1": "Elective Subject 1",
+   "req_e2": "Elective Subject 2"
+  },
+  "scores_2026": {
+   "uq": 49.0,
+   "median": 48.0,
+   "lq": 48.0
+  },
+  "formula_2026": "1.5 x Eng + 1.5 x Math + Best 4 Subjects + 0.2 x 7th Best Subject",
+  "source": "HKU 2027 JUPAS Admissions PDF + admissions.hku.hk API"
+ },
+ {
+  "jupas_code": "JS6884",
+  "institution": "HKU",
+  "name": "Bachelor of Science in Quantitative Finance",
+  "faculty": "HKU Business School",
+  "degree_type": "BSc(QFin)",
+  "formula_2027": "1.5 x Eng + 1.25 x Math + 1.25 x M1 / M2 + Best 3 Subjects + 0.2 x 7th Best Subject",
+  "subject_weights_2027": {},
+  "subject_weight_text": "",
+  "min_requirements_2027": {
+   "req_eng": "English Language",
+   "req_chin": "Chinese Language",
+   "req_math": "Mathematics",
+   "req_csd": "Liberal Studies / Citizenship and Social Development",
+   "req_e1": "Elective Subject 1",
+   "req_e2": "Elective Subject 2"
+  },
+  "scores_2026": {
+   "uq": 52.0,
+   "median": 51.0,
+   "lq": 50.0
+  },
+  "formula_2026": "1.5 x Eng + 1.25 x Math + 1.25 x M1 / M2 + Best 3 Subjects + 0.2 x 7th Best Subject",
+  "source": "HKU 2027 JUPAS Admissions PDF + admissions.hku.hk API"
+ },
+ {
+  "jupas_code": "JS6896",
+  "institution": "HKU",
+  "name": "Bachelor of Business Administration in International Business and Global Management",
+  "faculty": "HKU Business School",
+  "degree_type": "BBA(IBGM)",
+  "formula_2027": "1.5 x Eng + 1.5 x Math + Best 4 Subjects + 0.2 x 7th Best Subject",
+  "subject_weights_2027": {},
+  "subject_weight_text": "",
+  "min_requirements_2027": {
+   "req_eng": "English Language",
+   "req_chin": "Chinese Language",
+   "req_math": "Mathematics",
+   "req_csd": "Liberal Studies / Citizenship and Social Development",
+   "req_e1": "Elective Subject 1",
+   "req_e2": "Elective Subject 2"
+  },
+  "scores_2026": {
+   "uq": 55.0,
+   "median": 54.0,
+   "lq": 53.0
+  },
+  "formula_2026": "1.5 x Eng + 1.5 x Math + Best 4 Subjects + 0.2 x 7th Best Subject",
+  "source": "HKU 2027 JUPAS Admissions PDF + admissions.hku.hk API"
+ },
+ {
+  "jupas_code": "JS6901",
+  "institution": "HKU",
+  "name": "Bachelor of Science",
+  "faculty": "Faculty of Science",
+  "degree_type": "BSc",
+  "formula_2027": "Eng + 1.5 x Math + 1.5 x Best Sci b Subject + Best 2 Subjects with WEIGHTING 6",
+  "subject_weights_2027": {
+   "Biology": 1.5,
+   "Chemistry": 1.5,
+   "Mathematics Extended Part (Module 1 or 2)": 1.5,
+   "Physics": 1.5
+  },
+  "subject_weight_text": "<p><strong><sup>1</sup>Subject Weighting(s)</strong></p>\r\n\r\n<table cellpadding=\"1\" cellspacing=\"1\" class=\"table-style-2\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<th scope=\"row\">X 1.5</th>\r\n\t\t\t<td>Biology / Chemistry&nbsp;/ Mathematics Extended Part (Module 1 or 2) /&nbsp;Physics</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n\r\n<p>&nbsp;</p>\r\n",
+  "min_requirements_2027": {
+   "req_eng": "English Language",
+   "req_chin": "Chinese Language",
+   "req_math": "Mathematics",
+   "req_csd": "Liberal Studies / Citizenship and Social Development",
+   "req_e1": "Elective Subject 1",
+   "req_e2": "Elective Subject 2"
+  },
+  "scores_2026": {
+   "uq": 42.0,
+   "median": 41.0,
+   "lq": 39.0
+  },
+  "formula_2026": "Eng + 1.5 x Math + 1.5 x Best Sci b Subject + Best 2 Subjects with WEIGHTING 6",
+  "source": "HKU 2027 JUPAS Admissions PDF + admissions.hku.hk API"
+ },
+ {
+  "jupas_code": "JS6925",
+  "institution": "HKU",
+  "name": "Bachelor of Engineering in Biomedical Engineering",
+  "faculty": "School of Biomedical Engineering",
+  "degree_type": "BEng(BME)",
+  "formula_2027": "Eng + Math + Best 3 Subjects",
+  "subject_weights_2027": {},
+  "subject_weight_text": "",
+  "min_requirements_2027": {
+   "req_eng": "English Language",
+   "req_chin": "Chinese Language",
+   "req_math": "Mathematics",
+   "req_csd": "Liberal Studies / Citizenship and Social Development",
+   "req_e1": "Elective Subject 1",
+   "req_e2": "Elective Subject 2"
+  },
+  "scores_2026": {
+   "uq": 32.0,
+   "median": 31.0,
+   "lq": 29.0
+  },
+  "formula_2026": "c Eng + Math + Best 3 Subjects",
+  "source": "HKU 2027 JUPAS Admissions PDF + admissions.hku.hk API"
+ },
+ {
+  "jupas_code": "JS6937",
+  "institution": "HKU",
+  "name": "Global Engineering and Business Programme",
+  "faculty": "Faculty of Engineering",
+  "degree_type": "GEBP",
+  "formula_2027": "Eng + Math + Best 3 Subjects",
+  "subject_weights_2027": {},
+  "subject_weight_text": "",
+  "min_requirements_2027": {
+   "req_eng": "English Language",
+   "req_chin": "Chinese Language",
+   "req_math": "Mathematics",
+   "req_csd": "Liberal Studies / Citizenship and Social Development",
+   "req_e1": "Elective Subject 1",
+   "req_e2": "Elective Subject 2"
+  },
+  "scores_2026": {
+   "uq": 34.0,
+   "median": 34.0,
+   "lq": 32.0
+  },
+  "formula_2026": "c Eng + Math + Best 3 Subjects",
+  "source": "HKU 2027 JUPAS Admissions PDF + admissions.hku.hk API"
+ },
+ {
+  "jupas_code": "JS6949",
+  "institution": "HKU",
+  "name": "Bachelor of Biomedical Sciences",
+  "faculty": "Li Ka Shing Faculty of Medicine",
+  "degree_type": "BBiomedSc",
+  "formula_2027": "Best 6 Subjects",
+  "subject_weights_2027": {},
+  "subject_weight_text": "",
+  "min_requirements_2027": {
+   "req_eng": "English Language",
+   "req_chin": "Chinese Language",
+   "req_math": "Mathematics",
+   "req_csd": "Liberal Studies / Citizenship and Social Development",
+   "req_e1": "Elective Subject 1",
+   "req_e2": "Elective Subject 2"
+  },
+  "scores_2026": {
+   "uq": 41.0,
+   "median": 39.0,
+   "lq": 38.0
+  },
+  "formula_2026": "Best 6 Subjects",
+  "source": "HKU 2027 JUPAS Admissions PDF + admissions.hku.hk API"
+ },
+ {
+  "jupas_code": "JS6987",
+  "institution": "HKU",
+  "name": "Bachelor of Engineering in Computer Engineering / Electrical Engineering / Electronic Engineering",
+  "faculty": "Faculty of Engineering",
+  "degree_type": "BEng(CE/EE/ElecE)",
+  "formula_2027": "Eng + Math + Best 3 Subjects",
+  "subject_weights_2027": {},
+  "subject_weight_text": "",
+  "min_requirements_2027": {
+   "req_eng": "English Language",
+   "req_chin": "Chinese Language",
+   "req_math": "Mathematics",
+   "req_csd": "Liberal Studies / Citizenship and Social Development",
+   "req_e1": "Elective Subject 1",
+   "req_e2": "Elective Subject 2"
+  },
+  "scores_2026": {
+   "uq": 32.0,
+   "median": 32.0,
+   "lq": 31.0
+  },
+  "formula_2026": "c Eng + Math + Best 3 Subjects",
+  "source": "HKU 2027 JUPAS Admissions PDF + admissions.hku.hk API"
+ },
+ {
+  "jupas_code": "JS6999",
+  "institution": "HKU",
+  "name": "Computing and Data Science",
+  "faculty": "School of Computing and Data Science",
+  "degree_type": "CDS",
+  "formula_2027": "Eng + Math + Best 3 Subjects",
+  "subject_weights_2027": {},
+  "subject_weight_text": "",
+  "min_requirements_2027": {
+   "req_eng": "English Language",
+   "req_chin": "Chinese Language",
+   "req_math": "Mathematics",
+   "req_csd": "Liberal Studies / Citizenship and Social Development",
+   "req_e1": "Elective Subject 1",
+   "req_e2": "Elective Subject 2"
+  },
+  "scores_2026": {
+   "uq": 34.0,
+   "median": 33.0,
+   "lq": 32.0
+  },
+  "formula_2026": "Eng + Math + Best 3 Subjects",
+  "source": "HKU 2027 JUPAS Admissions PDF + admissions.hku.hk API"
+ }
+]

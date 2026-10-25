@@ -1,0 +1,3006 @@
+[
+ {
+  "jupas_code": "JS1000",
+  "institution": "CityUHK",
+  "name": "JS1000 BSc Computational Finance and Financial Technology (Streams: Computational Finance / Financial Technology)",
+  "formula_2027": "Best 5 subjects (include English and Mathematics)",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {},
+  "best_of_weights_2027": [],
+  "calculation_constraints": [
+   {
+    "type": "compulsory_subjects",
+    "subjects": [
+     "English Language"
+    ],
+    "description": "Formula includes English Language"
+   },
+   {
+    "type": "compulsory_subjects",
+    "subjects": [
+     "Mathematics (Compulsory Part)"
+    ],
+    "description": "Formula includes Mathematics (Compulsory Part)"
+   }
+  ],
+  "min_requirements_2027": {
+   "eng": "3",
+   "chin": "3",
+   "math": "4",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": "Level 3"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": "Level 3"
+   }
+  },
+  "scores_2026": {
+   "median": 28.0,
+   "lq": 26.5,
+   "uq": null,
+   "mean": null
+  },
+  "source": "CityUHK JUPAS Admissions (2027 Entry) PDF"
+ },
+ {
+  "jupas_code": "JS1001",
+  "institution": "CityUHK",
+  "name": "JS1001 BBA Global Business (Features: 3 Exchanges/Joint Bachelor’s Degree Program with Columbia University (US)/Overseas Summer School & Study Tour/Business Consultancy Project/Scholarship and Sponsorship)",
+  "formula_2027": "Best 5 subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "English Language": 1.5
+  },
+  "best_of_weights_2027": [],
+  "calculation_constraints": [],
+  "min_requirements_2027": {
+   "eng": "3",
+   "chin": "3",
+   "math": "3",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": "Level 3"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": "Level 3"
+   }
+  },
+  "scores_2026": {
+   "median": 29.5,
+   "lq": 28.5,
+   "uq": null,
+   "mean": null
+  },
+  "source": "CityUHK JUPAS Admissions (2027 Entry) PDF"
+ },
+ {
+  "jupas_code": "JS1002",
+  "institution": "CityUHK",
+  "name": "JS1002 BBA Accountancy (Streams: Professional Accounting / ESG and Tech)",
+  "formula_2027": "Best 5 subjects (include Mathematics)",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {},
+  "best_of_weights_2027": [],
+  "calculation_constraints": [
+   {
+    "type": "compulsory_subjects",
+    "subjects": [
+     "Mathematics (Compulsory Part)"
+    ],
+    "description": "Formula includes Mathematics (Compulsory Part)"
+   }
+  ],
+  "min_requirements_2027": {
+   "eng": "3",
+   "chin": "3",
+   "math": "3",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": "Level 3"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": "Level 3"
+   }
+  },
+  "scores_2026": {
+   "median": 23.0,
+   "lq": 23.0,
+   "uq": null,
+   "mean": null
+  },
+  "source": "CityUHK JUPAS Admissions (2027 Entry) PDF"
+ },
+ {
+  "jupas_code": "JS1005",
+  "institution": "CityUHK",
+  "name": "JS1005 BBA Management (Streams: Human Resources Management / Strategy and International Management)",
+  "formula_2027": "Best 5 subjects (include English and Mathematics)",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {},
+  "best_of_weights_2027": [],
+  "calculation_constraints": [
+   {
+    "type": "compulsory_subjects",
+    "subjects": [
+     "English Language"
+    ],
+    "description": "Formula includes English Language"
+   },
+   {
+    "type": "compulsory_subjects",
+    "subjects": [
+     "Mathematics (Compulsory Part)"
+    ],
+    "description": "Formula includes Mathematics (Compulsory Part)"
+   }
+  ],
+  "min_requirements_2027": {
+   "eng": "3",
+   "chin": "3",
+   "math": "3",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": "Level 3"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": "Level 3"
+   }
+  },
+  "scores_2026": {
+   "median": 22.0,
+   "lq": 22.0,
+   "uq": null,
+   "mean": null
+  },
+  "source": "CityUHK JUPAS Admissions (2027 Entry) PDF"
+ },
+ {
+  "jupas_code": "JS1007",
+  "institution": "CityUHK",
+  "name": "JS1007 BBA Marketing (Streams: Global Marketing / Marketing Analytics)",
+  "formula_2027": "Best 5 subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "English Language": 1.5
+  },
+  "best_of_weights_2027": [],
+  "calculation_constraints": [],
+  "min_requirements_2027": {
+   "eng": "3",
+   "chin": "3",
+   "math": "3",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": "Level 3"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": "Level 3"
+   }
+  },
+  "scores_2026": {
+   "median": 25.5,
+   "lq": 25.0,
+   "uq": null,
+   "mean": null
+  },
+  "source": "CityUHK JUPAS Admissions (2027 Entry) PDF"
+ },
+ {
+  "jupas_code": "JS1012",
+  "institution": "CityUHK",
+  "name": "JS1012 Economics and Finance (Majors: BBA Business Economics / BBA Finance)",
+  "formula_2027": "Best 5 subjects (include Mathematics)",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {},
+  "best_of_weights_2027": [],
+  "calculation_constraints": [
+   {
+    "type": "compulsory_subjects",
+    "subjects": [
+     "Mathematics (Compulsory Part)"
+    ],
+    "description": "Formula includes Mathematics (Compulsory Part)"
+   }
+  ],
+  "min_requirements_2027": {
+   "eng": "3",
+   "chin": "3",
+   "math": "3",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": "Level 3"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": "Level 3"
+   }
+  },
+  "scores_2026": {
+   "median": 24.5,
+   "lq": 24.5,
+   "uq": null,
+   "mean": null
+  },
+  "source": "CityUHK JUPAS Admissions (2027 Entry) PDF"
+ },
+ {
+  "jupas_code": "JS1013",
+  "institution": "CityUHK",
+  "name": "JS1013 BBA Business Economics (Features: Economic Theory / International Economics / Economic and Business Forecasting / Quantitative Analysis)",
+  "formula_2027": "Best 5 subjects (include Mathematics)",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {},
+  "best_of_weights_2027": [],
+  "calculation_constraints": [
+   {
+    "type": "compulsory_subjects",
+    "subjects": [
+     "Mathematics (Compulsory Part)"
+    ],
+    "description": "Formula includes Mathematics (Compulsory Part)"
+   }
+  ],
+  "min_requirements_2027": {
+   "eng": "3",
+   "chin": "3",
+   "math": "3",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": "Level 3"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": "Level 3"
+   }
+  },
+  "scores_2026": {
+   "median": 23.5,
+   "lq": 23.0,
+   "uq": null,
+   "mean": null
+  },
+  "source": "CityUHK JUPAS Admissions (2027 Entry) PDF"
+ },
+ {
+  "jupas_code": "JS1014",
+  "institution": "CityUHK",
+  "name": "JS1014 BBA Finance (Features: Investment Analysis / Financial Markets / Corporate Finance / Risk Management / Trading Room Workshop)",
+  "formula_2027": "Best 5 subjects (include Mathematics)",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {},
+  "best_of_weights_2027": [],
+  "calculation_constraints": [
+   {
+    "type": "compulsory_subjects",
+    "subjects": [
+     "Mathematics (Compulsory Part)"
+    ],
+    "description": "Formula includes Mathematics (Compulsory Part)"
+   }
+  ],
+  "min_requirements_2027": {
+   "eng": "3",
+   "chin": "3",
+   "math": "3",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": "Level 3"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": "Level 3"
+   }
+  },
+  "scores_2026": {
+   "median": 23.5,
+   "lq": 23.0,
+   "uq": null,
+   "mean": null
+  },
+  "source": "CityUHK JUPAS Admissions (2027 Entry) PDF"
+ },
+ {
+  "jupas_code": "JS1017",
+  "institution": "CityUHK",
+  "name": "JS1017 Intelligent Information Systems [Majors: BBA Global Business Systems Management / BBA Artificial Intelligence in Business]",
+  "formula_2027": "Best 5 subjects (include Mathematics)",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {},
+  "best_of_weights_2027": [],
+  "calculation_constraints": [
+   {
+    "type": "compulsory_subjects",
+    "subjects": [
+     "Mathematics (Compulsory Part)"
+    ],
+    "description": "Formula includes Mathematics (Compulsory Part)"
+   }
+  ],
+  "min_requirements_2027": {
+   "eng": "3",
+   "chin": "3",
+   "math": "3",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": "Level 3"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": "Level 3"
+   }
+  },
+  "scores_2026": {
+   "median": 23.0,
+   "lq": 23.0,
+   "uq": null,
+   "mean": null
+  },
+  "source": "CityUHK JUPAS Admissions (2027 Entry) PDF"
+ },
+ {
+  "jupas_code": "JS1018",
+  "institution": "CityUHK",
+  "name": "JS1018 BBA Global Business Systems Management (Features: Intelligent Technologies / Global Business / Study Exchange)",
+  "formula_2027": "Best 5 subjects (include English and Mathematics)",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {},
+  "best_of_weights_2027": [],
+  "calculation_constraints": [
+   {
+    "type": "compulsory_subjects",
+    "subjects": [
+     "English Language"
+    ],
+    "description": "Formula includes English Language"
+   },
+   {
+    "type": "compulsory_subjects",
+    "subjects": [
+     "Mathematics (Compulsory Part)"
+    ],
+    "description": "Formula includes Mathematics (Compulsory Part)"
+   }
+  ],
+  "min_requirements_2027": {
+   "eng": "3",
+   "chin": "3",
+   "math": "3",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": "Level 3"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": "Level 3"
+   }
+  },
+  "scores_2026": {
+   "median": 24.5,
+   "lq": 23.5,
+   "uq": null,
+   "mean": null
+  },
+  "source": "CityUHK JUPAS Admissions (2027 Entry) PDF"
+ },
+ {
+  "jupas_code": "JS1019",
+  "institution": "CityUHK",
+  "name": "JS1019 BBA Artificial Intelligence in Business (Streams: Business Intelligence / Information Systems Auditing / Internet Services and Social Networks / Data Informatics)",
+  "formula_2027": "Best 5 subjects (include Mathematics)",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {},
+  "best_of_weights_2027": [],
+  "calculation_constraints": [
+   {
+    "type": "compulsory_subjects",
+    "subjects": [
+     "Mathematics (Compulsory Part)"
+    ],
+    "description": "Formula includes Mathematics (Compulsory Part)"
+   }
+  ],
+  "min_requirements_2027": {
+   "eng": "3",
+   "chin": "3",
+   "math": "3",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": "Level 3"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": "Level 3"
+   }
+  },
+  "scores_2026": {
+   "median": 23.5,
+   "lq": 23.5,
+   "uq": null,
+   "mean": null
+  },
+  "source": "CityUHK JUPAS Admissions (2027 Entry) PDF"
+ },
+ {
+  "jupas_code": "JS1026",
+  "institution": "CityUHK",
+  "name": "JS1026 BBA Business Decision Analytics (Streams: Decision Analytics / Data Informatics)",
+  "formula_2027": "Best 5 subjects (include Mathematics)",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {},
+  "best_of_weights_2027": [],
+  "calculation_constraints": [
+   {
+    "type": "compulsory_subjects",
+    "subjects": [
+     "Mathematics (Compulsory Part)"
+    ],
+    "description": "Formula includes Mathematics (Compulsory Part)"
+   }
+  ],
+  "min_requirements_2027": {
+   "eng": "3",
+   "chin": "3",
+   "math": "3",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": "Level 3"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": "Level 3"
+   }
+  },
+  "scores_2026": {
+   "median": 23.0,
+   "lq": 22.5,
+   "uq": null,
+   "mean": null
+  },
+  "source": "CityUHK JUPAS Admissions (2027 Entry) PDF"
+ },
+ {
+  "jupas_code": "JS1027",
+  "institution": "CityUHK",
+  "name": "JS1027 BBA Global Operations Management (Features: Supply Chain Management / Operations Efficiency / Process Improvement / Operations Analytics / Resource Planning) COLLEGE OF COMPUTING",
+  "formula_2027": "Best 5 subjects (include Mathematics)",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {},
+  "best_of_weights_2027": [],
+  "calculation_constraints": [
+   {
+    "type": "compulsory_subjects",
+    "subjects": [
+     "Mathematics (Compulsory Part)"
+    ],
+    "description": "Formula includes Mathematics (Compulsory Part)"
+   }
+  ],
+  "min_requirements_2027": {
+   "eng": "3",
+   "chin": "3",
+   "math": "3",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": "Level 3"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": "Level 3"
+   }
+  },
+  "scores_2026": {
+   "median": 22.0,
+   "lq": 22.0,
+   "uq": null,
+   "mean": null
+  },
+  "source": "CityUHK JUPAS Admissions (2027 Entry) PDF"
+ },
+ {
+  "jupas_code": "JS1040",
+  "institution": "CityUHK",
+  "name": "JS1040 Creative Arts and Technology Excellence (CREATE) (Options: Creative Media (School-based) / BA Creative Media / BSc Creative Media / BAS New Media)",
+  "formula_2027": "Best 5 subjects (include English)",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "English Language": 1.5
+  },
+  "best_of_weights_2027": [],
+  "calculation_constraints": [
+   {
+    "type": "compulsory_subjects",
+    "subjects": [
+     "English Language"
+    ],
+    "description": "Formula includes English Language"
+   }
+  ],
+  "min_requirements_2027": {
+   "eng": null,
+   "chin": null,
+   "math": null,
+   "csd": null,
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": "Level 3 in any two elective subjects"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": ""
+   }
+  },
+  "scores_2026": {
+   "median": 25.0,
+   "lq": 24.5,
+   "uq": null,
+   "mean": null
+  },
+  "source": "CityUHK JUPAS Admissions (2027 Entry) PDF"
+ },
+ {
+  "jupas_code": "JS1041",
+  "institution": "CityUHK",
+  "name": "JS1041 Creative Media (Majors: BA Creative Media / BSc Creative Media / BAS New Media)",
+  "formula_2027": "Best 5 subjects (include English)",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "English Language": 1.5
+  },
+  "best_of_weights_2027": [],
+  "calculation_constraints": [
+   {
+    "type": "compulsory_subjects",
+    "subjects": [
+     "English Language"
+    ],
+    "description": "Formula includes English Language"
+   }
+  ],
+  "min_requirements_2027": {
+   "eng": null,
+   "chin": null,
+   "math": null,
+   "csd": null,
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": "[may include Attained with Distinction following course clusters as one subject: · Design Studies · Media Arts"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": "I or II in the ApL subjects from the"
+   }
+  },
+  "scores_2026": {
+   "median": 25.0,
+   "lq": 24.5,
+   "uq": null,
+   "mean": null
+  },
+  "source": "CityUHK JUPAS Admissions (2027 Entry) PDF"
+ },
+ {
+  "jupas_code": "JS1042",
+  "institution": "CityUHK",
+  "name": "JS1042 BA Creative Media (Features: Animation / Cinema & Photography / Critical Theory & Practices / Game & Playable Media / New Media Art / Sound Art)",
+  "formula_2027": "Best 5 subjects (include English)",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "English Language": 1.5
+  },
+  "best_of_weights_2027": [],
+  "calculation_constraints": [
+   {
+    "type": "compulsory_subjects",
+    "subjects": [
+     "English Language"
+    ],
+    "description": "Formula includes English Language"
+   }
+  ],
+  "min_requirements_2027": {
+   "eng": "3",
+   "chin": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": "· Performing Arts · Films, TV and Broadcasting Studies · Media, Production and Public · Medical Science and Health Care"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": "Relations"
+   }
+  },
+  "scores_2026": {
+   "median": 25.5,
+   "lq": 23.5,
+   "uq": null,
+   "mean": null
+  },
+  "source": "CityUHK JUPAS Admissions (2027 Entry) PDF"
+ },
+ {
+  "jupas_code": "JS1043",
+  "institution": "CityUHK",
+  "name": "JS1043 BSc Creative Media (Features: Combination of Creative Media and Computer Science Courses / Animation / Games / Installation / Interactivity)",
+  "formula_2027": "Best 5 subjects (include English and Mathematics)",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "English Language": 1.5,
+   "Mathematics (Compulsory Part)": 1.25
+  },
+  "best_of_weights_2027": [],
+  "calculation_constraints": [
+   {
+    "type": "compulsory_subjects",
+    "subjects": [
+     "English Language"
+    ],
+    "description": "Formula includes English Language"
+   },
+   {
+    "type": "compulsory_subjects",
+    "subjects": [
+     "Mathematics (Compulsory Part)"
+    ],
+    "description": "Formula includes Mathematics (Compulsory Part)"
+   }
+  ],
+  "min_requirements_2027": {
+   "eng": null,
+   "chin": null,
+   "math": null,
+   "csd": null,
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": "· Psychology · Civil, Electrical and Mechanical · Information Engineering · Services Engineering · Business Studies ('Data Application"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": "Engineering for Business' course only)]"
+   }
+  },
+  "scores_2026": {
+   "median": 25.5,
+   "lq": 25.0,
+   "uq": null,
+   "mean": null
+  },
+  "source": "CityUHK JUPAS Admissions (2027 Entry) PDF"
+ },
+ {
+  "jupas_code": "JS1044",
+  "institution": "CityUHK",
+  "name": "JS1044 BAS New Media (Features: Media Art / Robotics & AI / Art & Technology / Materials & Digital Fabrication) SCHOOL OF ENERGY AND ENVIRONMENT",
+  "formula_2027": "Best 5 subjects (include English)",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "English Language": 1.5
+  },
+  "best_of_weights_2027": [],
+  "calculation_constraints": [
+   {
+    "type": "compulsory_subjects",
+    "subjects": [
+     "English Language"
+    ],
+    "description": "Formula includes English Language"
+   }
+  ],
+  "min_requirements_2027": {
+   "eng": null,
+   "chin": null,
+   "math": null,
+   "csd": null,
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": ""
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": ""
+   }
+  },
+  "scores_2026": {
+   "median": 23.5,
+   "lq": 23.0,
+   "uq": null,
+   "mean": null
+  },
+  "source": "CityUHK JUPAS Admissions (2027 Entry) PDF"
+ },
+ {
+  "jupas_code": "JS1050",
+  "institution": "CityUHK",
+  "name": "JS1050 International Sustainability Programme for Innovation, Research & Entrepreneurship (INSPIRE) (Majors: BEng Energy Science & Engineering/BEng Environmental Science & Engineering + Features: Global Focus)",
+  "formula_2027": "3 Core Subjects + 2 Elective Subjects (including at least one elective subject in Biology, Chemistry, or",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "Biology": 1.5,
+   "Chemistry": 1.5,
+   "Geography": 1.5,
+   "Mathematics (Compulsory Part)": 1.5,
+   "Mathematics Extended Part (Module 1)": 1.5,
+   "Mathematics Extended Part (Module 2)": 1.5,
+   "Physics": 1.5,
+   "English Language": 1.25
+  },
+  "best_of_weights_2027": [],
+  "calculation_constraints": [],
+  "min_requirements_2027": {
+   "eng": "3",
+   "chin": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": "Level 3 in one elective subject from: · Biology · Chemistry · Physics"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": "Level 3 in any elective subjects"
+   }
+  },
+  "scores_2026": {
+   "median": 29.5,
+   "lq": 29.5,
+   "uq": null,
+   "mean": null
+  },
+  "source": "CityUHK JUPAS Admissions (2027 Entry) PDF"
+ },
+ {
+  "jupas_code": "JS1051",
+  "institution": "CityUHK",
+  "name": "JS1051 Energy and Environment (Majors: BEng Energy Science and Engineering / BEng Environmental Science and Engineering)",
+  "formula_2027": "Physics)",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {},
+  "best_of_weights_2027": [],
+  "calculation_constraints": [],
+  "min_requirements_2027": {
+   "eng": "3",
+   "chin": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": ""
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": ""
+   }
+  },
+  "scores_2026": {
+   "median": 30.5,
+   "lq": 29.5,
+   "uq": null,
+   "mean": null
+  },
+  "source": "CityUHK JUPAS Admissions (2027 Entry) PDF"
+ },
+ {
+  "jupas_code": "JS1052",
+  "institution": "CityUHK",
+  "name": "JS1052 BEng Environmental Science and Engineering and BBA Finance (Double Degree; Features: Environmental, Social & Governance (ESG) / Green Finance / Environmental Technology / Interdisciplinary Education)",
+  "formula_2027": "3 Core Subjects + 2 Elective Subjects (including at least one elective subject in Biology, Chemistry, or Physics)",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "Biology": 1.5,
+   "Chemistry": 1.5,
+   "Geography": 1.5,
+   "Physics": 1.5,
+   "Mathematics (Compulsory Part)": 1.5,
+   "Mathematics Extended Part (Module 1)": 1.5,
+   "Mathematics Extended Part (Module 2)": 1.5,
+   "English Language": 1.25
+  },
+  "best_of_weights_2027": [],
+  "calculation_constraints": [],
+  "min_requirements_2027": {
+   "eng": "3",
+   "chin": "3",
+   "math": "3",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": "Level 3 in one elective subject from: · Biology · Chemistry · Physics"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": "Level 3 in any elective subjects"
+   }
+  },
+  "scores_2026": {
+   "median": 30.5,
+   "lq": 29.5,
+   "uq": null,
+   "mean": null
+  },
+  "source": "CityUHK JUPAS Admissions (2027 Entry) PDF"
+ },
+ {
+  "jupas_code": "JS1053",
+  "institution": "CityUHK",
+  "name": "JS1053 BSc Environment and Sustainable Business (Features: Environmental Science / Business Sustainability / Environmental, Social & Governance (ESG)) SCHOOL OF LAW",
+  "formula_2027": "3 Core Subjects + 2 Elective Subjects (including at least one elective subject in Biology, Chemistry, or Physics)",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "Biology": 1.5,
+   "Business, Accounting and Financial Studies": 1.5,
+   "Chemistry": 1.5,
+   "Economics": 1.5,
+   "Geography": 1.5,
+   "Physics": 1.5,
+   "Mathematics (Compulsory Part)": 1.5,
+   "Mathematics Extended Part (Module 1)": 1.5,
+   "Mathematics Extended Part (Module 2)": 1.5,
+   "English Language": 1.25
+  },
+  "best_of_weights_2027": [],
+  "calculation_constraints": [],
+  "min_requirements_2027": {
+   "eng": "3",
+   "chin": "3",
+   "math": "3",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": "Level 3 in one elective subject from: · Biology · Chemistry · Physics"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": "Level 3 in any elective subjects"
+   }
+  },
+  "scores_2026": {
+   "median": 30.5,
+   "lq": 30.0,
+   "uq": null,
+   "mean": null
+  },
+  "source": "CityUHK JUPAS Admissions (2027 Entry) PDF"
+ },
+ {
+  "jupas_code": "JS1061",
+  "institution": "CityUHK",
+  "name": "JS1061 Bachelor of Laws DOUBLE DEGREE PROGRAMMES",
+  "formula_2027": "Best 5 subjects (include English)",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {},
+  "best_of_weights_2027": [],
+  "calculation_constraints": [
+   {
+    "type": "compulsory_subjects",
+    "subjects": [
+     "English Language"
+    ],
+    "description": "Formula includes English Language"
+   }
+  ],
+  "min_requirements_2027": {
+   "eng": "5",
+   "chin": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": "Level 3"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": "Level 3"
+   }
+  },
+  "scores_2026": {
+   "median": 24.5,
+   "lq": 24.5,
+   "uq": null,
+   "mean": null
+  },
+  "source": "CityUHK JUPAS Admissions (2027 Entry) PDF"
+ },
+ {
+  "jupas_code": "JS1062",
+  "institution": "CityUHK",
+  "name": "JS1062 Bachelor of Laws and BBA Accountancy (Double Degree)",
+  "formula_2027": "Best 5 subjects (include English)",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "English Language": 1.5
+  },
+  "best_of_weights_2027": [],
+  "calculation_constraints": [
+   {
+    "type": "compulsory_subjects",
+    "subjects": [
+     "English Language"
+    ],
+    "description": "Formula includes English Language"
+   }
+  ],
+  "min_requirements_2027": {
+   "eng": "5",
+   "chin": "3",
+   "math": "3",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": "Level 3"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": "Level 3"
+   }
+  },
+  "scores_2026": {
+   "median": 28.5,
+   "lq": 28.0,
+   "uq": null,
+   "mean": null
+  },
+  "source": "CityUHK JUPAS Admissions (2027 Entry) PDF"
+ },
+ {
+  "jupas_code": "JS1063",
+  "institution": "CityUHK",
+  "name": "JS1063 Bachelor of Laws and Bachelor of Science in Computer Science (Stream: Artificial Intelligence) (Double Degree)",
+  "formula_2027": "Best 5 subjects (include English)",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "Biology": 1.5,
+   "Chemistry": 1.5,
+   "English Language": 1.5,
+   "Information and Communication Technology": 1.5,
+   "Mathematics (Compulsory Part)": 1.5,
+   "Mathematics Extended Part (Module 1)": 1.5,
+   "Mathematics Extended Part (Module 2)": 1.5,
+   "Physics": 1.5
+  },
+  "best_of_weights_2027": [],
+  "calculation_constraints": [
+   {
+    "type": "compulsory_subjects",
+    "subjects": [
+     "English Language"
+    ],
+    "description": "Formula includes English Language"
+   }
+  ],
+  "min_requirements_2027": {
+   "eng": "5",
+   "chin": "3",
+   "math": "3",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": "Level 3 in one elective subject from: · Biology · Chemistry · Information and Communication Technology · M1/M2 · Physics"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": "Level 3"
+   }
+  },
+  "scores_2026": {
+   "median": null,
+   "lq": 2027.0,
+   "uq": null,
+   "mean": null
+  },
+  "source": "CityUHK JUPAS Admissions (2027 Entry) PDF"
+ },
+ {
+  "jupas_code": "JS1070",
+  "institution": "CityUHK",
+  "name": "JS1070 AI, Computing and Transformation (ACT) (Features: Free Choice of Major / One-to-One Advisor / Elite Work Placement / Executive Mentor Scheme / Premium Overseas Exchange / Internship Exchange)",
+  "formula_2027": "3 core + 2 elective subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "English Language": 1.5,
+   "Mathematics (Compulsory Part)": 1.5
+  },
+  "best_of_weights_2027": [],
+  "calculation_constraints": [
+   {
+    "type": "compulsory_subjects",
+    "subjects": [
+     "Chinese Language",
+     "English Language",
+     "Mathematics (Compulsory Part)"
+    ],
+    "description": "3 Core + 2 Elective: Chinese, English and Mathematics are compulsory"
+   }
+  ],
+  "min_requirements_2027": {
+   "eng": "3",
+   "chin": "3",
+   "math": "3",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": "Level 3"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": "Level 3"
+   }
+  },
+  "scores_2026": {
+   "median": 30.0,
+   "lq": 29.5,
+   "uq": null,
+   "mean": null
+  },
+  "source": "CityUHK JUPAS Admissions (2027 Entry) PDF"
+ },
+ {
+  "jupas_code": "JS1071",
+  "institution": "CityUHK",
+  "name": "JS1071 Data Science (Majors: BSc Data Science / BSc Data and Systems Engineering)",
+  "formula_2027": "3 core + 2 elective subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "Mathematics (Compulsory Part)": 1.5,
+   "English Language": 1.25
+  },
+  "best_of_weights_2027": [],
+  "calculation_constraints": [
+   {
+    "type": "compulsory_subjects",
+    "subjects": [
+     "Chinese Language",
+     "English Language",
+     "Mathematics (Compulsory Part)"
+    ],
+    "description": "3 Core + 2 Elective: Chinese, English and Mathematics are compulsory"
+   }
+  ],
+  "min_requirements_2027": {
+   "eng": "3",
+   "chin": "3",
+   "math": "3",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": "Level 3"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": "Level 3"
+   }
+  },
+  "scores_2026": {
+   "median": 28.0,
+   "lq": 27.0,
+   "uq": null,
+   "mean": null
+  },
+  "source": "CityUHK JUPAS Admissions (2027 Entry) PDF"
+ },
+ {
+  "jupas_code": "JS1072",
+  "institution": "CityUHK",
+  "name": "JS1072 BSc Data Science (Features: Data Science / Machine Learning / Data Mining / Big Data Analysis)",
+  "formula_2027": "3 core + 2 elective subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "Mathematics (Compulsory Part)": 1.5,
+   "English Language": 1.25
+  },
+  "best_of_weights_2027": [],
+  "calculation_constraints": [
+   {
+    "type": "compulsory_subjects",
+    "subjects": [
+     "Chinese Language",
+     "English Language",
+     "Mathematics (Compulsory Part)"
+    ],
+    "description": "3 Core + 2 Elective: Chinese, English and Mathematics are compulsory"
+   }
+  ],
+  "min_requirements_2027": {
+   "eng": "3",
+   "chin": "3",
+   "math": "3",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": "Level 3"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": "Level 3"
+   }
+  },
+  "scores_2026": {
+   "median": 27.0,
+   "lq": 26.5,
+   "uq": null,
+   "mean": null
+  },
+  "source": "CityUHK JUPAS Admissions (2027 Entry) PDF"
+ },
+ {
+  "jupas_code": "JS1074",
+  "institution": "CityUHK",
+  "name": "JS1074 BSc Data and Systems Engineering (Features: Data Science / FinTech & Decision Analytics / Industrial AI / Smart City)",
+  "formula_2027": "3 core + 2 elective subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "Mathematics (Compulsory Part)": 1.5,
+   "English Language": 1.25
+  },
+  "best_of_weights_2027": [],
+  "calculation_constraints": [
+   {
+    "type": "compulsory_subjects",
+    "subjects": [
+     "Chinese Language",
+     "English Language",
+     "Mathematics (Compulsory Part)"
+    ],
+    "description": "3 Core + 2 Elective: Chinese, English and Mathematics are compulsory"
+   }
+  ],
+  "min_requirements_2027": {
+   "eng": "3",
+   "chin": "3",
+   "math": "3",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": "Level 3"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": "Level 3"
+   }
+  },
+  "scores_2026": {
+   "median": 27.5,
+   "lq": 27.0,
+   "uq": null,
+   "mean": null
+  },
+  "source": "CityUHK JUPAS Admissions (2027 Entry) PDF"
+ },
+ {
+  "jupas_code": "JS1102",
+  "institution": "CityUHK",
+  "name": "JS1102 BSocSc International Relations and Global Affairs (Streams: Asian Studies / International Studies / Development Studies)",
+  "formula_2027": "Best 5 subjects (include English)",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "English Language": 1.5
+  },
+  "best_of_weights_2027": [],
+  "calculation_constraints": [
+   {
+    "type": "compulsory_subjects",
+    "subjects": [
+     "English Language"
+    ],
+    "description": "Formula includes English Language"
+   }
+  ],
+  "min_requirements_2027": {
+   "eng": "3",
+   "chin": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": "Level 3"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": "Level 3"
+   }
+  },
+  "scores_2026": {
+   "median": 25.0,
+   "lq": 25.0,
+   "uq": null,
+   "mean": null
+  },
+  "source": "CityUHK JUPAS Admissions (2027 Entry) PDF"
+ },
+ {
+  "jupas_code": "JS1103",
+  "institution": "CityUHK",
+  "name": "JS1103 BA Chinese and History (Streams: Chinese / History and Cultural Heritage)",
+  "formula_2027": "3 core + 2 elective subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "English Language": 1.5,
+   "Chinese Language": 1.5,
+   "Chinese History": 1.25,
+   "Chinese Literature": 1.25,
+   "History": 1.25,
+   "Visual Arts": 1.25
+  },
+  "best_of_weights_2027": [],
+  "calculation_constraints": [
+   {
+    "type": "compulsory_subjects",
+    "subjects": [
+     "Chinese Language",
+     "English Language",
+     "Mathematics (Compulsory Part)"
+    ],
+    "description": "3 Core + 2 Elective: Chinese, English and Mathematics are compulsory"
+   }
+  ],
+  "min_requirements_2027": {
+   "eng": "3",
+   "chin": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": "Level 3"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": "Level 3"
+   }
+  },
+  "scores_2026": {
+   "median": 29.0,
+   "lq": 28.0,
+   "uq": null,
+   "mean": null
+  },
+  "source": "CityUHK JUPAS Admissions (2027 Entry) PDF"
+ },
+ {
+  "jupas_code": "JS1104",
+  "institution": "CityUHK",
+  "name": "JS1104 BA English (Streams: English and Professional Communication / Language and Literature)",
+  "formula_2027": "Best 5 subjects (include English)",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "English Language": 1.5,
+   "Literature in English": 1.25
+  },
+  "best_of_weights_2027": [],
+  "calculation_constraints": [
+   {
+    "type": "compulsory_subjects",
+    "subjects": [
+     "English Language"
+    ],
+    "description": "Formula includes English Language"
+   }
+  ],
+  "min_requirements_2027": {
+   "eng": "3",
+   "chin": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": "Level 3"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": "Level 3"
+   }
+  },
+  "scores_2026": {
+   "median": 25.5,
+   "lq": 24.5,
+   "uq": null,
+   "mean": null
+  },
+  "source": "CityUHK JUPAS Admissions (2027 Entry) PDF"
+ },
+ {
+  "jupas_code": "JS1106",
+  "institution": "CityUHK",
+  "name": "JS1106 Media and Communication (Majors: BA Digital Television and Broadcasting / BA Media and Communication)",
+  "formula_2027": "Best 5 subjects (include English)",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "English Language": 1.25,
+   "Chinese Language": 1.25
+  },
+  "best_of_weights_2027": [],
+  "calculation_constraints": [
+   {
+    "type": "compulsory_subjects",
+    "subjects": [
+     "English Language"
+    ],
+    "description": "Formula includes English Language"
+   }
+  ],
+  "min_requirements_2027": {
+   "eng": "3",
+   "chin": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": "Level 3"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": "Level 3"
+   }
+  },
+  "scores_2026": {
+   "median": 24.5,
+   "lq": 23.5,
+   "uq": null,
+   "mean": null
+  },
+  "source": "CityUHK JUPAS Admissions (2027 Entry) PDF"
+ },
+ {
+  "jupas_code": "JS1108",
+  "institution": "CityUHK",
+  "name": "JS1108 BSocSc Public Affairs and Management (Streams: Public Affairs and Governance / Public Policy and Management)",
+  "formula_2027": "3 core + 2 elective subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "English Language": 1.25
+  },
+  "best_of_weights_2027": [],
+  "calculation_constraints": [
+   {
+    "type": "compulsory_subjects",
+    "subjects": [
+     "Chinese Language",
+     "English Language",
+     "Mathematics (Compulsory Part)"
+    ],
+    "description": "3 Core + 2 Elective: Chinese, English and Mathematics are compulsory"
+   }
+  ],
+  "min_requirements_2027": {
+   "eng": "3",
+   "chin": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": "Level 3"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": "Level 3"
+   }
+  },
+  "scores_2026": {
+   "median": 24.0,
+   "lq": 23.0,
+   "uq": null,
+   "mean": null
+  },
+  "source": "CityUHK JUPAS Admissions (2027 Entry) PDF"
+ },
+ {
+  "jupas_code": "JS1109",
+  "institution": "CityUHK",
+  "name": "JS1109 BA Linguistics and Language Applications (Features: General Linguistics / Computational Linguistics / Corpus Linguistics / Experimental Linguistics / Language Technology and Applications)",
+  "formula_2027": "3 core + 2 elective subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "English Language": 1.5,
+   "Chinese Language": 1.25,
+   "Mathematics (Compulsory Part)": 1.25
+  },
+  "best_of_weights_2027": [],
+  "calculation_constraints": [
+   {
+    "type": "compulsory_subjects",
+    "subjects": [
+     "Chinese Language",
+     "English Language",
+     "Mathematics (Compulsory Part)"
+    ],
+    "description": "3 Core + 2 Elective: Chinese, English and Mathematics are compulsory"
+   }
+  ],
+  "min_requirements_2027": {
+   "eng": "3",
+   "chin": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": "Level 3"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": "Level 3"
+   }
+  },
+  "scores_2026": {
+   "median": 27.0,
+   "lq": 23.0,
+   "uq": null,
+   "mean": null
+  },
+  "source": "CityUHK JUPAS Admissions (2027 Entry) PDF"
+ },
+ {
+  "jupas_code": "JS1111",
+  "institution": "CityUHK",
+  "name": "JS1111 BSocSc Crime Science (Features: Crime Prevention / Security Practice / Global Policing / Crime Analytics / Cyber and Future Crimes)",
+  "formula_2027": "Best 5 subjects (include English)",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "English Language": 1.5
+  },
+  "best_of_weights_2027": [],
+  "calculation_constraints": [
+   {
+    "type": "compulsory_subjects",
+    "subjects": [
+     "English Language"
+    ],
+    "description": "Formula includes English Language"
+   }
+  ],
+  "min_requirements_2027": {
+   "eng": "3",
+   "chin": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": "Level 3"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": "Level 3"
+   }
+  },
+  "scores_2026": {
+   "median": 25.0,
+   "lq": 24.0,
+   "uq": null,
+   "mean": null
+  },
+  "source": "CityUHK JUPAS Admissions (2027 Entry) PDF"
+ },
+ {
+  "jupas_code": "JS1112",
+  "institution": "CityUHK",
+  "name": "JS1112 BSocSc Psychology (Streams: Health and Development / Mind and Brain)",
+  "formula_2027": "Best 5 subjects (include English)",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "English Language": 1.5
+  },
+  "best_of_weights_2027": [],
+  "calculation_constraints": [
+   {
+    "type": "compulsory_subjects",
+    "subjects": [
+     "English Language"
+    ],
+    "description": "Formula includes English Language"
+   }
+  ],
+  "min_requirements_2027": {
+   "eng": "3",
+   "chin": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": "Level 3"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": "Level 3"
+   }
+  },
+  "scores_2026": {
+   "median": 30.0,
+   "lq": 26.5,
+   "uq": null,
+   "mean": null
+  },
+  "source": "CityUHK JUPAS Admissions (2027 Entry) PDF"
+ },
+ {
+  "jupas_code": "JS1113",
+  "institution": "CityUHK",
+  "name": "JS1113 BSocSc Social Work (Features: Social Engagement and Concern for People’s Health and Well-Being / Human Diversities and Sustainability / People- in-Environment Interventions)",
+  "formula_2027": "Best 5 subjects (include English)",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "English Language": 1.5
+  },
+  "best_of_weights_2027": [],
+  "calculation_constraints": [
+   {
+    "type": "compulsory_subjects",
+    "subjects": [
+     "English Language"
+    ],
+    "description": "Formula includes English Language"
+   }
+  ],
+  "min_requirements_2027": {
+   "eng": "3",
+   "chin": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": "Level 3"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": "Level 3"
+   }
+  },
+  "scores_2026": {
+   "median": 24.5,
+   "lq": 24.0,
+   "uq": null,
+   "mean": null
+  },
+  "source": "CityUHK JUPAS Admissions (2027 Entry) PDF"
+ },
+ {
+  "jupas_code": "JS1120",
+  "institution": "CityUHK",
+  "name": "JS1120 Social and Arts Global Excellence (SAGE) [Features: Any major in the College of Liberal Arts and Social Sciences (except for BSocSc Social Work) / Non-local experience / Interdisciplinary] # COLLEGE OF SCIENCE",
+  "formula_2027": "3 core + 2 elective subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "Chinese Language": 1.5,
+   "English Language": 1.5,
+   "Mathematics (Compulsory Part)": 1.25
+  },
+  "best_of_weights_2027": [],
+  "calculation_constraints": [
+   {
+    "type": "compulsory_subjects",
+    "subjects": [
+     "Chinese Language",
+     "English Language",
+     "Mathematics (Compulsory Part)"
+    ],
+    "description": "3 Core + 2 Elective: Chinese, English and Mathematics are compulsory"
+   }
+  ],
+  "min_requirements_2027": {
+   "eng": "3",
+   "chin": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": "Level 3"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": "Level 3"
+   }
+  },
+  "scores_2026": {
+   "median": null,
+   "lq": 2027.0,
+   "uq": null,
+   "mean": null
+  },
+  "source": "CityUHK JUPAS Admissions (2027 Entry) PDF"
+ },
+ {
+  "jupas_code": "JS1123",
+  "institution": "CityUHK",
+  "name": "JS1123 BSocSc Crime Science and Bachelor of Laws (Double Degree)",
+  "formula_2027": "Best 5 subjects (include English)",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {},
+  "best_of_weights_2027": [],
+  "calculation_constraints": [
+   {
+    "type": "compulsory_subjects",
+    "subjects": [
+     "English Language"
+    ],
+    "description": "Formula includes English Language"
+   }
+  ],
+  "min_requirements_2027": {
+   "eng": "5",
+   "chin": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": "Level 3"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": "Level 3"
+   }
+  },
+  "scores_2026": {
+   "median": 24.5,
+   "lq": 24.0,
+   "uq": null,
+   "mean": null
+  },
+  "source": "CityUHK JUPAS Admissions (2027 Entry) PDF"
+ },
+ {
+  "jupas_code": "JS1200",
+  "institution": "CityUHK",
+  "name": "JS1200 Global Research Enrichment and Technopreneurship (GREAT) [Majors: BSc Chemistry / BSc Computing Mathematics / BSc Physics + Global Research Enrichment and Technopreneurship (GREAT)]",
+  "formula_2027": "Best 5 subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "Chemistry": 1.5,
+   "Mathematics Extended Part (Module 2)": 1.5,
+   "Physics": 1.5,
+   "English Language": 1.25,
+   "Mathematics (Compulsory Part)": 1.25,
+   "Mathematics Extended Part (Module 1)": 1.25
+  },
+  "best_of_weights_2027": [],
+  "calculation_constraints": [],
+  "min_requirements_2027": {
+   "eng": "3",
+   "chin": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": "Level 3 in two elective subjects from: · Biology · Chemistry · Economics · M1/M2 · Physics"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": ""
+   }
+  },
+  "scores_2026": {
+   "median": 29.5,
+   "lq": 29.0,
+   "uq": null,
+   "mean": null
+  },
+  "source": "CityUHK JUPAS Admissions (2027 Entry) PDF"
+ },
+ {
+  "jupas_code": "JS1201",
+  "institution": "CityUHK",
+  "name": "JS1201 Architecture and Civil Engineering (Majors: BEng Building Services Engineering / BEng Civil Engineering / BSc Architecture and Surveying)",
+  "formula_2027": "Best 5 subjects (include English)",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "English Language": 1.5,
+   "Mathematics (Compulsory Part)": 1.5,
+   "Mathematics Extended Part (Module 1)": 1.25,
+   "Mathematics Extended Part (Module 2)": 1.25,
+   "Physics": 1.25
+  },
+  "best_of_weights_2027": [],
+  "calculation_constraints": [
+   {
+    "type": "compulsory_subjects",
+    "subjects": [
+     "English Language"
+    ],
+    "description": "Formula includes English Language"
+   }
+  ],
+  "min_requirements_2027": {
+   "eng": "3",
+   "chin": "3",
+   "math": "3",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": "Level 3 in one elective subject from: · Biology · Chemistry · Design and Applied Technology · Information and Communication Technology · M1/M2 · Physics"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": "Level 3 in any elective subjects (except \"Other Language\")"
+   }
+  },
+  "scores_2026": {
+   "median": 28.5,
+   "lq": 27.5,
+   "uq": null,
+   "mean": null
+  },
+  "source": "CityUHK JUPAS Admissions (2027 Entry) PDF"
+ },
+ {
+  "jupas_code": "JS1202",
+  "institution": "CityUHK",
+  "name": "JS1202 BSc Chemistry (Streams: Comprehensive Chemistry / Cosmetic Chemistry / Forensic Chemistry / Global Research Enrichment and Technopreneurship (GREAT))",
+  "formula_2027": "Best 5 subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "English Language": 1.5,
+   "Chemistry": 1.5,
+   "Mathematics (Compulsory Part)": 1.25
+  },
+  "best_of_weights_2027": [],
+  "calculation_constraints": [],
+  "min_requirements_2027": {
+   "eng": "3",
+   "chin": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": "Level 3 in Chemistry Level 3 in Chemistry"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": "Level 3 in one elective subject from: · Biology · Business, Accounting and Financial Studies · Design and Applied Technology · Information and Communication Technology · Physics Level 3 in any elective subjects"
+   }
+  },
+  "scores_2026": {
+   "median": 29.0,
+   "lq": 28.5,
+   "uq": null,
+   "mean": null
+  },
+  "source": "CityUHK JUPAS Admissions (2027 Entry) PDF"
+ },
+ {
+  "jupas_code": "JS1204",
+  "institution": "CityUHK",
+  "name": "JS1204 BSc Computer Science (Streams: Artificial Intelligence / Cybersecurity / Data Science / Multimedia Computing / Software Engineering and Project Management)",
+  "formula_2027": "Best 5 subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "Biology": 1.5,
+   "Chemistry": 1.5,
+   "English Language": 1.5,
+   "Information and Communication Technology": 1.5,
+   "Mathematics (Compulsory Part)": 1.5,
+   "Mathematics Extended Part (Module 1)": 1.5,
+   "Mathematics Extended Part (Module 2)": 1.5,
+   "Physics": 1.5
+  },
+  "best_of_weights_2027": [],
+  "calculation_constraints": [],
+  "min_requirements_2027": {
+   "eng": "3",
+   "chin": "3",
+   "math": "3",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": "Level 3 in one elective subject from: · Biology · Chemistry · Information and Communication Technology · M1/M2 · Physics"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": "Level 3 in any elective subjects"
+   }
+  },
+  "scores_2026": {
+   "median": 35.0,
+   "lq": 34.0,
+   "uq": null,
+   "mean": null
+  },
+  "source": "CityUHK JUPAS Admissions (2027 Entry) PDF"
+ },
+ {
+  "jupas_code": "JS1205",
+  "institution": "CityUHK",
+  "name": "JS1205 Electrical Engineering (Majors: BEng Computer and Data Engineering / BEng Electronic and Electrical Engineering / BEng Information Engineering / BEng Microelectronics Engineering)",
+  "formula_2027": "Best 5 subjects (include English and Mathematics)",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "English Language": 1.5,
+   "Mathematics (Compulsory Part)": 1.5,
+   "Information and Communication Technology": 1.5,
+   "Mathematics Extended Part (Module 1)": 1.5,
+   "Mathematics Extended Part (Module 2)": 1.5,
+   "Physics": 1.5,
+   "Biology": 1.25,
+   "Chemistry": 1.25
+  },
+  "best_of_weights_2027": [],
+  "calculation_constraints": [
+   {
+    "type": "compulsory_subjects",
+    "subjects": [
+     "English Language"
+    ],
+    "description": "Formula includes English Language"
+   },
+   {
+    "type": "compulsory_subjects",
+    "subjects": [
+     "Mathematics (Compulsory Part)"
+    ],
+    "description": "Formula includes Mathematics (Compulsory Part)"
+   }
+  ],
+  "min_requirements_2027": {
+   "eng": "3",
+   "chin": "3",
+   "math": "3",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": "Level 3 in one elective subject from: · Biology · Chemistry · Information and Communication Technology · M1/M2 · Physics"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": "Level 3 in any elective subjects"
+   }
+  },
+  "scores_2026": {
+   "median": 32.5,
+   "lq": 32.0,
+   "uq": null,
+   "mean": null
+  },
+  "source": "CityUHK JUPAS Admissions (2027 Entry) PDF"
+ },
+ {
+  "jupas_code": "JS1206",
+  "institution": "CityUHK",
+  "name": "JS1206 BSc Computing Mathematics (Streams: Enriched Mathematics / Financial Mathematics / Global Research Enrichment and Technopreneurship (GREAT))",
+  "formula_2027": "Best 5 subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "Mathematics (Compulsory Part)": 1.5,
+   "Mathematics Extended Part (Module 1)": 1.5,
+   "Mathematics Extended Part (Module 2)": 1.5,
+   "English Language": 1.25,
+   "Physics": 1.25
+  },
+  "best_of_weights_2027": [],
+  "calculation_constraints": [],
+  "min_requirements_2027": {
+   "eng": "3",
+   "chin": "3",
+   "math": "3",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": "Level 3 in one elective subject from: · Biology · Business, Accounting and Financial Studies · Chemistry · Information and Communication Technology · M1/M2 · Physics"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": "Level 3 in any elective subjects"
+   }
+  },
+  "scores_2026": {
+   "median": 32.0,
+   "lq": 30.5,
+   "uq": null,
+   "mean": null
+  },
+  "source": "CityUHK JUPAS Admissions (2027 Entry) PDF"
+ },
+ {
+  "jupas_code": "JS1207",
+  "institution": "CityUHK",
+  "name": "JS1207 Mechanical Engineering (Majors: BEng Aerospace Engineering / BEng Mechanical Engineering / BEng Nuclear and Risk Engineering)",
+  "formula_2027": "Best 5 subjects (include Mathematics)",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "English Language": 1.5,
+   "Mathematics (Compulsory Part)": 1.5,
+   "Physics": 1.5,
+   "Chemistry": 1.25,
+   "Design and Applied Technology": 1.25,
+   "Mathematics Extended Part (Module 1)": 1.25,
+   "Mathematics Extended Part (Module 2)": 1.25
+  },
+  "best_of_weights_2027": [],
+  "calculation_constraints": [
+   {
+    "type": "compulsory_subjects",
+    "subjects": [
+     "Mathematics (Compulsory Part)"
+    ],
+    "description": "Formula includes Mathematics (Compulsory Part)"
+   }
+  ],
+  "min_requirements_2027": {
+   "eng": "3",
+   "chin": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": "Level 3 in one elective subject from: · Chemistry · Design and Applied Technology · M1/M2 · Physics"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": "Level 3 in any elective subjects"
+   }
+  },
+  "scores_2026": {
+   "median": 31.0,
+   "lq": 30.5,
+   "uq": null,
+   "mean": null
+  },
+  "source": "CityUHK JUPAS Admissions (2027 Entry) PDF"
+ },
+ {
+  "jupas_code": "JS1208",
+  "institution": "CityUHK",
+  "name": "JS1208 BSc Physics [Features: Classical Physics/Modern Physics/Experimental and Computational Physics/Medical Physics/Condensed Matter Physics/Global Research Enrichment and Technopreneurship (GREAT)]",
+  "formula_2027": "Best 5 subjects (include Mathematics)",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "Physics": 1.5,
+   "Mathematics Extended Part (Module 1)": 1.5,
+   "Mathematics Extended Part (Module 2)": 1.5,
+   "English Language": 1.25,
+   "Mathematics (Compulsory Part)": 1.25
+  },
+  "best_of_weights_2027": [],
+  "calculation_constraints": [
+   {
+    "type": "compulsory_subjects",
+    "subjects": [
+     "Mathematics (Compulsory Part)"
+    ],
+    "description": "Formula includes Mathematics (Compulsory Part)"
+   }
+  ],
+  "min_requirements_2027": {
+   "eng": "3",
+   "chin": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": "Level 3 in one elective subject from: · Chemistry · Design and Applied Technology · M1/M2 · Physics"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": "Level 3 in any elective subjects"
+   }
+  },
+  "scores_2026": {
+   "median": 29.5,
+   "lq": 28.0,
+   "uq": null,
+   "mean": null
+  },
+  "source": "CityUHK JUPAS Admissions (2027 Entry) PDF"
+ },
+ {
+  "jupas_code": "JS1210",
+  "institution": "CityUHK",
+  "name": "JS1210 BEng Materials Science and Engineering (Features: HKIE Accredited / Industrial and Research Internships / Overseas Double-degrees / Knowledge Transfer / World-leading Research)",
+  "formula_2027": "Best 5 subjects (include Mathematics)",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "Mathematics (Compulsory Part)": 1.5,
+   "Physics": 1.5,
+   "English Language": 1.25,
+   "Biology": 1.25,
+   "Chemistry": 1.25,
+   "Mathematics Extended Part (Module 1)": 1.25,
+   "Mathematics Extended Part (Module 2)": 1.25
+  },
+  "best_of_weights_2027": [],
+  "calculation_constraints": [
+   {
+    "type": "compulsory_subjects",
+    "subjects": [
+     "Mathematics (Compulsory Part)"
+    ],
+    "description": "Formula includes Mathematics (Compulsory Part)"
+   }
+  ],
+  "min_requirements_2027": {
+   "eng": "3",
+   "chin": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": "Level 3 in one elective subject from: · Chemistry · Design and Applied Technology · Physics"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": "Level 3 in any elective subjects"
+   }
+  },
+  "scores_2026": {
+   "median": 30.0,
+   "lq": 30.0,
+   "uq": null,
+   "mean": null
+  },
+  "source": "CityUHK JUPAS Admissions (2027 Entry) PDF"
+ },
+ {
+  "jupas_code": "JS1211",
+  "institution": "CityUHK",
+  "name": "JS1211 BEng Biomedical Engineering (Features: Medical Technology / Bioinstrumentation / Cell and Tissue Engineering / Biomedical Robotics)",
+  "formula_2027": "Best 5 subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "English Language": 1.5,
+   "Biology": 1.5,
+   "Chemistry": 1.5,
+   "Physics": 1.5
+  },
+  "best_of_weights_2027": [
+   {
+    "count": 1,
+    "subjects": [
+     "Mathematics Extended Part (Module 1)",
+     "Mathematics Extended Part (Module 2)",
+     "Mathematics (Compulsory Part)"
+    ],
+    "weight": 1.5
+   }
+  ],
+  "calculation_constraints": [],
+  "min_requirements_2027": {
+   "eng": "3",
+   "chin": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": "Level 3 in one elective subject from: · Biology · Chemistry · Physics"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": "Level 3 in any elective subjects"
+   }
+  },
+  "scores_2026": {
+   "median": 32.5,
+   "lq": 31.5,
+   "uq": null,
+   "mean": null
+  },
+  "source": "CityUHK JUPAS Admissions (2027 Entry) PDF"
+ },
+ {
+  "jupas_code": "JS1216",
+  "institution": "CityUHK",
+  "name": "JS1216 BEng Intelligent Manufacturing Engineering (Features: Industrial Internet-of-Things / Industrial Big Data / Robotics and Automation / Logistics and Supply Chain / Smart City Engineering)",
+  "formula_2027": "Best 5 subjects (include English and Mathematics)",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {},
+  "best_of_weights_2027": [],
+  "calculation_constraints": [
+   {
+    "type": "compulsory_subjects",
+    "subjects": [
+     "English Language"
+    ],
+    "description": "Formula includes English Language"
+   },
+   {
+    "type": "compulsory_subjects",
+    "subjects": [
+     "Mathematics (Compulsory Part)"
+    ],
+    "description": "Formula includes Mathematics (Compulsory Part)"
+   }
+  ],
+  "min_requirements_2027": {
+   "eng": "3",
+   "chin": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": "Level 3 in one elective subject from: · Biology · Chemistry · Design and Applied Technology · Economics · Information and Communication Technology · M1/M2 · Physics"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": "Level 3 in any elective subjects"
+   }
+  },
+  "scores_2026": {
+   "median": 23.0,
+   "lq": 22.0,
+   "uq": null,
+   "mean": null
+  },
+  "source": "CityUHK JUPAS Admissions (2027 Entry) PDF"
+ },
+ {
+  "jupas_code": "JS1217",
+  "institution": "CityUHK",
+  "name": "JS1217 Pathway for Research, Innovation, and Multinational Engineering (PRIME) (Free Choice of Major in College of Engineering + Overseas Experience / Interdisciplinary / Engineering Entrepreneurship)",
+  "formula_2027": "Best 5 subjects (include English and Mathematics)",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "English Language": 1.5,
+   "Mathematics (Compulsory Part)": 1.5,
+   "Mathematics Extended Part (Module 1)": 1.5,
+   "Mathematics Extended Part (Module 2)": 1.5,
+   "Physics": 1.5,
+   "Biology": 1.25,
+   "Chemistry": 1.25,
+   "Information and Communication Technology": 1.25
+  },
+  "best_of_weights_2027": [],
+  "calculation_constraints": [
+   {
+    "type": "compulsory_subjects",
+    "subjects": [
+     "English Language"
+    ],
+    "description": "Formula includes English Language"
+   },
+   {
+    "type": "compulsory_subjects",
+    "subjects": [
+     "Mathematics (Compulsory Part)"
+    ],
+    "description": "Formula includes Mathematics (Compulsory Part)"
+   }
+  ],
+  "min_requirements_2027": {
+   "eng": "3",
+   "chin": "3",
+   "math": "3",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": "Level 3 in two elective subjects from: · Biology · Chemistry · Design and Applied Technology · Information and Communication · M1/M2 · Physics"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": "Technology"
+   }
+  },
+  "scores_2026": {
+   "median": 33.5,
+   "lq": 31.5,
+   "uq": null,
+   "mean": null
+  },
+  "source": "CityUHK JUPAS Admissions (2027 Entry) PDF"
+ },
+ {
+  "jupas_code": "JS1218",
+  "institution": "CityUHK",
+  "name": "JS1218 BSc Cybersecurity (Features: System Security / Software Security / Cryptography / Privacy-Enhancing Technologies / Cyber Risk Management) COLLEGE OF ENGINEERING",
+  "formula_2027": "Best 5 subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "Biology": 1.5,
+   "Chemistry": 1.5,
+   "English Language": 1.5,
+   "Information and Communication Technology": 1.5,
+   "Mathematics (Compulsory Part)": 1.5,
+   "Mathematics Extended Part (Module 1)": 1.5,
+   "Mathematics Extended Part (Module 2)": 1.5,
+   "Physics": 1.5
+  },
+  "best_of_weights_2027": [],
+  "calculation_constraints": [],
+  "min_requirements_2027": {
+   "eng": "3",
+   "chin": "3",
+   "math": "3",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": "Level 3 in one elective subject from: · Biology · Chemistry · Information and Communication Technology · M1/M2 · Physics"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": "Level 3 in any elective subjects"
+   }
+  },
+  "scores_2026": {
+   "median": 33.0,
+   "lq": 32.5,
+   "uq": null,
+   "mean": null
+  },
+  "source": "CityUHK JUPAS Admissions (2027 Entry) PDF"
+ },
+ {
+  "jupas_code": "JS1219",
+  "institution": "CityUHK",
+  "name": "JS1219 BEng Innovation and Enterprise Engineering (Features: Engineering / Technology / Innovation / Enterprise / Entrepreneurship)",
+  "formula_2027": "Best 5 subjects (include English and Mathematics)",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {},
+  "best_of_weights_2027": [],
+  "calculation_constraints": [
+   {
+    "type": "compulsory_subjects",
+    "subjects": [
+     "English Language"
+    ],
+    "description": "Formula includes English Language"
+   },
+   {
+    "type": "compulsory_subjects",
+    "subjects": [
+     "Mathematics (Compulsory Part)"
+    ],
+    "description": "Formula includes Mathematics (Compulsory Part)"
+   }
+  ],
+  "min_requirements_2027": {
+   "eng": "3",
+   "chin": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": "Level 3 in one elective subject from: · Biology · Chemistry · Design and Applied Technology · Economics · Information and Communication Technology · M1/M2 · Physics"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": "Level 3 in any elective subjects"
+   }
+  },
+  "scores_2026": {
+   "median": 22.5,
+   "lq": 22.5,
+   "uq": null,
+   "mean": null
+  },
+  "source": "CityUHK JUPAS Admissions (2027 Entry) PDF"
+ },
+ {
+  "jupas_code": "JS1221",
+  "institution": "CityUHK",
+  "name": "JS1221 BSc Computer Science and BSc Computational Finance and Financial Technology (Double Degree; Features: Corporate Accounting & Economics / Computational Finance / Advanced Statistics / Modeling & Algorithms / Financial Technologies Software Engineering)",
+  "formula_2027": "Best 5 subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "Biology": 1.5,
+   "Chemistry": 1.5,
+   "English Language": 1.5,
+   "Information and Communication Technology": 1.5,
+   "Mathematics (Compulsory Part)": 1.5,
+   "Mathematics Extended Part (Module 1)": 1.5,
+   "Mathematics Extended Part (Module 2)": 1.5,
+   "Physics": 1.5
+  },
+  "best_of_weights_2027": [],
+  "calculation_constraints": [],
+  "min_requirements_2027": {
+   "eng": "3",
+   "chin": "3",
+   "math": "4",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": "Level 3 in one elective subject from: · Biology · Chemistry · Information and Communication Technology · M1/M2 · Physics"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": "Level 3 in any elective subjects"
+   }
+  },
+  "scores_2026": {
+   "median": 32.0,
+   "lq": 31.0,
+   "uq": null,
+   "mean": null
+  },
+  "source": "CityUHK JUPAS Admissions (2027 Entry) PDF"
+ },
+ {
+  "jupas_code": "JS1300",
+  "institution": "CityUHK",
+  "name": "JS1300 Integrative Bioscience & Bioengineering Programme (Bio3) (Features: Free Choice of Major / Overseas Research Opportunities / Interdisciplinary)",
+  "formula_2027": "3 core + 2 elective subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "English Language": 1.5,
+   "Biology": 1.5,
+   "Chemistry": 1.5,
+   "Mathematics Extended Part (Module 1)": 1.5,
+   "Mathematics Extended Part (Module 2)": 1.5,
+   "Physics": 1.5,
+   "Mathematics (Compulsory Part)": 1.25,
+   "Business, Accounting and Financial Studies": 1.25,
+   "Design and Applied Technology": 1.25,
+   "Information and Communication Technology": 1.25
+  },
+  "best_of_weights_2027": [],
+  "calculation_constraints": [
+   {
+    "type": "compulsory_subjects",
+    "subjects": [
+     "Chinese Language",
+     "English Language",
+     "Mathematics (Compulsory Part)"
+    ],
+    "description": "3 Core + 2 Elective: Chinese, English and Mathematics are compulsory"
+   }
+  ],
+  "min_requirements_2027": {
+   "eng": "3",
+   "chin": "3",
+   "math": "3",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": "Level 3 in one elective subject from: · Biology · Chemistry · Physics"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": "Level 3 in any elective subjects [may include Attained with Distinction II in the ApL subject – Medical Laboratory Science]"
+   }
+  },
+  "scores_2026": {
+   "median": 43.0,
+   "lq": 34.5,
+   "uq": null,
+   "mean": null
+  },
+  "source": "CityUHK JUPAS Admissions (2027 Entry) PDF"
+ },
+ {
+  "jupas_code": "JS1801",
+  "institution": "CityUHK",
+  "name": "JS1801 Bachelor of Veterinary Medicine (Features: One Health / Animal Health & Welfare / Public Health / Dual Accreditation) SCHOOL OF CREATIVE MEDIA",
+  "formula_2027": "Best 5 subjects (include English, Mathematics, Biology and Chemistry)",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {},
+  "best_of_weights_2027": [],
+  "calculation_constraints": [
+   {
+    "type": "compulsory_subjects",
+    "subjects": [
+     "English Language"
+    ],
+    "description": "Formula includes English Language"
+   },
+   {
+    "type": "compulsory_subjects",
+    "subjects": [
+     "Mathematics (Compulsory Part)"
+    ],
+    "description": "Formula includes Mathematics (Compulsory Part)"
+   }
+  ],
+  "min_requirements_2027": {
+   "eng": "5",
+   "chin": "3",
+   "math": "3",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": "Level 3 in Biology"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": "and Chemistry"
+   }
+  },
+  "scores_2026": {
+   "median": 35.0,
+   "lq": 33.5,
+   "uq": null,
+   "mean": null
+  },
+  "source": "CityUHK JUPAS Admissions (2027 Entry) PDF"
+ },
+ {
+  "jupas_code": "JS1805",
+  "institution": "CityUHK",
+  "name": "JS1805 Biomedical Sciences (Majors: BSc Biological Sciences / BSc Biomedical Sciences)",
+  "formula_2027": "",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {},
+  "best_of_weights_2027": [],
+  "calculation_constraints": [],
+  "min_requirements_2027": {
+   "eng": null,
+   "chin": null,
+   "math": null,
+   "csd": null,
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": ""
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": ""
+   }
+  },
+  "scores_2026": {
+   "median": 33.0,
+   "lq": 32.5,
+   "uq": null,
+   "mean": null
+  },
+  "source": "CityUHK JUPAS Admissions (2027 Entry) PDF"
+ },
+ {
+  "jupas_code": "JS1806",
+  "institution": "CityUHK",
+  "name": "JS1806 BSc Biological Sciences (Features: Bioinformatics / Biochemistry / Genetics / Cellular & Molecular Biology / Immunology / Research Rotation Projects for Hands-on Experience) JS1801, JS1805, JS1806 and Applied Learning (ApL) subjects • Distinction II) are used in the * Excluding students admitted • ∆Exclude HKDSE Citizenship and • # Subject to the University's • The JUPAS entrance requirements © All rights reserved. The information CityUHK may be incomplete, misleading",
+  "formula_2027": "3 core + 2 elective subjects JS1806 and JS1807, a Nominations, Sports reproduced by",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "English Language": 1.5,
+   "Biology": 1.5,
+   "Chemistry": 1.5,
+   "Mathematics (Compulsory Part)": 1.25,
+   "Business, Accounting and Financial Studies": 1.25,
+   "Design and Applied Technology": 1.25
+  },
+  "best_of_weights_2027": [],
+  "calculation_constraints": [
+   {
+    "type": "compulsory_subjects",
+    "subjects": [
+     "Chinese Language",
+     "English Language",
+     "Mathematics (Compulsory Part)"
+    ],
+    "description": "3 Core + 2 Elective: Chinese, English and Mathematics are compulsory"
+   }
+  ],
+  "min_requirements_2027": {
+   "eng": "3",
+   "chin": "3",
+   "math": "3",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": "Level 3 in one elective subject from: · Biology · Chemistry are counted as one subject JS1040, JS1041, JS1042, JS1043, and Achievements in reserves the right to amend the University cautions members of responsibility for the unauthorised"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": "Level 3 in any elective subjects [may include Attained with Distinction II in the ApL subject – only. JS1044, JS1300, JS1805, Competitions/Activities, Principal's information from time to time. the public that any such information use of the data."
+   }
+  },
+  "scores_2026": {
+   "median": 30.0,
+   "lq": 29.5,
+   "uq": null,
+   "mean": null
+  },
+  "source": "CityUHK JUPAS Admissions (2027 Entry) PDF"
+ },
+ {
+  "jupas_code": "JS1807",
+  "institution": "CityUHK",
+  "name": "JS1807 BSc Biomedical Sciences (Features: Clinical Chemistry / Hematology / Medical Microbiology and Infection / Anatomical Pathology / Immunology / Clinical Placement / Intensive Laboratory Experience) COLLEGE OF BUSINESS",
+  "formula_2027": "",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {},
+  "best_of_weights_2027": [],
+  "calculation_constraints": [],
+  "min_requirements_2027": {
+   "eng": null,
+   "chin": null,
+   "math": null,
+   "csd": null,
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": ""
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": "Medical Laboratory Science]"
+   }
+  },
+  "scores_2026": {
+   "median": 34.5,
+   "lq": 33.5,
+   "uq": null,
+   "mean": null
+  },
+  "source": "CityUHK JUPAS Admissions (2027 Entry) PDF"
+ }
+]

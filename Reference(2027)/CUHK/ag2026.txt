@@ -1,0 +1,470 @@
+                                                                         Admission Grades of JUPAS Applicants (2026 Entry)
+
+            UQ - Upper Quartile: HKDSE results of the applicant whose position is at 1/4 way down of the admission list of the respective programme
+            M - Median: HKDSE results of the applicant whose position is in the middle of the admission list of the respective programme
+            LQ - Lower Quartile: HKDSE results of the applicant whose position is at 3/4 way down of the admission list of the respective programme
+
+The Programme Weighted Total of the student at UQ, M or LQ is calculated based on the Selection Principle and specific subject weighting (if any) of the respective programme:
+  • Best 5 - Best 5 subjects in Category A or Category C of HKDSE; or
+  • 6 Graded Subjects - 6 graded subjects in Category A or Category C of HKDSE.
+Please refer to Note 3 at the bottom of the table for grade point conversions (except JS4501 and JS4502).
+
+  JUPAS                                                                                                                                                       Programme
+                                             Target                                                                  1st       2nd        3rd        4th                  Selection
+Catalogue           Programme/ Stream                    CHI      ENG     MATH      CSD       LS    M1/M2                                                      Weighted                               Subject Weighting
+                                            Percentile                                                            Elective   Elective   Elective   Elective               Principle
+   No.                                                                                                                                                           Total
+Faculty of Arts
+                                               UQ         5*       4        4        TT                             5*          4          4                     26
+ JS4006     Anthropology                        M         5*       5*       4        TT                              4          3                                25        Best 5     --
+                                               LQ         5*       4        4        TT                              5          4          4                    24.5
+                                               UQ         5*       5        4        TT                             5*          5          5                    31.9
+            Chinese Language and
+ JS4018                                         M         5*       5        4        TT                             5*          5          4                    30.4       Best 5     • Chinese (x 1.2)
+            Literature
+                                               LQ        5**       5        4        TT                              5          4          4                    29.2
+                                               UQ         5*       5        4        TT                              5          4          4                    28.75
+ JS4032     English                             M         5        5*       4        TT                              4          4          4                     28        Best 5     • English (x 1.5)
+                                               LQ         4       5**       2        TT                              4          4          3                    27.75
+                                               UQ         4        3        4        TT                             5**        5*          4                    27.5
+ JS4044     Fine Arts                           M         3        4        2        TT                             5**        5**                               26        Best 5     --
+                                               LQ         4        4        5        TT                             5*          4                               24.5
+                                               UQ         5*       5        4        TT                             5**         4                                29
+ JS4056     History                             M         5*       3        4        TT                             5*          5          4                    27.5       Best 5     --
+                                               LQ        5**       3        5        TT                              5          4                               26.5
+                                               UQ         4        4        4        TT                             5*         5*                                26
+ JS4068     Japanese Studies                    M         5        5        4        TT                              5          4          4                    24.5       Best 5     --
+                                               LQ         5        3        4        TT                              5          5          3                    23.5
+                                               UQ         5*       5        5        TT                              4          4                               27.1
+ JS4070     Linguistics                         M         5        5*       4        TT                4             4          3                               25.9       Best 5     • English (x 1.2)
+                                               LQ         5*       5        4        TT                              4          4          4                    25.6
+                                               UQ         3        5*       4        TT                              5          5          4                     26
+ JS4082     Music                               M         5        5        4        TT                              5          4          3                    24.5       Best 5     --
+                                               LQ         4        5        4        TT                              4          4          3                    21.5
+                                               UQ         5        5        5        TT                              5          4                                26
+ JS4094     Philosophy                          M         5*       4        5        TT                4             4                                          24.5       Best 5     • Chinese and English must be included
+                                               LQ         4        4        5        TT                5             4          4                                23
+                                               UQ         4        5*       3        TT                             5*          4                               30.5
+                                                                                                                                                                                      • Chinese (x 1.5)
+ JS4100     Public Humanities                   M         5*       4        3        TT                              5          4          4                     30        Best 5
+                                                                                                                                                                                      • English (x 1.5)
+                                               LQ         5        4        3        TT                              5          5          4                    29.25
+                                               UQ         4        5*       4        TT                              4          4          3                    24.75
+ JS4109     Religious Studies                   M         5*       4        4        TT                              5          3          3          2         24.5       Best 5     • English (x 1.25)
+                                               LQ         4        4        5        TT                              5          4                                24
+                                               UQ         5*       4        5        TT                              4          4          3                    24.5
+ JS4123     Translation                         M         5*       4        3        TT                              5          4                               23.5       Best 5     --
+                                               LQ         5        4        5        TT                4             4          4                                23
+                                               UQ         4        3        5        TT                             5*          5          4                     26
+ JS4136     Chinese Studies                     M         5*       3        3        TT                              5          5          4                    25.75      Best 5     • English (x 1.25)
+                                               LQ        5**       4        4        TT                              4          4          4                    25.5
+Faculty of Business Administration
+                                               UQ         5*       4        4        TT                             5*          5          5                     29
+ JS4202     Integrated BBA                      M         4        4        5        TT                5            5*          5          3                    27.5       Best 5     --
+                                               LQ         5*       5        5        TT                5             4          3                               27.5
+                                               UQ         4        5       5**       TT               5**           5**        5**                              39.5
+ JS4214     Global Business Studies             M        5**      5**       5        TT                5            5**        5*                                38        Best 5     --
+                                               LQ         5       5**       5        TT                             5**        5**         4                    36.5
+                                               UQ         5*       4        3        TT                             5*          4          4                     26
+ JS4226     Hospitality and Real Estate         M         5        4        5*       TT                              5          4                                26        Best 5     --
+                                               LQ         5        4        4        TT                              5          5          4                    24.5
+                                               UQ         3        5        5*       TT                5*           5*         5*         5*                    43.75                 • Mathematics (x 1.5)
+                                                                                                                                                                                      • M1 or M2 (x 1.5)
+            Insurance, Financial and
+ JS4238                                         M         4        5       5**       TT                5*            5          5                               42.5       Best 5     • English (x 1.25)
+            Actuarial Analysis
+                                                                                                                                                                                      • The best one subject of Chemistry,
+                                               LQ         4        4       5**       TT                5*            5          5          5                   41.125                 Economics, ICT or Physics (x 1.25)
+                                               UQ         5        3        5*       TT                5*            5          4                                29
+ JS4240     Professional Accountancy            M         4        5        5        TT                              5          5          5                    27.5       Best 5     --
+                                               LQ         4        4        5        TT                5             5          5                                26
+                                               UQ         4        5*       5*       TT                             5**        5*         5*                    54.75                 • English (x 2)
+                                                                                                                                                                                      • Mathematics (x 2)
+ JS4252     Quantitative Finance                M        5**       4       5**       TT               5**           5*         5*                               53.25      Best 5
+                                                                                                                                                                                      • The best one subject of M1/M2, Chemistry,
+                                               LQ         5        5       5**       TT                5*           5*         5*          5                    52.5                  Economics or Physics (x 1.5)
+            Interdisciplinary Major            UQ         5        5        5        TT                             5**        5**        5*                     35
+ JS4254     Programme in Global Economics       M        5**       5        5        TT                5*           5*          5                               33.5       Best 5     • English must be included
+            and Finance                        LQ         5*       5        5        TT                5*           5**         5                               33.5
+                                               UQ         4        5*       5        TT                             5**        5*          5                     39                   • English (x 2)
+            BBA(IBBA) – JD Double Degree
+ JS4264                                         M        5**       5*       4        TT                              5          5          4                    37.5       Best 5     • Chinese, English and Mathematics must be
+            Programme
+                                               LQ         5        5        4        TT                             5**        5*         5*                     36                   included
+                                               UQ         5        5*      5**       TT                5*           5**        5**         4                    59.25                 • English (x 2)
+            Quantitative Finance and Risk                                                                                                                                             • Mathematics (x 2)
+ JS4276                                         M         5*       5       5**       TT                5*           5**        5**        5**                   57.75      Best 5
+            Management Science                                                                                                                                                        • The best one subject of M1/M2, Chemistry,
+                                               LQ         4        5       5**       TT               5**           5**        5*          3                    56.25                 Economics or Physics (x 1.5)
+
+                                                                                                            1/4
+  JUPAS                                                                                                                                             Programme
+                                                  Target                                                   1st       2nd        3rd        4th                  Selection
+Catalogue          Programme/ Stream                          CHI   ENG   MATH   CSD   LS   M1/M2                                                    Weighted                               Subject Weighting
+                                                 Percentile                                             Elective   Elective   Elective   Elective               Principle
+   No.                                                                                                                                                 Total
+                                                    UQ        4     5*     5     TT                        5          5          5                    35.25                 • The best two subjects of English, Biology or
+            Biotechnology, Entrepreneurship
+ JS4725                                              M        5     5*     5     TT                        5          5          4                    35.25      Best 5     Chemistry (x 1.5)
+            and Healthcare Management
+                                                    LQ        3      5     5     TT                       5*         5*                                35                   • Best of Biology/Chemistry must be included
+                                                    UQ        4      4     5*    TT           5           5*                                           40                   • M1 or M2 (x 2)
+            Interdisciplinary Data Analytics &
+ JS4760                                              M        3      4     5*    TT          5*            4          4                               38.5       Best 5     • Mathematics (x 1.5)
+            X Double Major Programme
+                                                    LQ        5*     4     5*    TT           5            5          4                                38                   • Economics or ICT (x 1.5)
+Faculty of Education
+                                                    UQ        4      5     5     TT                       5**         5          4                     29
+            Human Movement Science and
+ JS4320                                              M        4      3     5     TT          5*            5          4          3                     26        Best 5     --
+            Health Studies
+                                                    LQ        3      4     5*    TT           3            5          5                                25
+                                                    UQ        5      4     5*    TT                        5          5          5                     29
+            Physical Education, Exercise
+ JS4329                                              M        4     5*     5*    TT                        5          4                               27.5       Best 5     --
+            Science and Health
+                                                    LQ        5*     4     4     TT                       5*          5                               27.5
+            BA (Chinese Language Studies)           UQ        5*    5*     5     TT                       5**        5*         5*                    43.5
+                                                                                                                                                                            • Chinese (x 2)
+ JS4331     and BEd (Chinese Language                M        5**   5*     4     TT                       5*         5*          4                     42        Best 5
+                                                                                                                                                                            • Chinese must be included
+            Education)                              LQ        5*    5*     5*    TT           5            5          5          4                     39
+                                                    UQ        5*    5**    5     TT                       5*          5          5                     42
+            BA (English Studies) and BEd                                                                                                                                    • English (x 2)
+ JS4343                                              M        3     5*     5     TT           4           5**        5*         5*                     42        Best 5
+            (English Language Education)                                                                                                                                    • English must be included
+                                                    LQ        4     5**    4     TT                       5*         5*          4                     39
+
+                                                    UQ        4     5*    5**    TT          5*           5*          5                               57.5                  • Mathematics (x 2)
+                                                                                                                                                                            • M1 or M2 (x 2)
+            BEd in Mathematics and                                                                                                                                          • Chinese or English (x 1.5)
+ JS4361                                              M        4     5*     5*    TT          5*           5**        5*                               57.5       Best 5
+            Mathematics Education                                                                                                                                           • The best one subject of Economics, ICT or
+                                                                                                                                                                            Physics (x 1.5)
+                                                    LQ        5*     4    5**    TT           5           5*          5          5                    54.5                  • Mathematics and M1/M2 must be included
+                                                    UQ        5      4     4     TT                       5*          4          4                    24.5
+ JS4372     BEd in Early Childhood Education         M        5      5     5     TT           3            4          2                               23.5       Best 5     --
+                                                    LQ        5*     4     3     TT           3            4          4          3                     22
+                                                    UQ        5      5     5     TT           5            5          4                               36.25                 • Mathematics (x 1.5)
+                                                                                                                                                                            • M1 or M2 (x 1.5)
+            BSc in Learning Design and
+ JS4386                                              M        5      4     5     TT           5            4          4                                34        Best 5     • Biology, BAFS, Chemistry, DAT, Economics,
+            Technology
+                                                                                                                                                                            Geography, ICT, Physics, Tech and Living (FST)
+                                                    LQ        4     5*     4     TT                        5          4          4                    33.25                 (x 1.5)
+Faculty of Engineering
+                                                    UQ        4      4    5**    TT           5            5          4                               37.25                 • Mathematics (x 1.5)
+            Mechanical and Automation                                                                                                                                       • M1 or M2 (x 1.5)
+ JS4408                                              M        4      4     5*    TT           4            5          5          4                   36.625      Best 5
+            Engineering                                                                                                                                                     • Physics (x 1.5)
+                                                    LQ        3     5*     5     TT           5            5          4                               35.75                 • Biology, Chemistry, DAT, ICT (x 1.25)
+                                                    UQ        5*     4     5*    TT           5           5*          5                              45.875                 • M1 or M2 (x 1.75)
+            Computer Science and                                                                                                                                            • Mathematics (x 1.5)
+ JS4412                                              M        3      4     5*    TT          5*            5          5                               43.25      Best 5
+            Engineering                                                                                                                                                     • Biology, Chemistry, DAT, ICT, Physics
+                                                    LQ        3      3    5**    TT          5*            5          4                               42.25                 (x 1.5)
+                                                    UQ        4      4    5**    TT          5**          5*         5*                                59                   • Mathematics (x 2)
+                                                                                                                                                                            • M1 or M2 (x 2)
+ JS4416     Computational Data Science               M        4      5     5*    TT          5**          5**         5                               57.5       Best 5
+                                                                                                                                                                            • Biology, Chemistry, Economics, ICT, Physics (x
+                                                    LQ        5*     4     5*    TT           5           5**        5*          4                    55.25                 1.5)
+                                                                                                                                                                            • Mathematics (x 1.75)
+                                                    UQ        5**    3    5**    TT                       5**        5*                               52.5                  • M1 or M2 (x 1.75)
+                                                                                                                                                                            • English (x 1.25)
+ JS4428     Financial Technology                     M        5      3     5*    TT           5           5**         5                               49.75      Best 5
+                                                                                                                                                                            • Chinese (x 1.25)
+                                                                                                                                                                            • Biology, BAFS, Chemistry, Economics, ICT,
+                                                    LQ        4     5**    5*    TT           5            5          5                                49
+                                                                                                                                                                            Physics (x 1.5)
+                                                    UQ        5      4     5     TT           5            5          5                               35.75                 • Mathematics (x 1.5)
+ JS4434     Electronic Engineering                   M        5*     4     5*    TT           3            5          4                               34.25      Best 5     • M1 or M2 (x 1.5)
+                                                    LQ        4      3     5*    TT           5            5                                           34                   • Physics (x 1.5)
+                                                    UQ        3      3    5**    TT          5*            4          4                               44.25                 • Mathematics (x 2)
+                                                                                                                                                                            • M1 or M2 (x 1.75)
+ JS4446     Information Engineering                  M        3      5     5*    TT          5*            5          3                                43        Best 5
+                                                                                                                                                                            • Biology, Chemistry, DAT, ICT, Physics
+                                                    LQ        4      4     5*    TT           5            5          4                              41.875                 (x 1.5)
+                                                    UQ        4      3     5*    TT           5            5          4                                37                   • Mathematics (x 1.5)
+            Systems Engineering and                                                                                                                                         • M1 or M2 (x 1.5)
+ JS4458                                              M        4      3     5*    TT                       5*          5                               36.25      Best 5
+            Engineering Management                                                                                                                                          • Biology, BAFS, Chemistry, Economics, ICT,
+                                                    LQ        4      4     4     TT                       5*         5*          4                     35                   Physics (x 1.5)
+                                                    UQ        4      5     5     TT                       5*         5*          5                    45.75                 • English (x 1.5)
+                                                                                                                                                                            • The best one subject of Mathematics or
+ JS4460     Biomedical Engineering                   M        5     5*     4     TT                       5*          5          5                    43.5       Best 5
+                                                                                                                                                                            M1/M2 (x 1.5)
+                                                    LQ        4     5*     5*    TT           4           5*         5*                               42.5                  • Biology, Chemistry, Physics (x 1.5)
+                                                    UQ        5      3     5     TT           5            5          5                               38.5                  • Mathematics (x 1.5)
+            Energy and Environmental                                                                                                                                        • M1 or M2 (x 1.5)
+ JS4462                                              M        5*     3     5     TT           4            5          4                               35.5       Best 5
+            Engineering                                                                                                                                                     • Biology, Chemistry, DAT, ICT, Physics (x 1.5)
+                                                    LQ        5      3     5*    TT           3            5          4                               34.75                 • Economics, Geography (x 1.2)
+
+                                                    UQ        4      4    5**    TT          5**          5*          5          5                    56.75                 • Mathematics (x 1.75)
+                                                                                                                                                                            • M1 or M2 (x 1.75)
+            Artificial Intelligence: Systems
+ JS4468                                              M        4      4    5**    TT          5*           5**         5                              53.125      Best 5     • Chinese (x 1.25)
+            and Technologies
+                                                                                                                                                                            • English (x 1.25)
+                                                    LQ        3     5*     5*    TT          5*           5*          5                                52                   • Biology, Chemistry, ICT, Physics (x 1.5)
+                                                    UQ        5      3     5*    TT           3            5          4                              29.875                 • Mathematics (x 1.25)
+            Materials Science and
+ JS4470                                              M        5      3     5     TT                        5          5                              29.125      Best 5     • M1 or M2 (x 1.25)
+            Engineering
+                                                    LQ        3      3     5*    TT           5            4          4                              28.625                 • Chemistry, Physics (x 1.25)
+
+                                                    UQ        5      5     5     TT           5            5          4                               36.25                 • Mathematics (x 1.5)
+                                                                                                                                                                            • M1 or M2 (x 1.5)
+            BSc in Learning Design and
+ JS4386                                              M        5      4     5     TT           5            4          4                                34        Best 5     • Biology, BAFS, Chemistry, DAT, Economics,
+            Technology
+                                                                                                                                                                            Geography, ICT, Physics, Tech and Living (FST)
+                                                    LQ        4     5*     4     TT                        5          4          4                    33.25                 (x 1.5)
+                                                    UQ        3     5*    5**    TT          5**          5**        5*          5                    65.5                  • Mathematics (x 2)
+            Mathematics and Information
+ JS4733                                              M        4     5*     5*    TT          5*           5**        5**        5*                    60.5       Best 5     • M1 or M2 (x 2)
+            Engineering
+                                                    LQ        4      5    5**    TT          5*           5**        5*                               59.75                 • Biology, Chemistry, ICT, Physics (x 1.5)
+            Aerospace Science and Earth             UQ        5*     4     5*    TT           5            5          4          4          2         47.5                  • M1 or M2 (x 2)
+ JS4750     Informatics & X Double Major             M        5     5*     5     TT           5            5          5                               42.75      Best 5     • Mathematics (x 1.5)
+            Programme                               LQ        5      3     5     TT           5           5*                                          41.75                 • Geography, Physics (x 2)
+
+
+                                                                                                  2/4
+  JUPAS                                                                                                                                                                 Programme
+                                                  Target                                                                       1st       2nd        3rd        4th                  Selection
+Catalogue          Programme/ Stream                          CHI       ENG      MATH       CSD        LS     M1/M2                                                      Weighted                                Subject Weighting
+                                                 Percentile                                                                 Elective   Elective   Elective   Elective               Principle
+   No.                                                                                                                                                                     Total
+                                                    UQ         4         4         5*        TT                   5           5*                                           40                   • M1 or M2 (x 2)
+            Interdisciplinary Data Analytics &
+ JS4760                                              M         3         4         5*        TT                  5*            4          4                               38.5       Best 5     • Mathematics (x 1.5)
+            X Double Major Programme
+                                                    LQ         5*        4         5*        TT                   5            5          4                                38                   • Economics or ICT (x 1.5)
+Faculty of Law
+                                                    UQ         5*        5*        3         TT                               5**         5          4                     32
+ JS4903     Bachelor of Laws                         M         4         5*        5         TT                   3           5*          5          4                     29        Best 5     • English must be included
+                                                    LQ         5*        5*        4         TT                                5          4          4                    27.5
+                                                    UQ         4         5*        5         TT                               5**        5*          5                     39                   • English (x 2)
+            BBA(IBBA) – JD Double Degree
+ JS4264                                              M        5**        5*        4         TT                                5          5          4                    37.5       Best 5     • Chinese, English and Mathematics must be
+            Programme
+                                                    LQ         5         5         4         TT                               5**        5*         5*                     36                   included
+                                                    UQ        5**        4         5         TT                               5*         5*                                32
+            Diplomacy and International
+ JS4898                                              M         5         5*        4         TT                               5*          4          4                    27.5       Best 5     --
+            Studies
+                                                    LQ        5**        5         4         TT                                4          4                                26
+Faculty of Medicine
+                                                    UQ        5**       5**       5**        TT                   4           5*         5*          5                     38       6 Graded
+                                                                                                                                                                                                • Chinese, English, Mathematics and best of
+ JS4501     Medicine (MBChB) Programme               M        5**        5*        5*        TT                  5*           5*         5*         5*                     37       Subjects
+                                                                                                                                                                                      Note 1, 2 Biology/Chemistry must be included
+                                                    LQ        5**        5*        5         TT                   4           5**        5*          5                     36
+            Medicine (MBChB) Programme              UQ        5**       5**       5**        TT                  5*           5**        5**        5**                    42       6 Graded
+                                                                                                                                                                                                • Chinese, English, Mathematics and best of
+ JS4502     Global Physician-Leadership              M        5**       5**        5*        TT                  5*           5**        5**        5**                    41       Subjects
+                                                                                                                                                                                      Note 1, 2 Biology/Chemistry must be included
+            Stream (GPS)                            LQ         5*        5*       5**        TT                  5*           5**        5**        5**                    40
+Note 1:
+Applicants to JS4501 and JS4502 are strongly recommended to take a third elective and / or M1 / M2. The programmes do not consider extended Mathematics module (M1 / M2) to be one elective subject. M1 / M2 will
+contribute to the total HKDSE score if its attained level is higher than that of the worst one of the 6 subjects. In that case, the score for the worst subject is replaced by a new score comprising half of the original score of that
+subject and half the score of the extended Maths module. For details, please refer to the programme website:
+https://www.med.cuhk.edu.hk/study/prospective-students/undergraduate-study/programme-and-admission/mbchb-and-gps/admissions/jupas
+
+Note 2: The grade point conversion for JS4501 and JS4502 is as follows:
+Category A subjects
+Level 5** = 7 | 5* = 6 | 5 = 5 | 4 = 4 | 3 = 3 | 2 = 2 | 1 = 1
+
+Category C: Other Language subjects
+ • Grade C2 in French / German / Spanish; or N1 in Japanese; or Grade 6 in Korean; or A++ / A+ / A in Urdu = 6
+ • Grade C1 in French / German / Spanish; or N2 in Japanese; or Grade 5 in Korean; or B++ / B+ / B in Urdu = 5
+ • Grade B2 in French / German / Spanish; or N3 in Japanese; or Grade 4 in Korean; or C in Urdu = 4
+ • Grade B1 / A2 in French / German / Spanish; or Grade 3 in Korean; or D / E in Urdu = 3
+
+                                                    UQ         5         5         5         TT                               5*          5          4                    30.4
+                                                                                                                                                                                                • The best one subject of Biology, Chemistry or
+ JS4513     Nursing                                  M         4         3         5*        TT                               5*          5          4                    28.9       Best 5
+                                                                                                                                                                                                Physics (x 1.2)
+                                                    LQ         5         3         5         TT                               5*          5          3                    27.6
+                                                    UQ         5*        5         5         TT                               5**        5*         5*                     35
+ JS4525     Pharmacy                                 M         4        5**        5         TT                               5*         5*          5          5         33.5       Best 5     --
+                                                    LQ         5        5**        5         TT                               5*         5*          5                    33.5
+                                                    UQ         5         5*        4         TT                                5          5                               35.75                 • English (x 1.5)
+                                                                                                                                                                                                • Mathematics (x 1.5)
+ JS4537     Public Health                            M         4         5*        3         TT                               5*          5          4          3         34.25      Best 5     • The best one subject of Biology, Chemistry,
+                                                                                                                                                                                                Economics or Health Management & Social
+                                                    LQ         5         5         5         TT                                5          4          4                    34.25                 Care (x 1.5)
+                                                    UQ         5         5         5*        TT                  5*           5*          5          5                     32
+ JS4542     Chinese Medicine                         M         5*        5         5*        TT                   5           5*          5                                32        Best 5     --
+                                                    LQ        5**        4         4         TT                               5**        5*          4                     32
+                                                    UQ         5*        4         5*        TT                   5           5**        5*         5*                    43.25                 • English (x 1.5)
+                                                                                                                                                                                                • Biology (x 1.5)
+ JS4550     Biomedical Sciences                      M         5         5         5         TT                   5           5**        5*          5                    42.5       Best 5     • Chemistry (x 1.5)
+                                                                                                                                                                                                • Chinese, English, Mathematics and best of
+                                                    LQ         5*        5         5*        TT                   5           5*         5*          5        N2P          41                   Biology/Chemistry must be included
+                                                    UQ         4         5*        5         TT                                5          5          5                    35.25                 • The best two subjects of English, Biology or
+            Biotechnology, Entrepreneurship
+ JS4725                                              M         5         5*        5         TT                                5          5          4                    35.25      Best 5     Chemistry (x 1.5)
+            and Healthcare Management
+                                                    LQ         3         5         5         TT                               5*         5*                                35                   • Best of Biology/Chemistry must be included
+Faculty of Science
+                                                                                                                                                                                                • M1 or M2 (x 2)
+                                                    UQ         4         4         5         TT                 5**           5*          4                               43.75                 • English or Mathematics (x 1.5)
+                                                                                                                                                                                                • Biology, Chemistry, Physics (x 2)
+ JS4601     Science (broad-based)                    M         3         3         5         TT                   5            5          5                               41.5       Best 5     • Economics, Geography, ICT, Tech and Living
+                                                                                                                                                                                                (FST) (x 1.5)
+
+                                                    LQ         5         4         5         TT                  5*            4          4                               39.75                 Note: A maximum of 3 subjects will be weighted heavier
+                                                                                                                                                                                                in the total score of Best 5 subjects
+                                                                                                                                                                                                • English (x 2)
+                                                    UQ         5         4         5         TT                   5           5**         5          5                    53.75
+                                                                                                                                                                                                • Mathematics (x 2)
+            Earth and Environmental
+ JS4648                                              M         4         4         5         TT                                5          5          5                    49.25      Best 5     • M1 or M2 (x 2)
+            Sciences
+                                                                                                                                                                                                • Biology, Chemistry, Physics (x 2)
+                                                    LQ         4         4         5         TT                   5            5          4                                47                   • Geography (x 1.5)
+                                                    UQ         5*        4        5**        TT                 5**           5**        5*                               60.75
+ JS4682     Enrichment Mathematics                   M         4         5         5*        TT                 5**           5*         5*         5*                    57.75      Best 5     • M1 or M2 (x 3.5)
+                                                    LQ         4         4        5**        TT                 5**           5**         5                               56.25
+                                                    UQ         4         4        5**        TT                 5**           5**         5          4                     52                   • Mathematics (x 1.5)
+            Enrichment Stream in
+ JS4690                                              M         4         5         5         TT                   4           5**        5**        5*                    46.75      Best 5     • M1 or M2 (x 1.5)
+            Theoretical Physics
+                                                    LQ         5         4         5*        TT                   5           5*         5*          3                    45.25                 • Physics (x 2)
+                                                    UQ         3         5        5**        TT                  5*            5          5                               47.5
+                                                                                                                                                                                                • Mathematics (x 2)
+ JS4719     Risk Management Science                  M         5*        5         5*        TT                  5*            5                                           46        Best 5
+                                                                                                                                                                                                • M1 or M2 (x 2)
+                                                    LQ         5         3         5*        TT                 5**            4          4                               44.5
+                                                    UQ         5         5*       5**        TT                  5*           5**        5**         4                    59.25                 • English (x 2)
+            Quantitative Finance and                                                                                                                                                            • Mathematics (x 2)
+ JS4276                                              M         5*        5        5**        TT                  5*           5**        5**        5**                   57.75      Best 5
+            Risk Management Science                                                                                                                                                             • The best one subject of M1/M2, Chemistry,
+                                                    LQ         4         5        5**        TT                 5**           5**        5*          3                    56.25                 Economics or Physics (x 1.5)
+                                                                                                                                                                                                • Mathematics (x 1.5)
+                                                    UQ         5         5         5         TT                   5            5          4                               36.25
+                                                                                                                                                                                                • M1 or M2 (x 1.5)
+            BSc in Learning Design and
+ JS4386                                              M         5         4         5         TT                   5            4          4                                34        Best 5     • Biology, BAFS, Chemistry, DAT, Economics,
+            Technology
+                                                                                                                                                                                                Geography, ICT, Physics, Tech and Living (FST)
+                                                    LQ         4         5*        4         TT                                5          4          4                    33.25                 (x 1.5)
+
+
+
+
+                                                                                                                      3/4
+  JUPAS                                                                                                                                                             Programme
+                                                  Target                                                                   1st       2nd        3rd        4th                  Selection
+Catalogue          Programme/ Stream                          CHI      ENG      MATH      CSD          LS   M1/M2                                                    Weighted                               Subject Weighting
+                                                 Percentile                                                             Elective   Elective   Elective   Elective               Principle
+   No.                                                                                                                                                                 Total
+                                                    UQ        4         4        5**       TT                5**          5*         5*                                59                   • Mathematics (x 2)
+                                                                                                                                                                                            • M1 or M2 (x 2)
+ JS4416     Computational Data Science               M        4         5        5*        TT                5**          5**         5                               57.5       Best 5
+                                                                                                                                                                                            • Biology, Chemistry, Economics, ICT, Physics (x
+                                                    LQ        5*        4        5*        TT                 5           5**        5*          4                    55.25                 1.5)
+                                                    UQ        5         3        5*        TT                 3            5          4                              29.875                 • Mathematics (x 1.25)
+            Materials Science and
+ JS4470                                              M        5         3         5        TT                              5          5                              29.125      Best 5     • M1 or M2 (x 1.25)
+            Engineering
+                                                    LQ        3         3        5*        TT                 5            4          4                              28.625                 • Chemistry, Physics (x 1.25)
+                                                    UQ        4        5*         5        TT                              5          5          5                    35.25                 • The best two subjects of English, Biology or
+            Biotechnology, Entrepreneurship
+ JS4725                                              M        5        5*         5        TT                              5          5          4                    35.25      Best 5     Chemistry (x 1.5)
+            and Healthcare Management
+                                                    LQ        3         5         5        TT                             5*         5*                                35                   • Best of Biology/Chemistry must be included
+                                                    UQ        3        5*        5**       TT                5**          5**        5*          5                    65.5                  • Mathematics (x 2)
+            Mathematics and Information
+ JS4733                                              M        4        5*        5*        TT                5*           5**        5**        5*                    60.5       Best 5     • M1 or M2 (x 2)
+            Engineering
+                                                    LQ        4         5        5**       TT                5*           5**        5*                               59.75                 • Biology, Chemistry, ICT, Physics (x 1.5)
+            Aerospace Science and Earth             UQ        5*        4        5*        TT                 5            5          4          4          2         47.5                  • M1 or M2 (x 2)
+ JS4750     Informatics & X Double Major             M        5        5*         5        TT                 5            5          5                               42.75      Best 5     • Mathematics (x 1.5)
+            Programme                               LQ        5         3         5        TT                 5           5*                                          41.75                 • Geography, Physics (x 2)
+                                                    UQ        4         4        5*        TT                 5           5*                                           40                   • M1 or M2 (x 2)
+            Interdisciplinary Data Analytics &
+ JS4760                                              M        3         4        5*        TT                5*            4          4                               38.5       Best 5     • Mathematics (x 1.5)
+            X Double Major Programme
+                                                    LQ        5*        4        5*        TT                 5            5          4                                38                   • Economics or ICT (x 1.5)
+Faculty of Social Science
+                                                    UQ        5         5         4        TT                             5*          5          4                    29.15
+ JS4801     Social Science (broad-based)             M        5        5*         5        TT                              4          4          4                    28.1       Best 5     • English (x 1.3)
+                                                    LQ        4         5         5        TT                             5*          4          3                    27.65
+                                                    UQ        5*        4         5        TT                5*            4          3                               29.5
+ JS4812     Architectural Studies                    M        4         4         4        TT                 3           5*         5*          4                     28        Best 5     • English (x 1.5)
+                                                    LQ        5*        4         4        TT                              5          4          4                    26.5
+                                                    UQ        5         4         5        TT                             5*          5          3                    33.75                 • Mathematics (x 1.5)
+ JS4824     Economics                                M        5*        3         5        TT                 2           5*          4                               32.75      Best 5     • The best one subject of M1/M2, Chemistry,
+                                                    LQ        5*        4         4        TT                 3           5**         4          4                    31.5                  Economics or Physics (x 1.5)
+                                                    UQ        5*        5         5        TT                             5*          5          4                    36.75
+            Geography and Resource                                                                                                                                                          • English (x 1.5)
+ JS4836                                              M        5*        4         4        TT                             5*          5          5                    33.75      Best 5
+            Management                                                                                                                                                                      • Geography (x 1.5)
+                                                    LQ        4         4         4        TT                             5**         5          5                    32.25
+                                                    UQ        4         3         5        TT                             5*         5*                               26.5
+ JS4838     Urban Studies                            M        5         4         5        TT                              5          5          4                     26        Best 5     --
+                                                    LQ        5         5         5        TT                              5          4                                26
+                                                    UQ        5         4        5*        TT                 5            4          4                              29.375
+            Government and Public                                                                                                                                                           • English (x 1.5)
+ JS4848                                              M        5*        4         4        TT                              5          4          4                    28.25      Best 5
+            Administration                                                                                                                                                                  • Chinese (x 1.25)
+                                                    LQ        5*        4         4        TT                 2            5          4                               28.25
+                                                    UQ        5        5*         4        TT                              5          5          3                    31.25
+                                                                                                                                                                                            • English (x 1.3)
+ JS4850     Journalism and Communication             M        5*        5         4        TT                              5          4                               29.75      Best 5
+                                                                                                                                                                                            • Chinese (x 1.3)
+                                                    LQ        5         5         4        TT                              5          5          4                    29.3
+                                                    UQ        4        5**        5        TT                             5*          5          4                    37.5
+                                                                                                                                                                                            • English (x 1.5)
+ JS4862     Psychology                               M        5*        3        5*        TT                 5            5          5          5                     34        Best 5
+                                                                                                                                                                                            • Mathematics (x 1.5)
+                                                    LQ        5         4        5*        TT                 5            5          5                                33
+                                                    UQ        5         5         5        TT                 4           5*         5*          4                    30.5
+ JS4874     Social Work                              M        5*        4         4        TT                             5**         5          4                     29        Best 5     --
+                                                    LQ        5*        4        5*        TT                              5          4          4                    27.5
+                                                    UQ        5         4         4        TT                             5*          5          3                     28
+ JS4886     Sociology                                M        5*        5         3        TT                              4          4          4                    27.25      Best 5     • English (x 1.5)
+                                                    LQ        4         4         4        TT                              5          5          5                    26.5
+                                                    UQ        5*        4         4        TT                 3           5*          5                               29.5
+ JS4892     Global Studies                           M        5*        4         3        TT                             5*          5                               28.5       Best 5     • English (x 1.5)
+                                                    LQ        5*        5         4        TT                              4          4          3                    27.25
+                                                    UQ        3         4        5*        TT                 5            5          5                               27.5
+ JS4893     Data Science and Policy Studies          M        5*        4        5*        TT                 4            4          3                                26        Best 5     --
+                                                    LQ        5**       3         5        TT                 2            4          4                                25
+                                                    UQ        5**       4         5        TT                             5*         5*                                32
+            Diplomacy and International
+ JS4898                                              M        5        5*         4        TT                             5*          4          4                    27.5       Best 5     --
+            Studies
+                                                    LQ        5**       5         4        TT                              4          4                                26
+            Interdisciplinary Major                 UQ        5         5         5        TT                             5**        5**        5*                     35
+ JS4254     Programme in Global Economics            M        5**       5         5        TT                5*           5*          5                               33.5       Best 5     • English must be included
+            and Finance                             LQ        5*        5         5        TT                5*           5**         5                               33.5
+            Aerospace Science and Earth             UQ        5*        4        5*        TT                 5            5          4          4          2         47.5                  • M1 or M2 (x 2)
+ JS4750     Informatics & X Double Major             M        5        5*         5        TT                 5            5          5                               42.75      Best 5     • Mathematics (x 1.5)
+            Programme                               LQ        5         3         5        TT                 5           5*                                          41.75                 • Geography, Physics (x 2)
+
+Remarks:
+  (1)    In the admission process, some programmes may have additional requirements which are not reflected in the Programme Weighted Total above. For the latest admission information, please visit
+            https://admission.cuhk.edu.hk/application/jupas/download-area-for-important-information/
+   (2)      To protect the data privacy of individual student, the admission grades of programmes with small number of JUPAS Main Round offers are excluded.
+   (3)      Please note that as admission is not based on public examination results alone, and the overall scores of students admitted to each programme vary from year to year, the information provided is for reference
+            only, and should not be used to predict the chance of admission to any programme in subsequent years.
+
+Note 3: The grade point conversion for all programmes (except JS4501 and JS4502) is as follows:
+Category A subjects
+Level 5** = 8.5 | 5* = 7 | 5 = 5.5 | 4 = 4 | 3 = 3 | 2 = 2 | 1 = 1
+
+Category C: Other Language subjects
+ • Grade C2 in French / German / Spanish; or N1 in Japanese; or Grade 6 in Korean; or A++ / A+ / A in Urdu = 7
+ • Grade C1 in French / German / Spanish; or N2 in Japanese; or Grade 5 in Korean; or B++ / B+ / B in Urdu = 5.5
+ • Grade B2 in French / German / Spanish; or N3 in Japanese; or Grade 4 in Korean; or C in Urdu = 4
+ • Grade B1 / A2 in French / German / Spanish; or Grade 3 in Korean; or D / E in Urdu = 3
+
+
+
+
+                                                                                                                  4/4
+

@@ -1,0 +1,3134 @@
+{
+ "JS9009": {
+  "code": "JS9009",
+  "sector": "hkmu",
+  "name": "Bachelor of Social Sciences with Honours",
+  "operator": null,
+  "core": [
+   [
+    "CHINESE LANGUAGE",
+    "3"
+   ],
+   [
+    "CITIZENSHIP AND SOCIAL DEVELOPMENT",
+    "Attained"
+   ],
+   [
+    "ENGLISH LANGUAGE",
+    "3"
+   ],
+   [
+    "MATHEMATICS COMPULSORY PART",
+    "2"
+   ]
+  ],
+  "electives": [
+   [
+    "ANY 2 SUBJECTS",
+    "2"
+   ]
+  ],
+  "weighted_subjects": [],
+  "notes": [
+   "Calculation of scores for applicants with more than 1 sitting in HKDSE Examination HKMU will consider the best grade attained in a particular subject from any sittings of the HKDSE examination taken by the applicant. There is no grade penalty for multiple sittings."
+  ]
+ },
+ "JS9010": {
+  "code": "JS9010",
+  "sector": "hkmu",
+  "name": "Bachelor of Social Sciences with Honours in Psychology",
+  "operator": null,
+  "core": [
+   [
+    "CHINESE LANGUAGE",
+    "3"
+   ],
+   [
+    "CITIZENSHIP AND SOCIAL DEVELOPMENT",
+    "Attained"
+   ],
+   [
+    "ENGLISH LANGUAGE",
+    "3"
+   ],
+   [
+    "MATHEMATICS COMPULSORY PART",
+    "2"
+   ]
+  ],
+  "electives": [
+   [
+    "ANY 2 SUBJECTS",
+    "2"
+   ]
+  ],
+  "weighted_subjects": [],
+  "notes": [
+   "Calculation of scores for applicants with more than 1 sitting in HKDSE Examination HKMU will consider the best grade attained in a particular subject from any sittings of the HKDSE examination taken by the applicant. There is no grade penalty for multiple sittings."
+  ]
+ },
+ "JS9011": {
+  "code": "JS9011",
+  "sector": "hkmu",
+  "name": "Bachelor of Arts with Honours in Chinese",
+  "operator": null,
+  "core": [
+   [
+    "CHINESE LANGUAGE",
+    "3"
+   ],
+   [
+    "CITIZENSHIP AND SOCIAL DEVELOPMENT",
+    "Attained"
+   ],
+   [
+    "ENGLISH LANGUAGE",
+    "3"
+   ],
+   [
+    "MATHEMATICS COMPULSORY PART",
+    "2"
+   ]
+  ],
+  "electives": [
+   [
+    "ANY 2 SUBJECTS",
+    "2"
+   ]
+  ],
+  "weighted_subjects": [
+   "Chinese Language"
+  ],
+  "notes": [
+   "Waiver of the HKDSE Chinese Language requirement willÂ NOT Â be granted. The following subject(s) will carry a greater weight in admission score calculation, please clickÂ here Â for details. - Chinese Language Â",
+   "Calculation of scores for applicants with more than 1 sitting in HKDSE Examination HKMU will consider the best grade attained in a particular subject from any sittings of the HKDSE examination taken by the applicant. There is no grade penalty for multiple sittings."
+  ]
+ },
+ "JS9013": {
+  "code": "JS9013",
+  "sector": "hkmu",
+  "name": "Bachelor of Arts with Honours in Language Studies and Translation",
+  "operator": null,
+  "core": [
+   [
+    "CHINESE LANGUAGE",
+    "3"
+   ],
+   [
+    "CITIZENSHIP AND SOCIAL DEVELOPMENT",
+    "Attained"
+   ],
+   [
+    "ENGLISH LANGUAGE",
+    "3"
+   ],
+   [
+    "MATHEMATICS COMPULSORY PART",
+    "2"
+   ]
+  ],
+  "electives": [
+   [
+    "ANY 2 SUBJECTS",
+    "2"
+   ]
+  ],
+  "weighted_subjects": [
+   "Chinese Language",
+   "English Language"
+  ],
+  "notes": [
+   "This programme has specific entrance requirements regarding Chinese Language proficiency, please clickÂ here Â for details. The following subject(s) will carry a greater weight in admission score calculation, please clickÂ here Â for details. - Chinese Language - English Language",
+   "Calculation of scores for applicants with more than 1 sitting in HKDSE Examination HKMU will consider the best grade attained in a particular subject from any sittings of the HKDSE examination taken by the applicant. There is no grade penalty for multiple sittings."
+  ]
+ },
+ "JS9016": {
+  "code": "JS9016",
+  "sector": "hkmu",
+  "name": "Bachelor of Arts with Honours in Creative Advertising and Media Design",
+  "operator": null,
+  "core": [
+   [
+    "CHINESE LANGUAGE",
+    "3"
+   ],
+   [
+    "CITIZENSHIP AND SOCIAL DEVELOPMENT",
+    "Attained"
+   ],
+   [
+    "ENGLISH LANGUAGE",
+    "3"
+   ],
+   [
+    "MATHEMATICS COMPULSORY PART",
+    "2"
+   ]
+  ],
+  "electives": [
+   [
+    "ANY 2 SUBJECTS",
+    "2"
+   ]
+  ],
+  "weighted_subjects": [
+   "Chinese Language",
+   "English Language"
+  ],
+  "notes": [
+   "The following subject(s) will carry a greater weight in admission score calculation, please clickÂ here Â for details. - Chinese Language - English Language",
+   "Calculation of scores for applicants with more than 1 sitting in HKDSE Examination HKMU will consider the best grade attained in a particular subject from any sittings of the HKDSE examination taken by the applicant. There is no grade penalty for multiple sittings."
+  ]
+ },
+ "JS9019": {
+  "code": "JS9019",
+  "sector": "hkmu",
+  "name": "Bachelor of Arts with Honours in English Language and Culture",
+  "operator": null,
+  "core": [
+   [
+    "CHINESE LANGUAGE",
+    "3"
+   ],
+   [
+    "CITIZENSHIP AND SOCIAL DEVELOPMENT",
+    "Attained"
+   ],
+   [
+    "ENGLISH LANGUAGE",
+    "3"
+   ],
+   [
+    "MATHEMATICS COMPULSORY PART",
+    "2"
+   ]
+  ],
+  "electives": [
+   [
+    "ANY 2 SUBJECTS",
+    "2"
+   ]
+  ],
+  "weighted_subjects": [],
+  "notes": [
+   "Calculation of scores for applicants with more than 1 sitting in HKDSE Examination HKMU will consider the best grade attained in a particular subject from any sittings of the HKDSE examination taken by the applicant. There is no grade penalty for multiple sittings."
+  ]
+ },
+ "JS9210": {
+  "code": "JS9210",
+  "sector": "hkmu",
+  "name": "Bachelor of Business Administration with Honours in World Business",
+  "operator": null,
+  "core": [
+   [
+    "CHINESE LANGUAGE",
+    "3"
+   ],
+   [
+    "CITIZENSHIP AND SOCIAL DEVELOPMENT",
+    "Attained"
+   ],
+   [
+    "ENGLISH LANGUAGE",
+    "3"
+   ],
+   [
+    "MATHEMATICS COMPULSORY PART",
+    "2"
+   ]
+  ],
+  "electives": [
+   [
+    "ANY 2 SUBJECTS",
+    "2"
+   ]
+  ],
+  "weighted_subjects": [],
+  "notes": [
+   "Calculation of scores for applicants with more than 1 sitting in HKDSE Examination HKMU will consider the best grade attained in a particular subject from any sittings of the HKDSE examination taken by the applicant. There is no grade penalty for multiple sittings."
+  ]
+ },
+ "JS9220": {
+  "code": "JS9220",
+  "sector": "hkmu",
+  "name": "Bachelor of Business Administration with Honours in Professional Accounting",
+  "operator": null,
+  "core": [
+   [
+    "CHINESE LANGUAGE",
+    "3"
+   ],
+   [
+    "CITIZENSHIP AND SOCIAL DEVELOPMENT",
+    "Attained"
+   ],
+   [
+    "ENGLISH LANGUAGE",
+    "3"
+   ],
+   [
+    "MATHEMATICS COMPULSORY PART",
+    "2"
+   ]
+  ],
+  "electives": [
+   [
+    "ANY 2 SUBJECTS",
+    "2"
+   ]
+  ],
+  "weighted_subjects": [],
+  "notes": [
+   "Calculation of scores for applicants with more than 1 sitting in HKDSE Examination HKMU will consider the best grade attained in a particular subject from any sittings of the HKDSE examination taken by the applicant. There is no grade penalty for multiple sittings."
+  ]
+ },
+ "JS9230": {
+  "code": "JS9230",
+  "sector": "hkmu",
+  "name": "Bachelor of Business Administration with Honours in Business Management",
+  "operator": null,
+  "core": [
+   [
+    "CHINESE LANGUAGE",
+    "3"
+   ],
+   [
+    "CITIZENSHIP AND SOCIAL DEVELOPMENT",
+    "Attained"
+   ],
+   [
+    "ENGLISH LANGUAGE",
+    "3"
+   ],
+   [
+    "MATHEMATICS COMPULSORY PART",
+    "2"
+   ]
+  ],
+  "electives": [
+   [
+    "ANY 2 SUBJECTS",
+    "2"
+   ]
+  ],
+  "weighted_subjects": [],
+  "notes": [
+   "Calculation of scores for applicants with more than 1 sitting in HKDSE Examination HKMU will consider the best grade attained in a particular subject from any sittings of the HKDSE examination taken by the applicant. There is no grade penalty for multiple sittings."
+  ]
+ },
+ "JS9240": {
+  "code": "JS9240",
+  "sector": "hkmu",
+  "name": "Bachelor of Business Administration with Honours in Global Business",
+  "operator": null,
+  "core": [
+   [
+    "CHINESE LANGUAGE",
+    "3"
+   ],
+   [
+    "CITIZENSHIP AND SOCIAL DEVELOPMENT",
+    "Attained"
+   ],
+   [
+    "ENGLISH LANGUAGE",
+    "3"
+   ],
+   [
+    "MATHEMATICS COMPULSORY PART",
+    "2"
+   ]
+  ],
+  "electives": [
+   [
+    "ANY 2 SUBJECTS",
+    "2"
+   ]
+  ],
+  "weighted_subjects": [],
+  "notes": [
+   "Calculation of scores for applicants with more than 1 sitting in HKDSE Examination HKMU will consider the best grade attained in a particular subject from any sittings of the HKDSE examination taken by the applicant. There is no grade penalty for multiple sittings."
+  ]
+ },
+ "JS9262": {
+  "code": "JS9262",
+  "sector": "hkmu",
+  "name": "Bachelor of Business Administration with Honours in Human Resource Management",
+  "operator": null,
+  "core": [
+   [
+    "CHINESE LANGUAGE",
+    "3"
+   ],
+   [
+    "CITIZENSHIP AND SOCIAL DEVELOPMENT",
+    "Attained"
+   ],
+   [
+    "ENGLISH LANGUAGE",
+    "3"
+   ],
+   [
+    "MATHEMATICS COMPULSORY PART",
+    "2"
+   ]
+  ],
+  "electives": [
+   [
+    "ANY 2 SUBJECTS",
+    "2"
+   ]
+  ],
+  "weighted_subjects": [],
+  "notes": [
+   "Calculation of scores for applicants with more than 1 sitting in HKDSE Examination HKMU will consider the best grade attained in a particular subject from any sittings of the HKDSE examination taken by the applicant. There is no grade penalty for multiple sittings."
+  ]
+ },
+ "JS9266": {
+  "code": "JS9266",
+  "sector": "hkmu",
+  "name": "Bachelor of Business Administration with Honours in Marketing",
+  "operator": null,
+  "core": [
+   [
+    "CHINESE LANGUAGE",
+    "3"
+   ],
+   [
+    "CITIZENSHIP AND SOCIAL DEVELOPMENT",
+    "Attained"
+   ],
+   [
+    "ENGLISH LANGUAGE",
+    "3"
+   ],
+   [
+    "MATHEMATICS COMPULSORY PART",
+    "2"
+   ]
+  ],
+  "electives": [
+   [
+    "ANY 2 SUBJECTS",
+    "2"
+   ]
+  ],
+  "weighted_subjects": [],
+  "notes": [
+   "Calculation of scores for applicants with more than 1 sitting in HKDSE Examination HKMU will consider the best grade attained in a particular subject from any sittings of the HKDSE examination taken by the applicant. There is no grade penalty for multiple sittings."
+  ]
+ },
+ "JS9276": {
+  "code": "JS9276",
+  "sector": "hkmu",
+  "name": "Bachelor of Business Administration with Honours in Real Estate and Surveying",
+  "operator": null,
+  "core": [
+   [
+    "CHINESE LANGUAGE",
+    "3"
+   ],
+   [
+    "CITIZENSHIP AND SOCIAL DEVELOPMENT",
+    "Attained"
+   ],
+   [
+    "ENGLISH LANGUAGE",
+    "3"
+   ],
+   [
+    "MATHEMATICS COMPULSORY PART",
+    "2"
+   ]
+  ],
+  "electives": [
+   [
+    "ANY 2 SUBJECTS",
+    "2"
+   ]
+  ],
+  "weighted_subjects": [],
+  "notes": [
+   "Calculation of scores for applicants with more than 1 sitting in HKDSE Examination HKMU will consider the best grade attained in a particular subject from any sittings of the HKDSE examination taken by the applicant. There is no grade penalty for multiple sittings."
+  ]
+ },
+ "JS9280": {
+  "code": "JS9280",
+  "sector": "hkmu",
+  "name": "Bachelor of Applied Psychology with Honours, Bachelor of Business Management with Honours",
+  "operator": null,
+  "core": [
+   [
+    "CHINESE LANGUAGE",
+    "3"
+   ],
+   [
+    "CITIZENSHIP AND SOCIAL DEVELOPMENT",
+    "Attained"
+   ],
+   [
+    "ENGLISH LANGUAGE",
+    "3"
+   ],
+   [
+    "MATHEMATICS COMPULSORY PART",
+    "2"
+   ]
+  ],
+  "electives": [
+   [
+    "ANY 2 SUBJECTS",
+    "2"
+   ]
+  ],
+  "weighted_subjects": [],
+  "notes": [
+   "Calculation of scores for applicants with more than 1 sitting in HKDSE Examination HKMU will consider the best grade attained in a particular subject from any sittings of the HKDSE examination taken by the applicant. There is no grade penalty for multiple sittings."
+  ]
+ },
+ "JS9291": {
+  "code": "JS9291",
+  "sector": "hkmu",
+  "name": "Bachelor of Business Administration with Honours in Sustainable Tourism and Hospitality Management",
+  "operator": null,
+  "core": [
+   [
+    "CHINESE LANGUAGE",
+    "3"
+   ],
+   [
+    "CITIZENSHIP AND SOCIAL DEVELOPMENT",
+    "Attained"
+   ],
+   [
+    "ENGLISH LANGUAGE",
+    "3"
+   ],
+   [
+    "MATHEMATICS COMPULSORY PART",
+    "2"
+   ]
+  ],
+  "electives": [
+   [
+    "ANY 2 SUBJECTS",
+    "2"
+   ]
+  ],
+  "weighted_subjects": [],
+  "notes": [
+   "Calculation of scores for applicants with more than 1 sitting in HKDSE Examination HKMU will consider the best grade attained in a particular subject from any sittings of the HKDSE examination taken by the applicant. There is no grade penalty for multiple sittings."
+  ]
+ },
+ "JS9294": {
+  "code": "JS9294",
+  "sector": "hkmu",
+  "name": "Bachelor of Business Administration with Honours in Sports and eSports Management",
+  "operator": null,
+  "core": [
+   [
+    "CHINESE LANGUAGE",
+    "3"
+   ],
+   [
+    "CITIZENSHIP AND SOCIAL DEVELOPMENT",
+    "Attained"
+   ],
+   [
+    "ENGLISH LANGUAGE",
+    "3"
+   ],
+   [
+    "MATHEMATICS COMPULSORY PART",
+    "2"
+   ]
+  ],
+  "electives": [
+   [
+    "ANY 2 SUBJECTS",
+    "2"
+   ]
+  ],
+  "weighted_subjects": [],
+  "notes": [
+   "Calculation of scores for applicants with more than 1 sitting in HKDSE Examination HKMU will consider the best grade attained in a particular subject from any sittings of the HKDSE examination taken by the applicant. There is no grade penalty for multiple sittings."
+  ]
+ },
+ "JS9520": {
+  "code": "JS9520",
+  "sector": "hkmu",
+  "name": "Bachelor of Education with Honours (Putonghua and Chinese Language Education) and Bachelor of Language Studies with Honours (Chinese Linguistic Studies)",
+  "operator": null,
+  "core": [
+   [
+    "CHINESE LANGUAGE",
+    "3"
+   ],
+   [
+    "CITIZENSHIP AND SOCIAL DEVELOPMENT",
+    "Attained"
+   ],
+   [
+    "ENGLISH LANGUAGE",
+    "3"
+   ],
+   [
+    "MATHEMATICS COMPULSORY PART",
+    "2"
+   ]
+  ],
+  "electives": [
+   [
+    "ANY 2 SUBJECTS",
+    "2"
+   ]
+  ],
+  "weighted_subjects": [
+   "Chinese Language"
+  ],
+  "notes": [
+   "Waiver of the HKDSE Chinese Language requirement willÂ NOT Â be granted. The following subject(s) will carry a greater weight in admission score calculation, please clickÂ here Â for details. - Chinese Language",
+   "Calculation of scores for applicants with more than 1 sitting in HKDSE Examination HKMU will consider the best grade attained in a particular subject from any sittings of the HKDSE examination taken by the applicant. There is no grade penalty for multiple sittings."
+  ]
+ },
+ "JS9530": {
+  "code": "JS9530",
+  "sector": "hkmu",
+  "name": "Bachelor of Education with Honours in English Language Teaching and Bachelor of English Language Studies with Honours",
+  "operator": null,
+  "core": [
+   [
+    "CHINESE LANGUAGE",
+    "3"
+   ],
+   [
+    "CITIZENSHIP AND SOCIAL DEVELOPMENT",
+    "Attained"
+   ],
+   [
+    "ENGLISH LANGUAGE",
+    "3"
+   ],
+   [
+    "MATHEMATICS COMPULSORY PART",
+    "2"
+   ]
+  ],
+  "electives": [
+   [
+    "ANY 2 SUBJECTS",
+    "2"
+   ]
+  ],
+  "weighted_subjects": [
+   "English Language"
+  ],
+  "notes": [
+   "A good command of English language, usually pitched at Level 4 or above on HKDSE, will facilitate studying in the programme. Applicants who have attained an overall Level 3 but a Level 4 or above in oral English will be considered compassionately. The following subject(s) will carry a greater weight in admission score calculation, please clickÂ here Â for details. - English Language",
+   "Calculation of scores for applicants with more than 1 sitting in HKDSE Examination HKMU will consider the best grade attained in a particular subject from any sittings of the HKDSE examination taken by the applicant. There is no grade penalty for multiple sittings."
+  ]
+ },
+ "JS9540": {
+  "code": "JS9540",
+  "sector": "hkmu",
+  "name": "Bachelor of English Language Studies with Honours",
+  "operator": null,
+  "core": [
+   [
+    "CHINESE LANGUAGE",
+    "3"
+   ],
+   [
+    "CITIZENSHIP AND SOCIAL DEVELOPMENT",
+    "Attained"
+   ],
+   [
+    "ENGLISH LANGUAGE",
+    "3"
+   ],
+   [
+    "MATHEMATICS COMPULSORY PART",
+    "2"
+   ]
+  ],
+  "electives": [
+   [
+    "ANY 2 SUBJECTS",
+    "2"
+   ]
+  ],
+  "weighted_subjects": [
+   "English Language"
+  ],
+  "notes": [
+   "The following subject(s) will carry a greater weight in admission score calculation, please clickÂ here Â for details. - English Language",
+   "Calculation of scores for applicants with more than 1 sitting in HKDSE Examination HKMU will consider the best grade attained in a particular subject from any sittings of the HKDSE examination taken by the applicant. There is no grade penalty for multiple sittings."
+  ]
+ },
+ "JS9550": {
+  "code": "JS9550",
+  "sector": "hkmu",
+  "name": "Bachelor of Language Studies with Honours (Applied Chinese Language Studies)",
+  "operator": null,
+  "core": [
+   [
+    "CHINESE LANGUAGE",
+    "3"
+   ],
+   [
+    "CITIZENSHIP AND SOCIAL DEVELOPMENT",
+    "Attained"
+   ],
+   [
+    "ENGLISH LANGUAGE",
+    "3"
+   ],
+   [
+    "MATHEMATICS COMPULSORY PART",
+    "2"
+   ]
+  ],
+  "electives": [
+   [
+    "ANY 2 SUBJECTS",
+    "2"
+   ]
+  ],
+  "weighted_subjects": [
+   "Chinese Language",
+   "Chinese Literature"
+  ],
+  "notes": [
+   "Waiver of the HKDSE Chinese Language requirement willÂ NOT Â be granted. The following subject(s) will carry a greater weight in admission score calculation, please clickÂ here Â for details. - Chinese Language - Chinese Literature",
+   "Calculation of scores for applicants with more than 1 sitting in HKDSE Examination HKMU will consider the best grade attained in a particular subject from any sittings of the HKDSE examination taken by the applicant. There is no grade penalty for multiple sittings."
+  ]
+ },
+ "JS9560": {
+  "code": "JS9560",
+  "sector": "hkmu",
+  "name": "Bachelor of Education with Honours (Chinese Language Teaching) and Bachelor of Language Studies with Honours (Applied Chinese Language Studies)",
+  "operator": null,
+  "core": [
+   [
+    "CHINESE LANGUAGE",
+    "3"
+   ],
+   [
+    "CITIZENSHIP AND SOCIAL DEVELOPMENT",
+    "Attained"
+   ],
+   [
+    "ENGLISH LANGUAGE",
+    "3"
+   ],
+   [
+    "MATHEMATICS COMPULSORY PART",
+    "2"
+   ]
+  ],
+  "electives": [
+   [
+    "ANY 2 SUBJECTS",
+    "2"
+   ]
+  ],
+  "weighted_subjects": [
+   "Chinese Language",
+   "Chinese Literature"
+  ],
+  "notes": [
+   "Waiver of the HKDSE Chinese Language requirement willÂ NOT Â be granted. Only fluent Cantonese-speaking applicants will be considered for the programme as it is a usual quality required in the completion of teaching practices. The following subject(s) will carry a greater weight in admission score calculation, please clickÂ here Â for details. - Chinese Language - Chinese Literature",
+   "Calculation of scores for applicants with more than 1 sitting in HKDSE Examination HKMU will consider the best grade attained in a particular subject from any sittings of the HKDSE examination taken by the applicant. There is no grade penalty for multiple sittings."
+  ]
+ },
+ "JS9580": {
+  "code": "JS9580",
+  "sector": "hkmu",
+  "name": "Bachelor of Education with Honours in Early Childhood Education (Leadership and Special Educational Needs)",
+  "operator": null,
+  "core": [
+   [
+    "CHINESE LANGUAGE",
+    "3"
+   ],
+   [
+    "CITIZENSHIP AND SOCIAL DEVELOPMENT",
+    "Attained"
+   ],
+   [
+    "ENGLISH LANGUAGE",
+    "3"
+   ],
+   [
+    "MATHEMATICS COMPULSORY PART",
+    "2"
+   ]
+  ],
+  "electives": [
+   [
+    "ANY 2 SUBJECTS",
+    "2"
+   ]
+  ],
+  "weighted_subjects": [
+   "Child Care and EducationÂ",
+   "Child Care and Develoment"
+  ],
+  "notes": [
+   "Preferred subjects include Applied Learning subject (Category B): Child Care and Education; Applied Learning subject (Category B): Child Care and Development. The following subject(s) will carry a greater weight in admission score calculation, please clickÂ here Â for details. - Child Care and EducationÂ - Child Care and Develoment Â",
+   "Calculation of scores for applicants with more than 1 sitting in HKDSE Examination HKMU will consider the best grade attained in a particular subject from any sittings of the HKDSE examination taken by the applicant. There is no grade penalty for multiple sittings."
+  ]
+ },
+ "JS9719": {
+  "code": "JS9719",
+  "sector": "hkmu",
+  "name": "Bachelor of Science with Honours in Cyber and Computer Security",
+  "operator": null,
+  "core": [
+   [
+    "CHINESE LANGUAGE",
+    "3"
+   ],
+   [
+    "CITIZENSHIP AND SOCIAL DEVELOPMENT",
+    "Attained"
+   ],
+   [
+    "ENGLISH LANGUAGE",
+    "3"
+   ],
+   [
+    "MATHEMATICS COMPULSORY PART",
+    "2"
+   ]
+  ],
+  "electives": [
+   [
+    "ANY 2 SUBJECTS",
+    "2"
+   ]
+  ],
+  "weighted_subjects": [],
+  "notes": [
+   "Calculation of scores for applicants with more than 1 sitting in HKDSE Examination HKMU will consider the best grade attained in a particular subject from any sittings of the HKDSE examination taken by the applicant. There is no grade penalty for multiple sittings."
+  ]
+ },
+ "JS9720": {
+  "code": "JS9720",
+  "sector": "hkmu",
+  "name": "Bachelor of Engineering with Honours in Electronic and Computer Engineering",
+  "operator": null,
+  "core": [
+   [
+    "CHINESE LANGUAGE",
+    "3"
+   ],
+   [
+    "CITIZENSHIP AND SOCIAL DEVELOPMENT",
+    "Attained"
+   ],
+   [
+    "ENGLISH LANGUAGE",
+    "3"
+   ],
+   [
+    "MATHEMATICS COMPULSORY PART",
+    "2"
+   ]
+  ],
+  "electives": [
+   [
+    "ANY 2 SUBJECTS",
+    "2"
+   ]
+  ],
+  "weighted_subjects": [],
+  "notes": [
+   "Calculation of scores for applicants with more than 1 sitting in HKDSE Examination HKMU will consider the best grade attained in a particular subject from any sittings of the HKDSE examination taken by the applicant. There is no grade penalty for multiple sittings."
+  ]
+ },
+ "JS9731": {
+  "code": "JS9731",
+  "sector": "hkmu",
+  "name": "Bachelor of Science with Honours in Environmental Science and Green Management",
+  "operator": null,
+  "core": [
+   [
+    "CHINESE LANGUAGE",
+    "3"
+   ],
+   [
+    "CITIZENSHIP AND SOCIAL DEVELOPMENT",
+    "Attained"
+   ],
+   [
+    "ENGLISH LANGUAGE",
+    "3"
+   ],
+   [
+    "MATHEMATICS COMPULSORY PART",
+    "2"
+   ]
+  ],
+  "electives": [
+   [
+    "ANY 2 SUBJECTS",
+    "2"
+   ]
+  ],
+  "weighted_subjects": [],
+  "notes": [
+   "Calculation of scores for applicants with more than 1 sitting in HKDSE Examination HKMU will consider the best grade attained in a particular subject from any sittings of the HKDSE examination taken by the applicant. There is no grade penalty for multiple sittings."
+  ]
+ },
+ "JS9732": {
+  "code": "JS9732",
+  "sector": "hkmu",
+  "name": "Bachelor of Science with Honours in Biomedical Sciences and Biotechnology",
+  "operator": null,
+  "core": [
+   [
+    "CHINESE LANGUAGE",
+    "3"
+   ],
+   [
+    "CITIZENSHIP AND SOCIAL DEVELOPMENT",
+    "Attained"
+   ],
+   [
+    "ENGLISH LANGUAGE",
+    "3"
+   ],
+   [
+    "MATHEMATICS COMPULSORY PART",
+    "2"
+   ]
+  ],
+  "electives": [
+   [
+    "ANY 2 SUBJECTS",
+    "2"
+   ]
+  ],
+  "weighted_subjects": [],
+  "notes": [
+   "Calculation of scores for applicants with more than 1 sitting in HKDSE Examination HKMU will consider the best grade attained in a particular subject from any sittings of the HKDSE examination taken by the applicant. There is no grade penalty for multiple sittings."
+  ]
+ },
+ "JS9733": {
+  "code": "JS9733",
+  "sector": "hkmu",
+  "name": "Bachelor of Science with Honours in Science (STEAM)",
+  "operator": null,
+  "core": [
+   [
+    "CHINESE LANGUAGE",
+    "3"
+   ],
+   [
+    "CITIZENSHIP AND SOCIAL DEVELOPMENT",
+    "Attained"
+   ],
+   [
+    "ENGLISH LANGUAGE",
+    "3"
+   ],
+   [
+    "MATHEMATICS COMPULSORY PART",
+    "2"
+   ]
+  ],
+  "electives": [
+   [
+    "ANY 2 SUBJECTS",
+    "2"
+   ]
+  ],
+  "weighted_subjects": [],
+  "notes": [
+   "Preferred subjects include Biology, Chemistry, Physics, Mathematics (Extended Part) Module I or Module II, or Information and Communication Technology.",
+   "Calculation of scores for applicants with more than 1 sitting in HKDSE Examination HKMU will consider the best grade attained in a particular subject from any sittings of the HKDSE examination taken by the applicant. There is no grade penalty for multiple sittings."
+  ]
+ },
+ "JS9776": {
+  "code": "JS9776",
+  "sector": "hkmu",
+  "name": "Bachelor of Science with Honours in Building Engineering and Management",
+  "operator": null,
+  "core": [
+   [
+    "CHINESE LANGUAGE",
+    "3"
+   ],
+   [
+    "CITIZENSHIP AND SOCIAL DEVELOPMENT",
+    "Attained"
+   ],
+   [
+    "ENGLISH LANGUAGE",
+    "3"
+   ],
+   [
+    "MATHEMATICS COMPULSORY PART",
+    "2"
+   ]
+  ],
+  "electives": [
+   [
+    "ANY 2 SUBJECTS",
+    "2"
+   ]
+  ],
+  "weighted_subjects": [],
+  "notes": [
+   "Preferred subjects include Biology, Chemistry, Physics, Mathematics (Extended Part) Module I or Module II, or Information and Communication Technology.",
+   "Calculation of scores for applicants with more than 1 sitting in HKDSE Examination HKMU will consider the best grade attained in a particular subject from any sittings of the HKDSE examination taken by the applicant. There is no grade penalty for multiple sittings."
+  ]
+ },
+ "JSSA01": {
+  "code": "JSSA01",
+  "sector": "sssdp",
+  "name": "Bachelor of Nursing (Honours)",
+  "operator": "SFU",
+  "core": [
+   [
+    "CHINESE LANGUAGE",
+    "3"
+   ],
+   [
+    "CITIZENSHIP AND SOCIAL DEVELOPMENT",
+    "Attained"
+   ],
+   [
+    "ENGLISH LANGUAGE",
+    "3"
+   ],
+   [
+    "MATHEMATICS COMPULSORY PART",
+    "2"
+   ]
+  ],
+  "electives": [
+   [
+    "ANY 1 SUBJECT Note1",
+    "2"
+   ]
+  ],
+  "weighted_subjects": [],
+  "notes": [
+   "Applicants with previous HKDSE subject result of A040 âLiberal Studiesâ will be used as the alternative of the core subject requirement of A045 âCitizenship and Social Developmentâ. Note1: The elective subject should be from Category A. BiologyÂ is preferred. General Entrance Requirements: https://www.sfu.edu.hk/en/programmes/bachelor-s-degree-programmes/bachelor-of-nursing-honours/admission-requirements/index.html",
+   "Please refer to individual institution for programme-specific entry requirements.",
+   "The first year tuition fee for 2027-28 intake of the 5-year Bachelor of Nursing (Honours) Programme is HK$ 126,720 per year. The net tuition fee for the 2027-28 intake after the deduction of HK$89,620 subsidy under the Study Subsidy Scheme for Designated Professions/Sectors (SSSDP): Year 1: HK$ 37,100 Year 2: HK$ 37,100 Year 3: HK$ 37,100 Year 4: HK$ 37,100 Year 5: HK$ 37,100 The SSSDP subsidy for academic years after 2027/28 is subject to annual review by the Education Bureau. Accordingly, the net tuition fee payable will be adjusted based on the approved subsidy amount for the relevant academic year."
+  ]
+ },
+ "JSSA02": {
+  "code": "JSSA02",
+  "sector": "sssdp",
+  "name": "Bachelor of Science (Honours) in Artificial Intelligence and Digital Entertainment",
+  "operator": "SFU",
+  "core": [
+   [
+    "CHINESE LANGUAGE",
+    "3"
+   ],
+   [
+    "CITIZENSHIP AND SOCIAL DEVELOPMENT",
+    "Attained"
+   ],
+   [
+    "ENGLISH LANGUAGE",
+    "3"
+   ],
+   [
+    "MATHEMATICS COMPULSORY PART",
+    "2"
+   ]
+  ],
+  "electives": [
+   [
+    "ANY 1 SUBJECT Note1",
+    "2"
+   ]
+  ],
+  "weighted_subjects": [],
+  "notes": [
+   "Applicants with previous HKDSE subject result of A040 âLiberal Studiesâ will be used as the alternative of the core subject requirement of A045 âCitizenship and Social Developmentâ. Note1: â Attained\", \"Attained with Distinction (I)\", and \"Attained with Distinction (II)\" in Applied Learning (ApL) subjects (Category B) are considered to be equivalent to Level 2, Level 3 and Level 4 in HKDSE subjects respectively. A maximum of 2 Applied Learning (ApL) subjects will be taken into consideration. Other Languages subjects (Category C) at specified levels are considered as elective subjects. A maximum of one Other Languages subject will be taken into consideration.Â Elective Subject(s): Applicantsâ performance in elective subject will be considered asÂ reference in the selection process. General Entrance Requirements: https://www.sfu.edu.hk/en/programmes/bachelor-s-degree-programmes/bachelor-of-science-honours-in-digital-entertainment-technology/admission-requirements/index.html",
+   "Please refer to individual institution for programme-specific entry requirements.",
+   "The first year tuition fee for 2027-28 intake of the 4-year Bachelor of Science (Honours) in Artificial Intelligence and Digital Entertainment is HK$ 87,880 per year. The net tuition fee for the 2027-28 intake after the deduction of HK$46,780 subsidy under the Study Subsidy Scheme for Designated Professions/Sectors (SSSDP): Year 1: HK$ 41,100 Year 2: HK$ 41,100 Year 3: HK$ 41,100 Year 4: HK$ 41,100 The SSSDP subsidy for academic years after 2027/28 is subject to annual review by the Education Bureau. Accordingly, the net tuition fee payable will be adjusted based on the approved subsidy amount for the relevant academic year."
+  ]
+ },
+ "JSSA03": {
+  "code": "JSSA03",
+  "sector": "sssdp",
+  "name": "Bachelor of Science (Honours) in Physiotherapy",
+  "operator": "SFU",
+  "core": [
+   [
+    "CHINESE LANGUAGE",
+    "3"
+   ],
+   [
+    "CITIZENSHIP AND SOCIAL DEVELOPMENT",
+    "Attained"
+   ],
+   [
+    "ENGLISH LANGUAGE",
+    "3"
+   ],
+   [
+    "MATHEMATICS COMPULSORY PART",
+    "2"
+   ]
+  ],
+  "electives": [
+   [
+    "ANY 1 SUBJECT Note1",
+    "2"
+   ]
+  ],
+  "weighted_subjects": [],
+  "notes": [
+   "Applicants with previous HKDSE subject result of A040 âLiberal Studiesâ will be used as the alternative of the core subject requirement of A045 âCitizenship and Social Developmentâ. Note1: The elective subject should be from Category A. Preference will be given to applicants who have obtained Level 4 or above in English Language and Level 3 or above in Biology or Physics in HKDSE. General Entrance Requirements: https://www.sfu.edu.hk/en/programmes/bachelor-s-degree-programmes/bachelor-of-science-honours-in-physiotherapy/admission-requirements/index.html",
+   "Please refer to individual institution for programme-specific entry requirements.",
+   "The first year tuition fee for 2027-28 intake of the 4-year Bachelor of Science (Honours) in Physiotherapy Programme is HK$ 168,720 per year. The net tuition fee for the 2027-28 intake after the deduction of HK$81,450 subsidy under the Study Subsidy Scheme for Designated Professions/Sectors (SSSDP): Year 1: HK$ 87,270 Year 2: HK$ 87,270 Year 3: HK$ 87,270 Year 4: HK$ 87,270 The SSSDP subsidy for academic years after 2027/28 is subject to annual review by the Education Bureau. Accordingly, the net tuition fee payable will be adjusted based on the approved subsidy amount for the relevant academic year."
+  ]
+ },
+ "JSSA04": {
+  "code": "JSSA04",
+  "sector": "sssdp",
+  "name": "Bachelor of Science (Honours) in Artificial Intelligence",
+  "operator": "SFU",
+  "core": [
+   [
+    "CHINESE LANGUAGE",
+    "3"
+   ],
+   [
+    "CITIZENSHIP AND SOCIAL DEVELOPMENT",
+    "Attained"
+   ],
+   [
+    "ENGLISH LANGUAGE",
+    "3"
+   ],
+   [
+    "MATHEMATICS COMPULSORY PART",
+    "2"
+   ]
+  ],
+  "electives": [
+   [
+    "ANY 1 SUBJECT Note1",
+    "2"
+   ]
+  ],
+  "weighted_subjects": [],
+  "notes": [
+   "Applicants with previous HKDSE subject result of A040 âLiberal Studiesâ will be used as the alternative of the core subject requirement of A045 âCitizenship and Social Developmentâ. Note1: â Attained\", \"Attained with Distinction (I)\", and \"Attained with Distinction (II)\" in Applied Learning (ApL) subjects (Category B) are considered to be equivalent to Level 2, Level 3 and Level 4 in HKDSE subjects respectively. A maximum of 2 Applied Learning (ApL) subjects will be taken into consideration. Other Languages subjects (Category C) at specified levels are considered as elective subjects. A maximum of one Other Languages subject will be taken into consideration.Â Elective Subject(s): Applicantsâ performance in 2 elective subjects will be considered as bonus points in the selection process. General Entrance Requirements: https://www.sfu.edu.hk/en/programmes/bachelor-s-degree-programmes/bachelor-of-science-honours-in-artificial-intelligence/admission-requirements/index.html",
+   "Please refer to individual institution for programme-specific entry requirements.",
+   "The first year tuition fee for 2027-28 intake of the 4-year Bachelor of Science (Honours) in Artificial Intelligence is HK$ 87,880 per year. The net tuition fee for the 2027-28 intake after the deduction of HK$46,780 subsidy under the Study Subsidy Scheme for Designated Professions/Sectors (SSSDP): Year 1: HK$ 41,100 Year 2: HK$ 41,100 Year 3: HK$ 41,100 Year 4: HK$ 41,100 The SSSDP subsidy for academic years after 2027/28 is subject to annual review by the Education Bureau. Accordingly, the net tuition fee payable will be adjusted based on the approved subsidy amount for the relevant academic year."
+  ]
+ },
+ "JSSA05": {
+  "code": "JSSA05",
+  "sector": "sssdp",
+  "name": "Bachelor of Arts (Honours) in Translation Technology",
+  "operator": "SFU",
+  "core": [
+   [
+    "CHINESE LANGUAGE Note2",
+    "3"
+   ],
+   [
+    "CITIZENSHIP AND SOCIAL DEVELOPMENT",
+    "Attained"
+   ],
+   [
+    "ENGLISH LANGUAGE",
+    "3"
+   ],
+   [
+    "MATHEMATICS COMPULSORY PART",
+    "2"
+   ]
+  ],
+  "electives": [
+   [
+    "ANY 1 SUBJECT Note1",
+    "2"
+   ]
+  ],
+  "weighted_subjects": [],
+  "notes": [
+   "Applicants with previous HKDSE subject result of A040 âLiberal Studiesâ will be used as the alternative of the core subject requirement of A045 âCitizenship and Social Developmentâ. Note1: â Attained\", \"Attained with Distinction (I)\", and \"Attained with Distinction (II)\" in Applied Learning (ApL) subjects (Category B) are considered to be equivalent to Level 2, Level 3 and Level 4 in HKDSE subjects respectively. A maximum of 2 Applied Learning (ApL) subjects will be taken into consideration. Other Languages subjects (Category C) at specified levels are considered as elective subjects. A maximum of one Other Languages subject will be taken into consideration.Â Note2: For Non-Chinese Speaking (NCS) students fulfilling the specified circumstances below, our University accepts alternative qualifications in Chinese Language as meeting the Chinese Language requirement: âAttained with Distinctionâ in HKDSE Category B (Applied Learning Chinese); or Grade A or above in GCE Chinese (A-Level / AS-Level); or Grade A / Grade 7 or above in GCSE/IGCSE Chinese General Entrance Requirements: https://www.sfu.edu.hk/en/programmes/bachelor-s-degree-programmes/bachelor-of-arts-honours-in-translation-technology/admission-requirements/index.html",
+   "Please refer to individual institution for programme-specific entry requirements.",
+   "The net tuition fee for the 2027-28 intake after the deduction of HK$46,780 subsidy under the Study Subsidy Scheme for Designated Professions/Sectors (SSSDP): Year 1: HK$ 34,510 Year 2: HK$ 38,420 Year 3: HK$ 42,330 Year 4: HK$ 45,000 The SSSDP subsidy for academic years after 2027/28 is subject to annual review by the Education Bureau. Accordingly, the net tuition fee payable will be adjusted based on the approved subsidy amount for the relevant academic year."
+  ]
+ },
+ "JSSA06": {
+  "code": "JSSA06",
+  "sector": "sssdp",
+  "name": "Bachelor of Business Administration (Honours) in Applied Hotel and Tourism Management",
+  "operator": "SFU",
+  "core": [
+   [
+    "CHINESE LANGUAGE",
+    "3"
+   ],
+   [
+    "CITIZENSHIP AND SOCIAL DEVELOPMENT",
+    "Attained"
+   ],
+   [
+    "ENGLISH LANGUAGE",
+    "3"
+   ],
+   [
+    "MATHEMATICS COMPULSORY PART",
+    "2"
+   ]
+  ],
+  "electives": [
+   [
+    "ANY 1 SUBJECT Note1",
+    "2"
+   ]
+  ],
+  "weighted_subjects": [],
+  "notes": [
+   "Applicants with previous HKDSE subject result of A040 âLiberal Studiesâ will be used as the alternative of the core subject requirement of A045 âCitizenship and Social Developmentâ. Note1: â Attained\", \"Attained with Distinction (I)\", and \"Attained with Distinction (II)\" in Applied Learning (ApL) subjects (Category B) are considered to be equivalent to Level 2, Level 3 and Level 4 in HKDSE subjects respectively. A maximum of 2 Applied Learning (ApL) subjects will be taken into consideration. Other Languages subjects (Category C) at specified levels are considered as elective subjects. A maximum of one Other Languages subject will be taken into consideration.Â General Entrance Requirements: https://www.sfu.edu.hk/en/programmes/bachelor-s-degree-programmes/bachelor-of-business-administration-honours-in-applied-hotel-and-tourism-management/admission-requirements/index.html",
+   "Please refer to individual institution for programme-specific entry requirements.",
+   "The net tuition fee for the 2027-28 intake after the deduction of HK$51,880 subsidy under the Study Subsidy Scheme for Designated Professions/Sectors (SSSDP): Year 1: HK$ 30,510 Year 2: HK$Â 34,500 Year 3: HK$Â 38,450 Year 4: HK$Â 41,160 The SSSDP subsidy for academic years after 2027/28 is subject to annual review by the Education Bureau. Accordingly, the net tuition fee payable will be adjusted based on the approved subsidy amount for the relevant academic year."
+  ]
+ },
+ "JSSC02": {
+  "code": "JSSC02",
+  "sector": "sssdp",
+  "name": "Bachelor of Science (Honours) in Architecture",
+  "operator": "HKCHC",
+  "core": [
+   [
+    "CHINESE LANGUAGE",
+    "3"
+   ],
+   [
+    "CITIZENSHIP AND SOCIAL DEVELOPMENT",
+    "Attained"
+   ],
+   [
+    "ENGLISH LANGUAGE",
+    "3"
+   ],
+   [
+    "MATHEMATICS COMPULSORY PART",
+    "2"
+   ]
+  ],
+  "electives": [
+   [
+    "ANY 1 SUBJECT Note1",
+    "2"
+   ]
+  ],
+  "weighted_subjects": [],
+  "notes": [
+   "Applicants with previous HKDSE subject result of A040 âLiberal Studiesâ will be used as the alternative of the core subject requirement of A045 âCitizenship and Social Developmentâ. Note1: Besides Category A elective subjects, Mathematics extended modules (M1/M2) and \"other languages\" subjects (A2 or above in French/ German/ Spanish; or N3 or above in Japanese; or Grade 3 or above in Korean, Grade E or above in Urdu (International)) can also be used to meet the elective requirement. If students take both M1 and M2, they are counted as one subject only.",
+   "Please refer to individual institution for programme-specific entry requirements.",
+   "The annual tuition fee of the programme is listed below: Year 1 and Year 2: $75,280 per year Year 3 and Year 4: $80,630 per year After deduction of $46,780 # subsidy from the Government, the annual tuition fee will be: Year 1 and Year 2: $28,500 per year Year 3 and Year 4: $33,850 per year # Only applicants who meet Category I (CAT I) eligibility will be considered."
+  ]
+ },
+ "JSSH01": {
+  "code": "JSSH01",
+  "sector": "sssdp",
+  "name": "Bachelor of Business Administration (Honours) in Supply Chain Management",
+  "operator": "HSUHK",
+  "core": [
+   [
+    "CHINESE LANGUAGE",
+    "3"
+   ],
+   [
+    "CITIZENSHIP AND SOCIAL DEVELOPMENT",
+    "Attained"
+   ],
+   [
+    "ENGLISH LANGUAGE",
+    "3"
+   ],
+   [
+    "MATHEMATICS COMPULSORY PART",
+    "2"
+   ]
+  ],
+  "electives": [
+   [
+    "ANY 1 SUBJECT",
+    "2"
+   ]
+  ],
+  "weighted_subjects": [],
+  "notes": [
+   "Applicants with previous HKDSE subject result of A040 âLiberal Studiesâ will be used as the alternative of the core subject requirement of A045 âCitizenship and Social Developmentâ.",
+   "Please refer to individual institution for programme-specific entry requirements.",
+   "A subsidy of HK$46,780 per annum will be granted to eligible local applicants Â and the annual tuition fee after deduction of the subsidy will be: Year 1 / Year 2: HK$48,700 Year 3 / Year 4: HK$61,180 Remarks: The tuition fees shown above are at the fee level of 2027/28 cohort and HSUHK may adjust the annual tuition fee for the subsequent years of study according to the Composite Consumer Price Index (CCPI) announced by the HKSAR Government. The subsidy is tenable for the normal duration of the programme, i.e. 4 years."
+  ]
+ },
+ "JSSH02": {
+  "code": "JSSH02",
+  "sector": "sssdp",
+  "name": "Bachelor of Science (Honours) in Actuarial Studies and Insurance",
+  "operator": "HSUHK",
+  "core": [
+   [
+    "CHINESE LANGUAGE",
+    "3"
+   ],
+   [
+    "CITIZENSHIP AND SOCIAL DEVELOPMENT",
+    "Attained"
+   ],
+   [
+    "ENGLISH LANGUAGE",
+    "3"
+   ],
+   [
+    "MATHEMATICS COMPULSORY PART",
+    "3"
+   ]
+  ],
+  "electives": [
+   [
+    "ANY 1 SUBJECT",
+    "2"
+   ]
+  ],
+  "weighted_subjects": [],
+  "notes": [
+   "Applicants with previous HKDSE subject result of A040 âLiberal Studiesâ will be used as the alternative of the core subject requirement of A045 âCitizenship and Social Developmentâ.",
+   "Please refer to individual institution for programme-specific entry requirements.",
+   "A subsidy of HK$46,780 per annum will be granted to eligible local applicants Â and the annual tuition fee after deduction of the subsidy will be: Year 1 / Year 2: HK$48,700 Year 3 / Year 4: HK$61,180 Remarks: The tuition fees shown above are at the fee level of 2027/28 cohort and HSUHK may adjust the annual tuition fee for the subsequent years of study according to the Composite Consumer Price Index (CCPI) announced by the HKSAR Government. The subsidy is tenable for the normal duration of the programme, i.e. 4 years."
+  ]
+ },
+ "JSSH03": {
+  "code": "JSSH03",
+  "sector": "sssdp",
+  "name": "Bachelor of Science (Honours) in Applied Computing",
+  "operator": "HSUHK",
+  "core": [
+   [
+    "CHINESE LANGUAGE",
+    "3"
+   ],
+   [
+    "CITIZENSHIP AND SOCIAL DEVELOPMENT",
+    "Attained"
+   ],
+   [
+    "ENGLISH LANGUAGE",
+    "3"
+   ],
+   [
+    "MATHEMATICS COMPULSORY PART",
+    "2"
+   ]
+  ],
+  "electives": [
+   [
+    "ANY 1 SUBJECT",
+    "2"
+   ]
+  ],
+  "weighted_subjects": [],
+  "notes": [
+   "Applicants with previous HKDSE subject result of A040 âLiberal Studiesâ will be used as the alternative of the core subject requirement of A045 âCitizenship and Social Developmentâ.",
+   "Please refer to individual institution for programme-specific entry requirements.",
+   "A subsidy of HK$46,780 per annum will be granted to eligible local applicants Â and the annual tuition fee after deduction of the subsidy will be: Year 1 / Year 2: HK$48,700 Year 3 / Year 4: HK$61,180 Remarks: The tuition fees shown above are at the fee level of 2027/28 cohort and HSUHK may adjust the annual tuition fee for the subsequent years of study according to the Composite Consumer Price Index (CCPI) announced by the HKSAR Government. The subsidy is tenable for the normal duration of the programme, i.e. 4 years."
+  ]
+ },
+ "JSSH04": {
+  "code": "JSSH04",
+  "sector": "sssdp",
+  "name": "Bachelor of Science (Honours) in Data Science and Business Intelligence",
+  "operator": "HSUHK",
+  "core": [
+   [
+    "CHINESE LANGUAGE",
+    "3"
+   ],
+   [
+    "CITIZENSHIP AND SOCIAL DEVELOPMENT",
+    "Attained"
+   ],
+   [
+    "ENGLISH LANGUAGE",
+    "3"
+   ],
+   [
+    "MATHEMATICS COMPULSORY PART",
+    "2"
+   ]
+  ],
+  "electives": [
+   [
+    "ANY 1 SUBJECT",
+    "2"
+   ]
+  ],
+  "weighted_subjects": [],
+  "notes": [
+   "Applicants with previous HKDSE subject result of A040 âLiberal Studiesâ will be used as the alternative of the core subject requirement of A045 âCitizenship and Social Developmentâ.",
+   "Please refer to individual institution for programme-specific entry requirements.",
+   "A subsidy of HK$46,780 per annum will be granted to eligible local applicants Â and the annual tuition fee after deduction of the subsidy will be: Year 1 / Year 2: HK$48,700 Year 3 / Year 4: HK$61,180 Remarks: The tuition fees shown above are at the fee level of 2027/28 cohort and HSUHK may adjust the annual tuition fee for the subsequent years of study according to the Composite Consumer Price Index (CCPI) announced by the HKSAR Government. The subsidy is tenable for the normal duration of the programme, i.e. 4 years."
+  ]
+ },
+ "JSSH05": {
+  "code": "JSSH05",
+  "sector": "sssdp",
+  "name": "Bachelor of Science (Honours) in Business Analytics and Information Management",
+  "operator": "HSUHK",
+  "core": [
+   [
+    "CHINESE LANGUAGE",
+    "3"
+   ],
+   [
+    "CITIZENSHIP AND SOCIAL DEVELOPMENT",
+    "Attained"
+   ],
+   [
+    "ENGLISH LANGUAGE",
+    "3"
+   ],
+   [
+    "MATHEMATICS COMPULSORY PART",
+    "2"
+   ]
+  ],
+  "electives": [
+   [
+    "ANY 1 SUBJECT",
+    "2"
+   ]
+  ],
+  "weighted_subjects": [],
+  "notes": [
+   "Applicants with previous HKDSE subject result of A040 âLiberal Studiesâ will be used as the alternative of the core subject requirement of A045 âCitizenship and Social Developmentâ.",
+   "Please refer to individual institution for programme-specific entry requirements.",
+   "A subsidy of HK$46,780 per annum will be granted to eligible local applicants Â and the annual tuition fee after deduction of the subsidy will be: Year 1 / Year 2: HK$48,700 Year 3 / Year 4: HK$61,180 Remarks: The tuition fees shown above are at the fee level of 2027/28 cohort and HSUHK may adjust the annual tuition fee for the subsequent years of study according to the Composite Consumer Price Index (CCPI) announced by the HKSAR Government. The subsidy is tenable for the normal duration of the programme, i.e. 4 years."
+  ]
+ },
+ "JSSH06": {
+  "code": "JSSH06",
+  "sector": "sssdp",
+  "name": "Bachelor of Arts (Honours) in Art and Design",
+  "operator": "HSUHK",
+  "core": [
+   [
+    "CHINESE LANGUAGE",
+    "3"
+   ],
+   [
+    "CITIZENSHIP AND SOCIAL DEVELOPMENT",
+    "Attained"
+   ],
+   [
+    "ENGLISH LANGUAGE",
+    "3"
+   ],
+   [
+    "MATHEMATICS COMPULSORY PART",
+    "2"
+   ]
+  ],
+  "electives": [
+   [
+    "ANY 1 SUBJECT",
+    "2"
+   ]
+  ],
+  "weighted_subjects": [],
+  "notes": [
+   "Applicants with previous HKDSE subject result of A040 âLiberal Studiesâ will be used as the alternative of the core subject requirement of A045 âCitizenship and Social Developmentâ.",
+   "Please refer to individual institution for programme-specific entry requirements.",
+   "A subsidy of HK$81,450 per annum will be granted to eligible local applicants Â and the annual tuition fee after deduction of the subsidy will be: Year 1: HK$38,280 Year 2: HK$38,260 Year 3 / Year 4: HK$50,727 Remarks: The tuition fees shown above are at the fee level of 2027/28 cohort and HSUHK may adjust the annual tuition fee for the subsequent years of study according to the Composite Consumer Price Index (CCPI) announced by the HKSAR Government. The subsidy is tenable for the normal duration of the programme, i.e. 4 years."
+  ]
+ },
+ "JSST01": {
+  "code": "JSST01",
+  "sector": "sssdp",
+  "name": "Bachelor of Health Science (Honours) in Nursing",
+  "operator": "TWC",
+  "core": [
+   [
+    "CHINESE LANGUAGE",
+    "3"
+   ],
+   [
+    "CITIZENSHIP AND SOCIAL DEVELOPMENT",
+    "Attained"
+   ],
+   [
+    "ENGLISH LANGUAGE",
+    "3"
+   ],
+   [
+    "MATHEMATICS COMPULSORY PART",
+    "2"
+   ]
+  ],
+  "electives": [
+   [
+    "ANY 1 SUBJECT",
+    "2"
+   ]
+  ],
+  "weighted_subjects": [],
+  "notes": [
+   "Applicants with previous HKDSE subject result of A040 âLiberal Studiesâ will be used as the alternative of the core subject requirement of A045 âCitizenship and Social Developmentâ. Only applicants who have taken elective subjects under Category A will be considered. Priority will be given to applicants who have obtained Level 4 or above in English Language. Applicants should be fluent in written English and Chinese, and in oral English and Cantonese. Students with HKDSE English Language results belowÂ Level 3 are required to complete non-credit bearing English enhancement course(s) in the first year of study.",
+   "Please refer to individual institution for programme-specific entry requirements.",
+   "Tuition fees* (after deduction of subsidy from the Government) 2027/2028: $51,140 2028/2029: $51,140 2029/2030: $51,140 2030/2031: $51,140 2031/2032: $51,140 Tung Wah College will adjust the tuition fee of its programmes based on the Composite Consumer Price Index to be announced by the Government annually. The above tuition fee is net of annual subsidy under the Study Subsidy Scheme for Designated Professions/Sectors (SSSDP). In 2027/2028 academic year, the annual subsidy under the SSSDP is $81,450 for laboratory-based undergraduate programmes. The annual subsidy amount may vary in each academic year subject to the announcement by the Education Bureau. For details, please visitÂ https://www.cspe.edu.hk/sssdp . For the eligibility requirements for the SSSDP subsidy, please refer to https://www.cspe.edu.hk/sssdp . *Subject to final approval by the Education Bureau"
+  ]
+ },
+ "JSST02": {
+  "code": "JSST02",
+  "sector": "sssdp",
+  "name": "Bachelor of Science (Honours) in Medical Laboratory Science",
+  "operator": "TWC",
+  "core": [
+   [
+    "CHINESE LANGUAGE",
+    "3"
+   ],
+   [
+    "CITIZENSHIP AND SOCIAL DEVELOPMENT",
+    "Attained"
+   ],
+   [
+    "ENGLISH LANGUAGE",
+    "3"
+   ],
+   [
+    "MATHEMATICS COMPULSORY PART",
+    "2"
+   ]
+  ],
+  "electives": [
+   [
+    "ANY 1 SUBJECT *",
+    "2"
+   ]
+  ],
+  "weighted_subjects": [],
+  "notes": [
+   "Applicants with previous HKDSE subject result of A040 âLiberal Studiesâ will be used as the alternative of the core subject requirement of A045 âCitizenship and Social Developmentâ. * Preferred subject: Biology, Chemistry,Â Physics or Combined ScienceÂ with Chemistry Applicants are expected to possess foundational scientific knowledge. Preference will be given to applicants who have obtained: Level 2 or above in Biology, Chemistry, Physics or Combined Science with Chemistry in HKDSE Applicants should have normal colour vision, as this is typically required for employment in local medical laboratories. Applicants should be prepared to handle human samples, tissues and body fluids. Students with HKDSE English Language results belowÂ Level 3 are required to complete non-credit bearing English enhancement course(s) in the first year of study.",
+   "Please refer to individual institution for programme-specific entry requirements.",
+   "Tuition fees* (after deduction of subsidy from the Government) 2027/2028: $77,720 2028/2029: $77,720 2029/2030: $77,720 2030/2031: $77,720 Tung Wah College will adjust the tuition fee of its programmes based on the Composite Consumer Price Index to be announced by the Government annually. The above tuition fee is net of annual subsidy under the Study Subsidy Scheme for Designated Professions/Sectors (SSSDP). In 2027/2028 academic year, the annual subsidy under the SSSDP is $81,450 for laboratory-based undergraduate programmes. The annual subsidy amount may vary in each academic year subject to the announcement by the Education Bureau. For details, please visit https://www.cspe.edu.hk/sssdp . For the eligibility requirements for the SSSDP subsidy, please refer to https://www.cspe.edu.hk/sssdp . *Subject to the final approval by the Education Bureau"
+  ]
+ },
+ "JSST03": {
+  "code": "JSST03",
+  "sector": "sssdp",
+  "name": "Bachelor of Science (Honours) in Radiation Therapy",
+  "operator": "TWC",
+  "core": [
+   [
+    "CHINESE LANGUAGE",
+    "3"
+   ],
+   [
+    "CITIZENSHIP AND SOCIAL DEVELOPMENT",
+    "Attained"
+   ],
+   [
+    "ENGLISH LANGUAGE",
+    "3"
+   ],
+   [
+    "MATHEMATICS COMPULSORY PART",
+    "2"
+   ]
+  ],
+  "electives": [
+   [
+    "BIOLOGY",
+    "3"
+   ],
+   [
+    "PHYSICS",
+    "3"
+   ],
+   [
+    "HEALTH CARE PRACTICE 1",
+    "Attained with Distinction (I)"
+   ],
+   [
+    "CHEMISTRY",
+    "3"
+   ]
+  ],
+  "weighted_subjects": [],
+  "notes": [
+   "Applicants with previous HKDSE subject result of A040 âLiberal Studiesâ will be used as the alternative of the core subject requirement of A045 âCitizenship and Social Developmentâ. Preference will be given to applicants who have obtained: Level 4 or above in English Language in HKDSE Level 3 or above in Mathematics Compulsory Part / Physics / Integrated Science* / Combined Science with Physics* in HKDSE Applicants should have normal colour vision, as this is usually required for employment in radiotherapy departments of public and private hospitals. Students with HKDSE English Language results belowÂ Level 3 are required to complete non-credit bearing English enhancement course(s) in the first year of study. * For applicants with 2012-2023 HKDSE subject results Note1 : âDIâ denotes âAttained with Distinction (I)â.Â For 2012-2017 HKDSE results, âAttained with Distinctionâ is considered to be comparable to âAttained with Distinction (I)â. Note2 : 2012-2023 HKDSE subject results of A160 âIntegrated Scienceâ / A165 âCombined Scienceâ are considered as one of the elective subjects for fulfilling the programme entrance requirements.",
+   "Please refer to individual institution for programme-specific entry requirements.",
+   "Tuition fees* (after deduction of subsidy from the Government) 2027/2028: $83,010 2028/2029: $83,010 2029/2030: $83,010 2030/2031: $83,010 Tung Wah College will adjust the tuition fee of its programmes based on the Composite Consumer Price Index to be announced by the Government annually. The above tuition fee is net of annual subsidy under the Study Subsidy Scheme for Designated Professions/Sectors (SSSDP). In 2027/2028 academic year, the annual subsidy under the SSSDP is $81,450 for laboratory-based undergraduate programmes. The annual subsidy amount may vary in each academic year subject to the announcement by the Education Bureau. For details, please visitÂ https://www.cspe.edu.hk/sssdp . For the eligibility requirements for the SSSDP subsidy, please refer to https://www.cspe.edu.hk/sssdp . *Subject to final approval by the Education Bureau"
+  ]
+ },
+ "JSST04": {
+  "code": "JSST04",
+  "sector": "sssdp",
+  "name": "Bachelor of Science (Honours) in Occupational Therapy",
+  "operator": "TWC",
+  "core": [
+   [
+    "CHINESE LANGUAGE",
+    "3"
+   ],
+   [
+    "CITIZENSHIP AND SOCIAL DEVELOPMENT",
+    "Attained"
+   ],
+   [
+    "ENGLISH LANGUAGE",
+    "3"
+   ],
+   [
+    "MATHEMATICS COMPULSORY PART",
+    "2"
+   ]
+  ],
+  "electives": [
+   [
+    "ANY 1 SUBJECT",
+    "2"
+   ]
+  ],
+  "weighted_subjects": [],
+  "notes": [
+   "Applicants with previous HKDSE subject result of A040 âLiberal Studiesâ will be used as the alternative of the core subject requirement of A045 âCitizenship and Social Developmentâ. Preference will be given to applicants who have obtained: Level 4 or above in English Language in HKDSE. Level 3 or above in Biology or Combined Science with Biology* in HKDSE. Students with HKDSE English Language results belowÂ Level 3 are required to complete non-credit bearing English enhancement course(s) in the first year of study. * For applicants with 2012-2023 HKDSE subject results",
+   "Please refer to individual institution for programme-specific entry requirements.",
+   "Tuition fees* (after deduction of subsidy from the Government) 2027/2028: $86,900 2028/2029: $86,900 2029/2030: $86,900 2030/2031: $86,900 Tung Wah College will adjust the tuition fee of its programmes based on the Composite Consumer Price Index to be announced by the Government annually. The above tuition fee is net of annual subsidy under the Study Subsidy Scheme for Designated Professions/Sectors (SSSDP). In 2027/2028 academic year, the annual subsidy under the SSSDP is $81,450 for laboratory-based undergraduate programmes. The annual subsidy amount may vary in each academic year subject to the announcement by the Education Bureau. For details, please visitÂ https://www.cspe.edu.hk/sssdp . For the eligibility requirements for the SSSDP subsidy, please refer to https://www.cspe.edu.hk/sssdp . *Subject to final approval by the Education Bureau"
+  ]
+ },
+ "JSST05": {
+  "code": "JSST05",
+  "sector": "sssdp",
+  "name": "Bachelor of Science (Honours) in Physiotherapy",
+  "operator": "TWC",
+  "core": [
+   [
+    "CHINESE LANGUAGE",
+    "3"
+   ],
+   [
+    "CITIZENSHIP AND SOCIAL DEVELOPMENT",
+    "Attained"
+   ],
+   [
+    "ENGLISH LANGUAGE",
+    "3"
+   ],
+   [
+    "MATHEMATICS COMPULSORY PART",
+    "2"
+   ]
+  ],
+  "electives": [
+   [
+    "ANY 1 SUBJECT",
+    "2"
+   ]
+  ],
+  "weighted_subjects": [],
+  "notes": [
+   "Applicants with previous HKDSE subject result of A040 âLiberal Studiesâ will be used as the alternative of the core subject requirement of A045 âCitizenship and Social Developmentâ. Preference will be given to applicants who have obtained Level 4 or above in English Language and Biology / Physics / Combined Science (Biology and Physics)* in HKDSE. Students with HKDSE English Language results belowÂ Level 3 are required to complete non-credit bearing English enhancement course(s) in the first year of study. * For applicants with 2012-2023 HKDSE subject results",
+   "Please refer to individual institution for programme-specific entry requirements.",
+   "Tuition fees* (after deduction of subsidy from the Government) 2027/2028: $89,800 2028/2029: $89,800 2029/2030: $89,800 2030/2031: $89,800 Tung Wah College will adjust the tuition fee of its programmes based on the Composite Consumer Price Index to be announced by the Government annually. The above tuition fee is net of annual subsidy under the Study Subsidy Scheme for Designated Professions/Sectors (SSSDP). In 2027/2028 academic year, the annual subsidy under the SSSDP is $81,450 for laboratory-based undergraduate programmes. The annual subsidy amount may vary in each academic year subject to the announcement by the Education Bureau. For details, please visitÂ https://www.cspe.edu.hk/sssdp . For the eligibility requirements for the SSSDP subsidy, please refer to https://www.cspe.edu.hk/sssdp . *Subject to final approval by the Education Bureau"
+  ]
+ },
+ "JSST06": {
+  "code": "JSST06",
+  "sector": "sssdp",
+  "name": "Bachelor of Science (Honours) in Applied Gerontology",
+  "operator": "TWC",
+  "core": [
+   [
+    "CHINESE LANGUAGE",
+    "3"
+   ],
+   [
+    "CITIZENSHIP AND SOCIAL DEVELOPMENT",
+    "Attained"
+   ],
+   [
+    "ENGLISH LANGUAGE",
+    "3"
+   ],
+   [
+    "MATHEMATICS COMPULSORY PART",
+    "2"
+   ]
+  ],
+  "electives": [
+   [
+    "ANY 1 SUBJECT",
+    "2"
+   ]
+  ],
+  "weighted_subjects": [],
+  "notes": [
+   "Applicants with previous HKDSE subject result of A040 âLiberal Studiesâ will be used as the alternative of the core subject requirement of A045 âCitizenship and Social Developmentâ. Students with HKDSE English Language results belowÂ Level 3 are required to complete non-credit bearing English enhancement course(s) in the first year of study.",
+   "Please refer to individual institution for programme-specific entry requirements.",
+   "Tuition fees* (after deduction of subsidy from the Government) 2027/2028: $36,140 2028/2029: $36,140 2029/2030: $36,140 2030/2031: $36,140 Tung Wah College will adjust the tuition fee of its programmes based on the Composite Consumer Price Index to be announced by the Government annually. The above tuition fee is net of annual subsidy under the Study Subsidy Scheme for Designated Professions/Sectors (SSSDP). In 2027/2028 academic year, the annual subsidy under the SSSDP is $51,880 for non-laboratory-based undergraduate applied degree programmes. The annual subsidy amount may vary in each academic year subject to the announcement by the Education Bureau. For details, please visit https://www.cspe.edu.hk/sssdp . For the eligibility requirements for the SSSDP subsidy, please refer to https://www.cspe.edu.hk/sssdp . *Subject to final approval by the Education Bureau"
+  ]
+ },
+ "JSST07": {
+  "code": "JSST07",
+  "sector": "sssdp",
+  "name": "Bachelor of Health Information and Services Management (Honours)",
+  "operator": "TWC",
+  "core": [
+   [
+    "CHINESE LANGUAGE",
+    "3"
+   ],
+   [
+    "CITIZENSHIP AND SOCIAL DEVELOPMENT",
+    "Attained"
+   ],
+   [
+    "ENGLISH LANGUAGE",
+    "3"
+   ],
+   [
+    "MATHEMATICS COMPULSORY PART",
+    "2"
+   ]
+  ],
+  "electives": [
+   [
+    "ANY 1 SUBJECT",
+    "2"
+   ]
+  ],
+  "weighted_subjects": [],
+  "notes": [
+   "Applicants with previous HKDSE subject result of A040 âLiberal Studiesâ will be used as the alternative of the core subject requirement of A045 âCitizenship and Social Developmentâ. Students with HKDSE English Language results belowÂ Level 3 are required to complete non-credit bearing English enhancement course(s) in the first year of study.",
+   "Please refer to individual institution for programme-specific entry requirements.",
+   "Tuition fees* (after deduction of subsidy from the Government) 2027/2028: $14,510 2028/2029: $14,510 2029/2030: $14,510 2030/2031: $14,510 Tung Wah College will adjust the tuition fee of its programmes based on the Composite Consumer Price Index to be announced by the Government annually. The above tuition fee is net of annual subsidy under the Study Subsidy Scheme for Designated Professions/Sectors (SSSDP). In 2027/2028 academic year, the annual subsidy under the SSSDP is $51,880 for non-laboratory-based undergraduate applied degree programmes. The annual subsidy amount may vary in each academic year subject to the announcement by the Education Bureau. For details, please visit https://www.cspe.edu.hk/sssdp . For the eligibility requirements for the SSSDP subsidy, please refer to https://www.cspe.edu.hk/sssdp . *Subject to final approval by the Education Bureau"
+  ]
+ },
+ "JSST08": {
+  "code": "JSST08",
+  "sector": "sssdp",
+  "name": "Bachelor of Science (Honours) in Medical Imaging",
+  "operator": "TWC",
+  "core": [
+   [
+    "CHINESE LANGUAGE",
+    "3"
+   ],
+   [
+    "CITIZENSHIP AND SOCIAL DEVELOPMENT",
+    "Attained"
+   ],
+   [
+    "ENGLISH LANGUAGE",
+    "3"
+   ],
+   [
+    "MATHEMATICS COMPULSORY PART",
+    "2"
+   ]
+  ],
+  "electives": [
+   [
+    "BIOLOGY",
+    "2"
+   ],
+   [
+    "PHYSICS",
+    "2"
+   ],
+   [
+    "CHEMISTRY",
+    "2"
+   ]
+  ],
+  "weighted_subjects": [],
+  "notes": [
+   "Applicants with previous HKDSE subject result of A040 âLiberal Studiesâ will be used as the alternative of the core subject requirement of A045 âCitizenship and Social Developmentâ. Preference will be given to applicants who have obtained: Level 4 or above in English Language in HKDSE Level 3 or above in Physics / Chemisty / Biology / Combined Science with Physics* in HKDSE Students with HKDSE English Language results belowÂ Level 3 are required to complete non-credit bearing English enhancement course(s) in the first year of study. Â * For applicants with 2012-2023 HKDSE subject results Â",
+   "Please refer to individual institution for programme-specific entry requirements.",
+   "Tuition fees* (after deduction of subsidy from the Government) 2027/2028: $93,320 2028/2029: $93,320 2029/2030: $93,320 2030/2031: $93,320 Tung Wah College will adjust the tuition fee of its programmes based on the Composite Consumer Price Index to be announced by the Government annually. The above tuition fee is net of annual subsidy under the Study Subsidy Scheme for Designated Professions/Sectors (SSSDP). In 2027/2028 academic year, the annual subsidy under the SSSDP is $81,450 for laboratory-based undergraduate programmes. The annual subsidy amount may vary in each academic year subject to the announcement by the Education Bureau. For details, please visitÂ https://www.cspe.edu.hk/sssdp . For the eligibility requirements for the SSSDP subsidy, please refer to https://www.cspe.edu.hk/sssdp . *Subject to final approval by the Education Bureau"
+  ]
+ },
+ "JSSU12": {
+  "code": "JSSU12",
+  "sector": "sssdp",
+  "name": "Bachelor of Arts with Honours in Creative Writing and Film Arts",
+  "operator": "HKMU",
+  "core": [
+   [
+    "CHINESE LANGUAGE",
+    "3"
+   ],
+   [
+    "CITIZENSHIP AND SOCIAL DEVELOPMENT",
+    "Attained"
+   ],
+   [
+    "ENGLISH LANGUAGE",
+    "3"
+   ],
+   [
+    "MATHEMATICS COMPULSORY PART",
+    "2"
+   ]
+  ],
+  "electives": [
+   [
+    "ANY 2 SUBJECTS",
+    "2"
+   ]
+  ],
+  "weighted_subjects": [
+   "Chinese Language",
+   "English Language"
+  ],
+  "notes": [
+   "Please refer to individual institution for programme-specific entry requirements.",
+   "Estimated Programme Fees: 1st year: HK$87,460 Whole Programme: HK$349,840 Estimated Programme Fees after deducting SSSDP subsidy (HK$46,780/year): 1st year: HK$40,680 Whole Programme: HK$162,720 Remarks: The composite tuition/programme fees listed above have included laboratory/ practicum/ immersion course fees, etc., if applicable. Non-subsidised tuition fees will be charged to students who are not eligible for theÂ SSSDP subsidy. There will be an annual adjustment of tuition fees which will be capped at the actual Composite Consumer Price Index (CCPI) to be announced by the Government. The estimated composite tuition/programme fees for the whole programme have not yet taken the CCPI for the second to fourth (or fifth) year, i.e. 2028/29 to 2030/31 (or 2031/32) academic year, into account. Students, who fulfilled the stipulated requirements set by the Education Bureau (EDB), are eligible for the Study Subsidy Scheme for Designated Professions/Sectors (âSSSDPâ) provided by the Government. A studentâs eligibility for the SSSDP and the annual subsidy amount allocated in an academic year is subject to EDBâs final approval. The annual subsidy amount of SSSDP forÂ non-laboratory-based programmes for the 2027/28 academic year is HK$46,780. The SSSDP subsidy amount for the 2028/29 academic year is to be announced by the EDB. The SSSDP is available only to eligible students. For details of the scheme and eligibility, please visit http://www.cspe.edu.hk/sssdp/ ."
+  ]
+ },
+ "JSSU14": {
+  "code": "JSSU14",
+  "sector": "sssdp",
+  "name": "Bachelor of Fine Arts with Honours in Animation and Visual Effects",
+  "operator": "HKMU",
+  "core": [
+   [
+    "CHINESE LANGUAGE",
+    "3"
+   ],
+   [
+    "CITIZENSHIP AND SOCIAL DEVELOPMENT",
+    "Attained"
+   ],
+   [
+    "ENGLISH LANGUAGE",
+    "3"
+   ],
+   [
+    "MATHEMATICS COMPULSORY PART",
+    "2"
+   ]
+  ],
+  "electives": [
+   [
+    "ANY 2 SUBJECTS",
+    "2"
+   ]
+  ],
+  "weighted_subjects": [],
+  "notes": [
+   "Please refer to individual institution for programme-specific entry requirements.",
+   "Estimated Programme Fees: 1st year: HK$118,010 Whole Programme: HK$472,040 Estimated Programme Fees after deducting SSSDP subsidy (HK$89,620/year): 1st year: HK$28,390 Whole Programme: HK$113,560 Remarks: The composite tuition/programme fees listed above have included laboratory/ practicum/ immersion course fees, etc., if applicable. Non-subsidised tuition fees will be charged to students who are not eligible for the SSSDP subsidy. There will be an annual adjustment of tuition fees which will be capped at the actual Composite Consumer Price Index (CCPI) to be announced by the Government. The estimated composite tuition/programme fees for the whole programme have not yet taken the CCPI for the second to fourth (or fifth) year, i.e. 2028/29 to 2030/31 (or 2031/32) academic year, into account. Students, who fulfilled the stipulated requirements set by the Education Bureau (EDB), are eligible for the Study Subsidy Scheme for Designated Professions/Sectors (âSSSDPâ) provided by the Government. A studentâs eligibility for the SSSDP and the annual subsidy amount allocated in an academic year is subject to EDBâs final approval. The annual subsidy amount of applied degree programmes under the SSSDP for laboratory-based programmes for the 2027/28 academic year is HK$89,620. The SSSDPÂ subsidy amount for the 2028/29 academic year is to be announced by the EDB. For details of the scheme and eligibility, please visit http://www.cspe.edu.hk/sssdp/ ."
+  ]
+ },
+ "JSSU15": {
+  "code": "JSSU15",
+  "sector": "sssdp",
+  "name": "Bachelor of Fine Arts with Honours in Imaging Design and Digital Art",
+  "operator": "HKMU",
+  "core": [
+   [
+    "CHINESE LANGUAGE",
+    "3"
+   ],
+   [
+    "CITIZENSHIP AND SOCIAL DEVELOPMENT",
+    "Attained"
+   ],
+   [
+    "ENGLISH LANGUAGE",
+    "3"
+   ],
+   [
+    "MATHEMATICS COMPULSORY PART",
+    "2"
+   ]
+  ],
+  "electives": [
+   [
+    "ANY 2 SUBJECTS",
+    "2"
+   ]
+  ],
+  "weighted_subjects": [],
+  "notes": [
+   "Please refer to individual institution for programme-specific entry requirements.",
+   "Estimated Programme Fees: 1st year: HK$94,030 Whole Programme: HK$376,120 Estimated Programme Fees after deducting SSSDP subsidy (HK$81,450/year): 1st year: HK$12,580 Whole Programme: HK$50,320 Remarks: The composite tuition/programme fees listed above have included laboratory/ practicum/ immersion course fees, etc., if applicable. Non-subsidised tuition fees will be charged to students who are not eligible for the SSSDP subsidy. There will be an annual adjustment of tuition fees which will be capped at the actual Composite Consumer Price Index (CCPI) to be announced by the Government. The estimated composite tuition/programme fees for the whole programme have not yet taken the CCPI for the second to fourth (or fifth) year, i.e. 2028/29 to 2030/31 (or 2031/32) academic year, into account. Students, who fulfilled the stipulated requirements set by the Education Bureau (EDB), are eligible for the Study Subsidy Scheme for Designated Professions/Sectors (âSSSDPâ) provided by the Government. A studentâs eligibility for the SSSDP and the annual subsidy amount allocated in an academic year is subject to EDBâs final approval. The annual subsidy amount of SSSDP for laboratory-based programmes for the 2027/28 academic year is HK$81,450.Â The SSSDPÂ subsidy amount for the 2028/29 academic year is to be announced by the EDB. The SSSDP is available only to eligible students. For details of the scheme and eligibility, please visit http://www.cspe.edu.hk/sssdp/ ."
+  ]
+ },
+ "JSSU18": {
+  "code": "JSSU18",
+  "sector": "sssdp",
+  "name": "Bachelor of Arts with Honours in New Music and Interactive Entertainment",
+  "operator": "HKMU",
+  "core": [
+   [
+    "CHINESE LANGUAGE",
+    "3"
+   ],
+   [
+    "CITIZENSHIP AND SOCIAL DEVELOPMENT",
+    "Attained"
+   ],
+   [
+    "ENGLISH LANGUAGE",
+    "3"
+   ],
+   [
+    "MATHEMATICS COMPULSORY PART",
+    "2"
+   ]
+  ],
+  "electives": [
+   [
+    "ANY 2 SUBJECTS",
+    "2"
+   ]
+  ],
+  "weighted_subjects": [],
+  "notes": [
+   "Please refer to individual institution for programme-specific entry requirements.",
+   "Estimated Programme Fees: 1st year: HK$121,860 Whole Programme: HK$487,440 Estimated Programme Fees after deducting SSSDP subsidy (HK$89,620/year): 1st year: HK$32,240 Whole Programme: HK$128,960 Remarks: The composite tuition/programme fees listed above have included laboratory/ practicum/ immersion course fees, etc., if applicable. Non-subsidised tuition fees will be charged to students who are not eligible for theÂ SSSDP subsidy. There will be an annual adjustment of tuition fees which will be capped at the actual Composite Consumer Price Index (CCPI) to be announced by the Government. The estimated composite tuition/programme fees for the whole programme have not yet taken the CCPI for the second to fourth (or fifth) year, i.e. 2028/29 to 2030/31 (or 2031/32) academic year, into account. Students, who fulfilled the stipulated requirements set by the Education Bureau (EDB), are eligible for the Study Subsidy Scheme for Designated Professions/Sectors (âSSSDPâ) provided by the Government. A studentâs eligibility for the SSSDP and the annual subsidy amount allocated in an academic year is subject to EDBâs final approval. The annual subsidy amount of applied degree programmes under the SSSDP for laboratory-based programmes for the 2027/28 academic year is HK$89,620. The SSSDPÂ subsidy amount for the 2028/29 academic year is to be announced by the EDB. The SSSDP is available only to eligible students. For details of the scheme and eligibility, please visit http://www.cspe.edu.hk/sssdp/ ."
+  ]
+ },
+ "JSSU40": {
+  "code": "JSSU40",
+  "sector": "sssdp",
+  "name": "Bachelor of Nursing with Honours in General Health Care",
+  "operator": "HKMU",
+  "core": [
+   [
+    "CHINESE LANGUAGE",
+    "3"
+   ],
+   [
+    "CITIZENSHIP AND SOCIAL DEVELOPMENT",
+    "Attained"
+   ],
+   [
+    "ENGLISH LANGUAGE",
+    "3"
+   ],
+   [
+    "MATHEMATICS COMPULSORY PART",
+    "2"
+   ]
+  ],
+  "electives": [
+   [
+    "ANY 1 SUBJECT",
+    "2"
+   ],
+   [
+    "ANY 1 SUBJECT (EXCLUDING APPLIED LEARNING, OTHER LANGUAGE)",
+    "2"
+   ]
+  ],
+  "weighted_subjects": [
+   "Biology",
+   "Chemistry",
+   "Health Management and Social Care",
+   "Physics"
+  ],
+  "notes": [
+   "Please refer to individual institution for programme-specific entry requirements.",
+   "Estimated Programme Fees: 1st year: HK$146,790 Whole Programme: HK$733,950 Estimated Programme Fees after deducting SSSDP subsidy (HK$89,620/year): 1st year: HK$57,170 Whole Programme: HK$285,850 Remarks: The composite tuition/programme fees listed above have included laboratory/ practicum/ immersion course fees, etc., if applicable. Non-subsidised tuition fees will be charged to students who are not eligible for the SSSDP subsidy. There will be an annual adjustment of tuition fees which will be capped at the actual Composite Consumer Price Index (CCPI) to be announced by the Government. The estimated composite tuition/programme fees for the whole programme have not yet taken the CCPI for the second to fourth (or fifth) year, i.e. 2028/29 to 2030/31 (or 2031/32) academic year, into account. Students, who fulfilled the stipulated requirements set by the Education Bureau (EDB), are eligible for the Study Subsidy Scheme for Designated Professions/Sectors (âSSSDPâ) provided by the Government. A studentâs eligibility for the SSSDP and the annual subsidy amount allocated in an academic year is subject to EDBâs final approval. The annual subsidy amount of applied degree programmes under the SSSDP for laboratory-based programmes for the 2027/28 academic year is HK$89,620.Â The SSSDPÂ subsidy amount for the 2028/29 academic year is to be announced by the EDB. The SSSDP is available only to eligible students. For details of the scheme and eligibility, please visit http://www.cspe.edu.hk/sssdp/ ."
+  ]
+ },
+ "JSSU50": {
+  "code": "JSSU50",
+  "sector": "sssdp",
+  "name": "Bachelor of Nursing with Honours in Mental Health Care",
+  "operator": "HKMU",
+  "core": [
+   [
+    "CHINESE LANGUAGE",
+    "3"
+   ],
+   [
+    "CITIZENSHIP AND SOCIAL DEVELOPMENT",
+    "Attained"
+   ],
+   [
+    "ENGLISH LANGUAGE",
+    "3"
+   ],
+   [
+    "MATHEMATICS COMPULSORY PART",
+    "2"
+   ]
+  ],
+  "electives": [
+   [
+    "ANY 1 SUBJECT (EXCLUDING APPLIED LEARNING, OTHER LANGUAGE)",
+    "2"
+   ],
+   [
+    "ANY 1 SUBJECT",
+    "2"
+   ]
+  ],
+  "weighted_subjects": [
+   "Biology",
+   "Chemistry",
+   "Health Management and Social Care",
+   "Physics"
+  ],
+  "notes": [
+   "Please refer to individual institution for programme-specific entry requirements.",
+   "Estimated Programme Fees: 1st year: HK$146,790 Whole Programme: HK$733,950 Estimated Programme Fees after deducting SSSDP subsidy (HK$89,620/year): 1st year: HK$57,170 Whole Programme: HK$285,850 Remarks: The composite tuition/programme fees listed above have included laboratory/ practicum/ immersion course fees, etc., if applicable. Non-subsidised tuition fees will be charged to students who are not eligible for the SSSDP subsidy. There will be an annual adjustment of tuition fees which will be capped at the actual Composite Consumer Price Index (CCPI) to be announced by the Government. The estimated composite tuition/programme fees for the whole programme have not yet taken the CCPI for the second to fourth (or fifth) year, i.e. 2028/29 to 2030/31 (or 2031/32) academic year, into account. Students, who fulfilled the stipulated requirements set by the Education Bureau (EDB), are eligible for the Study Subsidy Scheme for Designated Professions/Sectors (âSSSDPâ) provided by the Government.Â Â A studentâs eligibility for the SSSDP and the annual subsidy amount allocated in an academic year is subject to EDBâs final approval. The annual subsidy amount of applied degree programmes under the SSSDP for laboratory-based programmes for the 2027/28 academic year is HK$89,620.Â The SSSDPÂ subsidy amount for the 2028/29 academic year is to be announced by the EDB. The SSSDP is available only to eligible students. For details of the scheme and eligibility, please visit http://www.cspe.edu.hk/sssdp/ ."
+  ]
+ },
+ "JSSU55": {
+  "code": "JSSU55",
+  "sector": "sssdp",
+  "name": "Bachelor of Science with Honours in Physiotherapy",
+  "operator": "HKMU",
+  "core": [
+   [
+    "CHINESE LANGUAGE",
+    "3"
+   ],
+   [
+    "CITIZENSHIP AND SOCIAL DEVELOPMENT",
+    "Attained"
+   ],
+   [
+    "ENGLISH LANGUAGE",
+    "3"
+   ],
+   [
+    "MATHEMATICS COMPULSORY PART",
+    "2"
+   ]
+  ],
+  "electives": [
+   [
+    "ANY 2 SUBJECTS",
+    "2"
+   ]
+  ],
+  "weighted_subjects": [],
+  "notes": [
+   "Please refer to individual institution for programme-specific entry requirements.",
+   "Estimated Programme Fees: 1st year: HK$187,910 Whole Programme: HK$751,640 Estimated Programme Fees after deducting SSSDP subsidy (HK$89,620/year): 1st year: HK$98,290 Whole Programme: HK$393,160 Remarks: The composite tuition/programme fees listed above have included laboratory/ practicum/ immersion course fees, etc., if applicable. Non-subsidised tuition fees will be charged to students who are not eligible for the SSSDP subsidy. There will be an annual adjustment of tuition fees which will be capped at the actual Composite Consumer Price Index (CCPI) to be announced by the Government. The estimated composite tuition/programme fees for the whole programme have not yet taken the CCPI for the second to fourth (or fifth) year, i.e. 2028/29 to 2030/31 (or 2031/32) academic year, into account. Students, who fulfilled the stipulated requirements set by the Education Bureau (EDB), are eligible for the Study Subsidy Scheme for Designated Professions/Sectors (âSSSDPâ) provided by the Government. A studentâs eligibility for the SSSDP and the annual subsidy amount allocated in an academic year is subject to EDBâs final approval. The annual subsidy amount of applied degree programmes under the SSSDP for laboratory-based programmes for the 2027/28 academic year is HK$89,620.Â The SSSDPÂ subsidy amount for the 2028/29 academic year is to be announced by the EDB. The SSSDP is available only to eligible students. For details of the scheme and eligibility, please visit http://www.cspe.edu.hk/sssdp/ ."
+  ]
+ },
+ "JSSU61": {
+  "code": "JSSU61",
+  "sector": "sssdp",
+  "name": "Bachelor of Applied Science with Honours in Integrated Testing, Inspection and Certification",
+  "operator": "HKMU",
+  "core": [
+   [
+    "CHINESE LANGUAGE",
+    "3"
+   ],
+   [
+    "CITIZENSHIP AND SOCIAL DEVELOPMENT",
+    "Attained"
+   ],
+   [
+    "ENGLISH LANGUAGE",
+    "3"
+   ],
+   [
+    "MATHEMATICS COMPULSORY PART",
+    "2"
+   ]
+  ],
+  "electives": [
+   [
+    "ANY 2 SUBJECTS",
+    "2"
+   ]
+  ],
+  "weighted_subjects": [],
+  "notes": [
+   "Please refer to individual institution for programme-specific entry requirements.",
+   "Estimated Programme Fees: 1st year: HK$127,830 Whole Programme: HK$511,320 Estimated Programme Fees after deducting SSSDP subsidy (HK$89,620/year): 1st year: HK$38,210 Whole Programme: HK$152,840 Remarks: The composite tuition/programme fees listed above have included laboratory/ practicum/ immersion course fees, etc., if applicable. Non-subsidised tuition fees will be charged to students who are not eligible for the SSSDP subsidy. There will be an annual adjustment of tuition fees which will be capped at the actual Composite Consumer Price Index (CCPI) to be announced by the Government. The estimated composite tuition/programme fees for the whole programme have not yet taken the CCPI for the second to fourth (or fifth) year, i.e. 2028/29 to 2030/31 (or 2031/32) academic year, into account. Students, who fulfilled the stipulated requirements set by the Education Bureau (EDB), are eligible for the Study Subsidy Scheme for Designated Professions/Sectors (âSSSDPâ) provided by the Government. A studentâs eligibility for the SSSDP and the annual subsidy amount allocated in an academic year is subject to EDBâs final approval. The annual subsidy amount of applied degree programmes under the SSSDP for laboratory-based programmes for the 2027/28 academic year is HK$89,620.Â The SSSDPÂ subsidy amount for the 2028/29 academic year is to be announced by the EDB. The SSSDP is available only to eligible students. For details of the scheme and eligibility, please visit http://www.cspe.edu.hk/sssdp/ ."
+  ]
+ },
+ "JSSU66": {
+  "code": "JSSU66",
+  "sector": "sssdp",
+  "name": "Bachelor of Science with Honours in Diagnostic Radiography",
+  "operator": "HKMU",
+  "core": [
+   [
+    "CHINESE LANGUAGE",
+    "3"
+   ],
+   [
+    "CITIZENSHIP AND SOCIAL DEVELOPMENT",
+    "Attained"
+   ],
+   [
+    "ENGLISH LANGUAGE",
+    "3"
+   ],
+   [
+    "MATHEMATICS COMPULSORY PART",
+    "2"
+   ]
+  ],
+  "electives": [
+   [
+    "ANY 2 SUBJECTS",
+    "2"
+   ]
+  ],
+  "weighted_subjects": [
+   "Biology",
+   "Physics"
+  ],
+  "notes": [
+   "Please refer to individual institution for programme-specific entry requirements.",
+   "Estimated Programme Fees: 1st year: HK$170,350 Whole Programme: HK$681,400 Estimated Programme Fees after deducting SSSDP subsidy (HK$89,620/year): 1st year: HK$80,730 Whole Programme: HK$322,920 Remarks: The composite tuition/programme fees listed above have included laboratory/ practicum/ immersion course fees, etc., if applicable. Non-subsidised tuition fees will be charged to students who are not eligible for the SSSDP subsidy. There will be an annual adjustment of tuition fees which will be capped at the actual Composite Consumer Price Index (CCPI) to be announced by the Government. The estimated composite tuition/programme fees for the whole programme have not yet taken the CCPI for the second to fourth (or fifth) year, i.e. 2028/29 to 2030/31 (or 2031/32) academic year, into account. Students, who fulfilled the stipulated requirements set by the Education Bureau (EDB), are eligible for the Study Subsidy Scheme for Designated Professions/Sectors (âSSSDPâ) provided by the Government. A studentâs eligibility for the SSSDP and the annual subsidy amount allocated in an academic year is subject to EDBâs final approval. The annual subsidy amount of applied degree programmes under the SSSDP for laboratory-based programmes for the 2027/28 academic year is HK$89,620. The SSSDP subsidy amount for the 2028/29 academic year is to be announced by the EDB. The SSSDP is available only to eligible students. For details of the scheme and eligibility, please visit http://www.cspe.edu.hk/sssdp/ ."
+  ]
+ },
+ "JSSU67": {
+  "code": "JSSU67",
+  "sector": "sssdp",
+  "name": "Bachelor of Science with Honours in Medical Laboratory Science",
+  "operator": "HKMU",
+  "core": [
+   [
+    "CHINESE LANGUAGE",
+    "3"
+   ],
+   [
+    "CITIZENSHIP AND SOCIAL DEVELOPMENT",
+    "Attained"
+   ],
+   [
+    "ENGLISH LANGUAGE",
+    "3"
+   ],
+   [
+    "MATHEMATICS COMPULSORY PART",
+    "2"
+   ]
+  ],
+  "electives": [
+   [
+    "ANY 2 SUBJECTS",
+    "2"
+   ]
+  ],
+  "weighted_subjects": [],
+  "notes": [
+   "Please refer to individual institution for programme-specific entry requirements.",
+   "Estimated Programme Fees: 1st year: HK$187,840 Whole Programme: HK$751,360 Estimated Programme Fees after deducting SSSDP subsidy (HK$89,620/year): 1st year: HK$98,220 Whole Programme: HK$392,880 Remarks: The composite tuition/programme fees listed above have included laboratory/ practicum/ immersion course fees, etc., if applicable. Non-subsidised tuition fees will be charged to students who are not eligible for the SSSDP subsidy. There will be an annual adjustment of tuition fees which will be capped at the actual Composite Consumer Price Index (CCPI) to be announced by the Government. The estimated composite tuition/programme fees for the whole programme have not yet taken the CCPI for the second to fourth (or fifth) year, i.e. 2028/29 to 2030/31 (or 2031/32) academic year, into account. Students, who fulfilled the stipulated requirements set by the Education Bureau (EDB), are eligible for the Study Subsidy Scheme for Designated Professions/Sectors (âSSSDPâ) provided by the Government. A studentâs eligibility for the SSSDP and the annual subsidy amount allocated in an academic year is subject to EDBâs final approval. The annual subsidy amount of applied degree programmes under the SSSDP for laboratory-based programmes for the 2027/28 academic year is HK$89,620.Â The SSSDPÂ subsidy amount for the 2028/29 academic year is to be announced by the EDB. The SSSDP is available only to eligible students. For details of the scheme and eligibility, please visit http://www.cspe.edu.hk/sssdp/ ."
+  ]
+ },
+ "JSSU69": {
+  "code": "JSSU69",
+  "sector": "sssdp",
+  "name": "Bachelor of Science with Honours in Food Testing Science",
+  "operator": "HKMU",
+  "core": [
+   [
+    "CHINESE LANGUAGE",
+    "3"
+   ],
+   [
+    "CITIZENSHIP AND SOCIAL DEVELOPMENT",
+    "Attained"
+   ],
+   [
+    "ENGLISH LANGUAGE",
+    "3"
+   ],
+   [
+    "MATHEMATICS COMPULSORY PART",
+    "2"
+   ]
+  ],
+  "electives": [
+   [
+    "ANY 2 SUBJECTS",
+    "2"
+   ]
+  ],
+  "weighted_subjects": [],
+  "notes": [
+   "Please refer to individual institution for programme-specific entry requirements.",
+   "Estimated Programme Fees: 1st year: HK$101,290 Whole Programme: HK$405,160 Estimated Programme Fees after deducting SSSDP subsidy (HK$89,620/year): 1st year: HK$11,670 Whole Programme: HK$46,680 Remarks: The composite tuition/programme fees listed above have included laboratory/ practicum/ immersion course fees, etc., if applicable. Non-subsidised tuition fees will be charged to students who are not eligible for the SSSDP subsidy. There will be an annual adjustment of tuition fees which will be capped at the actual Composite Consumer Price Index (CCPI) to be announced by the Government. The estimated composite tuition/programme fees for the whole programme have not yet taken the CCPI for the second to fourth (or fifth) year, i.e. 2028/29 to 2030/31 (or 2031/32) academic year, into account. Students, who fulfilled the stipulated requirements set by the Education Bureau (EDB), are eligible for the Study Subsidy Scheme for Designated Professions/Sectors (âSSSDPâ) provided by the Government. A studentâs eligibility for the SSSDP and the annual subsidy amount allocated in an academic year is subject to EDBâs final approval. The annual subsidy amount ofÂ applied degree programmes under the SSSDP Â for laboratory-based programmes for the 2027/28 academic year is HK$89,620. The SSSDPÂ subsidy amount for the 2028/29 academic year is to be announced by the EDB. The SSSDP is available only to eligible students. For details of the scheme and eligibility, please visit http://www.cspe.edu.hk/sssdp/ ."
+  ]
+ },
+ "JSSU70": {
+  "code": "JSSU70",
+  "sector": "sssdp",
+  "name": "Bachelor of Science with Honours in Data Science and Artificial Intelligence",
+  "operator": "HKMU",
+  "core": [
+   [
+    "CHINESE LANGUAGE",
+    "3"
+   ],
+   [
+    "CITIZENSHIP AND SOCIAL DEVELOPMENT",
+    "Attained"
+   ],
+   [
+    "ENGLISH LANGUAGE",
+    "3"
+   ],
+   [
+    "MATHEMATICS COMPULSORY PART",
+    "2"
+   ]
+  ],
+  "electives": [
+   [
+    "ANY 2 SUBJECTS",
+    "2"
+   ]
+  ],
+  "weighted_subjects": [],
+  "notes": [
+   "Please refer to individual institution for programme-specific entry requirements.",
+   "Estimated Programme Fees: 1st year: HK$85,340 Whole Programme: HK$341,360 Estimated Programme Fees after deducting SSSDP subsidy (HK$46,780/year): 1st year: HK$38,560 Whole Programme: HK$154,240 Remarks: The composite tuition/programme fees listed above have included laboratory/ practicum/ immersion course fees, etc., if applicable. Non-subsidised tuition fees will be charged to students who are not eligible for the SSSDP subsidy. There will be an annual adjustment of tuition fees which will be capped at the actual Composite Consumer Price Index (CCPI) to be announced by the Government. The estimated composite tuition/programme fees for the whole programme have not yet taken the CCPI for the second to fourth (or fifth) year, i.e. 2028/29 to 2030/31 (or 2031/32) academic year, into account. Students, who fulfilled the stipulated requirements set by the Education Bureau (EDB), are eligible for the Study Subsidy Scheme for Designated Professions/Sectors (âSSSDPâ) provided by the Government. A studentâs eligibility for the SSSDP and the annual subsidy amount allocated in an academic year is subject to EDBâs final approval. The annual subsidy amount of SSSDP forÂ non-laboratory-based programmes for the 2027/28 academic year is HK$46,780.Â The SSSDPÂ subsidy amount for the 2028/29 academic year is to be announced by the EDB. The SSSDP is available only to eligible students. For details of the scheme and eligibility, please visit http://www.cspe.edu.hk/sssdp/ ."
+  ]
+ },
+ "JSSU72": {
+  "code": "JSSU72",
+  "sector": "sssdp",
+  "name": "Bachelor of Science with Honours in Computer Science",
+  "operator": "HKMU",
+  "core": [
+   [
+    "CHINESE LANGUAGE",
+    "3"
+   ],
+   [
+    "CITIZENSHIP AND SOCIAL DEVELOPMENT",
+    "Attained"
+   ],
+   [
+    "ENGLISH LANGUAGE",
+    "3"
+   ],
+   [
+    "MATHEMATICS COMPULSORY PART",
+    "2"
+   ]
+  ],
+  "electives": [
+   [
+    "ANY 2 SUBJECTS",
+    "2"
+   ]
+  ],
+  "weighted_subjects": [],
+  "notes": [
+   "Please refer to individual institution for programme-specific entry requirements.",
+   "Estimated Programme Fees: 1st year: HK$85,340 Whole Programme: HK$341,360 Estimated Programme Fees after deducting SSSDP subsidy (HK$46,780/year): 1st year: HK$38,560 Whole Programme: HK$154,240 Remarks: The composite tuition/programme fees listed above have included laboratory/ practicum/ immersion course fees, etc., if applicable. Non-subsidised tuition fees will be charged to students who are not eligible for the SSSDP subsidy. There will be an annual adjustment of tuition fees which will be capped at the actual Composite Consumer Price Index (CCPI) to be announced by the Government. The estimated composite tuition/programme fees for the whole programme have not yet taken the CCPI for the second to fourth (or fifth) year, i.e. 2028/29 to 2030/31 (or 2031/32) academic year, into account. Students, who fulfilled the stipulated requirements set by the Education Bureau (EDB), are eligible for the Study Subsidy Scheme for Designated Professions/Sectors (âSSSDPâ) provided by the Government. A studentâs eligibility for the SSSDP and the annual subsidy amount allocated in an academic year is subject to EDBâs final approval. The annual subsidy amount of SSSDP forÂ non-laboratory-based programmes for the 2027/28 academic year is HK$46,780.Â The SSSDPÂ subsidy amount for the 2028/29 academic year is to be announced by the EDB. The SSSDP is available only to eligible students. For details of the scheme and eligibility, please visit http://www.cspe.edu.hk/sssdp/ ."
+  ]
+ },
+ "JSSU75": {
+  "code": "JSSU75",
+  "sector": "sssdp",
+  "name": "Bachelor of Applied Science with Honours in Robotics and Automation Engineering",
+  "operator": "HKMU",
+  "core": [
+   [
+    "CHINESE LANGUAGE",
+    "3"
+   ],
+   [
+    "CITIZENSHIP AND SOCIAL DEVELOPMENT",
+    "Attained"
+   ],
+   [
+    "ENGLISH LANGUAGE",
+    "3"
+   ],
+   [
+    "MATHEMATICS COMPULSORY PART",
+    "2"
+   ]
+  ],
+  "electives": [
+   [
+    "ANY 2 SUBJECTS",
+    "2"
+   ]
+  ],
+  "weighted_subjects": [],
+  "notes": [
+   "Please refer to individual institution for programme-specific entry requirements.",
+   "Estimated Programme Fees: 1st year: HK$141,960 Whole Programme: HK$567,840 Estimated Programme Fees after deducting SSSDP subsidy (HK$81,450/year): 1st year: HK$60,510 Whole Programme: HK$242,040 Remarks: The composite tuition/programme fees listed above have included laboratory/ practicum/ immersion course fees, etc., if applicable. Non-subsidised tuition fees will be charged to students who are not eligible for the SSSDP subsidy. There will be an annual adjustment of tuition fees which will be capped at the actual Composite Consumer Price Index (CCPI) to be announced by the Government. The estimated composite tuition/programme fees for the whole programme have not yet taken the CCPI for the second to fourth (or fifth) year, i.e. 2028/29 to 2030/31 (or 2031/32) academic year, into account. Students, who fulfilled the stipulated requirements set by the Education Bureau (EDB), are eligible for the Study Subsidy Scheme for Designated Professions/Sectors (âSSSDPâ) provided by the Government. A studentâs eligibility for the SSSDP and the annual subsidy amount allocated in an academic year is subject to EDBâs final approval. The annual subsidy amount of SSSDP for laboratory-based programmes for the 2027/28 academic year is HK$81,450.Â The SSSDPÂ subsidy amount for the 2028/29 academic year is to be announced by the EDB. The SSSDP is available only to eligible students. For details of the scheme and eligibility, please visit http://www.cspe.edu.hk/sssdp/ ."
+  ]
+ },
+ "JSSU77": {
+  "code": "JSSU77",
+  "sector": "sssdp",
+  "name": "Bachelor of Science with Honours in Construction Management and Quantity Surveying",
+  "operator": "HKMU",
+  "core": [
+   [
+    "CHINESE LANGUAGE",
+    "3"
+   ],
+   [
+    "CITIZENSHIP AND SOCIAL DEVELOPMENT",
+    "Attained"
+   ],
+   [
+    "ENGLISH LANGUAGE",
+    "3"
+   ],
+   [
+    "MATHEMATICS COMPULSORY PART",
+    "2"
+   ]
+  ],
+  "electives": [
+   [
+    "ANY 2 SUBJECTS",
+    "2"
+   ]
+  ],
+  "weighted_subjects": [],
+  "notes": [
+   "Please refer to individual institution for programme-specific entry requirements.",
+   "Estimated Programme Fees: 1st year: HK$126,340 Whole Programme: HK$505,360 Estimated Programme Fees after deducting SSSDP subsidy (HK$46,780/year): 1st year: HK$79,560 Whole Programme: HK$318,240 Remarks: The composite tuition/programme fees listed above have included laboratory/ practicum/ immersion course fees, etc., if applicable. Non-subsidised tuition fees will be charged to students who are not eligible for the SSSDP subsidy. There will be an annual adjustment of tuition fees which will be capped at the actual Composite Consumer Price Index (CCPI) to be announced by the Government. The estimated composite tuition/programme fees for the whole programme have not yet taken the CCPI for the second to fourth (or fifth) year, i.e. 2028/29 to 2030/31 (or 2031/32) academic year, into account. Students, who fulfilled the stipulated requirements set by the Education Bureau (EDB), are eligible for the Study Subsidy Scheme for Designated Professions/Sectors (âSSSDPâ) provided by the Government. A studentâs eligibility for the SSSDP and the annual subsidy amount allocated in an academic year is subject to EDBâs final approval. The annual subsidy amount of SSSDP forÂ non-laboratory-based programmes for the 2027/28 academic year is HK$46,780.Â The SSSDPÂ subsidy amount for the 2028/29 academic year is to be announced by the EDB. The SSSDP is available only to eligible students. For details of the scheme and eligibility, please visit http://www.cspe.edu.hk/sssdp/ ."
+  ]
+ },
+ "JSSU78": {
+  "code": "JSSU78",
+  "sector": "sssdp",
+  "name": "Bachelor of Engineering with Honours in Building Services Engineering and Sustainable Development",
+  "operator": "HKMU",
+  "core": [
+   [
+    "CHINESE LANGUAGE",
+    "3"
+   ],
+   [
+    "CITIZENSHIP AND SOCIAL DEVELOPMENT",
+    "Attained"
+   ],
+   [
+    "ENGLISH LANGUAGE",
+    "3"
+   ],
+   [
+    "MATHEMATICS COMPULSORY PART",
+    "2"
+   ]
+  ],
+  "electives": [
+   [
+    "ANY 2 SUBJECTS",
+    "2"
+   ]
+  ],
+  "weighted_subjects": [],
+  "notes": [
+   "Please refer to individual institution for programme-specific entry requirements.",
+   "Estimated Programme Fees: 1st year: HK$96,090 Whole Programme: HK$384,360 Estimated Programme Fees after deducting SSSDP subsidy (HK$81,450/year): 1st year: HK$14,640 Whole Programme: HK$58,560 Remarks: The composite tuition/programme fees listed above have included laboratory/ practicum/ immersion course fees, etc., if applicable. Non-subsidised tuition fees will be charged to students who are not eligible for the SSSDP subsidy. There will be an annual adjustment of tuition fees which will be capped at the actual Composite Consumer Price Index (CCPI) to be announced by the Government. The estimated composite tuition/programme fees for the whole programme have not yet taken the CCPI for the second to fourth (or fifth) year, i.e. 2028/29 to 2030/31 (or 2031/32) academic year, into account. Students, who fulfilled the stipulated requirements set by the Education Bureau (EDB), are eligible for the Study Subsidy Scheme for Designated Professions/Sectors (âSSSDPâ) provided by the Government.Â Â A studentâs eligibility for the SSSDP and the annual subsidy amount allocated in an academic year is subject to EDBâs final approval. The annual subsidy amount of SSSDP for laboratory-based programmes for the 2027/28 academic year is HK$81,450.Â The SSSDPÂ subsidy amount for the 2028/29 academic year is to be announced by the EDB. The SSSDP is available only to eligible students. For details of the scheme and eligibility, please visit http://www.cspe.edu.hk/sssdp/ ."
+  ]
+ },
+ "JSSU79": {
+  "code": "JSSU79",
+  "sector": "sssdp",
+  "name": "Bachelor of Engineering with Honours in Civil Engineering",
+  "operator": "HKMU",
+  "core": [
+   [
+    "CHINESE LANGUAGE",
+    "3"
+   ],
+   [
+    "CITIZENSHIP AND SOCIAL DEVELOPMENT",
+    "Attained"
+   ],
+   [
+    "ENGLISH LANGUAGE",
+    "3"
+   ],
+   [
+    "MATHEMATICS COMPULSORY PART",
+    "2"
+   ]
+  ],
+  "electives": [
+   [
+    "ANY 2 SUBJECTS",
+    "2"
+   ]
+  ],
+  "weighted_subjects": [],
+  "notes": [
+   "Please refer to individual institution for programme-specific entry requirements.",
+   "Estimated Programme Fees: 1st year: HK$104,200 Whole Programme: HK$416,800 Estimated Programme Fees after deducting SSSDP subsidy (HK$89,620/year): 1st year: HK$14,580 Whole Programme: HK$58,320 Remarks: The composite tuition/programme fees listed above have included laboratory/ practicum/ immersion course fees, etc., if applicable. Non-subsidised tuition fees will be charged to students who are not eligible for the SSSDP subsidy. There will be an annual adjustment of tuition fees which will be capped at the actual Composite Consumer Price Index (CCPI) to be announced by the Government. The estimated composite tuition/programme fees for the whole programme have not yet taken the CCPI for the second to fourth (or fifth) year, i.e. 2028/29 to 2030/31 (or 2031/32) academic year, into account. Students, who fulfilled the stipulated requirements set by the Education Bureau (EDB), are eligible for the Study Subsidy Scheme for Designated Professions/Sectors (âSSSDPâ) provided by the Government. A studentâs eligibility for the SSSDP and the annual subsidy amount allocated in an academic year is subject to EDBâs final approval. The annual subsidy amount of applied degree programmes under the SSSDP for laboratory-based programmes for the 2027/28 academic year is HK$89,620.Â The SSSDPÂ subsidy amount for the 2028/29 academic year is to be announced by the EDB. The SSSDP is available only to eligible students. For details of the scheme and eligibility, please visit http://www.cspe.edu.hk/sssdp/ ."
+  ]
+ },
+ "JSSU90": {
+  "code": "JSSU90",
+  "sector": "sssdp",
+  "name": "Bachelor of Business Administration with Honours in International Hospitality and Attractions Management",
+  "operator": "HKMU",
+  "core": [
+   [
+    "CHINESE LANGUAGE",
+    "3"
+   ],
+   [
+    "CITIZENSHIP AND SOCIAL DEVELOPMENT",
+    "Attained"
+   ],
+   [
+    "ENGLISH LANGUAGE",
+    "3"
+   ],
+   [
+    "MATHEMATICS COMPULSORY PART",
+    "2"
+   ]
+  ],
+  "electives": [
+   [
+    "ANY 2 SUBJECTS",
+    "2"
+   ]
+  ],
+  "weighted_subjects": [],
+  "notes": [
+   "Please refer to individual institution for programme-specific entry requirements.",
+   "Estimated Programme Fees: 1st year: HK$104,160 Whole Programme: HK$416,640 Estimated Programme Fees after deducting SSSDP subsidy (HK$51,880/year): 1st year: HK$52,280 Whole Programme: HK$209,120 Remarks: The composite tuition/programme fees listed above have included laboratory/ practicum/ immersion course fees, etc., if applicable. Non-subsidised tuition fees will be charged to students who are not eligible for the SSSDP subsidy. There will be an annual adjustment of tuition fees which will be capped at the actual Composite Consumer Price Index (CCPI) to be announced by the Government. The estimated composite tuition/programme fees for the whole programme have not yet taken the CCPI for the second to fourth (or fifth) year, i.e. 2028/29 to 2030/31 (or 2031/32) academic year, into account. Students, who fulfilled the stipulated requirements set by the Education Bureau (EDB), are eligible for the Study Subsidy Scheme for Designated Professions/Sectors (âSSSDPâ) provided by the Government. A studentâs eligibility for the SSSDP and the annual subsidy amount allocated in an academic year is subject to EDBâs final approval. The annual subsidy amount of applied degree programmes under the SSSDP for non-laboratory-based programmes for the 2027/28 academic year is HK$51,880.Â The SSSDPÂ subsidy amount for the 2028/29 academic year is to be announced by the EDB. The SSSDP is available only to eligible students. For details of the scheme and eligibility, please visit http://www.cspe.edu.hk/sssdp/ ."
+  ]
+ },
+ "JSSU93": {
+  "code": "JSSU93",
+  "sector": "sssdp",
+  "name": "Bachelor of Business Administration with Honours in Aviation Services Management",
+  "operator": "HKMU",
+  "core": [
+   [
+    "CHINESE LANGUAGE",
+    "3"
+   ],
+   [
+    "CITIZENSHIP AND SOCIAL DEVELOPMENT",
+    "Attained"
+   ],
+   [
+    "ENGLISH LANGUAGE",
+    "3"
+   ],
+   [
+    "MATHEMATICS COMPULSORY PART",
+    "2"
+   ]
+  ],
+  "electives": [
+   [
+    "ANY 2 SUBJECTS",
+    "2"
+   ]
+  ],
+  "weighted_subjects": [],
+  "notes": [
+   "Please refer to individual institution for programme-specific entry requirements.",
+   "Estimated Programme Fees: 1st year: HK$104,160 Whole Programme: HK$416,640 Estimated Programme Fees after deducting SSSDP subsidy (HK$51,880/year): 1st year: HK$52,280 Whole Programme: HK$209,120 Remarks: The composite tuition/programme fees listed above have included laboratory/ practicum/ immersion course fees, etc., if applicable. Non-subsidised tuition fees will be charged to students who are not eligible for the SSSDP subsidy. There will be an annual adjustment of tuition fees which will be capped at the actual Composite Consumer Price Index (CCPI) to be announced by the Government. The estimated composite tuition/programme fees for the whole programme have not yet taken the CCPI for the second to fourth (or fifth) year, i.e. 2028/29 to 2030/31 (or 2031/32) academic year, into account. Students, who fulfilled the stipulated requirements set by the Education Bureau (EDB), are eligible for the Study Subsidy Scheme for Designated Professions/Sectors (âSSSDPâ) provided by the Government. A studentâs eligibility for the SSSDP and the annual subsidy amount allocated in an academic year is subject to EDBâs final approval. The annual subsidy amount of applied degree programmes under the SSSDP for non-laboratory-based programmes for the 2027/28 academic year is HK$51,880.Â The SSSDPÂ subsidy amount for the 2028/29 academic year is to be announced by the EDB. The SSSDP is available only to eligible students. For details of the scheme and eligibility, please visit http://www.cspe.edu.hk/sssdp/ ."
+  ]
+ },
+ "JSSU95": {
+  "code": "JSSU95",
+  "sector": "sssdp",
+  "name": "Bachelor of Business Administration with Honours in Sports and Recreation Management",
+  "operator": "HKMU",
+  "core": [
+   [
+    "CHINESE LANGUAGE",
+    "3"
+   ],
+   [
+    "CITIZENSHIP AND SOCIAL DEVELOPMENT",
+    "Attained"
+   ],
+   [
+    "ENGLISH LANGUAGE",
+    "3"
+   ],
+   [
+    "MATHEMATICS COMPULSORY PART",
+    "2"
+   ]
+  ],
+  "electives": [
+   [
+    "ANY 2 SUBJECTS",
+    "2"
+   ]
+  ],
+  "weighted_subjects": [],
+  "notes": [
+   "Please refer to individual institution for programme-specific entry requirements.",
+   "Estimated Programme Fees: 1st year: HK$104,240 Whole Programme: HK$416,960 Estimated Programme Fees after deducting SSSDP subsidy (HK$51,880/year): 1st year: HK$52,360 Whole Programme: HK$209,440 Remarks: The composite tuition/programme fees listed above have included laboratory/ practicum/ immersion course fees, etc., if applicable. Non-subsidised tuition fees will be charged to students who are not eligible for the SSSDP subsidy. There will be an annual adjustment of tuition fees which will be capped at the actual Composite Consumer Price Index (CCPI) to be announced by the Government. The estimated composite tuition/programme fees for the whole programme have not yet taken the CCPI for the second to fourth (or fifth) year, i.e. 2028/29 to 2030/31 (or 2031/32) academic year, into account. Students, who fulfilled the stipulated requirements set by the Education Bureau (EDB), are eligible for the Study Subsidy Scheme for Designated Professions/Sectors (âSSSDPâ) provided by the Government.Â Â A studentâs eligibility for the SSSDP and the annual subsidy amount allocated in an academic year is subject to EDBâs final approval. The annual subsidy amount of applied degree programmes under the SSSDPÂ for non-laboratory-based programmes for the 2027/28 academic year is HK$51,880.Â The SSSDPÂ subsidy amount for the 2028/29 academic year is to be announced by the EDB. The SSSDP is available only to eligible students. For details of the scheme and eligibility, please visit http://www.cspe.edu.hk/sssdp/ ."
+  ]
+ },
+ "JSSU96": {
+  "code": "JSSU96",
+  "sector": "sssdp",
+  "name": "Bachelor of Business Administration with Honours in Finance and Financial Technology",
+  "operator": "HKMU",
+  "core": [
+   [
+    "CHINESE LANGUAGE",
+    "3"
+   ],
+   [
+    "CITIZENSHIP AND SOCIAL DEVELOPMENT",
+    "Attained"
+   ],
+   [
+    "ENGLISH LANGUAGE",
+    "3"
+   ],
+   [
+    "MATHEMATICS COMPULSORY PART",
+    "2"
+   ]
+  ],
+  "electives": [
+   [
+    "ANY 2 SUBJECTS",
+    "2"
+   ]
+  ],
+  "weighted_subjects": [],
+  "notes": [
+   "Please refer to individual institution for programme-specific entry requirements.",
+   "Estimated Programme Fees: 1st year: HK$99,090 Whole Programme: HK$396,360 Estimated Programme Fees after deducting SSSDP subsidy (HK$46,780/year): 1st year: HK$52,310 Whole Programme: HK$209,240 Remarks: The composite tuition/programme fees listed above have included laboratory/ practicum/ immersion course fees, etc., if applicable. Non-subsidised tuition fees will be charged to students who are not eligible for the SSSDP subsidy. There will be an annual adjustment of tuition fees which will be capped at the actual Composite Consumer Price Index (CCPI) to be announced by the Government. The estimated composite tuition/programme fees for the whole programme have not yet taken the CCPI for the second to fourth (or fifth) year, i.e. 2028/29 to 2030/31 (or 2031/32) academic year, into account. Students, who fulfilled the stipulated requirements set by the Education Bureau (EDB), are eligible for the Study Subsidy Scheme for Designated Professions/Sectors (âSSSDPâ) provided by the Government. A studentâs eligibility for the SSSDP and the annual subsidy amount allocated in an academic year is subject to EDBâs final approval. The annual subsidy amount of SSSDP forÂ non-laboratory-based programmes for the 2027/28 academic year is HK$46,780.Â The SSSDPÂ subsidy amount for the 2028/29 academic year is to be announced by the EDB. The SSSDP is available only to eligible students. For details of the scheme and eligibility, please visit http://www.cspe.edu.hk/sssdp/ ."
+  ]
+ },
+ "JSSU97": {
+  "code": "JSSU97",
+  "sector": "sssdp",
+  "name": "Bachelor of Business Administration with Honours in Global Marketing and Supply Chain Management",
+  "operator": "HKMU",
+  "core": [
+   [
+    "CHINESE LANGUAGE",
+    "3"
+   ],
+   [
+    "CITIZENSHIP AND SOCIAL DEVELOPMENT",
+    "Attained"
+   ],
+   [
+    "ENGLISH LANGUAGE",
+    "3"
+   ],
+   [
+    "MATHEMATICS COMPULSORY PART",
+    "2"
+   ]
+  ],
+  "electives": [
+   [
+    "ANY 2 SUBJECTS",
+    "2"
+   ]
+  ],
+  "weighted_subjects": [],
+  "notes": [
+   "Please refer to individual institution for programme-specific entry requirements.",
+   "Estimated Programme Fees: 1st year: HK$99,090 Whole Programme: HK$396,360 Estimated Programme Fees after deducting SSSDP subsidy (HK$46,780/year): 1st year: HK$52,310 Whole Programme: HK$209,240 Remarks: The composite tuition/programme fees listed above have included laboratory/ practicum/ immersion course fees, etc., if applicable. Non-subsidised tuition fees will be charged to students who are not eligible for the SSSDP subsidy. There will be an annual adjustment of tuition fees which will be capped at the actual Composite Consumer Price Index (CCPI) to be announced by the Government. The estimated composite tuition/programme fees for the whole programme have not yet taken the CCPI for the second to fourth (or fifth) year, i.e. 2028/29 to 2030/31 (or 2031/32) academic year, into account. Students, who fulfilled the stipulated requirements set by the Education Bureau (EDB), are eligible for the Study Subsidy Scheme for Designated Professions/Sectors (âSSSDPâ) provided by the Government. A studentâs eligibility for the SSSDP and the annual subsidy amount allocated in an academic year is subject to EDBâs final approval. The annual subsidy amount of SSSDP forÂ non-laboratory-based programmes for the 2027/28 academic year is HK$46,780.Â The SSSDPÂ subsidy amount for the 2028/29 academic year is to be announced by the EDB. The SSSDP is available only to eligible students. For details of the scheme and eligibility, please visit http://www.cspe.edu.hk/sssdp/ ."
+  ]
+ },
+ "JSSV01": {
+  "code": "JSSV01",
+  "sector": "sssdp",
+  "name": "Bachelor of Arts (Honours) in Fashion Design",
+  "operator": "VTC-THEi",
+  "core": [
+   [
+    "CHINESE LANGUAGE",
+    "3"
+   ],
+   [
+    "CITIZENSHIP AND SOCIAL DEVELOPMENT",
+    "Attained"
+   ],
+   [
+    "ENGLISH LANGUAGE",
+    "3"
+   ],
+   [
+    "MATHEMATICS COMPULSORY PART",
+    "2"
+   ]
+  ],
+  "electives": [
+   [
+    "ANY 1 SUBJECT",
+    "2"
+   ]
+  ],
+  "weighted_subjects": [],
+  "notes": [
+   "Applicants with previous HKDSE subject result of A040 âLiberal Studiesâ will be used as the alternative of the core subject requirement of A045 âCitizenship and Social Developmentâ. Admission Score Calculation on Citizenship and Social Development âAttainedâ in Citizenship and Social Development will be counted as âLevel 2â in the admission score calculation. Calculation of scores for applicants with more than 1 sitting in HKDSE Examination The best result from a combination of all HKDSE subjects will be considered and there is no penalty or marks deducted for repeated sittings. Alternative Qualification(s) in Chinese Language (for NCS applicants only) If applicants do not have the required HKDSE Chinese Language qualifications, under specific circumstances 1 , the following language results will be considered individually in the application : Alternative Language Qualifications Minimum Grade HKDSE Applied Learning Chinese Attained GCSE / IGCSE Chinese Language Grade C / Grade 4 GCE (O-Level) Chinese Language Grade C GCE (AS-Level) Chinese Language Grade C GCE (A-Level) Chinese Language Grade E Notes : The specific circumstances are : Applicants who have learned Chinese Language for less than 6 years while receiving primary and secondary education; OR Applicants who have learned Chinese Language for 6 years or more in schools, but has been taught an adapted and simpler Chinese Language curriculum not normally applicable to the majority of students in local schools.",
+   "Please refer to individual institution for programme-specific entry requirements.",
+   "Tuition Fees for the 2027/28 Cohort are as follows for reference: Before SSSDP Subsidy First-Year Tuition Fee: HK$113,630 Estimated Total Programme Fee (4-year normal duration): HK$454,520 After Deducting SSSDP Subsidy First-Year Tuition Fee: HK$32,180 Estimated Total Programme Fee (4-year normal duration): HK$128,720 Remarks: Tuition fees for subsequent years are subject to annual adjustment, capped at the movement of the Composite Consumer Price Index (CCPI) announced by the Government. The estimated total programme fee is calculated based on the tuition fee for the first year of study and has not yet reflected any CCPI-based fee adjustments for subsequent academic years (i.e. AY2028/29 onwards). The annual subsidy for this programme is HK$81,450 for the 2027/28 cohort. The subsidy is tenable for the normal duration of the programme, i.e. 4 years. Only applicants who satisfy the Category I (CAT I) eligibility criteria stipulated by the Education Bureau (EDB) are eligible for the Study Subsidy Scheme for Designated Professions/Sectors (SSSDP). For details of the Scheme and the eligibility criteria, please visit: https://www.cspe.edu.hk/sssdp . The programme will undergo Learning Programme Re-accreditation in AY 2026/27. The tuition fees are therefore subject to adjustment."
+  ]
+ },
+ "JSSV02": {
+  "code": "JSSV02",
+  "sector": "sssdp",
+  "name": "Bachelor of Arts (Honours) in Product Design",
+  "operator": "VTC-THEi",
+  "core": [
+   [
+    "CHINESE LANGUAGE",
+    "3"
+   ],
+   [
+    "CITIZENSHIP AND SOCIAL DEVELOPMENT",
+    "Attained"
+   ],
+   [
+    "ENGLISH LANGUAGE",
+    "3"
+   ],
+   [
+    "MATHEMATICS COMPULSORY PART",
+    "2"
+   ]
+  ],
+  "electives": [
+   [
+    "ANY 1 SUBJECT",
+    "2"
+   ]
+  ],
+  "weighted_subjects": [],
+  "notes": [
+   "Applicants with previous HKDSE subject result of A040 âLiberal Studiesâ will be used as the alternative of the core subject requirement of A045 âCitizenship and Social Developmentâ. Admission Score Calculation on Citizenship and Social Development âAttainedâ in Citizenship and Social Development will be counted as âLevel 2â in the admission score calculation. Calculation of scores for applicants with more than 1 sitting in HKDSE Examination The best result from a combination of all HKDSE subjects will be considered and there is no penalty or marks deducted for repeated sittings. Alternative Qualification(s) in Chinese Language (for NCS applicants only) If applicants do not have the required HKDSE Chinese Language qualifications, under specific circumstances 1 , the following language results will be considered individually in the application : Alternative Language Qualifications Minimum Grade HKDSE Applied Learning Chinese Attained GCSE / IGCSE Chinese Language Grade C / Grade 4 GCE (O-Level) Chinese Language Grade C GCE (AS-Level) Chinese Language Grade C GCE (A-Level) Chinese Language Grade E Notes : The specific circumstances are : Applicants who have learned Chinese Language for less than 6 years while receiving primary and secondary education; OR Applicants who have learned Chinese Language for 6 years or more in schools, but has been taught an adapted and simpler Chinese Language curriculum not normally applicable to the majority of students in local schools.",
+   "Please refer to individual institution for programme-specific entry requirements.",
+   "Tuition Fees for the 2027/28 Cohort are as follows for reference: Before SSSDP Subsidy First-Year Tuition Fee: HK$113,630 Estimated Total Programme Fee (4-year normal duration): HK$454,520 After Deducting SSSDP Subsidy First-Year Tuition Fee: HK$32,180 Estimated Total Programme Fee (4-year normal duration): HK$128,720 Remarks: Tuition fees for subsequent years are subject to annual adjustment, capped at the movement of the Composite Consumer Price Index (CCPI) announced by the Government. The estimated total programme fee is calculated based on the tuition fee for the first year of study and has not yet reflected any CCPI-based fee adjustments for subsequent academic years (i.e. AY2028/29 onwards). The annual subsidy for this programme is HK$81,450 for the 2027/28 cohort. The subsidy is tenable for the normal duration of the programme, i.e. 4 years. Only applicants who satisfy the Category I (CAT I) eligibility criteria stipulated by the Education Bureau (EDB) are eligible for the Study Subsidy Scheme for Designated Professions/Sectors (SSSDP). For details of the Scheme and the eligibility criteria, please visit: https://www.cspe.edu.hk/sssdp . The programme will undergo Learning Programme Re-accreditation in AY 2026/27. The tuition fees are therefore subject to adjustment."
+  ]
+ },
+ "JSSV03": {
+  "code": "JSSV03",
+  "sector": "sssdp",
+  "name": "Bachelor of Arts (Honours) in Landscape Architecture",
+  "operator": "VTC-THEi",
+  "core": [
+   [
+    "CHINESE LANGUAGE",
+    "3"
+   ],
+   [
+    "CITIZENSHIP AND SOCIAL DEVELOPMENT",
+    "Attained"
+   ],
+   [
+    "ENGLISH LANGUAGE",
+    "3"
+   ],
+   [
+    "MATHEMATICS COMPULSORY PART",
+    "2"
+   ]
+  ],
+  "electives": [
+   [
+    "ANY 1 SUBJECT",
+    "2"
+   ]
+  ],
+  "weighted_subjects": [],
+  "notes": [
+   "Applicants with previous HKDSE subject result of A040 âLiberal Studiesâ will be used as the alternative of the core subject requirement of A045 âCitizenship and Social Developmentâ. Admission Score Calculation on Citizenship and Social Development âAttainedâ in Citizenship and Social Development will be counted as âLevel 2â in the admission score calculation. Calculation of scores for applicants with more than 1 sitting in HKDSE Examination The best result from a combination of all HKDSE subjects will be considered and there is no penalty or marks deducted for repeated sittings. Alternative Qualification(s) in Chinese Language (for NCS applicants only) If applicants do not have the required HKDSE Chinese Language qualifications, under specific circumstances 1 , the following language results will be considered individually in the application : Alternative Language Qualifications Minimum Grade HKDSE Applied Learning Chinese Attained GCSE / IGCSE Chinese Language Grade C / Grade 4 GCE (O-Level) Chinese Language Grade C GCE (AS-Level) Chinese Language Grade C GCE (A-Level) Chinese Language Grade E Notes : The specific circumstances are : Applicants who have learned Chinese Language for less than 6 years while receiving primary and secondary education; OR Applicants who have learned Chinese Language for 6 years or more in schools, but has been taught an adapted and simpler Chinese Language curriculum not normally applicable to the majority of students in local schools.",
+   "Please refer to individual institution for programme-specific entry requirements.",
+   "Tuition Fees for the 2027/28 Cohort are as follows for reference: Before SSSDP Subsidy First-Year Tuition Fee: HK$109,710 Estimated Total Programme Fee (4-year normal duration): HK$438,840 After Deducting SSSDP Subsidy First-Year Tuition Fee: HK$62,930 Estimated Total Programme Fee (4-year normal duration): HK$251,720 Remarks: Tuition fees for subsequent years are subject to annual adjustment, capped at the movement of the Composite Consumer Price Index (CCPI) announced by the Government. The estimated total programme fee is calculated based on the tuition fee for the first year of study and has not yet reflected any CCPI-based fee adjustments for subsequent academic years (i.e. AY2028/29 onwards). The annual subsidy for this programme is HK$46,780 for the 2027/28 cohort. The subsidy is tenable for the normal duration of the programme, i.e. 4 years. Only applicants who satisfy the Category I (CAT I) eligibility criteria stipulated by the Education Bureau (EDB) are eligible for the Study Subsidy Scheme for Designated Professions/Sectors (SSSDP). For details of the Scheme and the eligibility criteria, please visit: https://www.cspe.edu.hk/sssdp ."
+  ]
+ },
+ "JSSV04": {
+  "code": "JSSV04",
+  "sector": "sssdp",
+  "name": "Bachelor of Arts (Honours) in Culinary Arts and Management",
+  "operator": "VTC-THEi",
+  "core": [
+   [
+    "CHINESE LANGUAGE",
+    "3"
+   ],
+   [
+    "CITIZENSHIP AND SOCIAL DEVELOPMENT",
+    "Attained"
+   ],
+   [
+    "ENGLISH LANGUAGE",
+    "3"
+   ],
+   [
+    "MATHEMATICS COMPULSORY PART",
+    "2"
+   ]
+  ],
+  "electives": [
+   [
+    "ANY 1 SUBJECT",
+    "2"
+   ]
+  ],
+  "weighted_subjects": [],
+  "notes": [
+   "Applicants with previous HKDSE subject result of A040 âLiberal Studiesâ will be used as the alternative of the core subject requirement of A045 âCitizenship and Social Developmentâ. Admission Score Calculation on Citizenship and Social Development âAttainedâ in Citizenship and Social Development will be counted as âLevel 2â in the admission score calculation. Calculation of scores for applicants with more than 1 sitting in HKDSE Examination The best result from a combination of all HKDSE subjects will be considered and there is no penalty or marks deducted for repeated sittings. Alternative Qualification(s) in Chinese Language (for NCS applicants only) If applicants do not have the required HKDSE Chinese Language qualifications, under specific circumstances 1 , the following language results will be considered individually in the application : Alternative Language Qualifications Minimum Grade HKDSE Applied Learning Chinese Attained GCSE / IGCSE Chinese Language Grade C / Grade 4 GCE (O-Level) Chinese Language Grade C GCE (AS-Level) Chinese Language Grade C GCE (A-Level) Chinese Language Grade E Notes : The specific circumstances are : Applicants who have learned Chinese Language for less than 6 years while receiving primary and secondary education; OR Applicants who have learned Chinese Language for 6 years or more in schools, but has been taught an adapted and simpler Chinese Language curriculum not normally applicable to the majority of students in local schools.",
+   "Please refer to individual institution for programme-specific entry requirements.",
+   "Tuition Fees for the 2027/28 Cohort are as follows for reference: Before SSSDP Subsidy First-Year Tuition Fee: HK$112,260 Estimated Total Programme Fee (4-year normal duration): HK$449,040 After Deducting SSSDP Subsidy First-Year Tuition Fee: HK$65,480 Estimated Total Programme Fee (4-year normal duration): HK$261,920 Remarks: Tuition fees for subsequent years are subject to annual adjustment, capped at the movement of the Composite Consumer Price Index (CCPI) announced by the Government. The estimated total programme fee is calculated based on the tuition fee for the first year of study and has not yet reflected any CCPI-based fee adjustments for subsequent academic years (i.e. AY2028/29 onwards). The annual subsidy for this programme is HK$46,780 for the 2027/28 cohort. The subsidy is tenable for the normal duration of the programme, i.e. 4 years. Only applicants who satisfy the Category I (CAT I) eligibility criteria stipulated by the Education Bureau (EDB) are eligible for the Study Subsidy Scheme for Designated Professions/Sectors (SSSDP). For details of the Scheme and the eligibility criteria, please visit: https://www.cspe.edu.hk/sssdp ."
+  ]
+ },
+ "JSSV05": {
+  "code": "JSSV05",
+  "sector": "sssdp",
+  "name": "Bachelor of Engineering (Honours) in Civil Engineering",
+  "operator": "VTC-THEi",
+  "core": [
+   [
+    "CHINESE LANGUAGE",
+    "3"
+   ],
+   [
+    "CITIZENSHIP AND SOCIAL DEVELOPMENT",
+    "Attained"
+   ],
+   [
+    "ENGLISH LANGUAGE",
+    "3"
+   ],
+   [
+    "MATHEMATICS COMPULSORY PART",
+    "2"
+   ]
+  ],
+  "electives": [
+   [
+    "BIOLOGY or CHEMISTRY or PHYSICS or MATHEMATICS EXTENDED MODULE 1 OR 2",
+    "2"
+   ]
+  ],
+  "weighted_subjects": [],
+  "notes": [
+   "Applicants with previous HKDSE subject result of A040 âLiberal Studiesâ will be used as the alternative of the core subject requirement of A045 âCitizenship and Social Developmentâ. Admission Score Calculation on Citizenship and Social Development âAttainedâ in Citizenship and Social Development will be counted as âLevel 2â in the admission score calculation. Calculation of scores for applicants with more than 1 sitting in HKDSE Examination The best result from a combination of all HKDSE subjects will be considered and there is no penalty or marks deducted for repeated sittings. Alternative Qualification(s) in Chinese Language (for NCS applicants only) If applicants do not have the required HKDSE Chinese Language qualifications, under specific circumstances 1 , the following language results will be considered individually in the application : Alternative Language Qualifications Minimum Grade HKDSE Applied Learning Chinese Attained GCSE / IGCSE Chinese Language Grade C / Grade 4 GCE (O-Level) Chinese Language Grade C GCE (AS-Level) Chinese Language Grade C GCE (A-Level) Chinese Language Grade E Notes : The specific circumstances are : Applicants who have learned Chinese Language for less than 6 years while receiving primary and secondary education; OR Applicants who have learned Chinese Language for 6 years or more in schools, but has been taught an adapted and simpler Chinese Language curriculum not normally applicable to the majority of students in local schools.",
+   "Please refer to individual institution for programme-specific entry requirements.",
+   "Tuition Fees for the 2027/28 Cohort are as follows for reference: Before SSSDP Subsidy First-Year Tuition Fee: HK$121,630 Estimated Total Programme Fee (4-year normal duration): HK$486,520 After Deducting SSSDP Subsidy First-Year Tuition Fee: HK$40,180 Estimated Total Programme Fee (4-year normal duration): HK$160,720 Remarks: Tuition fees for subsequent years are subject to annual adjustment, capped at the movement of the Composite Consumer Price Index (CCPI) announced by the Government. The estimated total programme fee is calculated based on the tuition fee for the first year of study and has not yet reflected any CCPI-based fee adjustments for subsequent academic years (i.e. AY2028/29 onwards). The annual subsidy for this programme is HK$81,450 for the 2027/28 cohort. The subsidy is tenable for the normal duration of the programme, i.e. 4 years. Only applicants who satisfy the Category I (CAT I) eligibility criteria stipulated by the Education Bureau (EDB) are eligible for the Study Subsidy Scheme for Designated Professions/Sectors (SSSDP). For details of the Scheme and the eligibility criteria, please visit: https://www.cspe.edu.hk/sssdp . The programme will undergo Learning Programme Re-accreditation in AY 2026/27. The tuition fees are therefore subject to adjustment."
+  ]
+ },
+ "JSSV07": {
+  "code": "JSSV07",
+  "sector": "sssdp",
+  "name": "Bachelor of Science (Honours) in Horticulture, Arboriculture and Landscape Management",
+  "operator": "VTC-THEi",
+  "core": [
+   [
+    "CHINESE LANGUAGE",
+    "3"
+   ],
+   [
+    "CITIZENSHIP AND SOCIAL DEVELOPMENT",
+    "Attained"
+   ],
+   [
+    "ENGLISH LANGUAGE",
+    "3"
+   ],
+   [
+    "MATHEMATICS COMPULSORY PART",
+    "2"
+   ]
+  ],
+  "electives": [
+   [
+    "ANY 1 SUBJECT",
+    "2"
+   ]
+  ],
+  "weighted_subjects": [],
+  "notes": [
+   "Applicants with previous HKDSE subject result of A040 âLiberal Studiesâ will be used as the alternative of the core subject requirement of A045 âCitizenship and Social Developmentâ. Admission Score Calculation on Citizenship and Social Development âAttainedâ in Citizenship and Social Development will be counted as âLevel 2â in the admission score calculation. Calculation of scores for applicants with more than 1 sitting in HKDSE Examination The best result from a combination of all HKDSE subjects will be considered and there is no penalty or marks deducted for repeated sittings. Alternative Qualification(s) in Chinese Language (for NCS applicants only) If applicants do not have the required HKDSE Chinese Language qualifications, under specific circumstances 1 , the following language results will be considered individually in the application : Alternative Language Qualifications Minimum Grade HKDSE Applied Learning Chinese Attained GCSE / IGCSE Chinese Language Grade C / Grade 4 GCE (O-Level) Chinese Language Grade C GCE (AS-Level) Chinese Language Grade C GCE (A-Level) Chinese Language Grade E Notes : The specific circumstances are : Applicants who have learned Chinese Language for less than 6 years while receiving primary and secondary education; OR Applicants who have learned Chinese Language for 6 years or more in schools, but has been taught an adapted and simpler Chinese Language curriculum not normally applicable to the majority of students in local schools.",
+   "Please refer to individual institution for programme-specific entry requirements.",
+   "Tuition Fees for the 2027/28 Cohort are as follows for reference: Before SSSDP Subsidy First-Year Tuition Fee: HK$115,590 Estimated Total Programme Fee (4-year normal duration): HK$462,360 After Deducting SSSDP Subsidy First-Year Tuition Fee: HK$63,710 Estimated Total Programme Fee (4-year normal duration): HK$254,840 Remarks: Tuition fees for subsequent years are subject to annual adjustment, capped at the movement of the Composite Consumer Price Index (CCPI) announced by the Government. The estimated total programme fee is calculated based on the tuition fee for the first year of study and has not yet reflected any CCPI-based fee adjustments for subsequent academic years (i.e. AY2028/29 onwards). The annual subsidy for this programme is HK$51,880 for the 2027/28 cohort. The subsidy is tenable for the normal duration of the programme, i.e. 4 years. Only applicants who satisfy the Category I (CAT I) eligibility criteria stipulated by the Education Bureau (EDB) are eligible for the Study Subsidy Scheme for Designated Professions/Sectors (SSSDP). For details of the Scheme and the eligibility criteria, please visit: https://www.cspe.edu.hk/sssdp ."
+  ]
+ },
+ "JSSV08": {
+  "code": "JSSV08",
+  "sector": "sssdp",
+  "name": "Bachelor of Science (Honours) in Surveying",
+  "operator": "VTC-THEi",
+  "core": [
+   [
+    "CHINESE LANGUAGE",
+    "3"
+   ],
+   [
+    "CITIZENSHIP AND SOCIAL DEVELOPMENT",
+    "Attained"
+   ],
+   [
+    "ENGLISH LANGUAGE",
+    "3"
+   ],
+   [
+    "MATHEMATICS COMPULSORY PART",
+    "2"
+   ]
+  ],
+  "electives": [
+   [
+    "ANY 1 SUBJECT",
+    "2"
+   ]
+  ],
+  "weighted_subjects": [],
+  "notes": [
+   "Applicants with previous HKDSE subject result of A040 âLiberal Studiesâ will be used as the alternative of the core subject requirement of A045 âCitizenship and Social Developmentâ. Admission Score Calculation on Citizenship and Social Development âAttainedâ in Citizenship and Social Development will be counted as âLevel 2â in the admission score calculation. Calculation of scores for applicants with more than 1 sitting in HKDSE Examination The best result from a combination of all HKDSE subjects will be considered and there is no penalty or marks deducted for repeated sittings. Alternative Qualification(s) in Chinese Language (for NCS applicants only) If applicants do not have the requiredÂ HKDSE Chinese Language Â qualifications, under specific circumstances 1 , the following language results will be considered individually in the application : Alternative Language Qualifications Minimum Grade HKDSE Applied Learning Chinese Attained GCSE / IGCSE Chinese Language Grade C / Grade 4 GCE (O-Level) Chinese Language Grade C GCE (AS-Level) Chinese Language Grade C GCE (A-Level) Chinese Language Grade E Notes : The specific circumstances are : Applicants who have learned Chinese Language for less than 6 years while receiving primary and secondary education; OR Applicants who have learned Chinese Language for 6 years or more in schools, but has been taught an adapted and simpler Chinese Language curriculum not normally applicable to the majority of students in local schools.",
+   "Please refer to individual institution for programme-specific entry requirements.",
+   "Tuition Fees for the 2027/28 Cohort are as follows for reference: Before SSSDP Subsidy First-Year Tuition Fee: HK$112,260 Estimated Total Programme Fee (4-year normal duration): HK$449,040 After Deducting SSSDP Subsidy First-Year Tuition Fee: HK$65,480 Estimated Total Programme Fee (4-year normal duration): HK$261,920 Remarks: Tuition fees for subsequent years are subject to annual adjustment, capped at the movement of the Composite Consumer Price Index (CCPI) announced by the Government. The estimated total programme fee is calculated based on the tuition fee for the first year of study and has not yet reflected any CCPI-based fee adjustments for subsequent academic years (i.e. AY2028/29 onwards). The annual subsidy for this programme is HK$46,780 for the 2027/28 cohort. The subsidy is tenable for the normal duration of the programme, i.e. 4 years. Only applicants who satisfy the Category I (CAT I) eligibility criteria stipulated by the Education Bureau (EDB) are eligible for the Study Subsidy Scheme for Designated Professions/Sectors (SSSDP). For details of the Scheme and the eligibility criteria, please visit: https://www.cspe.edu.hk/sssdp ."
+  ]
+ },
+ "JSSV09": {
+  "code": "JSSV09",
+  "sector": "sssdp",
+  "name": "Bachelor of Social Sciences (Honours) in Sports and Recreation Management",
+  "operator": "VTC-THEi",
+  "core": [
+   [
+    "CHINESE LANGUAGE",
+    "3"
+   ],
+   [
+    "CITIZENSHIP AND SOCIAL DEVELOPMENT",
+    "Attained"
+   ],
+   [
+    "ENGLISH LANGUAGE",
+    "3"
+   ],
+   [
+    "MATHEMATICS COMPULSORY PART",
+    "2"
+   ]
+  ],
+  "electives": [
+   [
+    "ANY 1 SUBJECT",
+    "2"
+   ]
+  ],
+  "weighted_subjects": [],
+  "notes": [
+   "Applicants with previous HKDSE subject result of A040 âLiberal Studiesâ will be used as the alternative of the core subject requirement of A045 âCitizenship and Social Developmentâ. Admission Score Calculation on Citizenship and Social Development âAttainedâ in Citizenship and Social Development will be counted as âLevel 2â in the admission score calculation. Calculation of scores for applicants with more than 1 sitting in HKDSE Examination The best result from a combination of all HKDSE subjects will be considered and there is no penalty or marks deducted for repeated sittings. CalculationÂ of scores for applicants with the HKDSE Physical Education subject For theÂ HKDSE âPhysical Education (PE)â subject, the subject score with weighting x 2.0 will be used in the calculation of admission score. Alternative Qualification(s) in Chinese Language (for NCS applicants only) If applicants do not have the required HKDSE Chinese Language qualifications, under specific circumstances 1 , the following language results will be considered individually in the application : Alternative Language Qualifications Minimum Grade HKDSE Applied Learning Chinese Attained GCSE / IGCSE Chinese Language Grade C / Grade 4 GCE (O-Level) Chinese Language Grade C GCE (AS-Level) Chinese Language Grade C GCE (A-Level) Chinese Language Grade E Notes : The specific circumstances are : Applicants who have learned Chinese Language for less than 6 years while receiving primary and secondary education; OR Applicants who have learned Chinese Language for 6 years or more in schools, but has been taught an adapted and simpler Chinese Language curriculum not normally applicable to the majority of students in local schools.",
+   "Please refer to individual institution for programme-specific entry requirements.",
+   "Tuition Fees for the 2027/28 Cohort are as follows for reference: Before SSSDP Subsidy First-Year Tuition Fee: HK$121,520 Estimated Total Programme Fee (4-year normal duration): HK$486,080 After Deducting SSSDP Subsidy First-Year Tuition Fee: HK$74,740 Estimated Total Programme Fee (4-year normal duration): HK$298,960 Remarks: Tuition fees for subsequent years are subject to annual adjustment, capped at the movement of the Composite Consumer Price Index (CCPI) announced by the Government. The estimated total programme fee is calculated based on the tuition fee for the first year of study and has not yet reflected any CCPI-based fee adjustments for subsequent academic years (i.e. AY2028/29 onwards). The annual subsidy for this programme is HK$46,780 for the 2027/28 cohort. The subsidy is tenable for the normal duration of the programme, i.e. 4 years. Only applicants who satisfy the Category I (CAT I) eligibility criteria stipulated by the Education Bureau (EDB) are eligible for the Study Subsidy Scheme for Designated Professions/Sectors (SSSDP). For details of the Scheme and the eligibility criteria, please visit: https://www.cspe.edu.hk/sssdp ."
+  ]
+ },
+ "JSSV10": {
+  "code": "JSSV10",
+  "sector": "sssdp",
+  "name": "Bachelor of Engineering (Honours) in Building Services Engineering",
+  "operator": "VTC-THEi",
+  "core": [
+   [
+    "CHINESE LANGUAGE",
+    "3"
+   ],
+   [
+    "CITIZENSHIP AND SOCIAL DEVELOPMENT",
+    "Attained"
+   ],
+   [
+    "ENGLISH LANGUAGE",
+    "3"
+   ],
+   [
+    "MATHEMATICS COMPULSORY PART",
+    "2"
+   ]
+  ],
+  "electives": [
+   [
+    "BIOLOGY or CHEMISTRY or PHYSICS or MATHEMATICS EXTENDED MODULE 1 OR 2",
+    "2"
+   ]
+  ],
+  "weighted_subjects": [],
+  "notes": [
+   "Applicants with previous HKDSE subject result of A040 âLiberal Studiesâ will be used as the alternative of the core subject requirement of A045 âCitizenship and Social Developmentâ. Admission Score Calculation on Citizenship and Social Development âAttainedâ in Citizenship and Social Development will be counted as âLevel 2â in the admission score calculation. Calculation of scores for applicants with more than 1 sitting in HKDSE Examination The best result from a combination of all HKDSE subjects will be considered and there is no penalty or marks deducted for repeated sittings. Alternative Qualification(s) in Chinese Language (for NCS applicants only) If applicants do not have the required HKDSE Chinese Language qualifications, under specific circumstances 1 , the following language results will be considered individually in the application : Alternative Language Qualifications Minimum Grade HKDSE Applied Learning Chinese Attained GCSE / IGCSE Chinese Language Grade C / Grade 4 GCE (O-Level) Chinese Language Grade C GCE (AS-Level) Chinese Language Grade C GCE (A-Level) Chinese Language Grade E Notes : The specific circumstances are : Applicants who have learned Chinese Language for less than 6 years while receiving primary and secondary education; OR Applicants who have learned Chinese Language for 6 years or more in schools, but has been taught an adapted and simpler Chinese Language curriculum not normally applicable to the majority of students in local schools.",
+   "Please refer to individual institution for programme-specific entry requirements.",
+   "Tuition Fees for the 2027/28 Cohort are as follows for reference: Before SSSDP Subsidy First-Year Tuition Fee: HK$119,620 Estimated Total Programme Fee (4-year normal duration): HK$478,480 After Deducting SSSDP Subsidy First-Year Tuition Fee: HK$30,000 Estimated Total Programme Fee (4-year normal duration): HK$120,000 Remarks: Tuition fees for subsequent years are subject to annual adjustment, capped at the movement of the Composite Consumer Price Index (CCPI) announced by the Government. The estimated total programme fee is calculated based on the tuition fee for the first year of study and has not yet reflected any CCPI-based fee adjustments for subsequent academic years (i.e. AY2028/29 onwards). The annual subsidy for this programme is HK$89,620 for the 2027/28 cohort. The subsidy is tenable for the normal duration of the programme, i.e. 4 years. Only applicants who satisfy the Category I (CAT I) eligibility criteria stipulated by the Education Bureau (EDB) are eligible for the Study Subsidy Scheme for Designated Professions/Sectors (SSSDP). For details of the Scheme and the eligibility criteria, please visit: https://www.cspe.edu.hk/sssdp ."
+  ]
+ },
+ "JSSV13": {
+  "code": "JSSV13",
+  "sector": "sssdp",
+  "name": "Bachelor of Social Sciences (Honours) in Sports Coaching",
+  "operator": "VTC-THEi",
+  "core": [
+   [
+    "CHINESE LANGUAGE",
+    "3"
+   ],
+   [
+    "CITIZENSHIP AND SOCIAL DEVELOPMENT",
+    "Attained"
+   ],
+   [
+    "ENGLISH LANGUAGE",
+    "3"
+   ],
+   [
+    "MATHEMATICS COMPULSORY PART",
+    "2"
+   ]
+  ],
+  "electives": [
+   [
+    "ANY 1 SUBJECT",
+    "2"
+   ]
+  ],
+  "weighted_subjects": [],
+  "notes": [
+   "Applicants with previous HKDSE subject result of A040 âLiberal Studiesâ will be used as the alternative of the core subject requirement of A045 âCitizenship and Social Developmentâ. Admission Score Calculation on Citizenship and Social Development âAttainedâ in Citizenship and Social Development will be counted as âLevel 2â in the admission score calculation. Calculation of scores for applicants with more than 1 sitting in HKDSE Examination The best result from a combination of all HKDSE subjects will be considered and there is no penalty or marks deducted for repeated sittings. Calculation of scores for applicants with the HKDSE Physical Education subject For theÂ HKDSE âPhysical Education (PE)â subject, the subject score with weighting x 2.0 will be used in the calculation of admission score. Alternative Qualification(s) in Chinese Language (for NCS applicants only) If applicants do not have the required HKDSE Chinese Language qualifications, under specific circumstances 1 , the following language results will be considered individually in the application : Alternative Language Qualifications Minimum Grade HKDSE Applied Learning Chinese Attained GCSE / IGCSE Chinese Language Grade C / Grade 4 GCE (O-Level) Chinese Language Grade C GCE (AS-Level) Chinese Language Grade C GCE (A-Level) Chinese Language Grade E Notes : The specific circumstances are : Applicants who have learned Chinese Language for less than 6 years while receiving primary and secondary education; OR Applicants who have learned Chinese Language for 6 years or more in schools, but has been taught an adapted and simpler Chinese Language curriculum not normally applicable to the majority of students in local schools.",
+   "Please refer to individual institution for programme-specific entry requirements.",
+   "Tuition Fees for the 2027/28 Cohort are as follows for reference: Before SSSDP Subsidy First-Year Tuition Fee: HK$121,520 Estimated Total Programme Fee (4-year normal duration): HK$486,080 After Deducting SSSDP Subsidy First-Year Tuition Fee: HK$74,740 Estimated Total Programme Fee (4-year normal duration): HK$298,960 Remarks: Tuition fees for subsequent years are subject to annual adjustment, capped at the movement of the Composite Consumer Price Index (CCPI) announced by the Government. The estimated total programme fee is calculated based on the tuition fee for the first year of study and has not yet reflected any CCPI-based fee adjustments for subsequent academic years (i.e. AY2028/29 onwards). The annual subsidy for this programme is HK$46,780 for the 2027/28 cohort. The subsidy is tenable for the normal duration of the programme, i.e. 4 years. Only applicants who satisfy the Category I (CAT I) eligibility criteria stipulated by the Education Bureau (EDB) are eligible for the Study Subsidy Scheme for Designated Professions/Sectors (SSSDP). For details of the Scheme and the eligibility criteria, please visit: https://www.cspe.edu.hk/sssdp ."
+  ]
+ },
+ "JSSV14": {
+  "code": "JSSV14",
+  "sector": "sssdp",
+  "name": "Bachelor of Social Sciences (Honours) in Sports Therapy",
+  "operator": "VTC-THEi",
+  "core": [
+   [
+    "CHINESE LANGUAGE",
+    "3"
+   ],
+   [
+    "CITIZENSHIP AND SOCIAL DEVELOPMENT",
+    "Attained"
+   ],
+   [
+    "ENGLISH LANGUAGE",
+    "3"
+   ],
+   [
+    "MATHEMATICS COMPULSORY PART",
+    "2"
+   ]
+  ],
+  "electives": [
+   [
+    "ANY 1 SUBJECT",
+    "2"
+   ]
+  ],
+  "weighted_subjects": [],
+  "notes": [
+   "Applicants with previous HKDSE subject result of A040 âLiberal Studiesâ will be used as the alternative of the core subject requirement of A045 âCitizenship and Social Developmentâ. Admission Score Calculation on Citizenship and Social Development âAttainedâ in Citizenship and Social Development will be counted as âLevel 2â in the admission score calculation. Calculation of scores for applicants with more than 1 sitting in HKDSE Examination The best result from a combination of all HKDSE subjects will be considered and there is no penalty or marks deducted for repeated sittings. Calculation of scores for applicants with the HKDSE Physical Education subject For the HKDSE âPhysical Education (PE)â subject, the subject score with weighting x 2.0 will be used in the calculation of admission score. Alternative Qualification(s) in Chinese Language (for NCS applicants only) If applicants do not have the required HKDSE Chinese Language qualifications, under specific circumstances 1 , the following language results will be considered individually in the application : Alternative Language Qualifications Minimum Grade HKDSE Applied Learning Chinese Attained GCSE / IGCSE Chinese Language Grade C / Grade 4 GCE (O-Level) Chinese Language Grade C GCE (AS-Level) Chinese Language Grade C GCE (A-Level) Chinese Language Grade E Notes : The specific circumstances are : Applicants who have learned Chinese Language for less than 6 years while receiving primary and secondary education; OR Applicants who have learned Chinese Language for 6 years or more in schools, but has been taught an adapted and simpler Chinese Language curriculum not normally applicable to the majority of students in local schools.",
+   "Please refer to individual institution for programme-specific entry requirements.",
+   "Tuition Fees for the 2027/28 Cohort are as follows for reference: Before SSSDP Subsidy First-Year Tuition Fee: HK$121,520 Estimated Total Programme Fee (4-year normal duration): HK$486,080 After Deducting SSSDP Subsidy First-Year Tuition Fee: HK$69,640 Estimated Total Programme Fee (4-year normal duration): HK$278,560 Remarks: Tuition fees for subsequent years are subject to annual adjustment, capped at the movement of the Composite Consumer Price Index (CCPI) announced by the Government. The estimated total programme fee is calculated based on the tuition fee for the first year of study and has not yet reflected any CCPI-based fee adjustments for subsequent academic years (i.e. AY2028/29 onwards). The annual subsidy for this programme is HK$51,880 for the 2027/28 cohort. The subsidy is tenable for the normal duration of the programme, i.e. 4 years. Only applicants who satisfy the Category I (CAT I) eligibility criteria stipulated by the Education Bureau (EDB) are eligible for the Study Subsidy Scheme for Designated Professions/Sectors (SSSDP). For details of the Scheme and the eligibility criteria, please visit: https://www.cspe.edu.hk/sssdp ."
+  ]
+ },
+ "JSSW01": {
+  "code": "JSSW01",
+  "sector": "sssdp",
+  "name": "Bachelor of Aviation (Honours) in Operations and Management",
+  "operator": "UOWCHK",
+  "core": [
+   [
+    "CHINESE LANGUAGE",
+    "3"
+   ],
+   [
+    "CITIZENSHIP AND SOCIAL DEVELOPMENT",
+    "Attained"
+   ],
+   [
+    "ENGLISH LANGUAGE",
+    "3"
+   ],
+   [
+    "MATHEMATICS COMPULSORY PART",
+    "2"
+   ]
+  ],
+  "electives": [
+   [
+    "ANY 1 SUBJECT",
+    "2"
+   ]
+  ],
+  "weighted_subjects": [],
+  "notes": [
+   "Applicants with previous HKDSE subject result of A040 âLiberal Studiesâ will be used as the alternative of the core subject requirement of A045 âCitizenship and Social Developmentâ. Remarks: HKDSE Category B subjects (Applied Learning) with attainment at âAttainedâ or above will be considered as elective subjects. For (a) local applicants with other academic results, (b) non-local applicants, and (c) mature applicants, please contact General Office, Faculty of Science and Technology, UOW College Hong Kong (Phone/WhatsApp: (852) 2707 3232 / Email: uowchk-fst@uow.edu.au ) for application.",
+   "Please refer to individual institution for programme-specific entry requirements.",
+   "2027/2028 Cohort Tuition Fees for Bachelor of Aviation (Honours) in Operations and Management programme Year 1 and 2 Tuition Fee (per year) HK$73,890 Year 3 and 4 Tuition Fee (per year) HK$80,190 After the deduction of the SSSDP subsidy (calculation is based on the 2027/28 cohort SSSDP amount): Year 1 and 2 Tuition Fee (per year) HK$27,110 Year 3 and 4 Tuition Fee (per year) HK$33,410 Remarks: The annual subsidy amount of HK$46,780 is only applicable to the 2027/28 cohort; the annual subsidy amount for 2028/29 cohort is to be announced by the Education Bureau. The annual subsidy amount may vary in each academic year subject to the announcement by the Education Bureau. For details, please visit http://www.cspe.edu.hk/sssdp . The subsidy is tenable for the normal duration of the programme, i.e. 4 years. SSSDP subsidy is available to eligible local students only. Please refer to the SSSDP FAQs for eligibility details: https://www.cspe.edu.hk/en/sssdp/faqs/undergraduate-programmes/"
+  ]
+ },
+ "JSSW02": {
+  "code": "JSSW02",
+  "sector": "sssdp",
+  "name": "Bachelor of Maritime Services and Operations Management (Honours)",
+  "operator": "UOWCHK",
+  "core": [
+   [
+    "CHINESE LANGUAGE",
+    "3"
+   ],
+   [
+    "CITIZENSHIP AND SOCIAL DEVELOPMENT",
+    "Attained"
+   ],
+   [
+    "ENGLISH LANGUAGE",
+    "3"
+   ],
+   [
+    "MATHEMATICS COMPULSORY PART",
+    "2"
+   ]
+  ],
+  "electives": [
+   [
+    "ANY 1 SUBJECT",
+    "2"
+   ]
+  ],
+  "weighted_subjects": [],
+  "notes": [
+   "Applicants with previous HKDSE subject result of A040 âLiberal Studiesâ will be used as the alternative of the core subject requirement of A045 âCitizenship and Social Developmentâ. Remarks: HKDSE Category B subjects (Applied Learning) with attainment at âAttainedâ or above will be considered as elective subjects. For (a) local applicants with other academic results, (b) non-local applicants, and (c) mature applicants, please contact General Office, Faculty of Business, UOW College Hong Kong (Phone/WhatsApp: (852) 2707 3131 / Email: uowchk-fbu@uow.edu.au ) for application.",
+   "Please refer to individual institution for programme-specific entry requirements.",
+   "2027/2028 Cohort Tuition Fees for Bachelor of Maritime Services and Operations Management (Honours) programme Year 1 and 2 Tuition Fee (per year) HK$73,890 Year 3 and 4 Tuition Fee (per year) HK$80,190 After the deduction of the SSSDP subsidy (calculation is based on the 2027/28 cohort SSSDP amount): Year 1 and 2 Tuition Fee (per year) HK$27,110 Year 3 and 4 Tuition Fee (per year) HK$33,410 Remarks: The annual subsidy amount of HK$46,780 is only applicable to the 2027/28 cohort; the annual subsidy amount for 2028/29 cohort is to be announced by the Education Bureau. The annual subsidy amount may vary in each academic year subject to the announcement by the Education Bureau. For details, please visit http://www.cspe.edu.hk/sssdp . The subsidy is tenable for the normal duration of the programme, i.e. 4 years. SSSDP subsidy is available to eligible local students only. Please refer to the SSSDP FAQs for eligibility details: https://www.cspe.edu.hk/en/sssdp/faqs/undergraduate-programmes/"
+  ]
+ },
+ "JSSY01": {
+  "code": "JSSY01",
+  "sector": "sssdp",
+  "name": "Bachelor of Commerce (Honours) in Financial Technology",
+  "operator": "HKSYU",
+  "core": [
+   [
+    "CHINESE LANGUAGE",
+    "3"
+   ],
+   [
+    "CITIZENSHIP AND SOCIAL DEVELOPMENT",
+    "Attained"
+   ],
+   [
+    "ENGLISH LANGUAGE",
+    "3"
+   ],
+   [
+    "MATHEMATICS COMPULSORY PART",
+    "2"
+   ]
+  ],
+  "electives": [
+   [
+    "ANY 1 SUBJECT",
+    "2"
+   ]
+  ],
+  "weighted_subjects": [],
+  "notes": [
+   "Applicants with previous HKDSE subject result of A040 âLiberal Studiesâ will be used as the alternative of the core subject requirement of A045 âCitizenship and Social Developmentâ. TheâAttainedâ level in the subject âCitizenship and Social Developmentâ can be counted as Level 2 and included in the score calculation of the best five subjects. Priority will be given to students who have achieved Level 3 or above in Mathematics and/or Information and Communication Technology. Applicants can use at most one relevant Applied Learning subject (ApL) as an elective subject. \"Attained with Distinction (II)â andÂ \"Attained with Distinction (I)âÂ is comparable to level 4 and level 3 respectively.Â 'Attained' in ApL will not be considered.Â In addition, ApL Chinese cannot be used as an elective subject. Maximum of one Category C subject (Other languages) can be counted. HKSYU accepts combined sittings in HKDSE examination. Please refer to https://uao.hksyu.edu/ for more details.",
+   "Please refer to individual institution for programme-specific entry requirements.",
+   "For BCom (Hons) FinTech, the first year tuition fee of 2027/28 entry is $81,210 and the whole programme fee is $324,840. The amount of SSSDP subsidy in 2027/28 is $46,780. After deducting SSSDP subsidy, the estimated first year tuition fee is $34,430 and the whole programme fee is $137,720."
+  ]
+ },
+ "JSSY02": {
+  "code": "JSSY02",
+  "sector": "sssdp",
+  "name": "Bachelor of Science with Honours in Applied Data Science",
+  "operator": "HKSYU",
+  "core": [
+   [
+    "CHINESE LANGUAGE",
+    "3"
+   ],
+   [
+    "CITIZENSHIP AND SOCIAL DEVELOPMENT",
+    "Attained"
+   ],
+   [
+    "ENGLISH LANGUAGE",
+    "3"
+   ],
+   [
+    "MATHEMATICS COMPULSORY PART",
+    "2"
+   ]
+  ],
+  "electives": [
+   [
+    "ANY 1 SUBJECT",
+    "2"
+   ]
+  ],
+  "weighted_subjects": [],
+  "notes": [
+   "Applicants with previous HKDSE subject result of A040 âLiberal Studiesâ will be used as the alternative of the core subject requirement of A045 âCitizenship and Social Developmentâ. TheâAttainedâ level in the subject âCitizenship and Social Developmentâ can be counted as Level 2 and included in the score calculation of the best five subjects. Priority will be given to students who have achieved Level 4 or above in the âExtended modules in Mathematicsâ and/or Information and Communication Technology. Applicants can use at most one relevant Applied Learning subject (ApL) as an elective subject. \"Attained with Distinction (II)â andÂ \"Attained with Distinction (I)âÂ is comparable to level 4 and level 3 respectively.Â 'Attained' in ApL will not be considered.Â In addition, ApL Chinese cannot be used as an elective subject. Maximum of one Category C subject (Other languages) can be counted. HKSYU accepts combined sittings in HKDSE examination. Please refer to https://uao.hksyu.edu/ for more details.",
+   "Please refer to individual institution for programme-specific entry requirements.",
+   "For BSc (Hons) ADS, the first year tuition fee of 2027/28 entry is $97,014 and the whole programme fee is $388,056. The amount of SSSDP subsidy in 2027/28 is $46,780. After deducting SSSDP subsidy, the estimated first year tuition fee is $50,234 and the whole programme fee is $200,936."
+  ]
+ },
+ "JSSY03": {
+  "code": "JSSY03",
+  "sector": "sssdp",
+  "name": "Bachelor of Science with Honours in Digital Solutions for Entertainment and Game Applications",
+  "operator": "HKSYU",
+  "core": [
+   [
+    "CHINESE LANGUAGE",
+    "3"
+   ],
+   [
+    "CITIZENSHIP AND SOCIAL DEVELOPMENT",
+    "Attained"
+   ],
+   [
+    "ENGLISH LANGUAGE",
+    "3"
+   ],
+   [
+    "MATHEMATICS COMPULSORY PART",
+    "2"
+   ]
+  ],
+  "electives": [
+   [
+    "ANY 1 SUBJECT",
+    "2"
+   ]
+  ],
+  "weighted_subjects": [],
+  "notes": [
+   "Applicants with previous HKDSE subject result of A040 âLiberal Studiesâ will be used as the alternative of the core subject requirement of A045 âCitizenship and Social Developmentâ. TheâAttainedâ level in the subject âCitizenship and Social Developmentâ can be counted as Level 2 and included in the score calculation of the best five subjects. Priority will be given to students who have achieved Level 4 or above in the âExtended modules in Mathematicsâ and/or Information and Communication Technology. Applicants can use at most one relevant Applied Learning subject (ApL) as an elective subject. \"Attained with Distinction (II)â andÂ \"Attained with Distinction (I)âÂ is comparable to level 4 and level 3 respectively.Â 'Attained' in ApL will not be considered.Â In addition, ApL Chinese cannot be used as an elective subject. Maximum of one Category C subject (Other languages) can be counted. HKSYU accepts combined sittings in HKDSE examination. Please refer to https://uao.hksyu.edu/ for more details.",
+   "Please refer to individual institution for programme-specific entry requirements.",
+   "The first year tuition fee of 2027/28 entry is $97,967 and the whole programme fee is $391,868. The amount of SSSDP subsidy in 2027/28 is $81,450. After deducting SSSDP subsidy, the estimated first year tuition fee is $16,517 and the whole programme fee is $66,068."
+  ]
+ }
+}

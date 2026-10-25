@@ -1,0 +1,1174 @@
+[
+ {
+  "jupas_code": "JS9009",
+  "institution": "HKMU",
+  "name": "Bachelor of Social Sciences with Honours (Streams: Ageing Society and Services Studies, Applied Economics, Applied Social Studies, Global and China Studies, Politics and Public Administration)",
+  "formula_2027": "Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {},
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 17.0,
+   "lq": 17.0,
+   "mean": null
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://www.hkmu.edu.hk/REG/reg_ftae/Admission/Scores_JUPAS.pdf",
+   "https://www.jupas.edu.hk/en/programme/hkmu/JS9009/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS9010",
+  "institution": "HKMU",
+  "name": "Bachelor of Social Sciences with Honours in Psychology (Streams: Psychology Major, Counselling Psychology)",
+  "formula_2027": "Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {},
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 17.0,
+   "lq": 16.0,
+   "mean": null
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://www.hkmu.edu.hk/REG/reg_ftae/Admission/Scores_JUPAS.pdf",
+   "https://www.jupas.edu.hk/en/programme/hkmu/JS9010/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS9011",
+  "institution": "HKMU",
+  "name": "Bachelor of Arts with Honours in Chinese",
+  "formula_2027": "Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "Chinese Language": 2.0
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 22.0,
+   "lq": 21.0,
+   "mean": null
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://www.hkmu.edu.hk/REG/reg_ftae/Admission/Scores_JUPAS.pdf",
+   "https://www.jupas.edu.hk/en/programme/hkmu/JS9011/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS9013",
+  "institution": "HKMU",
+  "name": "Bachelor of Arts with Honours in Language Studies and Translation",
+  "formula_2027": "Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "Chinese Language": 1.5,
+   "English Language": 1.5
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 21.0,
+   "lq": 19.0,
+   "mean": null
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://www.hkmu.edu.hk/REG/reg_ftae/Admission/Scores_JUPAS.pdf",
+   "https://www.jupas.edu.hk/en/programme/hkmu/JS9013/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS9016",
+  "institution": "HKMU",
+  "name": "Bachelor of Arts with Honours in Creative Advertising and Media Design",
+  "formula_2027": "Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "Chinese Language": 1.5,
+   "English Language": 1.5
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 21.0,
+   "lq": 19.0,
+   "mean": null
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://www.hkmu.edu.hk/REG/reg_ftae/Admission/Scores_JUPAS.pdf",
+   "https://www.jupas.edu.hk/en/programme/hkmu/JS9016/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS9019",
+  "institution": "HKMU",
+  "name": "Bachelor of Arts with Honours in English Language and Culture",
+  "formula_2027": "Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {},
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 16.0,
+   "lq": 15.0,
+   "mean": null
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://www.hkmu.edu.hk/REG/reg_ftae/Admission/Scores_JUPAS.pdf",
+   "https://www.jupas.edu.hk/en/programme/hkmu/JS9019/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS9210",
+  "institution": "HKMU",
+  "name": "Bachelor of Business Administration with Honours in World Business",
+  "formula_2027": "Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {},
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": null,
+   "lq": null,
+   "mean": null
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://www.hkmu.edu.hk/REG/reg_ftae/Admission/Scores_JUPAS.pdf",
+   "https://www.jupas.edu.hk/en/programme/hkmu/JS9210/"
+  ],
+  "confidence": "partial",
+  "notes": "Offered in the 2027 JUPAS catalogue but not listed in HKMU's 2026 JUPAS Admission Scores document (new programme; no 2026 intake)."
+ },
+ {
+  "jupas_code": "JS9220",
+  "institution": "HKMU",
+  "name": "Bachelor of Business Administration with Honours in Professional Accounting",
+  "formula_2027": "Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {},
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 18.0,
+   "lq": 17.0,
+   "mean": null
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://www.hkmu.edu.hk/REG/reg_ftae/Admission/Scores_JUPAS.pdf",
+   "https://www.jupas.edu.hk/en/programme/hkmu/JS9220/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS9230",
+  "institution": "HKMU",
+  "name": "Bachelor of Business Administration with Honours in Business Management",
+  "formula_2027": "Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {},
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 17.0,
+   "lq": 15.0,
+   "mean": null
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://www.hkmu.edu.hk/REG/reg_ftae/Admission/Scores_JUPAS.pdf",
+   "https://www.jupas.edu.hk/en/programme/hkmu/JS9230/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS9240",
+  "institution": "HKMU",
+  "name": "Bachelor of Business Administration with Honours in Global Business",
+  "formula_2027": "Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {},
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 18.0,
+   "lq": 17.0,
+   "mean": null
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://www.hkmu.edu.hk/REG/reg_ftae/Admission/Scores_JUPAS.pdf",
+   "https://www.jupas.edu.hk/en/programme/hkmu/JS9240/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS9262",
+  "institution": "HKMU",
+  "name": "Bachelor of Business Administration with Honours in Human Resource Management",
+  "formula_2027": "Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {},
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 14.0,
+   "lq": 14.0,
+   "mean": null
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://www.hkmu.edu.hk/REG/reg_ftae/Admission/Scores_JUPAS.pdf",
+   "https://www.jupas.edu.hk/en/programme/hkmu/JS9262/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS9266",
+  "institution": "HKMU",
+  "name": "Bachelor of Business Administration with Honours in Marketing",
+  "formula_2027": "Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {},
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 16.0,
+   "lq": 15.0,
+   "mean": null
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://www.hkmu.edu.hk/REG/reg_ftae/Admission/Scores_JUPAS.pdf",
+   "https://www.jupas.edu.hk/en/programme/hkmu/JS9266/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS9276",
+  "institution": "HKMU",
+  "name": "Bachelor of Business Administration with Honours in Real Estate and Surveying",
+  "formula_2027": "Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {},
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 17.0,
+   "lq": 16.0,
+   "mean": null
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://www.hkmu.edu.hk/REG/reg_ftae/Admission/Scores_JUPAS.pdf",
+   "https://www.jupas.edu.hk/en/programme/hkmu/JS9276/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS9280",
+  "institution": "HKMU",
+  "name": "Bachelor of Applied Psychology with Honours, Bachelor of Business Management with Honours",
+  "formula_2027": "Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {},
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 16.0,
+   "lq": 15.0,
+   "mean": null
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://www.hkmu.edu.hk/REG/reg_ftae/Admission/Scores_JUPAS.pdf",
+   "https://www.jupas.edu.hk/en/programme/hkmu/JS9280/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS9291",
+  "institution": "HKMU",
+  "name": "Bachelor of Business Administration with Honours in Sustainable Tourism and Hospitality Management",
+  "formula_2027": "Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {},
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 16.0,
+   "lq": 14.0,
+   "mean": null
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://www.hkmu.edu.hk/REG/reg_ftae/Admission/Scores_JUPAS.pdf",
+   "https://www.jupas.edu.hk/en/programme/hkmu/JS9291/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS9294",
+  "institution": "HKMU",
+  "name": "Bachelor of Business Administration with Honours in Sports and eSports Management Programme Median",
+  "formula_2027": "Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {},
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 16.0,
+   "lq": 15.0,
+   "mean": null
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://www.hkmu.edu.hk/REG/reg_ftae/Admission/Scores_JUPAS.pdf",
+   "https://www.jupas.edu.hk/en/programme/hkmu/JS9294/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS9520",
+  "institution": "HKMU",
+  "name": "Bachelor of Education with Honours (Putonghua and Chinese Language Education) and Bachelor of Language Studies with Honours (Chinese Linguistic Studies)",
+  "formula_2027": "Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "Chinese Language": 2.0
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 23.0,
+   "lq": 22.0,
+   "mean": null
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://www.hkmu.edu.hk/REG/reg_ftae/Admission/Scores_JUPAS.pdf",
+   "https://www.jupas.edu.hk/en/programme/hkmu/JS9520/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS9530",
+  "institution": "HKMU",
+  "name": "Bachelor of Education with Honours in English Language Teaching and Bachelor of English Language Studies with Honours",
+  "formula_2027": "Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "English Language": 2.0
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 22.0,
+   "lq": 22.0,
+   "mean": null
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://www.hkmu.edu.hk/REG/reg_ftae/Admission/Scores_JUPAS.pdf",
+   "https://www.jupas.edu.hk/en/programme/hkmu/JS9530/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS9540",
+  "institution": "HKMU",
+  "name": "Bachelor of English Language Studies with Honours",
+  "formula_2027": "Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "English Language": 2.0
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 21.0,
+   "lq": 19.0,
+   "mean": null
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://www.hkmu.edu.hk/REG/reg_ftae/Admission/Scores_JUPAS.pdf",
+   "https://www.jupas.edu.hk/en/programme/hkmu/JS9540/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS9550",
+  "institution": "HKMU",
+  "name": "Bachelor of Language Studies with Honours (Applied Chinese Language Studies)",
+  "formula_2027": "Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "Chinese Language": 2.0,
+   "Chinese Literature": 2.0
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 21.0,
+   "lq": 20.0,
+   "mean": null
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://www.hkmu.edu.hk/REG/reg_ftae/Admission/Scores_JUPAS.pdf",
+   "https://www.jupas.edu.hk/en/programme/hkmu/JS9550/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS9560",
+  "institution": "HKMU",
+  "name": "Bachelor of Education with Honours (Chinese Language Teaching) and Bachelor of Language Studies with Honours (Applied Chinese Language Studies)",
+  "formula_2027": "Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "Chinese Language": 2.0,
+   "Chinese Literature": 2.0
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 22.0,
+   "lq": 21.0,
+   "mean": null
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://www.hkmu.edu.hk/REG/reg_ftae/Admission/Scores_JUPAS.pdf",
+   "https://www.jupas.edu.hk/en/programme/hkmu/JS9560/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS9580",
+  "institution": "HKMU",
+  "name": "Bachelor of Education with Honours in Early Childhood Education (Leadership and Special Educational Needs) & Health Sciences",
+  "formula_2027": "Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "Child Care and Education": 2.0,
+   "Child Care and Development": 2.0
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 16.0,
+   "lq": 16.0,
+   "mean": null
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://www.hkmu.edu.hk/REG/reg_ftae/Admission/Scores_JUPAS.pdf",
+   "https://www.jupas.edu.hk/en/programme/hkmu/JS9580/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS9719",
+  "institution": "HKMU",
+  "name": "Bachelor of Science with Honours in Cyber and Computer Security",
+  "formula_2027": "Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {},
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 16.0,
+   "lq": 16.0,
+   "mean": null
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://www.hkmu.edu.hk/REG/reg_ftae/Admission/Scores_JUPAS.pdf",
+   "https://www.jupas.edu.hk/en/programme/hkmu/JS9719/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS9720",
+  "institution": "HKMU",
+  "name": "Bachelor of Engineering with Honours in Electronic and Computer Engineering",
+  "formula_2027": "Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {},
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 18.0,
+   "lq": 16.0,
+   "mean": null
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://www.hkmu.edu.hk/REG/reg_ftae/Admission/Scores_JUPAS.pdf",
+   "https://www.jupas.edu.hk/en/programme/hkmu/JS9720/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS9731",
+  "institution": "HKMU",
+  "name": "Bachelor of Science with Honours in Environmental Science and Green Management",
+  "formula_2027": "Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {},
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 18.0,
+   "lq": 17.0,
+   "mean": null
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://www.hkmu.edu.hk/REG/reg_ftae/Admission/Scores_JUPAS.pdf",
+   "https://www.jupas.edu.hk/en/programme/hkmu/JS9731/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS9732",
+  "institution": "HKMU",
+  "name": "Bachelor of Science with Honours in Biomedical Sciences and Biotechnology",
+  "formula_2027": "Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {},
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 18.0,
+   "lq": 17.0,
+   "mean": null
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://www.hkmu.edu.hk/REG/reg_ftae/Admission/Scores_JUPAS.pdf",
+   "https://www.jupas.edu.hk/en/programme/hkmu/JS9732/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS9733",
+  "institution": "HKMU",
+  "name": "Bachelor of Science with Honours in Science (STEAM)",
+  "formula_2027": "Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {},
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 18.0,
+   "lq": 16.0,
+   "mean": null
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://www.hkmu.edu.hk/REG/reg_ftae/Admission/Scores_JUPAS.pdf",
+   "https://www.jupas.edu.hk/en/programme/hkmu/JS9733/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS9776",
+  "institution": "HKMU",
+  "name": "Bachelor of Science with Honours in Building Engineering and Management",
+  "formula_2027": "Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {},
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 18.0,
+   "lq": 17.0,
+   "mean": null
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://www.hkmu.edu.hk/REG/reg_ftae/Admission/Scores_JUPAS.pdf",
+   "https://www.jupas.edu.hk/en/programme/hkmu/JS9776/"
+  ],
+  "confidence": "official"
+ }
+]

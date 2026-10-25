@@ -1,0 +1,1694 @@
+[
+ {
+  "jupas_code": "JS5101",
+  "institution": "HKUST",
+  "name": "International Research Enrichment",
+  "formula_2027": "English + Mathematics + Best 2 from Biology/Chemistry/Physics/M1/M2 + Best 1 other subject",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {},
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Biology",
+     "Chemistry",
+     "Physics",
+     "Mathematics Extended Part (Module 1)",
+     "Mathematics Extended Part (Module 2)"
+    ],
+    "grade": "3"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 38.44,
+   "lq": 35.25,
+   "mean": null
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://join.hkust.edu.hk/docs/ADMISSIONS%20REQUIREMENTS%20AND%20SCORE%20FORMULAE.pdf",
+   "https://join.hkust.edu.hk/docs/2026_HKUST_JUPAS_ADMISSIONS_SCORES.pdf",
+   "https://www.jupas.edu.hk/en/programme/hkust/JS5101/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS5102",
+  "institution": "HKUST",
+  "name": "Science (Group A)",
+  "formula_2027": "English x1.5 + Mathematics + Best from Biology/Chemistry/Physics/M1/M2 + Best 2 other subjects (Physics/M1/M2 x2; Biology/Chemistry x1.5)",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "English Language": 1.5,
+   "Physics": 2,
+   "Mathematics Extended Part (Module 1)": 2,
+   "Mathematics Extended Part (Module 2)": 2,
+   "Biology": 1.5,
+   "Chemistry": 1.5
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 37.5,
+   "lq": 35.63,
+   "mean": null
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://join.hkust.edu.hk/docs/ADMISSIONS%20REQUIREMENTS%20AND%20SCORE%20FORMULAE.pdf",
+   "https://join.hkust.edu.hk/docs/2026_HKUST_JUPAS_ADMISSIONS_SCORES.pdf",
+   "https://www.jupas.edu.hk/en/programme/hkust/JS5102/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS5103",
+  "institution": "HKUST",
+  "name": "Science (Group B)",
+  "formula_2027": "English x1.5 + Mathematics + Best from Biology/Chemistry/Physics/M1/M2 + Best 2 other subjects (Biology/Chemistry x2; Physics/M1/M2 x1.5)",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "English Language": 1.5,
+   "Biology": 2,
+   "Chemistry": 2,
+   "Physics": 1.5,
+   "Mathematics Extended Part (Module 1)": 1.5,
+   "Mathematics Extended Part (Module 2)": 1.5
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 36.75,
+   "lq": 34.5,
+   "mean": null
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://join.hkust.edu.hk/docs/ADMISSIONS%20REQUIREMENTS%20AND%20SCORE%20FORMULAE.pdf",
+   "https://join.hkust.edu.hk/docs/2026_HKUST_JUPAS_ADMISSIONS_SCORES.pdf",
+   "https://www.jupas.edu.hk/en/programme/hkust/JS5103/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS5118",
+  "institution": "HKUST",
+  "name": "BSc in Biomedical and Health Sciences",
+  "formula_2027": "",
+  "formula_2027_id": "custom",
+  "subject_weights_2027": {},
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Biology",
+     "Chemistry",
+     "Physics",
+     "Mathematics Extended Part (Module 1)",
+     "Mathematics Extended Part (Module 2)"
+    ],
+    "grade": "3"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 45.0,
+   "lq": 43.88,
+   "mean": null
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://join.hkust.edu.hk/docs/ADMISSIONS%20REQUIREMENTS%20AND%20SCORE%20FORMULAE.pdf",
+   "https://join.hkust.edu.hk/docs/2026_HKUST_JUPAS_ADMISSIONS_SCORES.pdf",
+   "https://www.jupas.edu.hk/en/programme/hkust/JS5118/"
+  ],
+  "confidence": "partial"
+ },
+ {
+  "jupas_code": "JS5181",
+  "institution": "HKUST",
+  "name": "Science (Group A) with Extended Major in Artificial Intelligence",
+  "formula_2027": "English x1.5 + Mathematics + Best from Biology/Chemistry/Physics/M1/M2 + Best 2 other subjects (Physics/M1/M2 x2; Biology/Chemistry x1.5)",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "English Language": 1.5,
+   "Physics": 2,
+   "Mathematics Extended Part (Module 1)": 2,
+   "Mathematics Extended Part (Module 2)": 2,
+   "Biology": 1.5,
+   "Chemistry": 1.5
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "3",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 40.13,
+   "lq": 38.28,
+   "mean": null
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://join.hkust.edu.hk/docs/ADMISSIONS%20REQUIREMENTS%20AND%20SCORE%20FORMULAE.pdf",
+   "https://join.hkust.edu.hk/docs/2026_HKUST_JUPAS_ADMISSIONS_SCORES.pdf",
+   "https://www.jupas.edu.hk/en/programme/hkust/JS5181/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS5212",
+  "institution": "HKUST",
+  "name": "BEng in Computer Engineering",
+  "formula_2027": "English x2 + Mathematics x2 + Best from Biology/Chemistry/Physics/ICT + Best 2 other subjects (Physics x2; ICT x1.5; Biology/Chemistry x1; M1/M2 x2)",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "English Language": 2,
+   "Mathematics (Compulsory Part)": 2,
+   "Physics": 2,
+   "Information and Communication Technology": 1.5,
+   "Mathematics Extended Part (Module 1)": 2,
+   "Mathematics Extended Part (Module 2)": 2
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "3",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Biology",
+     "Chemistry",
+     "Physics",
+     "Information and Communication Technology"
+    ],
+    "grade": "3"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 49.3,
+   "lq": 48.3,
+   "mean": null
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://join.hkust.edu.hk/docs/ADMISSIONS%20REQUIREMENTS%20AND%20SCORE%20FORMULAE.pdf",
+   "https://join.hkust.edu.hk/docs/2026_HKUST_JUPAS_ADMISSIONS_SCORES.pdf",
+   "https://www.jupas.edu.hk/en/programme/hkust/JS5212/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS5220",
+  "institution": "HKUST",
+  "name": "Department of Chemical and Biological Engineering",
+  "formula_2027": "English x2 + Mathematics x2 + Best from Biology/Chemistry/Physics/ICT + Best 2 other subjects (Biology/Chemistry/Physics x2; ICT x1.5; M1/M2 x2)",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "English Language": 2,
+   "Mathematics (Compulsory Part)": 2,
+   "Biology": 2,
+   "Chemistry": 2,
+   "Physics": 2,
+   "Information and Communication Technology": 1.5,
+   "Mathematics Extended Part (Module 1)": 2,
+   "Mathematics Extended Part (Module 2)": 2
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "3",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Biology",
+     "Chemistry",
+     "Physics",
+     "Information and Communication Technology"
+    ],
+    "grade": "3"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 49.0,
+   "lq": 48.0,
+   "mean": null
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://join.hkust.edu.hk/docs/ADMISSIONS%20REQUIREMENTS%20AND%20SCORE%20FORMULAE.pdf",
+   "https://join.hkust.edu.hk/docs/2026_HKUST_JUPAS_ADMISSIONS_SCORES.pdf",
+   "https://www.jupas.edu.hk/en/programme/hkust/JS5220/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS5230",
+  "institution": "HKUST",
+  "name": "Department of Civil and Environmental Engineering",
+  "formula_2027": "English x2 + Mathematics x2 + Best from Biology/Chemistry/Physics/ICT + Best 2 other subjects (Chemistry/Physics x2; ICT x1.5; Biology x1; M1/M2 x2)",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "English Language": 2,
+   "Mathematics (Compulsory Part)": 2,
+   "Chemistry": 2,
+   "Physics": 2,
+   "Information and Communication Technology": 1.5,
+   "Mathematics Extended Part (Module 1)": 2,
+   "Mathematics Extended Part (Module 2)": 2
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "3",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Biology",
+     "Chemistry",
+     "Physics",
+     "Information and Communication Technology"
+    ],
+    "grade": "3"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 46.8,
+   "lq": 45.88,
+   "mean": null
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://join.hkust.edu.hk/docs/ADMISSIONS%20REQUIREMENTS%20AND%20SCORE%20FORMULAE.pdf",
+   "https://join.hkust.edu.hk/docs/2026_HKUST_JUPAS_ADMISSIONS_SCORES.pdf",
+   "https://www.jupas.edu.hk/en/programme/hkust/JS5230/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS5240",
+  "institution": "HKUST",
+  "name": "Department of Computer Science and Engineering",
+  "formula_2027": "English x2 + Mathematics x2 + Best from Biology/Chemistry/Physics/ICT + Best 2 other subjects (Physics x2; ICT x1.5; Biology/Chemistry x1; M1/M2 x2)",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "English Language": 2,
+   "Mathematics (Compulsory Part)": 2,
+   "Physics": 2,
+   "Information and Communication Technology": 1.5,
+   "Mathematics Extended Part (Module 1)": 2,
+   "Mathematics Extended Part (Module 2)": 2
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "3",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Biology",
+     "Chemistry",
+     "Physics",
+     "Information and Communication Technology"
+    ],
+    "grade": "3"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 55.65,
+   "lq": 53.94,
+   "mean": null
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://join.hkust.edu.hk/docs/ADMISSIONS%20REQUIREMENTS%20AND%20SCORE%20FORMULAE.pdf",
+   "https://join.hkust.edu.hk/docs/2026_HKUST_JUPAS_ADMISSIONS_SCORES.pdf",
+   "https://www.jupas.edu.hk/en/programme/hkust/JS5240/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS5250",
+  "institution": "HKUST",
+  "name": "Department of Electronic and Computer Engineering",
+  "formula_2027": "English x2 + Mathematics x2 + Best from Biology/Chemistry/Physics/ICT + Best 2 other subjects (Physics x2; ICT x1.5; Biology/Chemistry x1; M1/M2 x2)",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "English Language": 2,
+   "Mathematics (Compulsory Part)": 2,
+   "Physics": 2,
+   "Information and Communication Technology": 1.5,
+   "Mathematics Extended Part (Module 1)": 2,
+   "Mathematics Extended Part (Module 2)": 2
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "3",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Biology",
+     "Chemistry",
+     "Physics",
+     "Information and Communication Technology"
+    ],
+    "grade": "3"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 50.64,
+   "lq": 48.88,
+   "mean": null
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://join.hkust.edu.hk/docs/ADMISSIONS%20REQUIREMENTS%20AND%20SCORE%20FORMULAE.pdf",
+   "https://join.hkust.edu.hk/docs/2026_HKUST_JUPAS_ADMISSIONS_SCORES.pdf",
+   "https://www.jupas.edu.hk/en/programme/hkust/JS5250/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS5260",
+  "institution": "HKUST",
+  "name": "Department of Industrial Engineering and Decision Analytics",
+  "formula_2027": "English x2 + Mathematics x2 + Best from Biology/Chemistry/Physics/ICT + Best 2 other subjects (Physics x2; ICT x1.5; Biology/Chemistry x1; M1/M2 x2)",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "English Language": 2,
+   "Mathematics (Compulsory Part)": 2,
+   "Physics": 2,
+   "Information and Communication Technology": 1.5,
+   "Mathematics Extended Part (Module 1)": 2,
+   "Mathematics Extended Part (Module 2)": 2
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "3",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Biology",
+     "Chemistry",
+     "Physics",
+     "Information and Communication Technology"
+    ],
+    "grade": "3"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 45.0,
+   "lq": 43.8,
+   "mean": null
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://join.hkust.edu.hk/docs/ADMISSIONS%20REQUIREMENTS%20AND%20SCORE%20FORMULAE.pdf",
+   "https://join.hkust.edu.hk/docs/2026_HKUST_JUPAS_ADMISSIONS_SCORES.pdf",
+   "https://www.jupas.edu.hk/en/programme/hkust/JS5260/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS5270",
+  "institution": "HKUST",
+  "name": "Department of Mechanical and Aerospace Engineering",
+  "formula_2027": "English x2 + Mathematics x2 + Best from Biology/Chemistry/Physics/ICT + Best 2 other subjects (Biology/Chemistry/Physics x2; ICT x1; M1/M2 x1.5)",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "English Language": 2,
+   "Mathematics (Compulsory Part)": 2,
+   "Biology": 2,
+   "Chemistry": 2,
+   "Physics": 2,
+   "Mathematics Extended Part (Module 1)": 1.5,
+   "Mathematics Extended Part (Module 2)": 1.5
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "3",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Biology",
+     "Chemistry",
+     "Physics",
+     "Information and Communication Technology"
+    ],
+    "grade": "3"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 49.53,
+   "lq": 47.35,
+   "mean": null
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://join.hkust.edu.hk/docs/ADMISSIONS%20REQUIREMENTS%20AND%20SCORE%20FORMULAE.pdf",
+   "https://join.hkust.edu.hk/docs/2026_HKUST_JUPAS_ADMISSIONS_SCORES.pdf",
+   "https://www.jupas.edu.hk/en/programme/hkust/JS5270/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS5282",
+  "institution": "HKUST",
+  "name": "Engineering with Extended Major in Artificial Intelligence",
+  "formula_2027": "English x2 + Mathematics x2 + Best from Biology/Chemistry/Physics/ICT + Best 2 other subjects (Biology/Chemistry/Physics x2; ICT x1.5; M1/M2 x1.5)",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "English Language": 2,
+   "Mathematics (Compulsory Part)": 2,
+   "Biology": 2,
+   "Chemistry": 2,
+   "Physics": 2,
+   "Information and Communication Technology": 1.5,
+   "Mathematics Extended Part (Module 1)": 1.5,
+   "Mathematics Extended Part (Module 2)": 1.5
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "3",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Biology",
+     "Chemistry",
+     "Physics",
+     "Information and Communication Technology"
+    ],
+    "grade": "3"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 54.24,
+   "lq": 50.84,
+   "mean": null
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://join.hkust.edu.hk/docs/ADMISSIONS%20REQUIREMENTS%20AND%20SCORE%20FORMULAE.pdf",
+   "https://join.hkust.edu.hk/docs/2026_HKUST_JUPAS_ADMISSIONS_SCORES.pdf",
+   "https://www.jupas.edu.hk/en/programme/hkust/JS5282/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS5300",
+  "institution": "HKUST",
+  "name": "Business and Management",
+  "formula_2027": "English x2 + Mathematics x2 + Best 3 other subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "English Language": 2,
+   "Mathematics (Compulsory Part)": 2
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "4",
+   "math": "3",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 37.0,
+   "lq": 36.9,
+   "mean": null
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://join.hkust.edu.hk/docs/ADMISSIONS%20REQUIREMENTS%20AND%20SCORE%20FORMULAE.pdf",
+   "https://join.hkust.edu.hk/docs/2026_HKUST_JUPAS_ADMISSIONS_SCORES.pdf",
+   "https://www.jupas.edu.hk/en/programme/hkust/JS5300/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS5311",
+  "institution": "HKUST",
+  "name": "BBA in Economics",
+  "formula_2027": "English x2 + Mathematics x2 + Best 3 other subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "English Language": 2,
+   "Mathematics (Compulsory Part)": 2
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "4",
+   "math": "3",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 38.23,
+   "lq": 36.9,
+   "mean": null
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://join.hkust.edu.hk/docs/ADMISSIONS%20REQUIREMENTS%20AND%20SCORE%20FORMULAE.pdf",
+   "https://join.hkust.edu.hk/docs/2026_HKUST_JUPAS_ADMISSIONS_SCORES.pdf",
+   "https://www.jupas.edu.hk/en/programme/hkust/JS5311/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS5312",
+  "institution": "HKUST",
+  "name": "BBA in Finance",
+  "formula_2027": "English x2 + Mathematics x2 + better of (Best 3 other subjects) OR (Best of Chemistry/Economics/Physics/M1/M2 x1.5 + Best 2 other subjects)",
+  "formula_2027_id": "custom",
+  "subject_weights_2027": {
+   "English Language": 2,
+   "Mathematics (Compulsory Part)": 2
+  },
+  "best_of_weights_2027": [
+   {
+    "count": 1,
+    "subjects": [
+     "Chemistry",
+     "Economics",
+     "Physics",
+     "Mathematics Extended Part (Module 1)",
+     "Mathematics Extended Part (Module 2)"
+    ],
+    "weight": 1.5
+   }
+  ],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "4",
+   "math": "3",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 44.16,
+   "lq": 43.31,
+   "mean": null
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://join.hkust.edu.hk/docs/ADMISSIONS%20REQUIREMENTS%20AND%20SCORE%20FORMULAE.pdf",
+   "https://join.hkust.edu.hk/docs/2026_HKUST_JUPAS_ADMISSIONS_SCORES.pdf",
+   "https://www.jupas.edu.hk/en/programme/hkust/JS5312/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS5313",
+  "institution": "HKUST",
+  "name": "BBA in Global Business",
+  "formula_2027": "English x2 + Mathematics x2 + Best 3 other subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "English Language": 2,
+   "Mathematics (Compulsory Part)": 2
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "4",
+   "math": "3",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 53.23,
+   "lq": 50.79,
+   "mean": null
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://join.hkust.edu.hk/docs/ADMISSIONS%20REQUIREMENTS%20AND%20SCORE%20FORMULAE.pdf",
+   "https://join.hkust.edu.hk/docs/2026_HKUST_JUPAS_ADMISSIONS_SCORES.pdf",
+   "https://www.jupas.edu.hk/en/programme/hkust/JS5313/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS5314",
+  "institution": "HKUST",
+  "name": "BBA in Information Systems",
+  "formula_2027": "English x2 + Mathematics x2 + Best 3 other subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "English Language": 2,
+   "Mathematics (Compulsory Part)": 2
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "4",
+   "math": "3",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 38.23,
+   "lq": 37.04,
+   "mean": null
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://join.hkust.edu.hk/docs/ADMISSIONS%20REQUIREMENTS%20AND%20SCORE%20FORMULAE.pdf",
+   "https://join.hkust.edu.hk/docs/2026_HKUST_JUPAS_ADMISSIONS_SCORES.pdf",
+   "https://www.jupas.edu.hk/en/programme/hkust/JS5314/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS5315",
+  "institution": "HKUST",
+  "name": "BBA in Management",
+  "formula_2027": "English x2 + Mathematics x2 + Best 3 other subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "English Language": 2,
+   "Mathematics (Compulsory Part)": 2
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "4",
+   "math": "3",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 35.05,
+   "lq": 35.05,
+   "mean": null
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://join.hkust.edu.hk/docs/ADMISSIONS%20REQUIREMENTS%20AND%20SCORE%20FORMULAE.pdf",
+   "https://join.hkust.edu.hk/docs/2026_HKUST_JUPAS_ADMISSIONS_SCORES.pdf",
+   "https://www.jupas.edu.hk/en/programme/hkust/JS5315/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS5316",
+  "institution": "HKUST",
+  "name": "BBA in Marketing",
+  "formula_2027": "English x2 + Mathematics x2 + Best 3 other subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "English Language": 2,
+   "Mathematics (Compulsory Part)": 2
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "4",
+   "math": "3",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 35.5,
+   "lq": 35.4,
+   "mean": null
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://join.hkust.edu.hk/docs/ADMISSIONS%20REQUIREMENTS%20AND%20SCORE%20FORMULAE.pdf",
+   "https://join.hkust.edu.hk/docs/2026_HKUST_JUPAS_ADMISSIONS_SCORES.pdf",
+   "https://www.jupas.edu.hk/en/programme/hkust/JS5316/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS5317",
+  "institution": "HKUST",
+  "name": "BBA in Operations Management",
+  "formula_2027": "English x2 + Mathematics x2 + Best 3 other subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "English Language": 2,
+   "Mathematics (Compulsory Part)": 2
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "4",
+   "math": "3",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 35.05,
+   "lq": 35.05,
+   "mean": null
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://join.hkust.edu.hk/docs/ADMISSIONS%20REQUIREMENTS%20AND%20SCORE%20FORMULAE.pdf",
+   "https://join.hkust.edu.hk/docs/2026_HKUST_JUPAS_ADMISSIONS_SCORES.pdf",
+   "https://www.jupas.edu.hk/en/programme/hkust/JS5317/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS5318",
+  "institution": "HKUST",
+  "name": "BBA in Professional Accounting",
+  "formula_2027": "English x2 + Mathematics x2 + Best 3 other subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "English Language": 2,
+   "Mathematics (Compulsory Part)": 2
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "4",
+   "math": "3",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 37.23,
+   "lq": 35.82,
+   "mean": null
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://join.hkust.edu.hk/docs/ADMISSIONS%20REQUIREMENTS%20AND%20SCORE%20FORMULAE.pdf",
+   "https://join.hkust.edu.hk/docs/2026_HKUST_JUPAS_ADMISSIONS_SCORES.pdf",
+   "https://www.jupas.edu.hk/en/programme/hkust/JS5318/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS5331",
+  "institution": "HKUST",
+  "name": "BSc in Economics and Finance",
+  "formula_2027": "English x2 + Mathematics x2 + better of (Best 3 other subjects) OR (Best of Chemistry/Economics/Physics/M1/M2 x1.5 + Best 2 other subjects)",
+  "formula_2027_id": "custom",
+  "subject_weights_2027": {
+   "English Language": 2,
+   "Mathematics (Compulsory Part)": 2
+  },
+  "best_of_weights_2027": [
+   {
+    "count": 1,
+    "subjects": [
+     "Chemistry",
+     "Economics",
+     "Physics",
+     "Mathematics Extended Part (Module 1)",
+     "Mathematics Extended Part (Module 2)"
+    ],
+    "weight": 1.5
+   }
+  ],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "4",
+   "math": "3",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 47.25,
+   "lq": 45.75,
+   "mean": null
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://join.hkust.edu.hk/docs/ADMISSIONS%20REQUIREMENTS%20AND%20SCORE%20FORMULAE.pdf",
+   "https://join.hkust.edu.hk/docs/2026_HKUST_JUPAS_ADMISSIONS_SCORES.pdf",
+   "https://www.jupas.edu.hk/en/programme/hkust/JS5331/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS5332",
+  "institution": "HKUST",
+  "name": "BSc in Quantitative Finance",
+  "formula_2027": "English x2 + Mathematics x2 + better of (Best 3 other subjects) OR (Best of Chemistry/Economics/Physics/M1/M2 x1.5 + Best 2 other subjects)",
+  "formula_2027_id": "custom",
+  "subject_weights_2027": {
+   "English Language": 2,
+   "Mathematics (Compulsory Part)": 2
+  },
+  "best_of_weights_2027": [
+   {
+    "count": 1,
+    "subjects": [
+     "Chemistry",
+     "Economics",
+     "Physics",
+     "Mathematics Extended Part (Module 1)",
+     "Mathematics Extended Part (Module 2)"
+    ],
+    "weight": 1.5
+   }
+  ],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "4",
+   "math": "3",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 58.5,
+   "lq": 57.38,
+   "mean": null
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://join.hkust.edu.hk/docs/ADMISSIONS%20REQUIREMENTS%20AND%20SCORE%20FORMULAE.pdf",
+   "https://join.hkust.edu.hk/docs/2026_HKUST_JUPAS_ADMISSIONS_SCORES.pdf",
+   "https://www.jupas.edu.hk/en/programme/hkust/JS5332/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS5411",
+  "institution": "HKUST",
+  "name": "BSc in Global China Studies",
+  "formula_2027": "English x2 + Chinese x1.5 + Best 3 other subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "English Language": 2,
+   "Chinese Language": 1.5
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 30.99,
+   "lq": 30.3,
+   "mean": null
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://join.hkust.edu.hk/docs/ADMISSIONS%20REQUIREMENTS%20AND%20SCORE%20FORMULAE.pdf",
+   "https://join.hkust.edu.hk/docs/2026_HKUST_JUPAS_ADMISSIONS_SCORES.pdf",
+   "https://www.jupas.edu.hk/en/programme/hkust/JS5411/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS5412",
+  "institution": "HKUST",
+  "name": "BSc in Quantitative Social Analysis",
+  "formula_2027": "English x2 + Mathematics x2 + Best 3 other subjects (M1/M2 x1.5)",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "English Language": 2,
+   "Mathematics (Compulsory Part)": 2,
+   "Mathematics Extended Part (Module 1)": 1.5,
+   "Mathematics Extended Part (Module 2)": 1.5
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "3",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 36.0,
+   "lq": 35.5,
+   "mean": null
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://join.hkust.edu.hk/docs/ADMISSIONS%20REQUIREMENTS%20AND%20SCORE%20FORMULAE.pdf",
+   "https://join.hkust.edu.hk/docs/2026_HKUST_JUPAS_ADMISSIONS_SCORES.pdf",
+   "https://www.jupas.edu.hk/en/programme/hkust/JS5412/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS5711",
+  "institution": "HKUST",
+  "name": "BSc in Innovation, Design and Technology",
+  "formula_2027": "English x2 + Mathematics x2 + Best from Biology/Chemistry/Physics/Design and Applied Technology/ICT + Best 2 other subjects (Biology/Chemistry/Physics/DAT x2; ICT x1; M1/M2 x1.5)",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "English Language": 2,
+   "Mathematics (Compulsory Part)": 2,
+   "Biology": 2,
+   "Chemistry": 2,
+   "Physics": 2,
+   "Design and Applied Technology": 2,
+   "Mathematics Extended Part (Module 1)": 1.5,
+   "Mathematics Extended Part (Module 2)": 1.5
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "3",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Biology",
+     "Chemistry",
+     "Physics",
+     "Design and Applied Technology",
+     "Information and Communication Technology"
+    ],
+    "grade": "3"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 36.0,
+   "lq": 35.28,
+   "mean": null
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://join.hkust.edu.hk/docs/ADMISSIONS%20REQUIREMENTS%20AND%20SCORE%20FORMULAE.pdf",
+   "https://join.hkust.edu.hk/docs/2026_HKUST_JUPAS_ADMISSIONS_SCORES.pdf",
+   "https://www.jupas.edu.hk/en/programme/hkust/JS5711/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS5712",
+  "institution": "HKUST",
+  "name": "BSc in Individualized Interdisciplinary Major",
+  "formula_2027": "English x2 + Mathematics x2 + Best 3 other subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "English Language": 2,
+   "Mathematics (Compulsory Part)": 2
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "4",
+   "math": "3",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   }
+  },
+  "scores_2026": null,
+  "score_grades_2026": null,
+  "sources": [
+   "https://join.hkust.edu.hk/docs/ADMISSIONS%20REQUIREMENTS%20AND%20SCORE%20FORMULAE.pdf",
+   "https://join.hkust.edu.hk/docs/2026_HKUST_JUPAS_ADMISSIONS_SCORES.pdf",
+   "https://www.jupas.edu.hk/en/programme/hkust/JS5712/"
+  ],
+  "confidence": "partial"
+ },
+ {
+  "jupas_code": "JS5811",
+  "institution": "HKUST",
+  "name": "BSc in Biotechnology and Business",
+  "formula_2027": "English x2 + Mathematics x2 + Best of Biology/Chemistry x1.5 + Best 2 other subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "English Language": 2,
+   "Mathematics (Compulsory Part)": 2
+  },
+  "best_of_weights_2027": [
+   {
+    "count": 1,
+    "subjects": [
+     "Biology",
+     "Chemistry"
+    ],
+    "weight": 1.5
+   }
+  ],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "4",
+   "math": "3",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Biology",
+     "Chemistry"
+    ],
+    "grade": "3"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 39.28,
+   "lq": 37.13,
+   "mean": null
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://join.hkust.edu.hk/docs/ADMISSIONS%20REQUIREMENTS%20AND%20SCORE%20FORMULAE.pdf",
+   "https://join.hkust.edu.hk/docs/2026_HKUST_JUPAS_ADMISSIONS_SCORES.pdf",
+   "https://www.jupas.edu.hk/en/programme/hkust/JS5811/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS5812",
+  "institution": "HKUST",
+  "name": "BSc in Environmental Management and Technology",
+  "formula_2027": "English x2 + Mathematics x2 + Best 3 other subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "English Language": 2,
+   "Mathematics (Compulsory Part)": 2
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "4",
+   "math": "3",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 33.53,
+   "lq": 32.05,
+   "mean": null
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://join.hkust.edu.hk/docs/ADMISSIONS%20REQUIREMENTS%20AND%20SCORE%20FORMULAE.pdf",
+   "https://join.hkust.edu.hk/docs/2026_HKUST_JUPAS_ADMISSIONS_SCORES.pdf",
+   "https://www.jupas.edu.hk/en/programme/hkust/JS5812/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS5813",
+  "institution": "HKUST",
+  "name": "BSc in Mathematics and Economics",
+  "formula_2027": "English x2 + Mathematics x2 + Best from Biology/Chemistry/Physics/Economics/M1/M2 + Best 2 other subjects (M1/M2 x2; Biology/Chemistry/Physics/Economics x1.5)",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "English Language": 2,
+   "Mathematics (Compulsory Part)": 2,
+   "Mathematics Extended Part (Module 1)": 2,
+   "Mathematics Extended Part (Module 2)": 2,
+   "Biology": 1.5,
+   "Chemistry": 1.5,
+   "Physics": 1.5,
+   "Economics": 1.5
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "4",
+   "math": "3",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Biology",
+     "Chemistry",
+     "Physics",
+     "Economics",
+     "Mathematics Extended Part (Module 1)",
+     "Mathematics Extended Part (Module 2)"
+    ],
+    "grade": "3"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 47.05,
+   "lq": 44.85,
+   "mean": null
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://join.hkust.edu.hk/docs/ADMISSIONS%20REQUIREMENTS%20AND%20SCORE%20FORMULAE.pdf",
+   "https://join.hkust.edu.hk/docs/2026_HKUST_JUPAS_ADMISSIONS_SCORES.pdf",
+   "https://www.jupas.edu.hk/en/programme/hkust/JS5813/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS5814",
+  "institution": "HKUST",
+  "name": "BSc in Risk Management and Business Intelligence",
+  "formula_2027": "English x2 + Mathematics x2 + Best 3 other subjects (M1/M2 x1.5)",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "English Language": 2,
+   "Mathematics (Compulsory Part)": 2,
+   "Mathematics Extended Part (Module 1)": 1.5,
+   "Mathematics Extended Part (Module 2)": 1.5
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "4",
+   "math": "3",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 47.25,
+   "lq": 46.69,
+   "mean": null
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://join.hkust.edu.hk/docs/ADMISSIONS%20REQUIREMENTS%20AND%20SCORE%20FORMULAE.pdf",
+   "https://join.hkust.edu.hk/docs/2026_HKUST_JUPAS_ADMISSIONS_SCORES.pdf",
+   "https://www.jupas.edu.hk/en/programme/hkust/JS5814/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS5822",
+  "institution": "HKUST",
+  "name": "BSc in Sustainable and Green Finance",
+  "formula_2027": "English x2 + Mathematics x2 + better of (Best 3 other subjects) OR (Best of Chemistry/Economics/Physics/M1/M2 x1.5 + Best 2 other subjects)",
+  "formula_2027_id": "custom",
+  "subject_weights_2027": {
+   "English Language": 2,
+   "Mathematics (Compulsory Part)": 2
+  },
+  "best_of_weights_2027": [
+   {
+    "count": 1,
+    "subjects": [
+     "Chemistry",
+     "Economics",
+     "Physics",
+     "Mathematics Extended Part (Module 1)",
+     "Mathematics Extended Part (Module 2)"
+    ],
+    "weight": 1.5
+   }
+  ],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "4",
+   "math": "3",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 41.25,
+   "lq": 40.03,
+   "mean": null
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://join.hkust.edu.hk/docs/ADMISSIONS%20REQUIREMENTS%20AND%20SCORE%20FORMULAE.pdf",
+   "https://join.hkust.edu.hk/docs/2026_HKUST_JUPAS_ADMISSIONS_SCORES.pdf",
+   "https://www.jupas.edu.hk/en/programme/hkust/JS5822/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS5901",
+  "institution": "HKUST",
+  "name": "BEng/BSc & BBA Dual Degree Program in Technology and Management",
+  "formula_2027": "English x2 + Mathematics x2 + Best from Biology/Chemistry/Physics/ICT + Best 2 other subjects (Biology/Chemistry/Physics x2; ICT x1; M1/M2 x1.5)",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "English Language": 2,
+   "Mathematics (Compulsory Part)": 2,
+   "Biology": 2,
+   "Chemistry": 2,
+   "Physics": 2,
+   "Mathematics Extended Part (Module 1)": 1.5,
+   "Mathematics Extended Part (Module 2)": 1.5
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "4",
+   "math": "3",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Biology",
+     "Chemistry",
+     "Physics",
+     "Information and Communication Technology"
+    ],
+    "grade": "3"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 59.59,
+   "lq": 57.77,
+   "mean": null
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://join.hkust.edu.hk/docs/ADMISSIONS%20REQUIREMENTS%20AND%20SCORE%20FORMULAE.pdf",
+   "https://join.hkust.edu.hk/docs/2026_HKUST_JUPAS_ADMISSIONS_SCORES.pdf",
+   "https://www.jupas.edu.hk/en/programme/hkust/JS5901/"
+  ],
+  "confidence": "official"
+ }
+]

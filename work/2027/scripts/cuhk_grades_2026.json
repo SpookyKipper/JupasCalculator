@@ -1,0 +1,4301 @@
+[
+ {
+  "code": "JS4006",
+  "name": "Anthropology",
+  "principle": "Best 5",
+  "weighting_text": "--",
+  "totals": {
+   "UQ": 26.0,
+   "M": 25.0,
+   "LQ": 24.5
+  },
+  "grades": {
+   "UQ": {
+    "chi": "5*",
+    "eng": "4",
+    "math": "4",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "",
+    "electives": [
+     "5*",
+     "4",
+     "4"
+    ]
+   },
+   "M": {
+    "chi": "5*",
+    "eng": "5*",
+    "math": "4",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "",
+    "electives": [
+     "4",
+     "3"
+    ]
+   },
+   "LQ": {
+    "chi": "5*",
+    "eng": "4",
+    "math": "4",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "",
+    "electives": [
+     "5",
+     "4",
+     "4"
+    ]
+   }
+  }
+ },
+ {
+  "code": "JS4018",
+  "name": "Chinese Language and Literature",
+  "principle": "Best 5",
+  "weighting_text": "• Chinese (x 1.2)",
+  "totals": {
+   "UQ": 31.9,
+   "M": 30.4,
+   "LQ": 29.2
+  },
+  "grades": {
+   "UQ": {
+    "chi": "5*",
+    "eng": "5",
+    "math": "4",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "",
+    "electives": [
+     "5*",
+     "5",
+     "5"
+    ]
+   },
+   "M": {
+    "chi": "5*",
+    "eng": "5",
+    "math": "4",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "",
+    "electives": [
+     "5*",
+     "5",
+     "4"
+    ]
+   },
+   "LQ": {
+    "chi": "5**",
+    "eng": "5",
+    "math": "4",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "",
+    "electives": [
+     "5",
+     "4",
+     "4"
+    ]
+   }
+  }
+ },
+ {
+  "code": "JS4032",
+  "name": "English",
+  "principle": "Best 5",
+  "weighting_text": "• English (x 1.5)",
+  "totals": {
+   "UQ": 28.75,
+   "M": 28.0,
+   "LQ": 27.75
+  },
+  "grades": {
+   "UQ": {
+    "chi": "5*",
+    "eng": "5",
+    "math": "4",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "",
+    "electives": [
+     "5",
+     "4",
+     "4"
+    ]
+   },
+   "M": {
+    "chi": "5",
+    "eng": "5*",
+    "math": "4",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "",
+    "electives": [
+     "4",
+     "4",
+     "4"
+    ]
+   },
+   "LQ": {
+    "chi": "4",
+    "eng": "5**",
+    "math": "2",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "",
+    "electives": [
+     "4",
+     "4",
+     "3"
+    ]
+   }
+  }
+ },
+ {
+  "code": "JS4044",
+  "name": "Fine Arts",
+  "principle": "Best 5",
+  "weighting_text": "--",
+  "totals": {
+   "UQ": 27.5,
+   "M": 26.0,
+   "LQ": 24.5
+  },
+  "grades": {
+   "UQ": {
+    "chi": "4",
+    "eng": "3",
+    "math": "4",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "",
+    "electives": [
+     "5**",
+     "5*",
+     "4"
+    ]
+   },
+   "M": {
+    "chi": "3",
+    "eng": "4",
+    "math": "2",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "",
+    "electives": [
+     "5**",
+     "5**"
+    ]
+   },
+   "LQ": {
+    "chi": "4",
+    "eng": "4",
+    "math": "5",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "",
+    "electives": [
+     "5*",
+     "4"
+    ]
+   }
+  }
+ },
+ {
+  "code": "JS4056",
+  "name": "History",
+  "principle": "Best 5",
+  "weighting_text": "--",
+  "totals": {
+   "UQ": 29.0,
+   "M": 27.5,
+   "LQ": 26.5
+  },
+  "grades": {
+   "UQ": {
+    "chi": "5*",
+    "eng": "5",
+    "math": "4",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "",
+    "electives": [
+     "5**",
+     "4"
+    ]
+   },
+   "M": {
+    "chi": "5*",
+    "eng": "3",
+    "math": "4",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "",
+    "electives": [
+     "5*",
+     "5",
+     "4"
+    ]
+   },
+   "LQ": {
+    "chi": "5**",
+    "eng": "3",
+    "math": "5",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "",
+    "electives": [
+     "5",
+     "4"
+    ]
+   }
+  }
+ },
+ {
+  "code": "JS4068",
+  "name": "Japanese Studies",
+  "principle": "Best 5",
+  "weighting_text": "--",
+  "totals": {
+   "UQ": 26.0,
+   "M": 24.5,
+   "LQ": 23.5
+  },
+  "grades": {
+   "UQ": {
+    "chi": "4",
+    "eng": "4",
+    "math": "4",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "",
+    "electives": [
+     "5*",
+     "5*"
+    ]
+   },
+   "M": {
+    "chi": "5",
+    "eng": "5",
+    "math": "4",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "",
+    "electives": [
+     "5",
+     "4",
+     "4"
+    ]
+   },
+   "LQ": {
+    "chi": "5",
+    "eng": "3",
+    "math": "4",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "",
+    "electives": [
+     "5",
+     "5",
+     "3"
+    ]
+   }
+  }
+ },
+ {
+  "code": "JS4070",
+  "name": "Linguistics",
+  "principle": "Best 5",
+  "weighting_text": "• English (x 1.2)",
+  "totals": {
+   "UQ": 27.1,
+   "M": 25.9,
+   "LQ": 25.6
+  },
+  "grades": {
+   "UQ": {
+    "chi": "5*",
+    "eng": "5",
+    "math": "5",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "",
+    "electives": [
+     "4",
+     "4"
+    ]
+   },
+   "M": {
+    "chi": "5",
+    "eng": "5*",
+    "math": "4",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "4",
+    "electives": [
+     "4",
+     "3"
+    ]
+   },
+   "LQ": {
+    "chi": "5*",
+    "eng": "5",
+    "math": "4",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "",
+    "electives": [
+     "4",
+     "4",
+     "4"
+    ]
+   }
+  }
+ },
+ {
+  "code": "JS4082",
+  "name": "Music",
+  "principle": "Best 5",
+  "weighting_text": "--",
+  "totals": {
+   "UQ": 26.0,
+   "M": 24.5,
+   "LQ": 21.5
+  },
+  "grades": {
+   "UQ": {
+    "chi": "3",
+    "eng": "5*",
+    "math": "4",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "",
+    "electives": [
+     "5",
+     "5",
+     "4"
+    ]
+   },
+   "M": {
+    "chi": "5",
+    "eng": "5",
+    "math": "4",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "",
+    "electives": [
+     "5",
+     "4",
+     "3"
+    ]
+   },
+   "LQ": {
+    "chi": "4",
+    "eng": "5",
+    "math": "4",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "",
+    "electives": [
+     "4",
+     "4",
+     "3"
+    ]
+   }
+  }
+ },
+ {
+  "code": "JS4094",
+  "name": "Philosophy",
+  "principle": "Best 5",
+  "weighting_text": "• Chinese and English must be included",
+  "totals": {
+   "UQ": 26.0,
+   "M": 24.5,
+   "LQ": 23.0
+  },
+  "grades": {
+   "UQ": {
+    "chi": "5",
+    "eng": "5",
+    "math": "5",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "",
+    "electives": [
+     "5",
+     "4"
+    ]
+   },
+   "M": {
+    "chi": "5*",
+    "eng": "4",
+    "math": "5",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "4",
+    "electives": [
+     "4"
+    ]
+   },
+   "LQ": {
+    "chi": "4",
+    "eng": "4",
+    "math": "5",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "5",
+    "electives": [
+     "4",
+     "4"
+    ]
+   }
+  }
+ },
+ {
+  "code": "JS4100",
+  "name": "Public Humanities",
+  "principle": "Best 5",
+  "weighting_text": "• Chinese (x 1.5) • English (x 1.5)",
+  "totals": {
+   "UQ": 30.5,
+   "M": 30.0,
+   "LQ": 29.25
+  },
+  "grades": {
+   "UQ": {
+    "chi": "4",
+    "eng": "5*",
+    "math": "3",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "",
+    "electives": [
+     "5*",
+     "4"
+    ]
+   },
+   "M": {
+    "chi": "5*",
+    "eng": "4",
+    "math": "3",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "",
+    "electives": [
+     "5",
+     "4",
+     "4"
+    ]
+   },
+   "LQ": {
+    "chi": "5",
+    "eng": "4",
+    "math": "3",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "",
+    "electives": [
+     "5",
+     "5",
+     "4"
+    ]
+   }
+  }
+ },
+ {
+  "code": "JS4109",
+  "name": "Religious Studies",
+  "principle": "Best 5",
+  "weighting_text": "• English (x 1.25)",
+  "totals": {
+   "UQ": 24.75,
+   "M": 24.5,
+   "LQ": 24.0
+  },
+  "grades": {
+   "UQ": {
+    "chi": "4",
+    "eng": "5*",
+    "math": "4",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "",
+    "electives": [
+     "4",
+     "4",
+     "3"
+    ]
+   },
+   "M": {
+    "chi": "5*",
+    "eng": "4",
+    "math": "4",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "",
+    "electives": [
+     "5",
+     "3",
+     "3",
+     "2"
+    ]
+   },
+   "LQ": {
+    "chi": "4",
+    "eng": "4",
+    "math": "5",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "",
+    "electives": [
+     "5",
+     "4"
+    ]
+   }
+  }
+ },
+ {
+  "code": "JS4123",
+  "name": "Translation",
+  "principle": "Best 5",
+  "weighting_text": "--",
+  "totals": {
+   "UQ": 24.5,
+   "M": 23.5,
+   "LQ": 23.0
+  },
+  "grades": {
+   "UQ": {
+    "chi": "5*",
+    "eng": "4",
+    "math": "5",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "",
+    "electives": [
+     "4",
+     "4",
+     "3"
+    ]
+   },
+   "M": {
+    "chi": "5*",
+    "eng": "4",
+    "math": "3",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "",
+    "electives": [
+     "5",
+     "4"
+    ]
+   },
+   "LQ": {
+    "chi": "5",
+    "eng": "4",
+    "math": "5",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "4",
+    "electives": [
+     "4",
+     "4"
+    ]
+   }
+  }
+ },
+ {
+  "code": "JS4136",
+  "name": "Chinese Studies",
+  "principle": "Best 5",
+  "weighting_text": "• English (x 1.25)",
+  "totals": {
+   "UQ": 26.0,
+   "M": 25.75,
+   "LQ": 25.5
+  },
+  "grades": {
+   "UQ": {
+    "chi": "4",
+    "eng": "3",
+    "math": "5",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "",
+    "electives": [
+     "5*",
+     "5",
+     "4"
+    ]
+   },
+   "M": {
+    "chi": "5*",
+    "eng": "3",
+    "math": "3",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "",
+    "electives": [
+     "5",
+     "5",
+     "4"
+    ]
+   },
+   "LQ": {
+    "chi": "5**",
+    "eng": "4",
+    "math": "4",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "",
+    "electives": [
+     "4",
+     "4",
+     "4"
+    ]
+   }
+  }
+ },
+ {
+  "code": "JS4202",
+  "name": "Integrated BBA",
+  "principle": "Best 5",
+  "weighting_text": "--",
+  "totals": {
+   "UQ": 29.0,
+   "M": 27.5,
+   "LQ": 27.5
+  },
+  "grades": {
+   "UQ": {
+    "chi": "5*",
+    "eng": "4",
+    "math": "4",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "",
+    "electives": [
+     "5*",
+     "5",
+     "5"
+    ]
+   },
+   "M": {
+    "chi": "4",
+    "eng": "4",
+    "math": "5",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "5",
+    "electives": [
+     "5*",
+     "5",
+     "3"
+    ]
+   },
+   "LQ": {
+    "chi": "5*",
+    "eng": "5",
+    "math": "5",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "5",
+    "electives": [
+     "4",
+     "3"
+    ]
+   }
+  }
+ },
+ {
+  "code": "JS4214",
+  "name": "Global Business Studies",
+  "principle": "Best 5",
+  "weighting_text": "--",
+  "totals": {
+   "UQ": 39.5,
+   "M": 38.0,
+   "LQ": 36.5
+  },
+  "grades": {
+   "UQ": {
+    "chi": "4",
+    "eng": "5",
+    "math": "5**",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "5**",
+    "electives": [
+     "5**",
+     "5**"
+    ]
+   },
+   "M": {
+    "chi": "5**",
+    "eng": "5**",
+    "math": "5",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "5",
+    "electives": [
+     "5**",
+     "5*"
+    ]
+   },
+   "LQ": {
+    "chi": "5",
+    "eng": "5**",
+    "math": "5",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "",
+    "electives": [
+     "5**",
+     "5**",
+     "4"
+    ]
+   }
+  }
+ },
+ {
+  "code": "JS4226",
+  "name": "Hospitality and Real Estate",
+  "principle": "Best 5",
+  "weighting_text": "--",
+  "totals": {
+   "UQ": 26.0,
+   "M": 26.0,
+   "LQ": 24.5
+  },
+  "grades": {
+   "UQ": {
+    "chi": "5*",
+    "eng": "4",
+    "math": "3",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "",
+    "electives": [
+     "5*",
+     "4",
+     "4"
+    ]
+   },
+   "M": {
+    "chi": "5",
+    "eng": "4",
+    "math": "5*",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "",
+    "electives": [
+     "5",
+     "4"
+    ]
+   },
+   "LQ": {
+    "chi": "5",
+    "eng": "4",
+    "math": "4",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "",
+    "electives": [
+     "5",
+     "5",
+     "4"
+    ]
+   }
+  }
+ },
+ {
+  "code": "JS4238",
+  "name": "Insurance, Financial and Actuarial Analysis",
+  "principle": "Best 5",
+  "weighting_text": "• Mathematics (x 1.5) • M1 or M2 (x 1.5) • English (x 1.25) • The best one subject of Chemistry, Economics, ICT or Physics (x 1.25)",
+  "totals": {
+   "UQ": 43.75,
+   "M": 42.5,
+   "LQ": 41.125
+  },
+  "grades": {
+   "UQ": {
+    "chi": "3",
+    "eng": "5",
+    "math": "5*",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "5*",
+    "electives": [
+     "5*",
+     "5*",
+     "5*"
+    ]
+   },
+   "M": {
+    "chi": "4",
+    "eng": "5",
+    "math": "5**",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "5*",
+    "electives": [
+     "5",
+     "5"
+    ]
+   },
+   "LQ": {
+    "chi": "4",
+    "eng": "4",
+    "math": "5**",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "5*",
+    "electives": [
+     "5",
+     "5",
+     "5"
+    ]
+   }
+  }
+ },
+ {
+  "code": "JS4240",
+  "name": "Professional Accountancy",
+  "principle": "Best 5",
+  "weighting_text": "--",
+  "totals": {
+   "UQ": 29.0,
+   "M": 27.5,
+   "LQ": 26.0
+  },
+  "grades": {
+   "UQ": {
+    "chi": "5",
+    "eng": "3",
+    "math": "5*",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "5*",
+    "electives": [
+     "5",
+     "4"
+    ]
+   },
+   "M": {
+    "chi": "4",
+    "eng": "5",
+    "math": "5",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "",
+    "electives": [
+     "5",
+     "5",
+     "5"
+    ]
+   },
+   "LQ": {
+    "chi": "4",
+    "eng": "4",
+    "math": "5",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "5",
+    "electives": [
+     "5",
+     "5"
+    ]
+   }
+  }
+ },
+ {
+  "code": "JS4252",
+  "name": "Quantitative Finance",
+  "principle": "Best 5",
+  "weighting_text": "• English (x 2) • Mathematics (x 2) • The best one subject of M1/M2, Chemistry, Economics or Physics (x 1.5)",
+  "totals": {
+   "UQ": 54.75,
+   "M": 53.25,
+   "LQ": 52.5
+  },
+  "grades": {
+   "UQ": {
+    "chi": "4",
+    "eng": "5*",
+    "math": "5*",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "",
+    "electives": [
+     "5**",
+     "5*",
+     "5*"
+    ]
+   },
+   "M": {
+    "chi": "5**",
+    "eng": "4",
+    "math": "5**",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "5**",
+    "electives": [
+     "5*",
+     "5*"
+    ]
+   },
+   "LQ": {
+    "chi": "5",
+    "eng": "5",
+    "math": "5**",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "5*",
+    "electives": [
+     "5*",
+     "5*",
+     "5"
+    ]
+   }
+  }
+ },
+ {
+  "code": "JS4254",
+  "name": "Interdisciplinary Major Programme in Global Economics and Finance",
+  "principle": "Best 5",
+  "weighting_text": "• English must be included",
+  "totals": {
+   "UQ": 35.0,
+   "M": 33.5,
+   "LQ": 33.5
+  },
+  "grades": {
+   "UQ": {
+    "chi": "5",
+    "eng": "5",
+    "math": "5",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "",
+    "electives": [
+     "5**",
+     "5**",
+     "5*"
+    ]
+   },
+   "M": {
+    "chi": "5**",
+    "eng": "5",
+    "math": "5",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "5*",
+    "electives": [
+     "5*",
+     "5"
+    ]
+   },
+   "LQ": {
+    "chi": "5*",
+    "eng": "5",
+    "math": "5",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "5*",
+    "electives": [
+     "5**",
+     "5"
+    ]
+   }
+  }
+ },
+ {
+  "code": "JS4264",
+  "name": "BBA(IBBA) – JD Double Degree Programme",
+  "principle": "Best 5",
+  "weighting_text": "• English (x 2) • Chinese, English and Mathematics must be included",
+  "totals": {
+   "UQ": 39.0,
+   "M": 37.5,
+   "LQ": 36.0
+  },
+  "grades": {
+   "UQ": {
+    "chi": "4",
+    "eng": "5*",
+    "math": "5",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "",
+    "electives": [
+     "5**",
+     "5*",
+     "5"
+    ]
+   },
+   "M": {
+    "chi": "5**",
+    "eng": "5*",
+    "math": "4",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "",
+    "electives": [
+     "5",
+     "5",
+     "4"
+    ]
+   },
+   "LQ": {
+    "chi": "5",
+    "eng": "5",
+    "math": "4",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "",
+    "electives": [
+     "5**",
+     "5*",
+     "5*"
+    ]
+   }
+  }
+ },
+ {
+  "code": "JS4276",
+  "name": "Quantitative Finance and Risk Management Science",
+  "principle": "Best 5",
+  "weighting_text": "• English (x 2) • Mathematics (x 2) • The best one subject of M1/M2, Chemistry, Economics or Physics (x 1.5)",
+  "totals": {
+   "UQ": 59.25,
+   "M": 57.75,
+   "LQ": 56.25
+  },
+  "grades": {
+   "UQ": {
+    "chi": "5",
+    "eng": "5*",
+    "math": "5**",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "5*",
+    "electives": [
+     "5**",
+     "5**",
+     "4"
+    ]
+   },
+   "M": {
+    "chi": "5*",
+    "eng": "5",
+    "math": "5**",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "5*",
+    "electives": [
+     "5**",
+     "5**",
+     "5**"
+    ]
+   },
+   "LQ": {
+    "chi": "4",
+    "eng": "5",
+    "math": "5**",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "5**",
+    "electives": [
+     "5**",
+     "5*",
+     "3"
+    ]
+   }
+  }
+ },
+ {
+  "code": "JS4725",
+  "name": "Biotechnology, Entrepreneurship and Healthcare Management",
+  "principle": "Best 5",
+  "weighting_text": "• The best two subjects of English, Biology or Chemistry (x 1.5) • Best of Biology/Chemistry must be included",
+  "totals": {
+   "UQ": 35.25,
+   "M": 35.25,
+   "LQ": 35.0
+  },
+  "grades": {
+   "UQ": {
+    "chi": "4",
+    "eng": "5*",
+    "math": "5",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "",
+    "electives": [
+     "5",
+     "5",
+     "5"
+    ]
+   },
+   "M": {
+    "chi": "5",
+    "eng": "5*",
+    "math": "5",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "",
+    "electives": [
+     "5",
+     "5",
+     "4"
+    ]
+   },
+   "LQ": {
+    "chi": "3",
+    "eng": "5",
+    "math": "5",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "",
+    "electives": [
+     "5*",
+     "5*"
+    ]
+   }
+  }
+ },
+ {
+  "code": "JS4760",
+  "name": "Interdisciplinary Data Analytics & X Double Major Programme",
+  "principle": "Best 5",
+  "weighting_text": "• M1 or M2 (x 2) • Mathematics (x 1.5) • Economics or ICT (x 1.5)",
+  "totals": {
+   "UQ": 40.0,
+   "M": 38.5,
+   "LQ": 38.0
+  },
+  "grades": {
+   "UQ": {
+    "chi": "4",
+    "eng": "4",
+    "math": "5*",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "5",
+    "electives": [
+     "5*"
+    ]
+   },
+   "M": {
+    "chi": "3",
+    "eng": "4",
+    "math": "5*",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "5*",
+    "electives": [
+     "4",
+     "4"
+    ]
+   },
+   "LQ": {
+    "chi": "5*",
+    "eng": "4",
+    "math": "5*",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "5",
+    "electives": [
+     "5",
+     "4"
+    ]
+   }
+  }
+ },
+ {
+  "code": "JS4320",
+  "name": "Human Movement Science and Health Studies",
+  "principle": "Best 5",
+  "weighting_text": "--",
+  "totals": {
+   "UQ": 29.0,
+   "M": 26.0,
+   "LQ": 25.0
+  },
+  "grades": {
+   "UQ": {
+    "chi": "4",
+    "eng": "5",
+    "math": "5",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "",
+    "electives": [
+     "5**",
+     "5",
+     "4"
+    ]
+   },
+   "M": {
+    "chi": "4",
+    "eng": "3",
+    "math": "5",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "5*",
+    "electives": [
+     "5",
+     "4",
+     "3"
+    ]
+   },
+   "LQ": {
+    "chi": "3",
+    "eng": "4",
+    "math": "5*",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "3",
+    "electives": [
+     "5",
+     "5"
+    ]
+   }
+  }
+ },
+ {
+  "code": "JS4329",
+  "name": "Physical Education, Exercise Science and Health",
+  "principle": "Best 5",
+  "weighting_text": "--",
+  "totals": {
+   "UQ": 29.0,
+   "M": 27.5,
+   "LQ": 27.5
+  },
+  "grades": {
+   "UQ": {
+    "chi": "5",
+    "eng": "4",
+    "math": "5*",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "",
+    "electives": [
+     "5",
+     "5",
+     "5"
+    ]
+   },
+   "M": {
+    "chi": "4",
+    "eng": "5*",
+    "math": "5*",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "",
+    "electives": [
+     "5",
+     "4"
+    ]
+   },
+   "LQ": {
+    "chi": "5*",
+    "eng": "4",
+    "math": "4",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "",
+    "electives": [
+     "5*",
+     "5"
+    ]
+   }
+  }
+ },
+ {
+  "code": "JS4331",
+  "name": "BA (Chinese Language Studies) and BEd (Chinese Language Education)",
+  "principle": "Best 5",
+  "weighting_text": "• Chinese (x 2) • Chinese must be included",
+  "totals": {
+   "UQ": 43.5,
+   "M": 42.0,
+   "LQ": 39.0
+  },
+  "grades": {
+   "UQ": {
+    "chi": "5*",
+    "eng": "5*",
+    "math": "5",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "",
+    "electives": [
+     "5**",
+     "5*",
+     "5*"
+    ]
+   },
+   "M": {
+    "chi": "5**",
+    "eng": "5*",
+    "math": "4",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "",
+    "electives": [
+     "5*",
+     "5*",
+     "4"
+    ]
+   },
+   "LQ": {
+    "chi": "5*",
+    "eng": "5*",
+    "math": "5*",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "5",
+    "electives": [
+     "5",
+     "5",
+     "4"
+    ]
+   }
+  }
+ },
+ {
+  "code": "JS4343",
+  "name": "BA (English Studies) and BEd (English Language Education)",
+  "principle": "Best 5",
+  "weighting_text": "• English (x 2) • English must be included",
+  "totals": {
+   "UQ": 42.0,
+   "M": 42.0,
+   "LQ": 39.0
+  },
+  "grades": {
+   "UQ": {
+    "chi": "5*",
+    "eng": "5**",
+    "math": "5",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "",
+    "electives": [
+     "5*",
+     "5",
+     "5"
+    ]
+   },
+   "M": {
+    "chi": "3",
+    "eng": "5*",
+    "math": "5",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "4",
+    "electives": [
+     "5**",
+     "5*",
+     "5*"
+    ]
+   },
+   "LQ": {
+    "chi": "4",
+    "eng": "5**",
+    "math": "4",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "",
+    "electives": [
+     "5*",
+     "5*",
+     "4"
+    ]
+   }
+  }
+ },
+ {
+  "code": "JS4361",
+  "name": "BEd in Mathematics and Mathematics Education",
+  "principle": "Best 5",
+  "weighting_text": "• Mathematics (x 2) • M1 or M2 (x 2) • Chinese or English (x 1.5) • The best one subject of Economics, ICT or Physics (x 1.5) • Mathematics and M1/M2 must be included",
+  "totals": {
+   "UQ": 57.5,
+   "M": 57.5,
+   "LQ": 54.5
+  },
+  "grades": {
+   "UQ": {
+    "chi": "4",
+    "eng": "5*",
+    "math": "5**",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "5*",
+    "electives": [
+     "5*",
+     "5"
+    ]
+   },
+   "M": {
+    "chi": "4",
+    "eng": "5*",
+    "math": "5*",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "5*",
+    "electives": [
+     "5**",
+     "5*"
+    ]
+   },
+   "LQ": {
+    "chi": "5*",
+    "eng": "4",
+    "math": "5**",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "5",
+    "electives": [
+     "5*",
+     "5",
+     "5"
+    ]
+   }
+  }
+ },
+ {
+  "code": "JS4372",
+  "name": "BEd in Early Childhood Education",
+  "principle": "Best 5",
+  "weighting_text": "--",
+  "totals": {
+   "UQ": 24.5,
+   "M": 23.5,
+   "LQ": 22.0
+  },
+  "grades": {
+   "UQ": {
+    "chi": "5",
+    "eng": "4",
+    "math": "4",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "",
+    "electives": [
+     "5*",
+     "4",
+     "4"
+    ]
+   },
+   "M": {
+    "chi": "5",
+    "eng": "5",
+    "math": "5",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "3",
+    "electives": [
+     "4",
+     "2"
+    ]
+   },
+   "LQ": {
+    "chi": "5*",
+    "eng": "4",
+    "math": "3",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "3",
+    "electives": [
+     "4",
+     "4",
+     "3"
+    ]
+   }
+  }
+ },
+ {
+  "code": "JS4386",
+  "name": "BSc in Learning Design and Technology",
+  "principle": "Best 5",
+  "weighting_text": "• Mathematics (x 1.5) • M1 or M2 (x 1.5) • Biology, BAFS, Chemistry, DAT, Economics, Geography, ICT, Physics, Tech and Living (FST) (x 1.5)",
+  "totals": {
+   "UQ": 36.25,
+   "M": 34.0,
+   "LQ": 33.25
+  },
+  "grades": {
+   "UQ": {
+    "chi": "5",
+    "eng": "5",
+    "math": "5",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "5",
+    "electives": [
+     "5",
+     "4"
+    ]
+   },
+   "M": {
+    "chi": "5",
+    "eng": "4",
+    "math": "5",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "5",
+    "electives": [
+     "4",
+     "4"
+    ]
+   },
+   "LQ": {
+    "chi": "4",
+    "eng": "5*",
+    "math": "4",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "",
+    "electives": [
+     "5",
+     "4",
+     "4"
+    ]
+   }
+  }
+ },
+ {
+  "code": "JS4408",
+  "name": "Mechanical and Automation Engineering",
+  "principle": "Best 5",
+  "weighting_text": "• Mathematics (x 1.5) • M1 or M2 (x 1.5) • Physics (x 1.5) • Biology, Chemistry, DAT, ICT (x 1.25)",
+  "totals": {
+   "UQ": 37.25,
+   "M": 36.625,
+   "LQ": 35.75
+  },
+  "grades": {
+   "UQ": {
+    "chi": "4",
+    "eng": "4",
+    "math": "5**",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "5",
+    "electives": [
+     "5",
+     "4"
+    ]
+   },
+   "M": {
+    "chi": "4",
+    "eng": "4",
+    "math": "5*",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "4",
+    "electives": [
+     "5",
+     "5",
+     "4"
+    ]
+   },
+   "LQ": {
+    "chi": "3",
+    "eng": "5*",
+    "math": "5",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "5",
+    "electives": [
+     "5",
+     "4"
+    ]
+   }
+  }
+ },
+ {
+  "code": "JS4412",
+  "name": "Computer Science and Engineering",
+  "principle": "Best 5",
+  "weighting_text": "• M1 or M2 (x 1.75) • Mathematics (x 1.5) • Biology, Chemistry, DAT, ICT, Physics (x 1.5)",
+  "totals": {
+   "UQ": 45.875,
+   "M": 43.25,
+   "LQ": 42.25
+  },
+  "grades": {
+   "UQ": {
+    "chi": "5*",
+    "eng": "4",
+    "math": "5*",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "5",
+    "electives": [
+     "5*",
+     "5"
+    ]
+   },
+   "M": {
+    "chi": "3",
+    "eng": "4",
+    "math": "5*",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "5*",
+    "electives": [
+     "5",
+     "5"
+    ]
+   },
+   "LQ": {
+    "chi": "3",
+    "eng": "3",
+    "math": "5**",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "5*",
+    "electives": [
+     "5",
+     "4"
+    ]
+   }
+  }
+ },
+ {
+  "code": "JS4416",
+  "name": "Computational Data Science",
+  "principle": "Best 5",
+  "weighting_text": "• Mathematics (x 2) • M1 or M2 (x 2) • Biology, Chemistry, Economics, ICT, Physics (x 1.5)",
+  "totals": {
+   "UQ": 59.0,
+   "M": 57.5,
+   "LQ": 55.25
+  },
+  "grades": {
+   "UQ": {
+    "chi": "4",
+    "eng": "4",
+    "math": "5**",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "5**",
+    "electives": [
+     "5*",
+     "5*"
+    ]
+   },
+   "M": {
+    "chi": "4",
+    "eng": "5",
+    "math": "5*",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "5**",
+    "electives": [
+     "5**",
+     "5"
+    ]
+   },
+   "LQ": {
+    "chi": "5*",
+    "eng": "4",
+    "math": "5*",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "5",
+    "electives": [
+     "5**",
+     "5*",
+     "4"
+    ]
+   }
+  }
+ },
+ {
+  "code": "JS4428",
+  "name": "Financial Technology",
+  "principle": "Best 5",
+  "weighting_text": "• Mathematics (x 1.75) • M1 or M2 (x 1.75) • English (x 1.25) • Chinese (x 1.25) • Biology, BAFS, Chemistry, Economics, ICT, Physics (x 1.5)",
+  "totals": {
+   "UQ": 52.5,
+   "M": 49.75,
+   "LQ": 49.0
+  },
+  "grades": {
+   "UQ": {
+    "chi": "5**",
+    "eng": "3",
+    "math": "5**",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "",
+    "electives": [
+     "5**",
+     "5*"
+    ]
+   },
+   "M": {
+    "chi": "5",
+    "eng": "3",
+    "math": "5*",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "5",
+    "electives": [
+     "5**",
+     "5"
+    ]
+   },
+   "LQ": {
+    "chi": "4",
+    "eng": "5**",
+    "math": "5*",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "5",
+    "electives": [
+     "5",
+     "5"
+    ]
+   }
+  }
+ },
+ {
+  "code": "JS4434",
+  "name": "Electronic Engineering",
+  "principle": "Best 5",
+  "weighting_text": "• Mathematics (x 1.5) • M1 or M2 (x 1.5) • Physics (x 1.5)",
+  "totals": {
+   "UQ": 35.75,
+   "M": 34.25,
+   "LQ": 34.0
+  },
+  "grades": {
+   "UQ": {
+    "chi": "5",
+    "eng": "4",
+    "math": "5",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "5",
+    "electives": [
+     "5",
+     "5"
+    ]
+   },
+   "M": {
+    "chi": "5*",
+    "eng": "4",
+    "math": "5*",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "3",
+    "electives": [
+     "5",
+     "4"
+    ]
+   },
+   "LQ": {
+    "chi": "4",
+    "eng": "3",
+    "math": "5*",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "5",
+    "electives": [
+     "5"
+    ]
+   }
+  }
+ },
+ {
+  "code": "JS4446",
+  "name": "Information Engineering",
+  "principle": "Best 5",
+  "weighting_text": "• Mathematics (x 2) • M1 or M2 (x 1.75) • Biology, Chemistry, DAT, ICT, Physics (x 1.5)",
+  "totals": {
+   "UQ": 44.25,
+   "M": 43.0,
+   "LQ": 41.875
+  },
+  "grades": {
+   "UQ": {
+    "chi": "3",
+    "eng": "3",
+    "math": "5**",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "5*",
+    "electives": [
+     "4",
+     "4"
+    ]
+   },
+   "M": {
+    "chi": "3",
+    "eng": "5",
+    "math": "5*",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "5*",
+    "electives": [
+     "5",
+     "3"
+    ]
+   },
+   "LQ": {
+    "chi": "4",
+    "eng": "4",
+    "math": "5*",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "5",
+    "electives": [
+     "5",
+     "4"
+    ]
+   }
+  }
+ },
+ {
+  "code": "JS4458",
+  "name": "Systems Engineering and Engineering Management",
+  "principle": "Best 5",
+  "weighting_text": "• Mathematics (x 1.5) • M1 or M2 (x 1.5) • Biology, BAFS, Chemistry, Economics, ICT, Physics (x 1.5)",
+  "totals": {
+   "UQ": 37.0,
+   "M": 36.25,
+   "LQ": 35.0
+  },
+  "grades": {
+   "UQ": {
+    "chi": "4",
+    "eng": "3",
+    "math": "5*",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "5",
+    "electives": [
+     "5",
+     "4"
+    ]
+   },
+   "M": {
+    "chi": "4",
+    "eng": "3",
+    "math": "5*",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "",
+    "electives": [
+     "5*",
+     "5"
+    ]
+   },
+   "LQ": {
+    "chi": "4",
+    "eng": "4",
+    "math": "4",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "",
+    "electives": [
+     "5*",
+     "5*",
+     "4"
+    ]
+   }
+  }
+ },
+ {
+  "code": "JS4460",
+  "name": "Biomedical Engineering",
+  "principle": "Best 5",
+  "weighting_text": "• English (x 1.5) • The best one subject of Mathematics or M1/M2 (x 1.5) • Biology, Chemistry, Physics (x 1.5)",
+  "totals": {
+   "UQ": 45.75,
+   "M": 43.5,
+   "LQ": 42.5
+  },
+  "grades": {
+   "UQ": {
+    "chi": "4",
+    "eng": "5",
+    "math": "5",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "",
+    "electives": [
+     "5*",
+     "5*",
+     "5"
+    ]
+   },
+   "M": {
+    "chi": "5",
+    "eng": "5*",
+    "math": "4",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "",
+    "electives": [
+     "5*",
+     "5",
+     "5"
+    ]
+   },
+   "LQ": {
+    "chi": "4",
+    "eng": "5*",
+    "math": "5*",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "4",
+    "electives": [
+     "5*",
+     "5*"
+    ]
+   }
+  }
+ },
+ {
+  "code": "JS4462",
+  "name": "Energy and Environmental Engineering",
+  "principle": "Best 5",
+  "weighting_text": "• Mathematics (x 1.5) • M1 or M2 (x 1.5) • Biology, Chemistry, DAT, ICT, Physics (x 1.5) • Economics, Geography (x 1.2)",
+  "totals": {
+   "UQ": 38.5,
+   "M": 35.5,
+   "LQ": 34.75
+  },
+  "grades": {
+   "UQ": {
+    "chi": "5",
+    "eng": "3",
+    "math": "5",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "5",
+    "electives": [
+     "5",
+     "5"
+    ]
+   },
+   "M": {
+    "chi": "5*",
+    "eng": "3",
+    "math": "5",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "4",
+    "electives": [
+     "5",
+     "4"
+    ]
+   },
+   "LQ": {
+    "chi": "5",
+    "eng": "3",
+    "math": "5*",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "3",
+    "electives": [
+     "5",
+     "4"
+    ]
+   }
+  }
+ },
+ {
+  "code": "JS4468",
+  "name": "Artificial Intelligence: Systems and Technologies",
+  "principle": "Best 5",
+  "weighting_text": "• Mathematics (x 1.75) • M1 or M2 (x 1.75) • Chinese (x 1.25) • English (x 1.25) • Biology, Chemistry, ICT, Physics (x 1.5)",
+  "totals": {
+   "UQ": 56.75,
+   "M": 53.125,
+   "LQ": 52.0
+  },
+  "grades": {
+   "UQ": {
+    "chi": "4",
+    "eng": "4",
+    "math": "5**",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "5**",
+    "electives": [
+     "5*",
+     "5",
+     "5"
+    ]
+   },
+   "M": {
+    "chi": "4",
+    "eng": "4",
+    "math": "5**",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "5*",
+    "electives": [
+     "5**",
+     "5"
+    ]
+   },
+   "LQ": {
+    "chi": "3",
+    "eng": "5*",
+    "math": "5*",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "5*",
+    "electives": [
+     "5*",
+     "5"
+    ]
+   }
+  }
+ },
+ {
+  "code": "JS4470",
+  "name": "Materials Science and Engineering",
+  "principle": "Best 5",
+  "weighting_text": "• Mathematics (x 1.25) • M1 or M2 (x 1.25) • Chemistry, Physics (x 1.25)",
+  "totals": {
+   "UQ": 29.875,
+   "M": 29.125,
+   "LQ": 28.625
+  },
+  "grades": {
+   "UQ": {
+    "chi": "5",
+    "eng": "3",
+    "math": "5*",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "3",
+    "electives": [
+     "5",
+     "4"
+    ]
+   },
+   "M": {
+    "chi": "5",
+    "eng": "3",
+    "math": "5",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "",
+    "electives": [
+     "5",
+     "5"
+    ]
+   },
+   "LQ": {
+    "chi": "3",
+    "eng": "3",
+    "math": "5*",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "5",
+    "electives": [
+     "4",
+     "4"
+    ]
+   }
+  }
+ },
+ {
+  "code": "JS4386",
+  "name": "BSc in Learning Design and Technology",
+  "principle": "Best 5",
+  "weighting_text": "• Mathematics (x 1.5) • M1 or M2 (x 1.5) • Biology, BAFS, Chemistry, DAT, Economics, Geography, ICT, Physics, Tech and Living (FST) (x 1.5)",
+  "totals": {
+   "UQ": 36.25,
+   "M": 34.0,
+   "LQ": 33.25
+  },
+  "grades": {
+   "UQ": {
+    "chi": "5",
+    "eng": "5",
+    "math": "5",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "5",
+    "electives": [
+     "5",
+     "4"
+    ]
+   },
+   "M": {
+    "chi": "5",
+    "eng": "4",
+    "math": "5",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "5",
+    "electives": [
+     "4",
+     "4"
+    ]
+   },
+   "LQ": {
+    "chi": "4",
+    "eng": "5*",
+    "math": "4",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "",
+    "electives": [
+     "5",
+     "4",
+     "4"
+    ]
+   }
+  }
+ },
+ {
+  "code": "JS4733",
+  "name": "Mathematics and Information Engineering",
+  "principle": "Best 5",
+  "weighting_text": "• Mathematics (x 2) • M1 or M2 (x 2) • Biology, Chemistry, ICT, Physics (x 1.5)",
+  "totals": {
+   "UQ": 65.5,
+   "M": 60.5,
+   "LQ": 59.75
+  },
+  "grades": {
+   "UQ": {
+    "chi": "3",
+    "eng": "5*",
+    "math": "5**",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "5**",
+    "electives": [
+     "5**",
+     "5*",
+     "5"
+    ]
+   },
+   "M": {
+    "chi": "4",
+    "eng": "5*",
+    "math": "5*",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "5*",
+    "electives": [
+     "5**",
+     "5**",
+     "5*"
+    ]
+   },
+   "LQ": {
+    "chi": "4",
+    "eng": "5",
+    "math": "5**",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "5*",
+    "electives": [
+     "5**",
+     "5*"
+    ]
+   }
+  }
+ },
+ {
+  "code": "JS4750",
+  "name": "Aerospace Science and Earth Informatics & X Double Major Programme",
+  "principle": "Best 5",
+  "weighting_text": "• M1 or M2 (x 2) • Mathematics (x 1.5) • Geography, Physics (x 2)",
+  "totals": {
+   "UQ": 47.5,
+   "M": 42.75,
+   "LQ": 41.75
+  },
+  "grades": {
+   "UQ": {
+    "chi": "5*",
+    "eng": "4",
+    "math": "5*",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "5",
+    "electives": [
+     "5",
+     "4",
+     "4",
+     "2"
+    ]
+   },
+   "M": {
+    "chi": "5",
+    "eng": "5*",
+    "math": "5",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "5",
+    "electives": [
+     "5",
+     "5"
+    ]
+   },
+   "LQ": {
+    "chi": "5",
+    "eng": "3",
+    "math": "5",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "5",
+    "electives": [
+     "5*"
+    ]
+   }
+  }
+ },
+ {
+  "code": "JS4760",
+  "name": "Interdisciplinary Data Analytics & X Double Major Programme",
+  "principle": "Best 5",
+  "weighting_text": "• M1 or M2 (x 2) • Mathematics (x 1.5) • Economics or ICT (x 1.5)",
+  "totals": {
+   "UQ": 40.0,
+   "M": 38.5,
+   "LQ": 38.0
+  },
+  "grades": {
+   "UQ": {
+    "chi": "4",
+    "eng": "4",
+    "math": "5*",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "5",
+    "electives": [
+     "5*"
+    ]
+   },
+   "M": {
+    "chi": "3",
+    "eng": "4",
+    "math": "5*",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "5*",
+    "electives": [
+     "4",
+     "4"
+    ]
+   },
+   "LQ": {
+    "chi": "5*",
+    "eng": "4",
+    "math": "5*",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "5",
+    "electives": [
+     "5",
+     "4"
+    ]
+   }
+  }
+ },
+ {
+  "code": "JS4903",
+  "name": "Bachelor of Laws",
+  "principle": "Best 5",
+  "weighting_text": "• English must be included",
+  "totals": {
+   "UQ": 32.0,
+   "M": 29.0,
+   "LQ": 27.5
+  },
+  "grades": {
+   "UQ": {
+    "chi": "5*",
+    "eng": "5*",
+    "math": "3",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "",
+    "electives": [
+     "5**",
+     "5",
+     "4"
+    ]
+   },
+   "M": {
+    "chi": "4",
+    "eng": "5*",
+    "math": "5",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "3",
+    "electives": [
+     "5*",
+     "5",
+     "4"
+    ]
+   },
+   "LQ": {
+    "chi": "5*",
+    "eng": "5*",
+    "math": "4",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "",
+    "electives": [
+     "5",
+     "4",
+     "4"
+    ]
+   }
+  }
+ },
+ {
+  "code": "JS4264",
+  "name": "BBA(IBBA) – JD Double Degree Programme",
+  "principle": "Best 5",
+  "weighting_text": "• English (x 2) • Chinese, English and Mathematics must be included",
+  "totals": {
+   "UQ": 39.0,
+   "M": 37.5,
+   "LQ": 36.0
+  },
+  "grades": {
+   "UQ": {
+    "chi": "4",
+    "eng": "5*",
+    "math": "5",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "",
+    "electives": [
+     "5**",
+     "5*",
+     "5"
+    ]
+   },
+   "M": {
+    "chi": "5**",
+    "eng": "5*",
+    "math": "4",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "",
+    "electives": [
+     "5",
+     "5",
+     "4"
+    ]
+   },
+   "LQ": {
+    "chi": "5",
+    "eng": "5",
+    "math": "4",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "",
+    "electives": [
+     "5**",
+     "5*",
+     "5*"
+    ]
+   }
+  }
+ },
+ {
+  "code": "JS4898",
+  "name": "Diplomacy and International Studies",
+  "principle": "Best 5",
+  "weighting_text": "--",
+  "totals": {
+   "UQ": 32.0,
+   "M": 27.5,
+   "LQ": 26.0
+  },
+  "grades": {
+   "UQ": {
+    "chi": "5**",
+    "eng": "4",
+    "math": "5",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "",
+    "electives": [
+     "5*",
+     "5*"
+    ]
+   },
+   "M": {
+    "chi": "5",
+    "eng": "5*",
+    "math": "4",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "",
+    "electives": [
+     "5*",
+     "4",
+     "4"
+    ]
+   },
+   "LQ": {
+    "chi": "5**",
+    "eng": "5",
+    "math": "4",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "",
+    "electives": [
+     "4",
+     "4"
+    ]
+   }
+  }
+ },
+ {
+  "code": "JS4501",
+  "name": "Medicine (MBChB) Programme",
+  "principle": "6 Graded Subjects Note 1, 2",
+  "weighting_text": "• Chinese, English, Mathematics and best of Biology/Chemistry must be included",
+  "totals": {
+   "UQ": 38.0,
+   "M": 37.0,
+   "LQ": 36.0
+  },
+  "grades": {
+   "UQ": {
+    "chi": "5**",
+    "eng": "5**",
+    "math": "5**",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "4",
+    "electives": [
+     "5*",
+     "5*",
+     "5"
+    ]
+   },
+   "M": {
+    "chi": "5**",
+    "eng": "5*",
+    "math": "5*",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "5*",
+    "electives": [
+     "5*",
+     "5*",
+     "5*"
+    ]
+   },
+   "LQ": {
+    "chi": "5**",
+    "eng": "5*",
+    "math": "5",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "4",
+    "electives": [
+     "5**",
+     "5*",
+     "5"
+    ]
+   }
+  }
+ },
+ {
+  "code": "JS4502",
+  "name": "Medicine (MBChB) Programme Global Physician-Leadership Stream (GPS)",
+  "principle": "6 Graded Subjects Note 1, 2",
+  "weighting_text": "• Chinese, English, Mathematics and best of Biology/Chemistry must be included",
+  "totals": {
+   "UQ": 42.0,
+   "M": 41.0,
+   "LQ": 40.0
+  },
+  "grades": {
+   "UQ": {
+    "chi": "5**",
+    "eng": "5**",
+    "math": "5**",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "5*",
+    "electives": [
+     "5**",
+     "5**",
+     "5**"
+    ]
+   },
+   "M": {
+    "chi": "5**",
+    "eng": "5**",
+    "math": "5*",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "5*",
+    "electives": [
+     "5**",
+     "5**",
+     "5**"
+    ]
+   },
+   "LQ": {
+    "chi": "5*",
+    "eng": "5*",
+    "math": "5**",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "5*",
+    "electives": [
+     "5**",
+     "5**",
+     "5**"
+    ]
+   }
+  }
+ },
+ {
+  "code": "JS4513",
+  "name": "Nursing",
+  "principle": "Best 5",
+  "weighting_text": "• The best one subject of Biology, Chemistry or Physics (x 1.2)",
+  "totals": {
+   "UQ": 30.4,
+   "M": 28.9,
+   "LQ": 27.6
+  },
+  "grades": {
+   "UQ": {
+    "chi": "5",
+    "eng": "5",
+    "math": "5",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "",
+    "electives": [
+     "5*",
+     "5",
+     "4"
+    ]
+   },
+   "M": {
+    "chi": "4",
+    "eng": "3",
+    "math": "5*",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "",
+    "electives": [
+     "5*",
+     "5",
+     "4"
+    ]
+   },
+   "LQ": {
+    "chi": "5",
+    "eng": "3",
+    "math": "5",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "",
+    "electives": [
+     "5*",
+     "5",
+     "3"
+    ]
+   }
+  }
+ },
+ {
+  "code": "JS4525",
+  "name": "Pharmacy",
+  "principle": "Best 5",
+  "weighting_text": "--",
+  "totals": {
+   "UQ": 35.0,
+   "M": 33.5,
+   "LQ": 33.5
+  },
+  "grades": {
+   "UQ": {
+    "chi": "5*",
+    "eng": "5",
+    "math": "5",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "",
+    "electives": [
+     "5**",
+     "5*",
+     "5*"
+    ]
+   },
+   "M": {
+    "chi": "4",
+    "eng": "5**",
+    "math": "5",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "",
+    "electives": [
+     "5*",
+     "5*",
+     "5",
+     "5"
+    ]
+   },
+   "LQ": {
+    "chi": "5",
+    "eng": "5**",
+    "math": "5",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "",
+    "electives": [
+     "5*",
+     "5*",
+     "5"
+    ]
+   }
+  }
+ },
+ {
+  "code": "JS4537",
+  "name": "Public Health",
+  "principle": "Best 5",
+  "weighting_text": "• English (x 1.5) • Mathematics (x 1.5) • The best one subject of Biology, Chemistry, Economics or Health Management & Social Care (x 1.5)",
+  "totals": {
+   "UQ": 35.75,
+   "M": 34.25,
+   "LQ": 34.25
+  },
+  "grades": {
+   "UQ": {
+    "chi": "5",
+    "eng": "5*",
+    "math": "4",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "",
+    "electives": [
+     "5",
+     "5"
+    ]
+   },
+   "M": {
+    "chi": "4",
+    "eng": "5*",
+    "math": "3",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "",
+    "electives": [
+     "5*",
+     "5",
+     "4",
+     "3"
+    ]
+   },
+   "LQ": {
+    "chi": "5",
+    "eng": "5",
+    "math": "5",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "",
+    "electives": [
+     "5",
+     "4",
+     "4"
+    ]
+   }
+  }
+ },
+ {
+  "code": "JS4542",
+  "name": "Chinese Medicine",
+  "principle": "Best 5",
+  "weighting_text": "--",
+  "totals": {
+   "UQ": 32.0,
+   "M": 32.0,
+   "LQ": 32.0
+  },
+  "grades": {
+   "UQ": {
+    "chi": "5",
+    "eng": "5",
+    "math": "5*",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "5*",
+    "electives": [
+     "5*",
+     "5",
+     "5"
+    ]
+   },
+   "M": {
+    "chi": "5*",
+    "eng": "5",
+    "math": "5*",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "5",
+    "electives": [
+     "5*",
+     "5"
+    ]
+   },
+   "LQ": {
+    "chi": "5**",
+    "eng": "4",
+    "math": "4",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "",
+    "electives": [
+     "5**",
+     "5*",
+     "4"
+    ]
+   }
+  }
+ },
+ {
+  "code": "JS4550",
+  "name": "Biomedical Sciences",
+  "principle": "Best 5",
+  "weighting_text": "• English (x 1.5) • Biology (x 1.5) • Chemistry (x 1.5) • Chinese, English, Mathematics and best of Biology/Chemistry must be included",
+  "totals": {
+   "UQ": 43.25,
+   "M": 42.5,
+   "LQ": 41.0
+  },
+  "grades": {
+   "UQ": {
+    "chi": "5*",
+    "eng": "4",
+    "math": "5*",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "5",
+    "electives": [
+     "5**",
+     "5*",
+     "5*"
+    ]
+   },
+   "M": {
+    "chi": "5",
+    "eng": "5",
+    "math": "5",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "5",
+    "electives": [
+     "5**",
+     "5*",
+     "5"
+    ]
+   },
+   "LQ": {
+    "chi": "5*",
+    "eng": "5",
+    "math": "5*",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "5",
+    "electives": [
+     "5*",
+     "5*",
+     "5",
+     "N2P"
+    ]
+   }
+  }
+ },
+ {
+  "code": "JS4725",
+  "name": "Biotechnology, Entrepreneurship and Healthcare Management",
+  "principle": "Best 5",
+  "weighting_text": "• The best two subjects of English, Biology or Chemistry (x 1.5) • Best of Biology/Chemistry must be included",
+  "totals": {
+   "UQ": 35.25,
+   "M": 35.25,
+   "LQ": 35.0
+  },
+  "grades": {
+   "UQ": {
+    "chi": "4",
+    "eng": "5*",
+    "math": "5",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "",
+    "electives": [
+     "5",
+     "5",
+     "5"
+    ]
+   },
+   "M": {
+    "chi": "5",
+    "eng": "5*",
+    "math": "5",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "",
+    "electives": [
+     "5",
+     "5",
+     "4"
+    ]
+   },
+   "LQ": {
+    "chi": "3",
+    "eng": "5",
+    "math": "5",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "",
+    "electives": [
+     "5*",
+     "5*"
+    ]
+   }
+  }
+ },
+ {
+  "code": "JS4601",
+  "name": "Science (broad-based)",
+  "principle": "Best 5",
+  "weighting_text": "• M1 or M2 (x 2) • English or Mathematics (x 1.5) • Biology, Chemistry, Physics (x 2) • Economics, Geography, ICT, Tech and Living (FST) (x 1.5) Note: A maximum of 3 subjects will be weighted heavier in the total score of Best 5 subjects",
+  "totals": {
+   "UQ": 43.75,
+   "M": 41.5,
+   "LQ": 39.75
+  },
+  "grades": {
+   "UQ": {
+    "chi": "4",
+    "eng": "4",
+    "math": "5",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "5**",
+    "electives": [
+     "5*",
+     "4"
+    ]
+   },
+   "M": {
+    "chi": "3",
+    "eng": "3",
+    "math": "5",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "5",
+    "electives": [
+     "5",
+     "5"
+    ]
+   },
+   "LQ": {
+    "chi": "5",
+    "eng": "4",
+    "math": "5",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "5*",
+    "electives": [
+     "4",
+     "4"
+    ]
+   }
+  }
+ },
+ {
+  "code": "JS4648",
+  "name": "Earth and Environmental Sciences",
+  "principle": "Best 5",
+  "weighting_text": "• English (x 2) • Mathematics (x 2) • M1 or M2 (x 2) • Biology, Chemistry, Physics (x 2) • Geography (x 1.5)",
+  "totals": {
+   "UQ": 53.75,
+   "M": 49.25,
+   "LQ": 47.0
+  },
+  "grades": {
+   "UQ": {
+    "chi": "5",
+    "eng": "4",
+    "math": "5",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "5",
+    "electives": [
+     "5**",
+     "5",
+     "5"
+    ]
+   },
+   "M": {
+    "chi": "4",
+    "eng": "4",
+    "math": "5",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "",
+    "electives": [
+     "5",
+     "5",
+     "5"
+    ]
+   },
+   "LQ": {
+    "chi": "4",
+    "eng": "4",
+    "math": "5",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "5",
+    "electives": [
+     "5",
+     "4"
+    ]
+   }
+  }
+ },
+ {
+  "code": "JS4682",
+  "name": "Enrichment Mathematics",
+  "principle": "Best 5",
+  "weighting_text": "• M1 or M2 (x 3.5)",
+  "totals": {
+   "UQ": 60.75,
+   "M": 57.75,
+   "LQ": 56.25
+  },
+  "grades": {
+   "UQ": {
+    "chi": "5*",
+    "eng": "4",
+    "math": "5**",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "5**",
+    "electives": [
+     "5**",
+     "5*"
+    ]
+   },
+   "M": {
+    "chi": "4",
+    "eng": "5",
+    "math": "5*",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "5**",
+    "electives": [
+     "5*",
+     "5*",
+     "5*"
+    ]
+   },
+   "LQ": {
+    "chi": "4",
+    "eng": "4",
+    "math": "5**",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "5**",
+    "electives": [
+     "5**",
+     "5"
+    ]
+   }
+  }
+ },
+ {
+  "code": "JS4690",
+  "name": "Enrichment Stream in Theoretical Physics",
+  "principle": "Best 5",
+  "weighting_text": "• Mathematics (x 1.5) • M1 or M2 (x 1.5) • Physics (x 2)",
+  "totals": {
+   "UQ": 52.0,
+   "M": 46.75,
+   "LQ": 45.25
+  },
+  "grades": {
+   "UQ": {
+    "chi": "4",
+    "eng": "4",
+    "math": "5**",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "5**",
+    "electives": [
+     "5**",
+     "5",
+     "4"
+    ]
+   },
+   "M": {
+    "chi": "4",
+    "eng": "5",
+    "math": "5",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "4",
+    "electives": [
+     "5**",
+     "5**",
+     "5*"
+    ]
+   },
+   "LQ": {
+    "chi": "5",
+    "eng": "4",
+    "math": "5*",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "5",
+    "electives": [
+     "5*",
+     "5*",
+     "3"
+    ]
+   }
+  }
+ },
+ {
+  "code": "JS4719",
+  "name": "Risk Management Science",
+  "principle": "Best 5",
+  "weighting_text": "• Mathematics (x 2) • M1 or M2 (x 2)",
+  "totals": {
+   "UQ": 47.5,
+   "M": 46.0,
+   "LQ": 44.5
+  },
+  "grades": {
+   "UQ": {
+    "chi": "3",
+    "eng": "5",
+    "math": "5**",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "5*",
+    "electives": [
+     "5",
+     "5"
+    ]
+   },
+   "M": {
+    "chi": "5*",
+    "eng": "5",
+    "math": "5*",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "5*",
+    "electives": [
+     "5"
+    ]
+   },
+   "LQ": {
+    "chi": "5",
+    "eng": "3",
+    "math": "5*",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "5**",
+    "electives": [
+     "4",
+     "4"
+    ]
+   }
+  }
+ },
+ {
+  "code": "JS4276",
+  "name": "Quantitative Finance and Risk Management Science",
+  "principle": "Best 5",
+  "weighting_text": "• English (x 2) • Mathematics (x 2) • The best one subject of M1/M2, Chemistry, Economics or Physics (x 1.5)",
+  "totals": {
+   "UQ": 59.25,
+   "M": 57.75,
+   "LQ": 56.25
+  },
+  "grades": {
+   "UQ": {
+    "chi": "5",
+    "eng": "5*",
+    "math": "5**",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "5*",
+    "electives": [
+     "5**",
+     "5**",
+     "4"
+    ]
+   },
+   "M": {
+    "chi": "5*",
+    "eng": "5",
+    "math": "5**",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "5*",
+    "electives": [
+     "5**",
+     "5**",
+     "5**"
+    ]
+   },
+   "LQ": {
+    "chi": "4",
+    "eng": "5",
+    "math": "5**",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "5**",
+    "electives": [
+     "5**",
+     "5*",
+     "3"
+    ]
+   }
+  }
+ },
+ {
+  "code": "JS4386",
+  "name": "BSc in Learning Design and Technology",
+  "principle": "Best 5",
+  "weighting_text": "• Mathematics (x 1.5) • M1 or M2 (x 1.5) • Biology, BAFS, Chemistry, DAT, Economics, Geography, ICT, Physics, Tech and Living (FST) (x 1.5)",
+  "totals": {
+   "UQ": 36.25,
+   "M": 34.0,
+   "LQ": 33.25
+  },
+  "grades": {
+   "UQ": {
+    "chi": "5",
+    "eng": "5",
+    "math": "5",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "5",
+    "electives": [
+     "5",
+     "4"
+    ]
+   },
+   "M": {
+    "chi": "5",
+    "eng": "4",
+    "math": "5",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "5",
+    "electives": [
+     "4",
+     "4"
+    ]
+   },
+   "LQ": {
+    "chi": "4",
+    "eng": "5*",
+    "math": "4",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "",
+    "electives": [
+     "5",
+     "4",
+     "4"
+    ]
+   }
+  }
+ },
+ {
+  "code": "JS4416",
+  "name": "Computational Data Science",
+  "principle": "Best 5",
+  "weighting_text": "• Mathematics (x 2) • M1 or M2 (x 2) • Biology, Chemistry, Economics, ICT, Physics (x 1.5)",
+  "totals": {
+   "UQ": 59.0,
+   "M": 57.5,
+   "LQ": 55.25
+  },
+  "grades": {
+   "UQ": {
+    "chi": "4",
+    "eng": "4",
+    "math": "5**",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "5**",
+    "electives": [
+     "5*",
+     "5*"
+    ]
+   },
+   "M": {
+    "chi": "4",
+    "eng": "5",
+    "math": "5*",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "5**",
+    "electives": [
+     "5**",
+     "5"
+    ]
+   },
+   "LQ": {
+    "chi": "5*",
+    "eng": "4",
+    "math": "5*",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "5",
+    "electives": [
+     "5**",
+     "5*",
+     "4"
+    ]
+   }
+  }
+ },
+ {
+  "code": "JS4470",
+  "name": "Materials Science and Engineering",
+  "principle": "Best 5",
+  "weighting_text": "• Mathematics (x 1.25) • M1 or M2 (x 1.25) • Chemistry, Physics (x 1.25)",
+  "totals": {
+   "UQ": 29.875,
+   "M": 29.125,
+   "LQ": 28.625
+  },
+  "grades": {
+   "UQ": {
+    "chi": "5",
+    "eng": "3",
+    "math": "5*",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "3",
+    "electives": [
+     "5",
+     "4"
+    ]
+   },
+   "M": {
+    "chi": "5",
+    "eng": "3",
+    "math": "5",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "",
+    "electives": [
+     "5",
+     "5"
+    ]
+   },
+   "LQ": {
+    "chi": "3",
+    "eng": "3",
+    "math": "5*",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "5",
+    "electives": [
+     "4",
+     "4"
+    ]
+   }
+  }
+ },
+ {
+  "code": "JS4725",
+  "name": "Biotechnology, Entrepreneurship and Healthcare Management",
+  "principle": "Best 5",
+  "weighting_text": "• The best two subjects of English, Biology or Chemistry (x 1.5) • Best of Biology/Chemistry must be included",
+  "totals": {
+   "UQ": 35.25,
+   "M": 35.25,
+   "LQ": 35.0
+  },
+  "grades": {
+   "UQ": {
+    "chi": "4",
+    "eng": "5*",
+    "math": "5",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "",
+    "electives": [
+     "5",
+     "5",
+     "5"
+    ]
+   },
+   "M": {
+    "chi": "5",
+    "eng": "5*",
+    "math": "5",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "",
+    "electives": [
+     "5",
+     "5",
+     "4"
+    ]
+   },
+   "LQ": {
+    "chi": "3",
+    "eng": "5",
+    "math": "5",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "",
+    "electives": [
+     "5*",
+     "5*"
+    ]
+   }
+  }
+ },
+ {
+  "code": "JS4733",
+  "name": "Mathematics and Information Engineering",
+  "principle": "Best 5",
+  "weighting_text": "• Mathematics (x 2) • M1 or M2 (x 2) • Biology, Chemistry, ICT, Physics (x 1.5)",
+  "totals": {
+   "UQ": 65.5,
+   "M": 60.5,
+   "LQ": 59.75
+  },
+  "grades": {
+   "UQ": {
+    "chi": "3",
+    "eng": "5*",
+    "math": "5**",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "5**",
+    "electives": [
+     "5**",
+     "5*",
+     "5"
+    ]
+   },
+   "M": {
+    "chi": "4",
+    "eng": "5*",
+    "math": "5*",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "5*",
+    "electives": [
+     "5**",
+     "5**",
+     "5*"
+    ]
+   },
+   "LQ": {
+    "chi": "4",
+    "eng": "5",
+    "math": "5**",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "5*",
+    "electives": [
+     "5**",
+     "5*"
+    ]
+   }
+  }
+ },
+ {
+  "code": "JS4750",
+  "name": "Aerospace Science and Earth Informatics & X Double Major Programme",
+  "principle": "Best 5",
+  "weighting_text": "• M1 or M2 (x 2) • Mathematics (x 1.5) • Geography, Physics (x 2)",
+  "totals": {
+   "UQ": 47.5,
+   "M": 42.75,
+   "LQ": 41.75
+  },
+  "grades": {
+   "UQ": {
+    "chi": "5*",
+    "eng": "4",
+    "math": "5*",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "5",
+    "electives": [
+     "5",
+     "4",
+     "4",
+     "2"
+    ]
+   },
+   "M": {
+    "chi": "5",
+    "eng": "5*",
+    "math": "5",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "5",
+    "electives": [
+     "5",
+     "5"
+    ]
+   },
+   "LQ": {
+    "chi": "5",
+    "eng": "3",
+    "math": "5",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "5",
+    "electives": [
+     "5*"
+    ]
+   }
+  }
+ },
+ {
+  "code": "JS4760",
+  "name": "Interdisciplinary Data Analytics & X Double Major Programme",
+  "principle": "Best 5",
+  "weighting_text": "• M1 or M2 (x 2) • Mathematics (x 1.5) • Economics or ICT (x 1.5)",
+  "totals": {
+   "UQ": 40.0,
+   "M": 38.5,
+   "LQ": 38.0
+  },
+  "grades": {
+   "UQ": {
+    "chi": "4",
+    "eng": "4",
+    "math": "5*",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "5",
+    "electives": [
+     "5*"
+    ]
+   },
+   "M": {
+    "chi": "3",
+    "eng": "4",
+    "math": "5*",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "5*",
+    "electives": [
+     "4",
+     "4"
+    ]
+   },
+   "LQ": {
+    "chi": "5*",
+    "eng": "4",
+    "math": "5*",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "5",
+    "electives": [
+     "5",
+     "4"
+    ]
+   }
+  }
+ },
+ {
+  "code": "JS4801",
+  "name": "Social Science (broad-based)",
+  "principle": "Best 5",
+  "weighting_text": "• English (x 1.3)",
+  "totals": {
+   "UQ": 29.15,
+   "M": 28.1,
+   "LQ": 27.65
+  },
+  "grades": {
+   "UQ": {
+    "chi": "5",
+    "eng": "5",
+    "math": "4",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "",
+    "electives": [
+     "5*",
+     "5",
+     "4"
+    ]
+   },
+   "M": {
+    "chi": "5",
+    "eng": "5*",
+    "math": "5",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "",
+    "electives": [
+     "4",
+     "4",
+     "4"
+    ]
+   },
+   "LQ": {
+    "chi": "4",
+    "eng": "5",
+    "math": "5",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "",
+    "electives": [
+     "5*",
+     "4",
+     "3"
+    ]
+   }
+  }
+ },
+ {
+  "code": "JS4812",
+  "name": "Architectural Studies",
+  "principle": "Best 5",
+  "weighting_text": "• English (x 1.5)",
+  "totals": {
+   "UQ": 29.5,
+   "M": 28.0,
+   "LQ": 26.5
+  },
+  "grades": {
+   "UQ": {
+    "chi": "5*",
+    "eng": "4",
+    "math": "5",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "5*",
+    "electives": [
+     "4",
+     "3"
+    ]
+   },
+   "M": {
+    "chi": "4",
+    "eng": "4",
+    "math": "4",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "3",
+    "electives": [
+     "5*",
+     "5*",
+     "4"
+    ]
+   },
+   "LQ": {
+    "chi": "5*",
+    "eng": "4",
+    "math": "4",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "",
+    "electives": [
+     "5",
+     "4",
+     "4"
+    ]
+   }
+  }
+ },
+ {
+  "code": "JS4824",
+  "name": "Economics",
+  "principle": "Best 5",
+  "weighting_text": "• Mathematics (x 1.5) • The best one subject of M1/M2, Chemistry, Economics or Physics (x 1.5)",
+  "totals": {
+   "UQ": 33.75,
+   "M": 32.75,
+   "LQ": 31.5
+  },
+  "grades": {
+   "UQ": {
+    "chi": "5",
+    "eng": "4",
+    "math": "5",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "",
+    "electives": [
+     "5*",
+     "5",
+     "3"
+    ]
+   },
+   "M": {
+    "chi": "5*",
+    "eng": "3",
+    "math": "5",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "2",
+    "electives": [
+     "5*",
+     "4"
+    ]
+   },
+   "LQ": {
+    "chi": "5*",
+    "eng": "4",
+    "math": "4",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "3",
+    "electives": [
+     "5**",
+     "4",
+     "4"
+    ]
+   }
+  }
+ },
+ {
+  "code": "JS4836",
+  "name": "Geography and Resource Management",
+  "principle": "Best 5",
+  "weighting_text": "• English (x 1.5) • Geography (x 1.5)",
+  "totals": {
+   "UQ": 36.75,
+   "M": 33.75,
+   "LQ": 32.25
+  },
+  "grades": {
+   "UQ": {
+    "chi": "5*",
+    "eng": "5",
+    "math": "5",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "",
+    "electives": [
+     "5*",
+     "5",
+     "4"
+    ]
+   },
+   "M": {
+    "chi": "5*",
+    "eng": "4",
+    "math": "4",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "",
+    "electives": [
+     "5*",
+     "5",
+     "5"
+    ]
+   },
+   "LQ": {
+    "chi": "4",
+    "eng": "4",
+    "math": "4",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "",
+    "electives": [
+     "5**",
+     "5",
+     "5"
+    ]
+   }
+  }
+ },
+ {
+  "code": "JS4838",
+  "name": "Urban Studies",
+  "principle": "Best 5",
+  "weighting_text": "--",
+  "totals": {
+   "UQ": 26.5,
+   "M": 26.0,
+   "LQ": 26.0
+  },
+  "grades": {
+   "UQ": {
+    "chi": "4",
+    "eng": "3",
+    "math": "5",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "",
+    "electives": [
+     "5*",
+     "5*"
+    ]
+   },
+   "M": {
+    "chi": "5",
+    "eng": "4",
+    "math": "5",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "",
+    "electives": [
+     "5",
+     "5",
+     "4"
+    ]
+   },
+   "LQ": {
+    "chi": "5",
+    "eng": "5",
+    "math": "5",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "",
+    "electives": [
+     "5",
+     "4"
+    ]
+   }
+  }
+ },
+ {
+  "code": "JS4848",
+  "name": "Government and Public Administration",
+  "principle": "Best 5",
+  "weighting_text": "• English (x 1.5) • Chinese (x 1.25)",
+  "totals": {
+   "UQ": 29.375,
+   "M": 28.25,
+   "LQ": 28.25
+  },
+  "grades": {
+   "UQ": {
+    "chi": "5",
+    "eng": "4",
+    "math": "5*",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "5",
+    "electives": [
+     "4",
+     "4"
+    ]
+   },
+   "M": {
+    "chi": "5*",
+    "eng": "4",
+    "math": "4",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "",
+    "electives": [
+     "5",
+     "4",
+     "4"
+    ]
+   },
+   "LQ": {
+    "chi": "5*",
+    "eng": "4",
+    "math": "4",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "2",
+    "electives": [
+     "5",
+     "4"
+    ]
+   }
+  }
+ },
+ {
+  "code": "JS4850",
+  "name": "Journalism and Communication",
+  "principle": "Best 5",
+  "weighting_text": "• English (x 1.3) • Chinese (x 1.3)",
+  "totals": {
+   "UQ": 31.25,
+   "M": 29.75,
+   "LQ": 29.3
+  },
+  "grades": {
+   "UQ": {
+    "chi": "5",
+    "eng": "5*",
+    "math": "4",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "",
+    "electives": [
+     "5",
+     "5",
+     "3"
+    ]
+   },
+   "M": {
+    "chi": "5*",
+    "eng": "5",
+    "math": "4",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "",
+    "electives": [
+     "5",
+     "4"
+    ]
+   },
+   "LQ": {
+    "chi": "5",
+    "eng": "5",
+    "math": "4",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "",
+    "electives": [
+     "5",
+     "5",
+     "4"
+    ]
+   }
+  }
+ },
+ {
+  "code": "JS4862",
+  "name": "Psychology",
+  "principle": "Best 5",
+  "weighting_text": "• English (x 1.5) • Mathematics (x 1.5)",
+  "totals": {
+   "UQ": 37.5,
+   "M": 34.0,
+   "LQ": 33.0
+  },
+  "grades": {
+   "UQ": {
+    "chi": "4",
+    "eng": "5**",
+    "math": "5",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "",
+    "electives": [
+     "5*",
+     "5",
+     "4"
+    ]
+   },
+   "M": {
+    "chi": "5*",
+    "eng": "3",
+    "math": "5*",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "5",
+    "electives": [
+     "5",
+     "5",
+     "5"
+    ]
+   },
+   "LQ": {
+    "chi": "5",
+    "eng": "4",
+    "math": "5*",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "5",
+    "electives": [
+     "5",
+     "5"
+    ]
+   }
+  }
+ },
+ {
+  "code": "JS4874",
+  "name": "Social Work",
+  "principle": "Best 5",
+  "weighting_text": "--",
+  "totals": {
+   "UQ": 30.5,
+   "M": 29.0,
+   "LQ": 27.5
+  },
+  "grades": {
+   "UQ": {
+    "chi": "5",
+    "eng": "5",
+    "math": "5",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "4",
+    "electives": [
+     "5*",
+     "5*",
+     "4"
+    ]
+   },
+   "M": {
+    "chi": "5*",
+    "eng": "4",
+    "math": "4",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "",
+    "electives": [
+     "5**",
+     "5",
+     "4"
+    ]
+   },
+   "LQ": {
+    "chi": "5*",
+    "eng": "4",
+    "math": "5*",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "",
+    "electives": [
+     "5",
+     "4",
+     "4"
+    ]
+   }
+  }
+ },
+ {
+  "code": "JS4886",
+  "name": "Sociology",
+  "principle": "Best 5",
+  "weighting_text": "• English (x 1.5)",
+  "totals": {
+   "UQ": 28.0,
+   "M": 27.25,
+   "LQ": 26.5
+  },
+  "grades": {
+   "UQ": {
+    "chi": "5",
+    "eng": "4",
+    "math": "4",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "",
+    "electives": [
+     "5*",
+     "5",
+     "3"
+    ]
+   },
+   "M": {
+    "chi": "5*",
+    "eng": "5",
+    "math": "3",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "",
+    "electives": [
+     "4",
+     "4",
+     "4"
+    ]
+   },
+   "LQ": {
+    "chi": "4",
+    "eng": "4",
+    "math": "4",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "",
+    "electives": [
+     "5",
+     "5",
+     "5"
+    ]
+   }
+  }
+ },
+ {
+  "code": "JS4892",
+  "name": "Global Studies",
+  "principle": "Best 5",
+  "weighting_text": "• English (x 1.5)",
+  "totals": {
+   "UQ": 29.5,
+   "M": 28.5,
+   "LQ": 27.25
+  },
+  "grades": {
+   "UQ": {
+    "chi": "5*",
+    "eng": "4",
+    "math": "4",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "3",
+    "electives": [
+     "5*",
+     "5"
+    ]
+   },
+   "M": {
+    "chi": "5*",
+    "eng": "4",
+    "math": "3",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "",
+    "electives": [
+     "5*",
+     "5"
+    ]
+   },
+   "LQ": {
+    "chi": "5*",
+    "eng": "5",
+    "math": "4",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "",
+    "electives": [
+     "4",
+     "4",
+     "3"
+    ]
+   }
+  }
+ },
+ {
+  "code": "JS4893",
+  "name": "Data Science and Policy Studies",
+  "principle": "Best 5",
+  "weighting_text": "--",
+  "totals": {
+   "UQ": 27.5,
+   "M": 26.0,
+   "LQ": 25.0
+  },
+  "grades": {
+   "UQ": {
+    "chi": "3",
+    "eng": "4",
+    "math": "5*",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "5",
+    "electives": [
+     "5",
+     "5"
+    ]
+   },
+   "M": {
+    "chi": "5*",
+    "eng": "4",
+    "math": "5*",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "4",
+    "electives": [
+     "4",
+     "3"
+    ]
+   },
+   "LQ": {
+    "chi": "5**",
+    "eng": "3",
+    "math": "5",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "2",
+    "electives": [
+     "4",
+     "4"
+    ]
+   }
+  }
+ },
+ {
+  "code": "JS4898",
+  "name": "Diplomacy and International Studies",
+  "principle": "Best 5",
+  "weighting_text": "--",
+  "totals": {
+   "UQ": 32.0,
+   "M": 27.5,
+   "LQ": 26.0
+  },
+  "grades": {
+   "UQ": {
+    "chi": "5**",
+    "eng": "4",
+    "math": "5",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "",
+    "electives": [
+     "5*",
+     "5*"
+    ]
+   },
+   "M": {
+    "chi": "5",
+    "eng": "5*",
+    "math": "4",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "",
+    "electives": [
+     "5*",
+     "4",
+     "4"
+    ]
+   },
+   "LQ": {
+    "chi": "5**",
+    "eng": "5",
+    "math": "4",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "",
+    "electives": [
+     "4",
+     "4"
+    ]
+   }
+  }
+ },
+ {
+  "code": "JS4254",
+  "name": "Interdisciplinary Major Programme in Global Economics and Finance",
+  "principle": "Best 5",
+  "weighting_text": "• English must be included",
+  "totals": {
+   "UQ": 35.0,
+   "M": 33.5,
+   "LQ": 33.5
+  },
+  "grades": {
+   "UQ": {
+    "chi": "5",
+    "eng": "5",
+    "math": "5",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "",
+    "electives": [
+     "5**",
+     "5**",
+     "5*"
+    ]
+   },
+   "M": {
+    "chi": "5**",
+    "eng": "5",
+    "math": "5",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "5*",
+    "electives": [
+     "5*",
+     "5"
+    ]
+   },
+   "LQ": {
+    "chi": "5*",
+    "eng": "5",
+    "math": "5",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "5*",
+    "electives": [
+     "5**",
+     "5"
+    ]
+   }
+  }
+ },
+ {
+  "code": "JS4750",
+  "name": "Aerospace Science and Earth Informatics & X Double Major Programme",
+  "principle": "Best 5",
+  "weighting_text": "• M1 or M2 (x 2) • Mathematics (x 1.5) • Geography, Physics (x 2)",
+  "totals": {
+   "UQ": 47.5,
+   "M": 42.75,
+   "LQ": 41.75
+  },
+  "grades": {
+   "UQ": {
+    "chi": "5*",
+    "eng": "4",
+    "math": "5*",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "5",
+    "electives": [
+     "5",
+     "4",
+     "4",
+     "2"
+    ]
+   },
+   "M": {
+    "chi": "5",
+    "eng": "5*",
+    "math": "5",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "5",
+    "electives": [
+     "5",
+     "5"
+    ]
+   },
+   "LQ": {
+    "chi": "5",
+    "eng": "3",
+    "math": "5",
+    "csd": "TT",
+    "ls": "",
+    "m1m2": "5",
+    "electives": [
+     "5*"
+    ]
+   }
+  }
+ }
+]

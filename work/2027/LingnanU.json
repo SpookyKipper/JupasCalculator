@@ -1,0 +1,1478 @@
+[
+ {
+  "jupas_code": "JS7101",
+  "institution": "LingnanU",
+  "name": "Bachelor of Arts (Honours) in Chinese (Features: Chinese Language & Literature/Creative Writing/Digital Literature)",
+  "formula_2027": "Best 5: sum of the five highest weighted HKDSE subject scores (level value x 2027 subject weighting; subjects without a listed weighting count at x1). Conversion: 5**=7, 5*=6, 5=5, 4=4, 3=3, 2=2, 1=1. Citizenship and Social Development is not counted.",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "Chinese Language": 1.5,
+   "English Language": 1.5,
+   "Chinese Literature": 1.5,
+   "Chinese History": 1.5
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 28.77,
+   "lq": 26.28,
+   "mean": null
+  },
+  "score_grades_2026": {
+   "median": {
+    "chi": 5.0,
+    "eng": 3.0,
+    "math": 3.5,
+    "e1": 5.0,
+    "e2": 4.0
+   },
+   "lq": {
+    "chi": 4.0,
+    "eng": 3.0,
+    "math": 3.0,
+    "e1": 4.0,
+    "e2": 4.0
+   }
+  },
+  "sources": [
+   "https://www.ln.edu.hk/admissions/ug/f/upload/642/3418/2026_Admissions%20Scores.pdf",
+   "https://www.ln.edu.hk/admissions/ug/f/upload/629/3362/Admission%20Requirements_JUPAS%20(UG%20Website)%2026-27.pdf",
+   "https://www.ln.edu.hk/admissions/ug/page/detail/114",
+   "https://www.jupas.edu.hk/en/programme/lingnanu/JS7101/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS7123",
+  "institution": "LingnanU",
+  "name": "Bachelor of Liberal Arts (Hons) in Global Development and Sustainability (Concentrations: Policy & Institutions/Culture & Community/Business & Economy/Human-Environment Interactions)",
+  "formula_2027": "Best 5: sum of the five highest weighted HKDSE subject scores (level value x 2027 subject weighting; subjects without a listed weighting count at x1). Conversion: 5**=7, 5*=6, 5=5, 4=4, 3=3, 2=2, 1=1. Citizenship and Social Development is not counted.",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "English Language": 2.0,
+   "Mathematics (Compulsory Part)": 1.5,
+   "Mathematics Extended Part (Module 1)": 1.5,
+   "Mathematics Extended Part (Module 2)": 1.5,
+   "Economics": 1.25,
+   "Geography": 1.5,
+   "Tourism and Hospitality Studies": 1.25,
+   "Biology": 1.25,
+   "Chemistry": 1.25,
+   "Physics": 1.25,
+   "Business, Accounting and Financial Studies": 1.25,
+   "Design and Applied Technology": 1.25,
+   "Health Management and Social Care": 1.25,
+   "Information and Communication Technology": 1.25,
+   "Technology and Living (Food Science and Technology)": 1.25
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 29.0,
+   "lq": 27.5,
+   "mean": null
+  },
+  "score_grades_2026": {
+   "median": {
+    "chi": 4.0,
+    "eng": 4.0,
+    "math": 4.0,
+    "e1": 4.0,
+    "e2": 4.0
+   },
+   "lq": {
+    "chi": 3.0,
+    "eng": 3.0,
+    "math": 4.0,
+    "e1": 4.0,
+    "e2": 4.0
+   }
+  },
+  "sources": [
+   "https://www.ln.edu.hk/admissions/ug/f/upload/642/3418/2026_Admissions%20Scores.pdf",
+   "https://www.ln.edu.hk/admissions/ug/f/upload/629/3362/Admission%20Requirements_JUPAS%20(UG%20Website)%2026-27.pdf",
+   "https://www.ln.edu.hk/admissions/ug/page/detail/114",
+   "https://www.jupas.edu.hk/en/programme/lingnanu/JS7123/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS7133",
+  "institution": "LingnanU",
+  "name": "Bachelor of Arts (Honours) in Animation and Digital Arts (Concentrations: Digital Animation/Arts & Technology)",
+  "formula_2027": "Best 5: sum of the five highest weighted HKDSE subject scores (level value x 2027 subject weighting; subjects without a listed weighting count at x1). Conversion: 5**=7, 5*=6, 5=5, 4=4, 3=3, 2=2, 1=1. Citizenship and Social Development is not counted.",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "Chinese Language": 2.0,
+   "English Language": 2.0,
+   "Technology and Living (Food Science and Technology)": 1.5,
+   "Visual Arts": 1.5
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 27.5,
+   "lq": 24.5,
+   "mean": null
+  },
+  "score_grades_2026": {
+   "median": {
+    "chi": 4.0,
+    "eng": 4.0,
+    "math": 4.0,
+    "e1": 4.0,
+    "e2": 4.0
+   },
+   "lq": {
+    "chi": 3.0,
+    "eng": 3.0,
+    "math": 3.0,
+    "e1": 4.0,
+    "e2": 3.0
+   }
+  },
+  "sources": [
+   "https://www.ln.edu.hk/admissions/ug/f/upload/642/3418/2026_Admissions%20Scores.pdf",
+   "https://www.ln.edu.hk/admissions/ug/f/upload/629/3362/Admission%20Requirements_JUPAS%20(UG%20Website)%2026-27.pdf",
+   "https://www.ln.edu.hk/admissions/ug/page/detail/114",
+   "https://www.jupas.edu.hk/en/programme/lingnanu/JS7133/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS7204",
+  "institution": "LingnanU",
+  "name": "BA (Hons) in Interlingual Communication and Language Technology (Concentrations: Translation and Cross-cultural Communication / AI and Corporate Communication)",
+  "formula_2027": "Best 5: sum of the five highest weighted HKDSE subject scores (level value x 2027 subject weighting; subjects without a listed weighting count at x1). Conversion: 5**=7, 5*=6, 5=5, 4=4, 3=3, 2=2, 1=1. Citizenship and Social Development is not counted.",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "Chinese Language": 1.5,
+   "English Language": 2.0,
+   "Chinese Literature": 1.5,
+   "Literature in English": 1.5
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 27.1,
+   "lq": 25.05,
+   "mean": null
+  },
+  "score_grades_2026": {
+   "median": {
+    "chi": 4.0,
+    "eng": 3.0,
+    "math": 3.0,
+    "e1": 4.0,
+    "e2": 3.0
+   },
+   "lq": {
+    "chi": 4.0,
+    "eng": 3.0,
+    "math": 3.0,
+    "e1": 4.0,
+    "e2": 3.0
+   }
+  },
+  "sources": [
+   "https://www.ln.edu.hk/admissions/ug/f/upload/642/3418/2026_Admissions%20Scores.pdf",
+   "https://www.ln.edu.hk/admissions/ug/f/upload/629/3362/Admission%20Requirements_JUPAS%20(UG%20Website)%2026-27.pdf",
+   "https://www.ln.edu.hk/admissions/ug/page/detail/114",
+   "https://www.jupas.edu.hk/en/programme/lingnanu/JS7204/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS7211",
+  "institution": "LingnanU",
+  "name": "Bachelor of Business Administration (Honours)-Accounting and Corporate Governance (Concentrations: Professional Accounting/Corporate Governance)(Features: Enhancement Programme/Industry Internship)",
+  "formula_2027": "Best 5: sum of the five highest weighted HKDSE subject scores (level value x 2027 subject weighting; subjects without a listed weighting count at x1). Conversion: 5**=7, 5*=6, 5=5, 4=4, 3=3, 2=2, 1=1. Citizenship and Social Development is not counted.",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "English Language": 2.0,
+   "Mathematics (Compulsory Part)": 2.0,
+   "Mathematics Extended Part (Module 1)": 1.5,
+   "Mathematics Extended Part (Module 2)": 1.5,
+   "Economics": 1.5,
+   "Business, Accounting and Financial Studies": 1.5,
+   "Information and Communication Technology": 1.5
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 33.5,
+   "lq": 30.05,
+   "mean": null
+  },
+  "score_grades_2026": {
+   "median": {
+    "chi": 4.0,
+    "eng": 3.0,
+    "math": 4.0,
+    "e1": 5.0,
+    "e2": 4.0
+   },
+   "lq": {
+    "chi": 3.0,
+    "eng": 3.0,
+    "math": 4.0,
+    "e1": 4.0,
+    "e2": 4.0
+   }
+  },
+  "sources": [
+   "https://www.ln.edu.hk/admissions/ug/f/upload/642/3418/2026_Admissions%20Scores.pdf",
+   "https://www.ln.edu.hk/admissions/ug/f/upload/629/3362/Admission%20Requirements_JUPAS%20(UG%20Website)%2026-27.pdf",
+   "https://www.ln.edu.hk/admissions/ug/page/detail/114",
+   "https://www.jupas.edu.hk/en/programme/lingnanu/JS7211/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS7212",
+  "institution": "LingnanU",
+  "name": "Bachelor of Business Administration (Honours)-Business Analytics & Innovation (Features: e-Business/Information Systems/Operations Management/Data Science/Artificial Intelligence)",
+  "formula_2027": "Best 5: sum of the five highest weighted HKDSE subject scores (level value x 2027 subject weighting; subjects without a listed weighting count at x1). Conversion: 5**=7, 5*=6, 5=5, 4=4, 3=3, 2=2, 1=1. Citizenship and Social Development is not counted.",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "English Language": 2.0,
+   "Mathematics (Compulsory Part)": 2.0,
+   "Mathematics Extended Part (Module 1)": 1.5,
+   "Mathematics Extended Part (Module 2)": 1.5,
+   "Economics": 1.5,
+   "Business, Accounting and Financial Studies": 1.5,
+   "Information and Communication Technology": 1.5
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 34.0,
+   "lq": 31.5,
+   "mean": null
+  },
+  "score_grades_2026": {
+   "median": {
+    "chi": 3.5,
+    "eng": 3.0,
+    "math": 3.5,
+    "e1": 5.0,
+    "e2": 4.0
+   },
+   "lq": {
+    "chi": 3.0,
+    "eng": 3.0,
+    "math": 4.0,
+    "e1": 4.0,
+    "e2": 4.0
+   }
+  },
+  "sources": [
+   "https://www.ln.edu.hk/admissions/ug/f/upload/642/3418/2026_Admissions%20Scores.pdf",
+   "https://www.ln.edu.hk/admissions/ug/f/upload/629/3362/Admission%20Requirements_JUPAS%20(UG%20Website)%2026-27.pdf",
+   "https://www.ln.edu.hk/admissions/ug/page/detail/114",
+   "https://www.jupas.edu.hk/en/programme/lingnanu/JS7212/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS7213",
+  "institution": "LingnanU",
+  "name": "Bachelor of Business Administration (Honours)-Finance(Features:CFA Student Scholarship/Diverse Electives: Investment,Corporate Finance,FinTech)",
+  "formula_2027": "Best 5: sum of the five highest weighted HKDSE subject scores (level value x 2027 subject weighting; subjects without a listed weighting count at x1). Conversion: 5**=7, 5*=6, 5=5, 4=4, 3=3, 2=2, 1=1. Citizenship and Social Development is not counted.",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "English Language": 2.0,
+   "Mathematics (Compulsory Part)": 2.0,
+   "Mathematics Extended Part (Module 1)": 1.5,
+   "Mathematics Extended Part (Module 2)": 1.5,
+   "Economics": 1.5,
+   "Business, Accounting and Financial Studies": 1.5,
+   "Information and Communication Technology": 1.5
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 34.15,
+   "lq": 31.5,
+   "mean": null
+  },
+  "score_grades_2026": {
+   "median": {
+    "chi": 4.0,
+    "eng": 3.0,
+    "math": 4.0,
+    "e1": 4.0,
+    "e2": 4.0
+   },
+   "lq": {
+    "chi": 3.0,
+    "eng": 3.0,
+    "math": 4.0,
+    "e1": 4.0,
+    "e2": 4.0
+   }
+  },
+  "sources": [
+   "https://www.ln.edu.hk/admissions/ug/f/upload/642/3418/2026_Admissions%20Scores.pdf",
+   "https://www.ln.edu.hk/admissions/ug/f/upload/629/3362/Admission%20Requirements_JUPAS%20(UG%20Website)%2026-27.pdf",
+   "https://www.ln.edu.hk/admissions/ug/page/detail/114",
+   "https://www.jupas.edu.hk/en/programme/lingnanu/JS7213/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS7214",
+  "institution": "LingnanU",
+  "name": "Bachelor of Business Administration (Honours)-Management and Analytics (Concentration:Global Business Management & Analytics/Human Resource Management & Analytics)(Feature:Professional Membership)",
+  "formula_2027": "Best 5: sum of the five highest weighted HKDSE subject scores (level value x 2027 subject weighting; subjects without a listed weighting count at x1). Conversion: 5**=7, 5*=6, 5=5, 4=4, 3=3, 2=2, 1=1. Citizenship and Social Development is not counted.",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "English Language": 2.0,
+   "Mathematics (Compulsory Part)": 2.0,
+   "Mathematics Extended Part (Module 1)": 1.5,
+   "Mathematics Extended Part (Module 2)": 1.5,
+   "Economics": 1.5,
+   "Business, Accounting and Financial Studies": 1.5,
+   "Information and Communication Technology": 1.5
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 33.0,
+   "lq": 30.05,
+   "mean": null
+  },
+  "score_grades_2026": {
+   "median": {
+    "chi": 4.0,
+    "eng": 4.0,
+    "math": 4.0,
+    "e1": 4.0,
+    "e2": 4.0
+   },
+   "lq": {
+    "chi": 3.0,
+    "eng": 3.0,
+    "math": 3.0,
+    "e1": 4.0,
+    "e2": 4.0
+   }
+  },
+  "sources": [
+   "https://www.ln.edu.hk/admissions/ug/f/upload/642/3418/2026_Admissions%20Scores.pdf",
+   "https://www.ln.edu.hk/admissions/ug/f/upload/629/3362/Admission%20Requirements_JUPAS%20(UG%20Website)%2026-27.pdf",
+   "https://www.ln.edu.hk/admissions/ug/page/detail/114",
+   "https://www.jupas.edu.hk/en/programme/lingnanu/JS7214/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS7215",
+  "institution": "LingnanU",
+  "name": "Bachelor of Business Administration (Honours)-Marketing and Social Media(Features: Integrated Marketing/Social Media & Digital Marketing/Consumer Behaviour & Marketing Research)",
+  "formula_2027": "Best 5: sum of the five highest weighted HKDSE subject scores (level value x 2027 subject weighting; subjects without a listed weighting count at x1). Conversion: 5**=7, 5*=6, 5=5, 4=4, 3=3, 2=2, 1=1. Citizenship and Social Development is not counted.",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "English Language": 2.0,
+   "Mathematics (Compulsory Part)": 2.0,
+   "Mathematics Extended Part (Module 1)": 1.5,
+   "Mathematics Extended Part (Module 2)": 1.5,
+   "Economics": 1.5,
+   "Business, Accounting and Financial Studies": 2.0,
+   "Information and Communication Technology": 1.5
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 32.1,
+   "lq": 30.05,
+   "mean": null
+  },
+  "score_grades_2026": {
+   "median": {
+    "chi": 4.0,
+    "eng": 4.0,
+    "math": 4.0,
+    "e1": 4.0,
+    "e2": 4.0
+   },
+   "lq": {
+    "chi": 4.0,
+    "eng": 3.0,
+    "math": 4.0,
+    "e1": 4.0,
+    "e2": 4.0
+   }
+  },
+  "sources": [
+   "https://www.ln.edu.hk/admissions/ug/f/upload/642/3418/2026_Admissions%20Scores.pdf",
+   "https://www.ln.edu.hk/admissions/ug/f/upload/629/3362/Admission%20Requirements_JUPAS%20(UG%20Website)%2026-27.pdf",
+   "https://www.ln.edu.hk/admissions/ug/page/detail/114",
+   "https://www.jupas.edu.hk/en/programme/lingnanu/JS7215/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS7216",
+  "institution": "LingnanU",
+  "name": "Bachelor of Business Administration (Honours) in Risk and Insurance Management (Optional Concentration: Insurance Technology)(Features: Globally Recognised Qualifications/Exclusive Mentorship)",
+  "formula_2027": "Best 5: sum of the five highest weighted HKDSE subject scores (level value x 2027 subject weighting; subjects without a listed weighting count at x1). Conversion: 5**=7, 5*=6, 5=5, 4=4, 3=3, 2=2, 1=1. Citizenship and Social Development is not counted.",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "English Language": 2.0,
+   "Mathematics (Compulsory Part)": 2.0,
+   "Mathematics Extended Part (Module 1)": 1.5,
+   "Mathematics Extended Part (Module 2)": 1.5,
+   "Economics": 1.5,
+   "Business, Accounting and Financial Studies": 1.5,
+   "Information and Communication Technology": 1.5
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 34.05,
+   "lq": 30.05,
+   "mean": null
+  },
+  "score_grades_2026": {
+   "median": {
+    "chi": 4.0,
+    "eng": 3.0,
+    "math": 4.0,
+    "e1": 4.0,
+    "e2": 4.0
+   },
+   "lq": {
+    "chi": 3.0,
+    "eng": 3.0,
+    "math": 4.0,
+    "e1": 4.0,
+    "e2": 4.0
+   }
+  },
+  "sources": [
+   "https://www.ln.edu.hk/admissions/ug/f/upload/642/3418/2026_Admissions%20Scores.pdf",
+   "https://www.ln.edu.hk/admissions/ug/f/upload/629/3362/Admission%20Requirements_JUPAS%20(UG%20Website)%2026-27.pdf",
+   "https://www.ln.edu.hk/admissions/ug/page/detail/114",
+   "https://www.jupas.edu.hk/en/programme/lingnanu/JS7216/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS7225",
+  "institution": "LingnanU",
+  "name": "Bachelor of Science (Honours) in Data Science (Features: Big Data Analytics/Deep Learning/Generative AI)",
+  "formula_2027": "Best 5: sum of the five highest weighted HKDSE subject scores (level value x 2027 subject weighting; subjects without a listed weighting count at x1). Conversion: 5**=7, 5*=6, 5=5, 4=4, 3=3, 2=2, 1=1. Citizenship and Social Development is not counted.",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "English Language": 2.0,
+   "Mathematics (Compulsory Part)": 2.0,
+   "Mathematics Extended Part (Module 1)": 2.0,
+   "Mathematics Extended Part (Module 2)": 2.0,
+   "Chemistry": 1.5,
+   "Physics": 1.5,
+   "Information and Communication Technology": 2.0
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "3",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 38.0,
+   "lq": 35.0,
+   "mean": null
+  },
+  "score_grades_2026": {
+   "median": {
+    "chi": 4.0,
+    "eng": 3.0,
+    "math": 3.5,
+    "e1": 4.0,
+    "e2": 4.0
+   },
+   "lq": {
+    "chi": 3.0,
+    "eng": 3.0,
+    "math": 4.0,
+    "e1": 4.0,
+    "e2": 4.0
+   }
+  },
+  "sources": [
+   "https://www.ln.edu.hk/admissions/ug/f/upload/642/3418/2026_Admissions%20Scores.pdf",
+   "https://www.ln.edu.hk/admissions/ug/f/upload/629/3362/Admission%20Requirements_JUPAS%20(UG%20Website)%2026-27.pdf",
+   "https://www.ln.edu.hk/admissions/ug/page/detail/114",
+   "https://www.jupas.edu.hk/en/programme/lingnanu/JS7225/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS7301",
+  "institution": "LingnanU",
+  "name": "Bachelor of Social Sciences (Honours)-Economics (Optional Concentration: Global Economics & Banking)",
+  "formula_2027": "Best 5: sum of the five highest weighted HKDSE subject scores (level value x 2027 subject weighting; subjects without a listed weighting count at x1). Conversion: 5**=7, 5*=6, 5=5, 4=4, 3=3, 2=2, 1=1. Citizenship and Social Development is not counted.",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "English Language": 2.0,
+   "Mathematics (Compulsory Part)": 1.5,
+   "Mathematics Extended Part (Module 1)": 1.5,
+   "Mathematics Extended Part (Module 2)": 1.5,
+   "Economics": 1.5
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 30.0,
+   "lq": 26.5,
+   "mean": null
+  },
+  "score_grades_2026": {
+   "median": {
+    "chi": 3.0,
+    "eng": 3.0,
+    "math": 4.0,
+    "e1": 5.0,
+    "e2": 4.0
+   },
+   "lq": {
+    "chi": 3.0,
+    "eng": 3.0,
+    "math": 4.0,
+    "e1": 4.0,
+    "e2": 4.0
+   }
+  },
+  "sources": [
+   "https://www.ln.edu.hk/admissions/ug/f/upload/642/3418/2026_Admissions%20Scores.pdf",
+   "https://www.ln.edu.hk/admissions/ug/f/upload/629/3362/Admission%20Requirements_JUPAS%20(UG%20Website)%2026-27.pdf",
+   "https://www.ln.edu.hk/admissions/ug/page/detail/114",
+   "https://www.jupas.edu.hk/en/programme/lingnanu/JS7301/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS7302",
+  "institution": "LingnanU",
+  "name": "Bachelor of Social Sciences (Honours) - Government and International Affairs",
+  "formula_2027": "Best 5: sum of the five highest weighted HKDSE subject scores (level value x 2027 subject weighting; subjects without a listed weighting count at x1). Conversion: 5**=7, 5*=6, 5=5, 4=4, 3=3, 2=2, 1=1. Citizenship and Social Development is not counted.",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "English Language": 2.0,
+   "Mathematics (Compulsory Part)": 1.5,
+   "Mathematics Extended Part (Module 1)": 1.5,
+   "Mathematics Extended Part (Module 2)": 1.5,
+   "Chinese History": 1.5,
+   "Geography": 1.5,
+   "History": 1.5
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 31.0,
+   "lq": 30.0,
+   "mean": null
+  },
+  "score_grades_2026": {
+   "median": {
+    "chi": 3.0,
+    "eng": 3.0,
+    "math": 4.0,
+    "e1": 5.0,
+    "e2": 4.0
+   },
+   "lq": {
+    "chi": 3.0,
+    "eng": 3.0,
+    "math": 4.0,
+    "e1": 4.0,
+    "e2": 4.0
+   }
+  },
+  "sources": [
+   "https://www.ln.edu.hk/admissions/ug/f/upload/642/3418/2026_Admissions%20Scores.pdf",
+   "https://www.ln.edu.hk/admissions/ug/f/upload/629/3362/Admission%20Requirements_JUPAS%20(UG%20Website)%2026-27.pdf",
+   "https://www.ln.edu.hk/admissions/ug/page/detail/114",
+   "https://www.jupas.edu.hk/en/programme/lingnanu/JS7302/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS7303",
+  "institution": "LingnanU",
+  "name": "Bachelor of Social Sciences (Honours)-Psychology (Optional Concentrations: Counselling Psychology/Industrial & Organisational Psychology)",
+  "formula_2027": "Best 5: sum of the five highest weighted HKDSE subject scores (level value x 2027 subject weighting; subjects without a listed weighting count at x1). Conversion: 5**=7, 5*=6, 5=5, 4=4, 3=3, 2=2, 1=1. Citizenship and Social Development is not counted.",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "English Language": 2.0,
+   "Mathematics (Compulsory Part)": 1.5
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 27.5,
+   "lq": 27.0,
+   "mean": null
+  },
+  "score_grades_2026": {
+   "median": {
+    "chi": 3.0,
+    "eng": 4.0,
+    "math": 4.0,
+    "e1": 4.0,
+    "e2": 4.0
+   },
+   "lq": {
+    "chi": 3.0,
+    "eng": 4.0,
+    "math": 4.0,
+    "e1": 4.0,
+    "e2": 4.0
+   }
+  },
+  "sources": [
+   "https://www.ln.edu.hk/admissions/ug/f/upload/642/3418/2026_Admissions%20Scores.pdf",
+   "https://www.ln.edu.hk/admissions/ug/f/upload/629/3362/Admission%20Requirements_JUPAS%20(UG%20Website)%2026-27.pdf",
+   "https://www.ln.edu.hk/admissions/ug/page/detail/114",
+   "https://www.jupas.edu.hk/en/programme/lingnanu/JS7303/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS7304",
+  "institution": "LingnanU",
+  "name": "Bachelor of Social Sciences (Honours)-Sociology (Optional Concentration: Social Innovation & Social Studies)",
+  "formula_2027": "Best 5: sum of the five highest weighted HKDSE subject scores (level value x 2027 subject weighting; subjects without a listed weighting count at x1). Conversion: 5**=7, 5*=6, 5=5, 4=4, 3=3, 2=2, 1=1. Citizenship and Social Development is not counted.",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "English Language": 2.0,
+   "Mathematics (Compulsory Part)": 1.5
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 27.0,
+   "lq": 25.4,
+   "mean": null
+  },
+  "score_grades_2026": {
+   "median": {
+    "chi": 3.5,
+    "eng": 3.0,
+    "math": 4.0,
+    "e1": 5.0,
+    "e2": 4.0
+   },
+   "lq": {
+    "chi": 3.0,
+    "eng": 3.0,
+    "math": 4.0,
+    "e1": 4.0,
+    "e2": 4.0
+   }
+  },
+  "sources": [
+   "https://www.ln.edu.hk/admissions/ug/f/upload/642/3418/2026_Admissions%20Scores.pdf",
+   "https://www.ln.edu.hk/admissions/ug/f/upload/629/3362/Admission%20Requirements_JUPAS%20(UG%20Website)%2026-27.pdf",
+   "https://www.ln.edu.hk/admissions/ug/page/detail/114",
+   "https://www.jupas.edu.hk/en/programme/lingnanu/JS7304/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS7305",
+  "institution": "LingnanU",
+  "name": "Bachelor of Social Sciences (Honours) - Health and Social Services Management",
+  "formula_2027": "Best 5: sum of the five highest weighted HKDSE subject scores (level value x 2027 subject weighting; subjects without a listed weighting count at x1). Conversion: 5**=7, 5*=6, 5=5, 4=4, 3=3, 2=2, 1=1. Citizenship and Social Development is not counted.",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "Health Management and Social Care": 1.5
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 28.5,
+   "lq": 21.5,
+   "mean": null
+  },
+  "score_grades_2026": {
+   "median": {
+    "chi": 4.0,
+    "eng": 3.0,
+    "math": 4.0,
+    "e1": 4.0,
+    "e2": 4.0
+   },
+   "lq": {
+    "chi": 4.0,
+    "eng": 3.0,
+    "math": 3.0,
+    "e1": 4.0,
+    "e2": 4.0
+   }
+  },
+  "sources": [
+   "https://www.ln.edu.hk/admissions/ug/f/upload/642/3418/2026_Admissions%20Scores.pdf",
+   "https://www.ln.edu.hk/admissions/ug/f/upload/629/3362/Admission%20Requirements_JUPAS%20(UG%20Website)%2026-27.pdf",
+   "https://www.ln.edu.hk/admissions/ug/page/detail/114",
+   "https://www.jupas.edu.hk/en/programme/lingnanu/JS7305/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS7306",
+  "institution": "LingnanU",
+  "name": "Bachelor of Social Sciences (Honours)-Social and Public Policy Studies (Optional Concentration: Smart Cities & Digital Society)",
+  "formula_2027": "Best 5: sum of the five highest weighted HKDSE subject scores (level value x 2027 subject weighting; subjects without a listed weighting count at x1). Conversion: 5**=7, 5*=6, 5=5, 4=4, 3=3, 2=2, 1=1. Citizenship and Social Development is not counted.",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "English Language": 2.0,
+   "Mathematics (Compulsory Part)": 1.5,
+   "Mathematics Extended Part (Module 1)": 1.5,
+   "Mathematics Extended Part (Module 2)": 1.5
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 27.0,
+   "lq": 26.0,
+   "mean": null
+  },
+  "score_grades_2026": {
+   "median": {
+    "chi": 4.0,
+    "eng": 4.0,
+    "math": 4.0,
+    "e1": 4.0,
+    "e2": 4.0
+   },
+   "lq": {
+    "chi": 4.0,
+    "eng": 3.0,
+    "math": 4.0,
+    "e1": 4.0,
+    "e2": 4.0
+   }
+  },
+  "sources": [
+   "https://www.ln.edu.hk/admissions/ug/f/upload/642/3418/2026_Admissions%20Scores.pdf",
+   "https://www.ln.edu.hk/admissions/ug/f/upload/629/3362/Admission%20Requirements_JUPAS%20(UG%20Website)%2026-27.pdf",
+   "https://www.ln.edu.hk/admissions/ug/page/detail/114",
+   "https://www.jupas.edu.hk/en/programme/lingnanu/JS7306/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS7307",
+  "institution": "LingnanU",
+  "name": "Bachelor of Social Sciences (Honours)-Social Data Science (Concentrations: Economics/Government and International Affairs/Psychology/Sociology)",
+  "formula_2027": "Best 5: sum of the five highest weighted HKDSE subject scores (level value x 2027 subject weighting; subjects without a listed weighting count at x1). Conversion: 5**=7, 5*=6, 5=5, 4=4, 3=3, 2=2, 1=1. Citizenship and Social Development is not counted.",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "English Language": 2.0,
+   "Mathematics (Compulsory Part)": 1.5,
+   "Mathematics Extended Part (Module 1)": 1.5,
+   "Mathematics Extended Part (Module 2)": 1.5,
+   "Information and Communication Technology": 1.5
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 28.5,
+   "lq": 26.0,
+   "mean": null
+  },
+  "score_grades_2026": {
+   "median": {
+    "chi": 3.5,
+    "eng": 3.0,
+    "math": 4.0,
+    "e1": 4.0,
+    "e2": 4.0
+   },
+   "lq": {
+    "chi": 3.0,
+    "eng": 3.0,
+    "math": 4.0,
+    "e1": 4.0,
+    "e2": 4.0
+   }
+  },
+  "sources": [
+   "https://www.ln.edu.hk/admissions/ug/f/upload/642/3418/2026_Admissions%20Scores.pdf",
+   "https://www.ln.edu.hk/admissions/ug/f/upload/629/3362/Admission%20Requirements_JUPAS%20(UG%20Website)%2026-27.pdf",
+   "https://www.ln.edu.hk/admissions/ug/page/detail/114",
+   "https://www.jupas.edu.hk/en/programme/lingnanu/JS7307/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS7503",
+  "institution": "LingnanU",
+  "name": "Bachelor of Arts (Honours) in English Studies (Optional Concentrations: Literature/Linguistics)",
+  "formula_2027": "Best 5: sum of the five highest weighted HKDSE subject scores (level value x 2027 subject weighting; subjects without a listed weighting count at x1). Conversion: 5**=7, 5*=6, 5=5, 4=4, 3=3, 2=2, 1=1. Citizenship and Social Development is not counted.",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "Chinese Language": 1.5,
+   "English Language": 2.5,
+   "Literature in English": 1.5
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 32.15,
+   "lq": 28.15,
+   "mean": null
+  },
+  "score_grades_2026": {
+   "median": {
+    "chi": 4.0,
+    "eng": 4.0,
+    "math": 3.0,
+    "e1": 4.0,
+    "e2": 3.5
+   },
+   "lq": {
+    "chi": 4.0,
+    "eng": 4.0,
+    "math": 3.0,
+    "e1": 4.0,
+    "e2": 3.0
+   }
+  },
+  "sources": [
+   "https://www.ln.edu.hk/admissions/ug/f/upload/642/3418/2026_Admissions%20Scores.pdf",
+   "https://www.ln.edu.hk/admissions/ug/f/upload/629/3362/Admission%20Requirements_JUPAS%20(UG%20Website)%2026-27.pdf",
+   "https://www.ln.edu.hk/admissions/ug/page/detail/114",
+   "https://www.jupas.edu.hk/en/programme/lingnanu/JS7503/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS7606",
+  "institution": "LingnanU",
+  "name": "Bachelor of Arts (Honours) in Cultural Studies (Optional Concentrations: Digital Culture & Media Practices/Cultural Commons, Social Innovation & Creativity)",
+  "formula_2027": "Best 5: sum of the five highest weighted HKDSE subject scores (level value x 2027 subject weighting; subjects without a listed weighting count at x1). Conversion: 5**=7, 5*=6, 5=5, 4=4, 3=3, 2=2, 1=1. Citizenship and Social Development is not counted.",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "Chinese Language": 1.5,
+   "English Language": 2.0
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 28.2,
+   "lq": 25.15,
+   "mean": null
+  },
+  "score_grades_2026": {
+   "median": {
+    "chi": 4.5,
+    "eng": 3.5,
+    "math": 3.0,
+    "e1": 4.0,
+    "e2": 3.0
+   },
+   "lq": {
+    "chi": 4.0,
+    "eng": 3.0,
+    "math": 3.0,
+    "e1": 4.0,
+    "e2": 3.0
+   }
+  },
+  "sources": [
+   "https://www.ln.edu.hk/admissions/ug/f/upload/642/3418/2026_Admissions%20Scores.pdf",
+   "https://www.ln.edu.hk/admissions/ug/f/upload/629/3362/Admission%20Requirements_JUPAS%20(UG%20Website)%2026-27.pdf",
+   "https://www.ln.edu.hk/admissions/ug/page/detail/114",
+   "https://www.jupas.edu.hk/en/programme/lingnanu/JS7606/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS7709",
+  "institution": "LingnanU",
+  "name": "Bachelor of Arts (Honours) in History (Optional Concentrations: Asian History/Global History)",
+  "formula_2027": "Best 5: sum of the five highest weighted HKDSE subject scores (level value x 2027 subject weighting; subjects without a listed weighting count at x1). Conversion: 5**=7, 5*=6, 5=5, 4=4, 3=3, 2=2, 1=1. Citizenship and Social Development is not counted.",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "Chinese Language": 1.5,
+   "English Language": 2.0,
+   "Chinese History": 1.2,
+   "History": 1.2
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 28.6,
+   "lq": 26.8,
+   "mean": null
+  },
+  "score_grades_2026": {
+   "median": {
+    "chi": 4.0,
+    "eng": 3.0,
+    "math": 3.0,
+    "e1": 4.0,
+    "e2": 4.0
+   },
+   "lq": {
+    "chi": 4.0,
+    "eng": 3.0,
+    "math": 3.0,
+    "e1": 4.0,
+    "e2": 4.0
+   }
+  },
+  "sources": [
+   "https://www.ln.edu.hk/admissions/ug/f/upload/642/3418/2026_Admissions%20Scores.pdf",
+   "https://www.ln.edu.hk/admissions/ug/f/upload/629/3362/Admission%20Requirements_JUPAS%20(UG%20Website)%2026-27.pdf",
+   "https://www.ln.edu.hk/admissions/ug/page/detail/114",
+   "https://www.jupas.edu.hk/en/programme/lingnanu/JS7709/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS7802",
+  "institution": "LingnanU",
+  "name": "Bachelor of Arts (Honours) in Philosophy (Features: Ethics/Philosophy of AI/Logic)",
+  "formula_2027": "Best 5: sum of the five highest weighted HKDSE subject scores (level value x 2027 subject weighting; subjects without a listed weighting count at x1). Conversion: 5**=7, 5*=6, 5=5, 4=4, 3=3, 2=2, 1=1. Citizenship and Social Development is not counted.",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "Chinese Language": 1.5,
+   "English Language": 2.0,
+   "Mathematics (Compulsory Part)": 1.5,
+   "Ethics and Religious Studies": 1.5
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 30.5,
+   "lq": 28.0,
+   "mean": null
+  },
+  "score_grades_2026": {
+   "median": {
+    "chi": 5.0,
+    "eng": 4.0,
+    "math": 4.0,
+    "e1": 4.0,
+    "e2": 3.0
+   },
+   "lq": {
+    "chi": 4.0,
+    "eng": 3.0,
+    "math": 4.0,
+    "e1": 4.0,
+    "e2": 3.0
+   }
+  },
+  "sources": [
+   "https://www.ln.edu.hk/admissions/ug/f/upload/642/3418/2026_Admissions%20Scores.pdf",
+   "https://www.ln.edu.hk/admissions/ug/f/upload/629/3362/Admission%20Requirements_JUPAS%20(UG%20Website)%2026-27.pdf",
+   "https://www.ln.edu.hk/admissions/ug/page/detail/114",
+   "https://www.jupas.edu.hk/en/programme/lingnanu/JS7802/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS7905",
+  "institution": "LingnanU",
+  "name": "Bachelor of Arts (Honours) in Film and Visual Arts (Features: Film Studies/Global Media/Art History/Museum Studies)",
+  "formula_2027": "Best 5: sum of the five highest weighted HKDSE subject scores (level value x 2027 subject weighting; subjects without a listed weighting count at x1). Conversion: 5**=7, 5*=6, 5=5, 4=4, 3=3, 2=2, 1=1. Citizenship and Social Development is not counted.",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "Chinese Language": 2.0,
+   "English Language": 2.0,
+   "Information and Communication Technology": 1.5,
+   "Visual Arts": 1.5
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 30.5,
+   "lq": 27.0,
+   "mean": null
+  },
+  "score_grades_2026": {
+   "median": {
+    "chi": 4.0,
+    "eng": 4.0,
+    "math": 4.0,
+    "e1": 4.0,
+    "e2": 3.5
+   },
+   "lq": {
+    "chi": 4.0,
+    "eng": 3.0,
+    "math": 3.0,
+    "e1": 4.0,
+    "e2": 3.0
+   }
+  },
+  "sources": [
+   "https://www.ln.edu.hk/admissions/ug/f/upload/642/3418/2026_Admissions%20Scores.pdf",
+   "https://www.ln.edu.hk/admissions/ug/f/upload/629/3362/Admission%20Requirements_JUPAS%20(UG%20Website)%2026-27.pdf",
+   "https://www.ln.edu.hk/admissions/ug/page/detail/114",
+   "https://www.jupas.edu.hk/en/programme/lingnanu/JS7905/"
+  ],
+  "confidence": "official"
+ }
+]

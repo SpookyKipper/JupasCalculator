@@ -1,0 +1,2215 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8" />
+<style>/* @see https://github.com/aFarkas/lazysizes#broken-image-symbol */.js img.lazyload:not([src]) { visibility: hidden; }/* @see https://github.com/aFarkas/lazysizes#automatically-setting-the-sizes-attribute */.js img.lazyloaded[data-sizes=auto] { display: block; width: 100%; }</style>
+<link rel="canonical" href="https://www.polyu.edu.hk/study/ug/jupas/2027/js3180" />
+<meta name="Generator" content="Drupal 9 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="icon" href="/study/profiles/contrib/polyu_study_profile/themes/polyu_theme/assets/images/favicon.png" type="image/png" />
+<link rel="alternate" hreflang="und" href="https://www.polyu.edu.hk/study/ug/jupas/2027/js3180" />
+
+    <title>JS3180 - Bachelor of Engineering (Honours) / Bachelor of Science (Honours) Scheme in Information and Artificial Intelligence Engineering (Internet-of-Things / Artificial Intelligence / Information Security) | The Hong Kong Polytechnic University (PolyU)</title>
+    <link rel="stylesheet" media="all" href="/study/libraries/fontawesome/css/all.min.css?tmtvme" />
+<link rel="stylesheet" media="all" href="/study/modules/contrib/uni/node_modules/really.css/dist/css/really.css?tmtvme" />
+<link rel="stylesheet" media="all" href="/study/modules/contrib/uni/node_modules/swiper/swiper-bundle.min.css?tmtvme" />
+<link rel="stylesheet" media="all" href="/study/core/modules/system/css/components/ajax-progress.module.css?tmtvme" />
+<link rel="stylesheet" media="all" href="/study/core/modules/system/css/components/align.module.css?tmtvme" />
+<link rel="stylesheet" media="all" href="/study/core/modules/system/css/components/autocomplete-loading.module.css?tmtvme" />
+<link rel="stylesheet" media="all" href="/study/core/modules/system/css/components/fieldgroup.module.css?tmtvme" />
+<link rel="stylesheet" media="all" href="/study/core/modules/system/css/components/container-inline.module.css?tmtvme" />
+<link rel="stylesheet" media="all" href="/study/core/modules/system/css/components/clearfix.module.css?tmtvme" />
+<link rel="stylesheet" media="all" href="/study/core/modules/system/css/components/details.module.css?tmtvme" />
+<link rel="stylesheet" media="all" href="/study/core/modules/system/css/components/hidden.module.css?tmtvme" />
+<link rel="stylesheet" media="all" href="/study/core/modules/system/css/components/item-list.module.css?tmtvme" />
+<link rel="stylesheet" media="all" href="/study/core/modules/system/css/components/js.module.css?tmtvme" />
+<link rel="stylesheet" media="all" href="/study/core/modules/system/css/components/nowrap.module.css?tmtvme" />
+<link rel="stylesheet" media="all" href="/study/core/modules/system/css/components/position-container.module.css?tmtvme" />
+<link rel="stylesheet" media="all" href="/study/core/modules/system/css/components/progress.module.css?tmtvme" />
+<link rel="stylesheet" media="all" href="/study/core/modules/system/css/components/reset-appearance.module.css?tmtvme" />
+<link rel="stylesheet" media="all" href="/study/core/modules/system/css/components/resize.module.css?tmtvme" />
+<link rel="stylesheet" media="all" href="/study/core/modules/system/css/components/sticky-header.module.css?tmtvme" />
+<link rel="stylesheet" media="all" href="/study/core/modules/system/css/components/system-status-counter.css?tmtvme" />
+<link rel="stylesheet" media="all" href="/study/core/modules/system/css/components/system-status-report-counters.css?tmtvme" />
+<link rel="stylesheet" media="all" href="/study/core/modules/system/css/components/system-status-report-general-info.css?tmtvme" />
+<link rel="stylesheet" media="all" href="/study/core/modules/system/css/components/tabledrag.module.css?tmtvme" />
+<link rel="stylesheet" media="all" href="/study/core/modules/system/css/components/tablesort.module.css?tmtvme" />
+<link rel="stylesheet" media="all" href="/study/core/modules/system/css/components/tree-child.module.css?tmtvme" />
+<link rel="stylesheet" media="all" href="/study/core/modules/views/css/views.module.css?tmtvme" />
+<link rel="stylesheet" media="all" href="/study/modules/contrib/extlink/extlink.css?tmtvme" />
+<link rel="stylesheet" media="all" href="/study/modules/contrib/paragraphs/css/paragraphs.unpublished.css?tmtvme" />
+<link rel="stylesheet" media="all" href="/study/modules/contrib/uni/templates/html/html.css?tmtvme" />
+<link rel="stylesheet" media="all" href="/study/profiles/contrib/polyu_study_profile/themes/polyu_theme/assets/css/foundation/fonts/fonts.css?tmtvme" />
+<link rel="stylesheet" media="all" href="/study/profiles/contrib/polyu_study_profile/themes/polyu_theme/assets/css/foundation/global.css?tmtvme" />
+<link rel="stylesheet" media="print" href="/study/profiles/contrib/polyu_study_profile/themes/polyu_theme/assets/css/foundation/print.css?tmtvme" />
+<link rel="stylesheet" media="all" href="/study/profiles/contrib/polyu_study_profile/themes/polyu_theme/assets/css/views/views.css?tmtvme" />
+<link rel="stylesheet" media="all" href="/study/profiles/contrib/polyu_study_profile/themes/polyu_theme/assets/css/nodes/nodes.css?tmtvme" />
+<link rel="stylesheet" media="all" href="/study/profiles/contrib/polyu_study_profile/themes/polyu_theme/templates/block/block--polyu-quick-access/block--polyu-quick-access.css?tmtvme" />
+<link rel="stylesheet" media="all" href="/study/profiles/contrib/polyu_study_profile/themes/polyu_theme/templates/block/block--config-pages--footer-configuration/block--config-pages--footer-configuration.css?tmtvme" />
+<link rel="stylesheet" media="all" href="/study/profiles/contrib/polyu_study_profile/themes/polyu_theme/templates/paragraph/paragraph--basic-info-block/paragraph--basic-info-block.css?tmtvme" />
+<link rel="stylesheet" media="all" href="/study/profiles/contrib/polyu_study_profile/themes/polyu_theme/templates/paragraph/paragraph--prog-additional-document/paragraph--prog-additional-document.css?tmtvme" />
+<link rel="stylesheet" media="all" href="/study/profiles/contrib/polyu_study_profile/themes/polyu_theme/templates/node/node--prog-detail-international/node--prog-detail-international.css?tmtvme" />
+<link rel="stylesheet" media="all" href="/study/profiles/contrib/polyu_study_profile/themes/polyu_theme/templates/node/node--prog-detail-nj/node--prog-detail-nj.css?tmtvme" />
+<link rel="stylesheet" media="all" href="/study/profiles/contrib/polyu_study_profile/themes/polyu_theme/templates/paragraph/paragraph--prog-student-message/paragraph--prog-student-message.css?tmtvme" />
+<link rel="stylesheet" media="all" href="/study/profiles/contrib/polyu_study_profile/themes/polyu_theme/templates/node/node--prog-detail-jps/node--prog-detail-jps.css?tmtvme" />
+<link rel="stylesheet" media="all" href="/study/profiles/contrib/polyu_study_profile/themes/polyu_theme/templates/block/block--polyu-theme-content/block--polyu-theme-content.css?tmtvme" />
+<link rel="stylesheet" media="all" href="/study/profiles/contrib/polyu_study_profile/themes/polyu_theme/templates/block/block--config-pages--header-configuration/block--config-pages--header-configuration.css?tmtvme" />
+<link rel="stylesheet" media="all" href="/study/profiles/contrib/polyu_study_profile/themes/polyu_theme/templates/block/block--polyu-search-block--top/block--polyu-search-block--top.css?tmtvme" />
+
+    
+  </head>
+  <body class="html html--node html--node--70292 html--node--prog-detail-jps">
+        <a href="#main-content" class="visually-hidden focusable">
+      Skip to main content
+    </a>
+    
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    <div class="page page--node page--node--70292 page--node--prog-detail-jps">
+    <header class="page__header" role="banner">
+                    <div class="uni-wrapper">
+                  <div class="region region--top">
+        <div class="polyu_top_search_overlay">
+        <div class="sliding_pane_action">
+            <a class="sliding_pane_close" href="#"> <i class="far fa-times"></i></a>
+        </div>
+        <div class="polyu_top_search_wrapper">
+            <div class="top_search_title">
+                What are you looking for?
+            </div>
+            <form action="/study/ug/search" method="get" id="polyu-search-form" accept-charset="UTF-8" class="form form--polyu-search-form">
+  <div class="form-element form-element--edit-keyword form-element--textfield js-form-item form-item js-form-type-textfield form-item-keyword js-form-item-keyword">
+      <label for="edit-keyword" class="form-element-label"></label>
+        <input required="required" pattern=".{3,}" title="Minimum 5 characters required." data-drupal-selector="edit-keyword" type="text" id="edit-keyword" name="keyword" value="" size="60" maxlength="128" placeholder="Keyword..." class="form-text input input--edit-keyword" />
+
+        </div>
+      <input class="btn-search button js-form-submit form-submit input input--edit-submit input--submit" data-drupal-selector="edit-submit" type="submit" id="edit-submit" value="" />
+  
+</form>
+
+        </div>
+    </div>
+
+  </div>
+
+                  <div class="region region--branding">
+                                                            <div class="header-container">
+        <div class="header-wrapper">
+            <div class="logos-section">
+                <div class="polyu-main-logo">
+                    <a href="https://www.polyu.edu.hk/en/" class="hasLink" title="PolyU">
+                        <img src="/study/sites/default/files/2023-02/polyu_logo_1.png" alt="PolyU" class="logo-desktop"/>
+                        <img src="/study/profiles/contrib/polyu_study_profile/themes/polyu_theme/templates/block/block--config-pages--header-configuration/images/polyu_logo_mobile.png" alt="PolyU" class="logo-mobile"/>
+                    </a>
+                </div>
+                <div class="poly-study-logo">
+                                            <a href="/study/ug" title="Undergraduate Admission">
+                            <img src="/study/profiles/contrib/polyu_study_profile/themes/polyu_theme/templates/block/block--config-pages--header-configuration/images/ug-logo-outline.svg" alt="Undergraduate &lt;br/&gt;Admission" class="ug-logo"/>
+                        </a>
+                                    </div>
+            </div>
+            <div class="menus-sections">
+                <div class="site-switcher">
+                    <a class="trigger-search" href="#"> <i class="fa-regular fa-magnifying-glass"></i></a>
+                    
+              <div class="menu menu--level-0">
+        <ul class="menu__list menu__list--level-0">
+          <li class="active-trail ug_active menu__item menu__item--level-0">
+        <a href="/study/ug" class="menu__link menu__link--level-0" data-drupal-link-system-path="node/6">Undergraduate</a>
+              </li>
+          <li class="menu__item menu__item--level-0">
+        <a href="/study/pg" class="menu__link menu__link--level-0" data-drupal-link-system-path="node/70">Postgraduate</a>
+              </li>
+        </ul>
+    </div>
+  
+
+
+                </div>
+                <div class="header-links">
+                    <div class="header-search">
+                        <a class="trigger-search" href="#"> <i class="fa-regular fa-magnifying-glass"></i></a>
+                    </div>
+                    <div class="header-share">
+                        <ul class="share-menu-level0">
+                            <li class="share-menu-item-level0">
+                                <a class="toggle-share-menu" href="#"> <i class="fa-regular fa-share-nodes"></i></a>
+                                <ul class="share-options">
+                                    <li><a class="trigger-facebook-share" href="#"><i
+                                                    class="fa-brands fa-square-facebook"></i> Facebook</a></li>
+                                    <li><a class="trigger-linkedin-share" href="#"><i
+                                                    class="fa-brands fa-linkedin"></i> LinkedIn</a></li>
+                                    <li><a class="trigger-twitter-share" href="#"><i
+                                                    class="fa-brands fa-square-twitter"></i> Twitter</a></li>
+                                    <li><a class="trigger-weibo-share" href="#"><i class="fa-brands fa-weibo"></i> Weibo</a>
+                                    </li>
+                                    <li><a class="trigger-mail-share" href="#"><i class="fa-solid fa-envelope"></i> Mail</a>
+                                    </li>
+                                    <li><a class="trigger-copy-link" href="#"><i class="fa-solid fa-link"></i> Copy Link</a>
+                                    </li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="header-quick-access">
+                                                    
+              <div class="menu menu--level-0">
+        <ul class="menu__list menu__list--level-0">
+          <li class="menu__item menu__item--level-0">
+        <a href="/study/ug/contact-us" class="menu__link menu__link--level-0" data-drupal-link-system-path="node/70683">Contact Us</a>
+              </li>
+          <li class="active-trail ug_active menu__item menu__item--level-0">
+        <a href="" class="trigger-quick-access menu__link menu__link--level-0">Quick Access</a>
+              </li>
+        </ul>
+    </div>
+  
+
+
+                                            </div>
+                </div>
+            </div>
+            <div class="bars-icon">
+                <i class="fa-regular fa-bars"></i>
+            </div>
+        </div>
+    </div>
+    <div class="navigation-container--desktop">
+        <div class="navigation-wrapper">
+                            
+                <div class="menu menu--ug-main menu--level-0">
+      <ul class="menu__list menu__list--level-0">
+              <li class="menu__item menu__item--level-0">
+                              <div class="menu__link-wrapper">
+            <a href="/study/ug/why-polyu" class="no-title menu__link menu__link--level-0" data-drupal-link-system-path="node/70650">Why PolyU</a>
+          </div>
+                                        <div class="menu menu--level-1">
+        <ul class="menu__list menu__list--level-1">
+              <li class="menu__item menu__item--level-1">
+                              <div class="menu__link-wrapper">
+            <a href="/study/ug/why-polyu" class="no-title menu__link menu__link--level-1" data-drupal-link-system-path="node/70650">Overview</a>
+          </div>
+                  </li>
+              <li class="menu__item menu__item--level-1">
+                              <div class="menu__link-wrapper">
+            <a href="/study/ug/why-polyu/unique-learning-experience" class="no-title menu__link menu__link--level-1" data-drupal-link-system-path="node/56">A Unique Learning Experience</a>
+          </div>
+                  </li>
+              <li class="menu__item menu__item--level-1">
+                              <div class="menu__link-wrapper">
+            <a href="https://www.polyu.edu.hk/en/about-polyu/university-ranking/" class="no-title menu__link menu__link--level-1">University Ranking</a>
+          </div>
+                  </li>
+              <li class="menu__item menu__item--level-1">
+                              <div class="menu__link-wrapper">
+            <a href="/study/ug/why-polyu/polyu-figures" class="no-title menu__link menu__link--level-1" data-drupal-link-system-path="node/50">PolyU in Figures</a>
+          </div>
+                  </li>
+              <li class="menu__item menu__item--level-1">
+                              <div class="menu__link-wrapper">
+            <a href="https://www.polyu.edu.hk/campus-life/" class="no-title menu__link menu__link--level-1">Campus Life</a>
+          </div>
+                  </li>
+              <li class="menu__item menu__item--level-1">
+                              <div class="menu__link-wrapper">
+            <a href="/study/ug/why-polyu/student-stories" class="no-title menu__link menu__link--level-1" data-drupal-link-system-path="node/70649">Student Stories</a>
+          </div>
+                  </li>
+          </ul>
+  </div>
+    
+                  </li>
+              <li class="menu__item menu__item--level-0">
+                              <div class="menu__link-wrapper">
+            <a href="/study/ug/programmes" class="no-title menu__link menu__link--level-0" data-drupal-link-system-path="node/51">Programmes</a>
+          </div>
+                                        <div class="menu menu--level-1">
+        <ul class="menu__list menu__list--level-1">
+              <li class="menu__item menu__item--level-1">
+                              <div class="menu__link-wrapper">
+            <a href="/study/ug/programmes/find-your-programmes" class="no-title menu__link menu__link--level-1" data-drupal-link-system-path="node/41">Find Your Programmes</a>
+          </div>
+                  </li>
+              <li class="menu__item menu__item--level-1">
+                              <div class="menu__link-wrapper">
+            <a href="/study/ug/programmes/faculties-and-schools" class="no-title menu__link menu__link--level-1" data-drupal-link-system-path="node/42">Our Faculties, Schools and College</a>
+          </div>
+                  </li>
+              <li class="menu__item menu__item--level-1">
+                              <div class="menu__link-wrapper">
+            <a href="/study/ug/programmes/programme-z" class="no-title menu__link menu__link--level-1" data-drupal-link-system-path="node/8">Programme A-Z</a>
+          </div>
+                  </li>
+          </ul>
+  </div>
+    
+                  </li>
+              <li class="menu__item menu__item--level-0">
+                              <div class="menu__link-wrapper">
+            <a href="/study/ug/admissions" class="no-title menu__link menu__link--level-0" data-drupal-link-system-path="node/59">Admissions</a>
+          </div>
+                                        <div class="menu menu--level-1">
+        <ul class="menu__list menu__list--level-1">
+              <li class="menu__item menu__item--level-1">
+                              <div class="menu__link-wrapper">
+            <a href="/study/ug/admissions/jupas" class="has-title menu__link menu__link--level-1" title="Local" data-drupal-link-system-path="node/44">JUPAS</a>
+          </div>
+                  </li>
+              <li class="menu__item menu__item--level-1">
+                              <div class="menu__link-wrapper">
+            <a href="/study/ug/admissions/non-jupas-year-1" class="has-title menu__link menu__link--level-1" title="Local" data-drupal-link-system-path="node/65917">Non-JUPAS Year 1</a>
+          </div>
+                  </li>
+              <li class="menu__item menu__item--level-1">
+                              <div class="menu__link-wrapper">
+            <a href="/study/ug/admissions/non-jupas-senior-year" class="has-title menu__link menu__link--level-1" title="Local" data-drupal-link-system-path="node/63">Non-JUPAS Senior Year</a>
+          </div>
+                  </li>
+              <li class="menu__item menu__item--level-1">
+                              <div class="menu__link-wrapper">
+            <a href="/study/ug/admissions/international-other-qualifications" class="has-title menu__link menu__link--level-1" title="Non-Local" data-drupal-link-system-path="node/65916">International / Other Qualifications</a>
+          </div>
+                  </li>
+              <li class="menu__item menu__item--level-1">
+                              <div class="menu__link-wrapper">
+            <a href="/study/ug/admissions/jee" class="has-title menu__link menu__link--level-1" title="Non-Local" data-drupal-link-system-path="node/65918">中国内地应届高考生</a>
+          </div>
+                  </li>
+          </ul>
+  </div>
+    
+                  </li>
+              <li class="menu__item menu__item--level-0">
+                              <div class="menu__link-wrapper">
+            <a href="/study/ug/fees-and-scholarships" class="no-title menu__link menu__link--level-0" data-drupal-link-system-path="node/60">Fees and Scholarships</a>
+          </div>
+                                        <div class="menu menu--level-1">
+        <ul class="menu__list menu__list--level-1">
+              <li class="menu__item menu__item--level-1">
+                              <div class="menu__link-wrapper">
+            <a href="/study/ug/fees-and-scholarships/fees" class="no-title menu__link menu__link--level-1" data-drupal-link-system-path="node/67810">Fees</a>
+          </div>
+                  </li>
+              <li class="menu__item menu__item--level-1">
+                              <div class="menu__link-wrapper">
+            <a href="/study/ug/fees-and-scholarships/scholarships" class="no-title menu__link menu__link--level-1" data-drupal-link-system-path="node/68395">Undergraduate Scholarships</a>
+          </div>
+                  </li>
+          </ul>
+  </div>
+    
+                  </li>
+              <li class="menu__item menu__item--level-0">
+                              <div class="menu__link-wrapper">
+            <a href="/study/ug/explore" class="no-title menu__link menu__link--level-0" data-drupal-link-system-path="node/70682">Explore</a>
+          </div>
+                                        <div class="menu menu--level-1">
+        <ul class="menu__list menu__list--level-1">
+              <li class="menu__item menu__item--level-1">
+                              <div class="menu__link-wrapper">
+            <a href="https://www.polyu.edu.hk/saso/vtour/" class="no-title menu__link menu__link--level-1">Virtual Campus Tour</a>
+          </div>
+                  </li>
+              <li class="menu__item menu__item--level-1">
+                              <div class="menu__link-wrapper">
+            <a href="/study/ug/explore/campus-visit-and-school-talk" class="no-title menu__link menu__link--level-1" data-drupal-link-system-path="node/70640">Campus Visit and School Talk</a>
+          </div>
+                  </li>
+              <li class="menu__item menu__item--level-1">
+                              <div class="menu__link-wrapper">
+            <a href="/study/ug/explore/pre-university-programmes" class="no-title menu__link menu__link--level-1" data-drupal-link-system-path="node/70634">Pre-University Programmes</a>
+          </div>
+                  </li>
+              <li class="menu__item menu__item--level-1">
+                              <div class="menu__link-wrapper">
+            <a href="/study/ug/newsletter" class="no-title menu__link menu__link--level-1" data-drupal-link-system-path="node/70641">Newsletter</a>
+          </div>
+                  </li>
+          </ul>
+  </div>
+    
+                  </li>
+              <li class="menu__item menu__item--level-0">
+                              <div class="menu__link-wrapper">
+            <a href="/study/ug/news" class="no-title menu__link menu__link--level-0" data-drupal-link-system-path="node/52">What’s New</a>
+          </div>
+                  </li>
+          </ul>
+  </div>
+    
+
+
+                    </div>
+    </div>
+    <div class="navigation-container--mobile">
+        <div class="top-area">
+            <div class="site-switcher">
+                
+              <div class="menu menu--level-0">
+        <ul class="menu__list menu__list--level-0">
+          <li class="active-trail ug_active menu__item menu__item--level-0">
+        <a href="/study/ug" class="menu__link menu__link--level-0" data-drupal-link-system-path="node/6">Undergraduate</a>
+              </li>
+          <li class="menu__item menu__item--level-0">
+        <a href="/study/pg" class="menu__link menu__link--level-0" data-drupal-link-system-path="node/70">Postgraduate</a>
+              </li>
+        </ul>
+    </div>
+  
+
+
+            </div>
+            <div class="header-links">
+                <div class="header-search">
+                    <a class="trigger-search" href="#"> <i class="fa-regular fa-magnifying-glass"></i></a>
+                </div>
+                <div class="header-share">
+                    <ul class="share-menu-level0">
+                        <li class="share-menu-item-level0">
+                            <a class="toggle-share-menu" href="#"> <i class="fa-regular fa-share-nodes"></i></a>
+                            <ul class="share-options">
+                                <li><a class="trigger-facebook-share" href="#"><i
+                                                class="fa-brands fa-square-facebook"></i> Facebook</a></li>
+                                <li><a class="trigger-linkedin-share" href="#"><i class="fa-brands fa-linkedin"></i> LinkedIn
+                                    </a></li>
+                                <li><a class="trigger-twitter-share" href="#"><i
+                                                class="fa-brands fa-square-twitter"></i> Twitter</a></li>
+                                <li><a class="trigger-weibo-share" href="#"><i class="fa-brands fa-weibo"></i> Weibo</a></li>
+                                <li><a class="trigger-mail-share" href="#"><i class="fa-solid fa-envelope"></i> Mail</a></li>
+                                <li><a class="trigger-copy-link" href="#"><i class="fa-solid fa-link"></i> Copy Link</a></li>
+                            </ul>
+                        </li>
+                    </ul>
+                </div>
+                <div class="close-btn">
+                    <i class="fa-regular fa-xmark"></i>
+                </div>
+            </div>
+        </div>
+        <div class="navigation-wrapper">
+                            
+                <div class="menu menu--ug-main menu--level-0">
+      <ul class="menu__list menu__list--level-0">
+              <li class="menu__item menu__item--level-0">
+                              <div class="menu__link-wrapper">
+            <a href="/study/ug/why-polyu" class="no-title menu__link menu__link--level-0" data-drupal-link-system-path="node/70650">Why PolyU</a>
+          </div>
+                                        <div class="menu menu--level-1">
+        <ul class="menu__list menu__list--level-1">
+              <li class="menu__item menu__item--level-1">
+                              <div class="menu__link-wrapper">
+            <a href="/study/ug/why-polyu" class="no-title menu__link menu__link--level-1" data-drupal-link-system-path="node/70650">Overview</a>
+          </div>
+                  </li>
+              <li class="menu__item menu__item--level-1">
+                              <div class="menu__link-wrapper">
+            <a href="/study/ug/why-polyu/unique-learning-experience" class="no-title menu__link menu__link--level-1" data-drupal-link-system-path="node/56">A Unique Learning Experience</a>
+          </div>
+                  </li>
+              <li class="menu__item menu__item--level-1">
+                              <div class="menu__link-wrapper">
+            <a href="https://www.polyu.edu.hk/en/about-polyu/university-ranking/" class="no-title menu__link menu__link--level-1">University Ranking</a>
+          </div>
+                  </li>
+              <li class="menu__item menu__item--level-1">
+                              <div class="menu__link-wrapper">
+            <a href="/study/ug/why-polyu/polyu-figures" class="no-title menu__link menu__link--level-1" data-drupal-link-system-path="node/50">PolyU in Figures</a>
+          </div>
+                  </li>
+              <li class="menu__item menu__item--level-1">
+                              <div class="menu__link-wrapper">
+            <a href="https://www.polyu.edu.hk/campus-life/" class="no-title menu__link menu__link--level-1">Campus Life</a>
+          </div>
+                  </li>
+              <li class="menu__item menu__item--level-1">
+                              <div class="menu__link-wrapper">
+            <a href="/study/ug/why-polyu/student-stories" class="no-title menu__link menu__link--level-1" data-drupal-link-system-path="node/70649">Student Stories</a>
+          </div>
+                  </li>
+          </ul>
+  </div>
+    
+                  </li>
+              <li class="menu__item menu__item--level-0">
+                              <div class="menu__link-wrapper">
+            <a href="/study/ug/programmes" class="no-title menu__link menu__link--level-0" data-drupal-link-system-path="node/51">Programmes</a>
+          </div>
+                                        <div class="menu menu--level-1">
+        <ul class="menu__list menu__list--level-1">
+              <li class="menu__item menu__item--level-1">
+                              <div class="menu__link-wrapper">
+            <a href="/study/ug/programmes/find-your-programmes" class="no-title menu__link menu__link--level-1" data-drupal-link-system-path="node/41">Find Your Programmes</a>
+          </div>
+                  </li>
+              <li class="menu__item menu__item--level-1">
+                              <div class="menu__link-wrapper">
+            <a href="/study/ug/programmes/faculties-and-schools" class="no-title menu__link menu__link--level-1" data-drupal-link-system-path="node/42">Our Faculties, Schools and College</a>
+          </div>
+                  </li>
+              <li class="menu__item menu__item--level-1">
+                              <div class="menu__link-wrapper">
+            <a href="/study/ug/programmes/programme-z" class="no-title menu__link menu__link--level-1" data-drupal-link-system-path="node/8">Programme A-Z</a>
+          </div>
+                  </li>
+          </ul>
+  </div>
+    
+                  </li>
+              <li class="menu__item menu__item--level-0">
+                              <div class="menu__link-wrapper">
+            <a href="/study/ug/admissions" class="no-title menu__link menu__link--level-0" data-drupal-link-system-path="node/59">Admissions</a>
+          </div>
+                                        <div class="menu menu--level-1">
+        <ul class="menu__list menu__list--level-1">
+              <li class="menu__item menu__item--level-1">
+                              <div class="menu__link-wrapper">
+            <a href="/study/ug/admissions/jupas" class="has-title menu__link menu__link--level-1" title="Local" data-drupal-link-system-path="node/44">JUPAS</a>
+          </div>
+                  </li>
+              <li class="menu__item menu__item--level-1">
+                              <div class="menu__link-wrapper">
+            <a href="/study/ug/admissions/non-jupas-year-1" class="has-title menu__link menu__link--level-1" title="Local" data-drupal-link-system-path="node/65917">Non-JUPAS Year 1</a>
+          </div>
+                  </li>
+              <li class="menu__item menu__item--level-1">
+                              <div class="menu__link-wrapper">
+            <a href="/study/ug/admissions/non-jupas-senior-year" class="has-title menu__link menu__link--level-1" title="Local" data-drupal-link-system-path="node/63">Non-JUPAS Senior Year</a>
+          </div>
+                  </li>
+              <li class="menu__item menu__item--level-1">
+                              <div class="menu__link-wrapper">
+            <a href="/study/ug/admissions/international-other-qualifications" class="has-title menu__link menu__link--level-1" title="Non-Local" data-drupal-link-system-path="node/65916">International / Other Qualifications</a>
+          </div>
+                  </li>
+              <li class="menu__item menu__item--level-1">
+                              <div class="menu__link-wrapper">
+            <a href="/study/ug/admissions/jee" class="has-title menu__link menu__link--level-1" title="Non-Local" data-drupal-link-system-path="node/65918">中国内地应届高考生</a>
+          </div>
+                  </li>
+          </ul>
+  </div>
+    
+                  </li>
+              <li class="menu__item menu__item--level-0">
+                              <div class="menu__link-wrapper">
+            <a href="/study/ug/fees-and-scholarships" class="no-title menu__link menu__link--level-0" data-drupal-link-system-path="node/60">Fees and Scholarships</a>
+          </div>
+                                        <div class="menu menu--level-1">
+        <ul class="menu__list menu__list--level-1">
+              <li class="menu__item menu__item--level-1">
+                              <div class="menu__link-wrapper">
+            <a href="/study/ug/fees-and-scholarships/fees" class="no-title menu__link menu__link--level-1" data-drupal-link-system-path="node/67810">Fees</a>
+          </div>
+                  </li>
+              <li class="menu__item menu__item--level-1">
+                              <div class="menu__link-wrapper">
+            <a href="/study/ug/fees-and-scholarships/scholarships" class="no-title menu__link menu__link--level-1" data-drupal-link-system-path="node/68395">Undergraduate Scholarships</a>
+          </div>
+                  </li>
+          </ul>
+  </div>
+    
+                  </li>
+              <li class="menu__item menu__item--level-0">
+                              <div class="menu__link-wrapper">
+            <a href="/study/ug/explore" class="no-title menu__link menu__link--level-0" data-drupal-link-system-path="node/70682">Explore</a>
+          </div>
+                                        <div class="menu menu--level-1">
+        <ul class="menu__list menu__list--level-1">
+              <li class="menu__item menu__item--level-1">
+                              <div class="menu__link-wrapper">
+            <a href="https://www.polyu.edu.hk/saso/vtour/" class="no-title menu__link menu__link--level-1">Virtual Campus Tour</a>
+          </div>
+                  </li>
+              <li class="menu__item menu__item--level-1">
+                              <div class="menu__link-wrapper">
+            <a href="/study/ug/explore/campus-visit-and-school-talk" class="no-title menu__link menu__link--level-1" data-drupal-link-system-path="node/70640">Campus Visit and School Talk</a>
+          </div>
+                  </li>
+              <li class="menu__item menu__item--level-1">
+                              <div class="menu__link-wrapper">
+            <a href="/study/ug/explore/pre-university-programmes" class="no-title menu__link menu__link--level-1" data-drupal-link-system-path="node/70634">Pre-University Programmes</a>
+          </div>
+                  </li>
+              <li class="menu__item menu__item--level-1">
+                              <div class="menu__link-wrapper">
+            <a href="/study/ug/newsletter" class="no-title menu__link menu__link--level-1" data-drupal-link-system-path="node/70641">Newsletter</a>
+          </div>
+                  </li>
+          </ul>
+  </div>
+    
+                  </li>
+              <li class="menu__item menu__item--level-0">
+                              <div class="menu__link-wrapper">
+            <a href="/study/ug/news" class="no-title menu__link menu__link--level-0" data-drupal-link-system-path="node/52">What’s New</a>
+          </div>
+                  </li>
+          </ul>
+  </div>
+    
+
+
+                    </div>
+        <div class="header-quick-access">
+                            
+              <div class="menu menu--level-0">
+        <ul class="menu__list menu__list--level-0">
+          <li class="menu__item menu__item--level-0">
+        <a href="/study/ug/contact-us" class="menu__link menu__link--level-0" data-drupal-link-system-path="node/70683">Contact Us</a>
+              </li>
+          <li class="active-trail ug_active menu__item menu__item--level-0">
+        <a href="" class="trigger-quick-access menu__link menu__link--level-0">Quick Access</a>
+              </li>
+        </ul>
+    </div>
+  
+
+
+                    </div>
+    </div>
+
+  </div>
+
+                  <div class="region region--header">
+    <div data-drupal-messages-fallback class="hidden"></div>
+
+  </div>
+
+            </div>
+            </header>
+
+    <main class="page__main" role="main" id="main-content">
+                    <div class="uni-wrapper">
+                
+                  <div class="region region--content">
+    <div id="block-polyu-theme-content" class="block block--system block--system-main-block block--polyu-theme-content block--content block--content--polyu-theme-content block--system--content block--system-main-block--content">
+  
+    
+      
+
+
+
+
+<article role="article" class="node node--full node--prog-detail-jps node--prog-detail-jps--full node--70292 node--70292--full fire_red">
+    <div class="banner" style="background-image: url(/study/profiles/contrib/polyu_study_profile/themes/polyu_theme/assets/images/banner/fire_red_bg.png);">
+        <div class="container">
+            <div class="main-section">
+                <div class="left-section">
+                      <nav role="navigation" aria-labelledby="system-breadcrumb">
+    <h2 id="system-breadcrumb" class="visually-hidden">Breadcrumb</h2>
+    <ol>
+          <li>
+                  <a href="/study/ug">Home</a>
+              </li>
+          <li>
+                  <a href="/study/ug/programmes">Programmes</a>
+              </li>
+          <li>
+                  <a href="/study/ug/programmes/faculties-and-schools">Our Faculty and Schools</a>
+              </li>
+          <li>
+                  <a href="https://www.polyu.edu.hk/feng/">Faculty of Engineering</a>
+              </li>
+          <li>
+                  <a href="https://www.polyu.edu.hk/eee/">Department of Electrical and Electronic Engineering</a>
+              </li>
+        </ol>
+  </nav>
+
+                                            <div class="scheme">
+                            Bachelor of Engineering (Honours) / Bachelor of Science (Honours) Scheme in Information and Artificial Intelligence Engineering (Internet-of-Things / Artificial Intelligence / Information Security)
+                        </div>
+                                                                                    <div class="title-chi">
+                            資訊及人工智能工程學(榮譽)工學士 / 理學士組合課程 (物聯網 / 人工智能 / 資訊安全)
+                        </div>
+                                                        </div>
+            </div>
+        </div>
+    </div>
+    <div class="prog-type-list-container">
+        <div>
+            <ul>
+                                                        <li><a href="/study/ug/jupas/2027/js3180" class="button prog_detail_jps is-active">JUPAS</a></li>
+                                                        <li><a href="/study/ug/non-jupas/2027/js3180" class="button prog_detail_nj ">Non-JUPAS Year 1</a></li>
+                                                        <li><a href="/study/ug/international/2027/js3180" class="button prog_detail_international ">International / Other Qualification</a></li>
+                                                        <li><a href="/study/ug/jee/2027/js3180" class="button prog_detail_jee ">內地应届高考生</a></li>
+                                </li>
+        </div>
+              <div>
+            <div><span class="faculty-of-engineering-icon"></span>Faculty of Engineering</div>
+        </div>
+          </div>
+    
+    <div class="prog-detail-container">
+        <div class="prog-detail-wrapper jps-details">
+            <div class="table-container">
+                <div class="column">
+                    <div class="text">CODE</div>
+                    <div class="data">JS3180</div>
+                </div>
+                <div class="column">
+                    <div class="text">ENTRY</div>
+                    <div class="data"><p>Sept 2027 Entry</p></div>
+                </div>
+                <div class="column">
+                    <div class="text">STUDY MODE</div>
+                    <div class="data">Full-time</div>
+                </div>
+                <div class="column">
+                    <div class="text">DURATION</div>
+                    <div class="data"><p>4 years</p></div>
+                </div>
+                <div class="column">
+                    <div class="text">CREDIT REQUIRED</div>
+                    <div class="data"><p>120 (plus training credits)</p></div>
+                </div>
+                <div class="column">
+                    <div class="text">PROGRAMME INTAKE</div>
+                    <div class="data">371 (Combined intake for programmes JS3005 [around 37], JS3140 [around 49], JS3150 [around 22], JS3160 [around 18], JS3170 [around 49], JS3180 [around 56], JS3236 [around 46], JS3237 [around 43] and JS3741 [around 51]) (JUPAS and Non-JUPAS)</div>
+                </div>
+                <div class="column" style="width: 100%">
+                    <div class="text">FUND TYPE</div>
+                    <div class="data">Government-Funded</div>
+                </div>
+                <div class="column" style="width:100%;">
+                    <div class="text">Programme Leader</div>
+                    <div class="data"><p>&nbsp;</p><p><strong><u>Scheme Leader</u></strong><br>Prof. LAW Ngai-Fong, Bonnie<br><em>PhD, SrMIEEE</em></p><p>&nbsp;</p><p><strong><u>Programme Leader - BEng (Hons) in Electronic Systems and Internet-of-Things</u></strong><br>Prof. HO Wang-Hei, Ivan<br><em>PhD, DIC, CEng, FIET, SrMIEEE, MHKIE</em></p><p>&nbsp;</p><p><strong><u>Programme Leader - BSc (Hons) in Artificial Intelligence and Information Engineering</u></strong><br>Prof. LAW Ngai-Fong, Bonnie<br><em>PhD, SrMIEEE</em></p><p>&nbsp;</p><p><strong><u>Programme Leader - BSc (Hons) in Information Security</u></strong><br>Prof. LIU Liang<br><em>PhD, MIEEE</em></p></div>
+                </div>
+            </div>
+            <div class="remark">
+                <ul><li><p class="text-align-justify">Students will gain one of the following awards upon successful completion of the graduation requirements of the programme concerned:</p><ul><li>BEng (Hons) in&nbsp;Electronic Systems and Internet-of-Things 電子系統及物聯網(榮譽)工學士</li><li>BSc (Hons) in Artificial Intelligence and Information Engineering 人工智能及資訊工程學(榮譽)理學士</li><li>BSc (Hons) in Information Security 資訊安全(榮譽)理學士</li></ul></li><li><p class="text-align-justify">Students are allowed to enrol&nbsp;in any programme&nbsp;without being subject to further assessment.</p></li><li><p class="text-align-justify">The option of a Secondary Major in Artificial Intelligence and Data Analytics (AIDA) is available to students of BEng (Hons) in Electronic Systems and Internet-of-Things. Admission to the Secondary Major is on a competitive basis and subject to a different credit requirement for graduation. Please see the “Secondary Major Details” section for more details.</p></li><li><p class="text-align-justify">Students may pursue a Minor in a different discipline.</p></li><li><p class="text-align-justify">The credit requirements of this scheme&nbsp;are indicative only. They are&nbsp;subject to review.</p></li><li><p class="text-align-justify">All information is subject to change without notice.</p></li></ul><p>&nbsp;</p><p><strong>Entry Scholarship</strong></p><ul><li><p class="text-align-justify"><span>To give encouragement and recognition to HKDSE students with outstanding academic performance and to support their studies at The Hong Kong Polytechnic University (PolyU), the Department of Electrical and Electronic Engineering (EEE) at PolyU provides Departmental Entry Academic Scholarships for JUPAS applicants*. Details of the scholarship will be announced in due course.</span></p></li></ul><p class="text-align-justify"><em>*Subject to approval</em></p>
+            </div>
+        </div>
+        <div class="deadline-news-wrapper">
+                            <div class="prog-application-deadline">
+                    <div class="deadline-header trn">Application Deadline</div>
+                                            <div class="local">
+                            <div class="local">Non-JUPAS Year 1</div>
+                            <div class="deadline">2026-11-17</div>
+                        </div>
+                                            <div class="non-local">
+                            <div class="non-local">International / Other Qualification</div>
+                            <div class="deadline">2026-11-17</div>
+                        </div>
+                                            <div class="non-local">
+                            <div class="non-local">內地应届高考生</div>
+                            <div class="deadline">2027年6月13日</div>
+                        </div>
+                                    </div>
+                <div class="whats-new-container">
+                    <div class="views-element-container container container--no-parent container--view container--view--news container--view--news--block-latest-news-v2-vertical"><div class="views-view js-view-dom-id-ca9cd9ce9d514e490f4ede79224bff0a53fbc2ffde9d70a0f43432a69384f3d3">
+  
+  
+  
+
+      <header>
+      <h2> What's New</h2>
+<p><a href="/study/ug/news"><span>More News</span> <i class="fa-solid fa-angle-right"></i></a></p>
+
+    </header>
+  
+  
+  
+
+  <div class="views-field views-field-title"><span class="field-content"><div class="outer-container">
+  <img loading="lazy" src="/study/sites/default/files/styles/thumbnail_210_120/public/2026-10/20261015_FB_IG_NL%20Webinar_web%20banner_0.jpg?itok=bYO0hCfk" width="210" height="120" alt="Application Step-by-Step for Non-Local Applicants" class="image" />
+
+
+ 
+<ul class="item-list"><li><div class="pastel_orange">
+    Undergraduate
+</div></li></ul>
+Webinar: Application Step-by-Step for Non-Local Applicants
+</div>
+
+</span></div><div class="views-field views-field-title"><span class="field-content"><div class="outer-container">
+  <img loading="lazy" src="/study/sites/default/files/styles/thumbnail_210_120/public/2026-09/InfoDay2026_KV_webbanners_Study%40PolyU%20Web%202280x1300_v2_0.jpg?itok=cEpEdgqF" width="210" height="120" alt="PolyU Info Day 2026" class="image" />
+
+
+ 
+<ul class="item-list"><li><div class="pastel_orange">
+    Undergraduate
+</div></li></ul>
+PolyU InfoDay: 10 Oct 2026, 10:00–17:00. Register now — your future starts here!  
+</div>
+
+</span></div>
+    
+
+  
+  
+
+  
+  
+</div>
+</div>
+
+                </div>
+                    </div>
+        <div class="prog-detail-wrapper2">
+            <div class="tabs">
+                <div class="swiper tab-swiper">
+                    <div class="swiper-wrapper">
+                        <div class="swiper-slide tab trn fire_red" data-id="about-programme">
+                            About Programme
+                        </div>
+                        <div class="swiper-slide tab trn fire_red" data-id="specific-notes">
+                            Specific Notes
+                        </div>
+                        <div class="swiper-slide tab trn fire_red" data-id="how-to-apply">
+                            How to Apply
+                        </div>
+                    </div>
+                    <div class="swiper-button-prev">
+                    </div>
+                    <div class="swiper-button-next">
+                    </div>
+                </div>
+            </div>
+            <div class="contents">
+                <div class="content" data-id="about-programme">
+                    <div class="about-programme-container">
+                        <div class="jps-about-programme">
+                              <div>
+              <div class="field field--text-long field--field-prog-aim field--node--prog-detail-jps field--node--field-prog-aim field--node--field-prog-aim--prog-detail-jps field--field-prog-aim--about-programme field--node--field-prog-aim--about-programme field--node--prog-detail-jps--field-prog-aim--about-programme field--label-above">
+      <div class="field__label">Aims &amp; Characteristics</div>
+              <div class="field__item"><p class="text-align-justify"><strong><u>Programme Aims</u></strong></p>
+<p class="text-align-justify">  <br />The <strong>Bachelor of Engineering (Honours)/Bachelor of Science (Honours) Scheme in Information and Artificial Intelligence Engineering</strong> consists of the following programmes. Students admitted to the Scheme study together during the first year and then complete their preferred programme, normally within three years. Under this arrangement, students can make their choice after they have obtained a better understanding of the programmes. </p>
+<ul><li>
+<p class="text-align-justify"><strong>BEng (Hons) in Electronic Systems and Internet-of-Things</strong> </p>
+<p class="text-align-justify">Electronic Systems and Internet-of-Things (IoT) are among the key technologies that play important roles in modern-day living. Various sectors, including business, commerce, communication, education, entertainment, healthcare and transportation, require Electronic Systems and IoT for efficient operation.  The programme aims to develop graduates with a wide range of professional knowledge and skills relevant to Electronic Systems and Internet-of-Things (IoT). The programme covers leading-edge technologies in electronic engineering, with a focus on IoT and related applications. These include artificial intelligence of things, robotics, sensor technologies, electronic devices and their associated software to sense, measure, interpret, connect and analyse data. </p>
+<p class="text-align-justify"> </p>
+</li>
+<li>
+<p class="text-align-justify"><strong>BSc (Hons) in Artificial Intelligence and Information Engineering</strong></p>
+<p class="text-align-justify">With the rapid expansion and dissemination of information and smart communication technologies in daily life, professionals in the areas of information engineering and artificial intelligence are in great demand. This programme aims at developing graduates into artificial intelligence specialists and professionals in information engineering. The programme covers technological innovations in artificial intelligence and information engineering, focusing on machine perception and data science, as well as applications related to information engineering, such as computer vision, healthcare technology, bioinformatics, natural language processing and automatics and robotics.</p>
+<p class="text-align-justify"> </p>
+</li>
+<li>
+<p><strong> BSc (Hons) in Information Security</strong></p>
+<p class="text-align-justify">Recent advances in information and communication technologies (ICT) have brought people great convenience in their daily lives. Information has become one of the most valuable assets for every country and business and it requires careful protection. Protecting data security and privacy and safeguarding against the risk of potentially devastating security attacks and misuses have thus become a vital concern to all countries and organisations. This programme aims to produce graduates with a wide range of professional knowledge and skills relevant to information security, including but not limited to computer, network, wireless, mobile, database, web, IoT security, audit and compliance. The programme covers both large-scale and small-scale security issues and provides the necessary training to students.</p>
+<p class="text-align-justify"> </p>
+</li>
+</ul><p><strong><u>Programme Characteristics</u></strong></p>
+<p> </p>
+<p class="text-align-justify"><strong>BEng (Hons) in Electronic Systems and Internet-of-Things</strong> emphasises both theory and application. In the latter part of Year Three, students can use the knowledge that they have acquired to conduct an IoT project. In the Final Year, students can focus on selected areas by choosing relevant electives and completing a Capstone Project. <br /> <br /><strong>BSc (Hons) in Artificial Intelligence and Information Engineering</strong> offers an effective mix of basic theory, hands-on practice and application. In the latter part of Year Three, students use the knowledge that they have acquired to conduct an artificial intelligence-based Integrated Project. They can focus on their selected areas by choosing relevant electives. In their Final Year, students must complete a Capstone Project.<br /> <br /><strong>BSc (Hons) in Information Security </strong>offers a good mix of basic theory, hands-on practice and application. In the latter part of Year Three, students can use the knowledge that they have acquired to conduct an integrated project. During the summer of Year Three, students have the opportunity to join an internship programme. In the Final Year, students can focus on selected areas by choosing relevant electives.<br /> <br />Students can gain workplace training opportunities within and outside Hong Kong through Work-Integrated Education (WIE).<br />  <br />Students can also participate in the exchange programme and spend a semester at an overseas university. The exchange programme offers excellent opportunities for students to study abroad, broaden their horizons and develop an appreciation of the cultures of other countries. <br /> <br />Engineering and Entrepreneurship Club (E&amp;E Club) provides a platform to enhance students’ interests in engineering and understanding of entrepreneurship. E&amp;E Club organises workshops to train students’ technical skills and invites experts to share about the requirements of entrepreneurship with students. It further supports students' participation in both local and overseas underwater robot competitions.<br />  <br />Seminars, industry visits and overseas study tours are also organised to broaden the students’ horizons.</p>
+<p> </p>
+<p class="text-align-justify">*All admitted students will embark on a Common Year One curriculum. Towards the end of year one, students can decide whether to continue with their initial choice or switch to another choice within the Faculty of Engineering. Those who wish to change to another choice need to join a competitive process through a ranking assessment, which considers a combination of entrance qualification score, Year One GPA, and interview performance.</p>
+</div>
+          </div>
+            <div class="field field--text-long field--field-prog-prospect field--node--prog-detail-jps field--node--field-prog-prospect field--node--field-prog-prospect--prog-detail-jps field--field-prog-prospect--about-programme field--node--field-prog-prospect--about-programme field--node--prog-detail-jps--field-prog-prospect--about-programme field--label-above">
+      <div class="field__label">Recognition &amp; Prospects</div>
+              <div class="field__item"><p><strong><u>Professional Recognition</u></strong></p>
+<p> </p>
+<p class="text-align-justify">The BEng (Hons) in Electronic Systems and Internet-of-Things and BSc (Hons) in Information Security programmes have been granted full accreditation by the Hong Kong Institution of Engineers (HKIE). Provisional accreditation has been granted by the Hong Kong Institution of Engineers (HKIE) for the BSc (Hons) in Artificial Intelligence and Information Engineering.</p>
+<p> </p>
+<p><strong><u>Career Prospects</u></strong></p>
+<p> </p>
+<p><strong>BEng (Hons) in Electronic Systems and Internet-of-Things</strong></p>
+<p> </p>
+<p class="text-align-justify">The Internet of Things (IoT) is a fast-developing field throughout the world. According to Fortune Business Insights, the global IoT market was valued at US$190 billion in 2018 and is projected to reach US$1,102.6 billion by 2026. However, Immersat Research finds that around 47% of organisations surveyed do not possess sufficient IoT skills and are outsourcing such work. Gartner Research predicts that around 75% of IoT projects may take twice as long as they should because of the shortage of IoT talent. In 2020, the Government of the Hong Kong Special Administrative Region published the Hong Kong Smart City Blueprint 2.0, in which the Government put forward over 130 initiatives, many of them related to IoT. This programme aims at training IoT professionals who will meet Hong Kong’s pressing labour force needs in the emerging IoT area. Students will acquire the necessary professional skills to contribute to IoT development in Hong Kong and overseas by participating in various IoT projects in both public sectors and private companies.</p>
+<p> </p>
+<p><strong>BSc (Hons) in Artificial Intelligence and Information Engineering</strong></p>
+<p> </p>
+<p class="text-align-justify">Information engineering encompasses vital technologies that support worldwide economic growth. With the increasing popularity of and technological advances in artificial intelligence, products and services with intelligent features are in great demand, and new models and apps are being developed every day. Upon graduation, students will possess sufficient knowledge to commence careers in the following areas:</p>
+<ul><li>
+<p class="text-align-justify">Smart mobile communications services – e.g., network engineer, telecommunication engineer.</p>
+</li>
+<li>
+<p class="text-align-justify">Software / Mobile app development – e.g., software engineer, mobile app developer.</p>
+</li>
+<li>
+<p class="text-align-justify">Internet-related business via the use of cloud technologies and data analytics – e.g., data scientist and engineer, intelligence system engineer.</p>
+</li>
+<li>
+<p class="text-align-justify">Data centres – e.g., big-data developer, cloud engineer</p>
+</li>
+<li>
+<p class="text-align-justify">AI-related applications and development – e.g., AI specialist, machine-learning engineer</p>
+</li>
+</ul><p> </p>
+<p><strong>BSc (Hons) in Information Security</strong></p>
+<p> </p>
+<p class="text-align-justify">The field of ICT offers enormous opportunities in Hong Kong and worldwide, particularly in information security. Corporations recruit ICT professionals to support their businesses by deploying new technologies. Further transition towards a knowledge society and the shifting of the ICT sector toward cloud computing and mobile communications will require ICT employees to acquire new skills and knowledge, particularly in the area of information security.</p>
+<p class="text-align-justify"> </p>
+<p class="text-align-justify">Several recent employment surveys conducted in Hong Kong and worldwide indicate the need for manpower in information security. For example, the 2019 Robert Half Salary Guide shows that chief information officers found it challenging to find qualified IT staff in IT security, software/application development and data/database management. Many qualified technology professionals in Hong Kong are receiving multiple offers, as IT job opportunities are on the rise, partly because of the growth of Chinese Mainland companies investing in and expanding into Hong Kong. The “Hong Kong Technology Salary Guide 2019” conducted by Robert Walters, finds that demand is high for specialists in infrastructure and cyber security, as companies need to review security policy and respond to the growing threat of cybercrime. Salary increments of more than 30% can be expected for technology job seekers with niche/scarce skill sets related to information security. In summary, graduates from the information security discipline can expect very promising career prospects both locally and globally.</p>
+</div>
+          </div>
+            <div class="field field--text-long field--field-prog-curriculum field--node--prog-detail-jps field--node--field-prog-curriculum field--node--field-prog-curriculum--prog-detail-jps field--field-prog-curriculum--about-programme field--node--field-prog-curriculum--about-programme field--node--prog-detail-jps--field-prog-curriculum--about-programme field--label-above">
+      <div class="field__label">Curriculum</div>
+              <div class="field__item"><ul><li>
+<p class="text-align-justify">In Year One, all students will embark on a Common Year One curriculum within the Faculty of Engineering. </p>
+</li>
+</ul><p><strong>BEng (Hons) in Electronic Systems and Internet-of-Things</strong></p>
+<ul><li>Year Two: Basic Circuit Analysis and Electronics, Fundamentals of Machine Intelligence, Introduction to Internet of Things, Logic Design, Linear Systems, Mathematics and Industrial Centre Training.</li>
+<li>
+<p class="text-align-justify">Year Three: Communication Fundamentals, Computer System Fundamentals, Data and Computer Communications, Database System, Dynamic Electronic Systems, Microcontroller Systems and Interface, IoT Workshop &amp; Project, Wireless and Mobile Systems, Multidisciplinary Manufacturing Project and Technical Elective subjects.</p>
+</li>
+<li>
+<p class="text-align-justify">Year Four: Engineering Management, IoT Security, Service-Learning, Professional Communication subject, Professionals in Society, Capstone Project and technical elective subjects.</p>
+</li>
+<li>
+<p class="text-align-justify">To graduate from the programme, students must complete the Work-Integrated Education requirement, i.e., two weeks of full-time employment within the study period.</p>
+</li>
+</ul><p class="text-align-justify"> </p>
+<p><strong>BSc (Hons) in Artificial Intelligence and Information Engineering   </strong></p>
+<ul><li>
+<p class="text-align-justify">The curriculum in the second, third and fourth years covers fundamental and advanced knowledge and applications of artificial intelligence and information engineering.</p>
+</li>
+<li>
+<p class="text-align-justify">Core subjects cover the theories and applications of computers, data science, artificial intelligence, mobile systems, programming, data and computer communications, databases, intelligent technologies, IP networks, web systems and technologies, together with an integrated project and a Capstone Project.</p>
+</li>
+<li>
+<p class="text-align-justify">To graduate from the programme, students must complete the Work-Integrated Education requirement, i.e., two weeks of full-time employment within the study period.</p>
+</li>
+</ul><p class="text-align-justify"> </p>
+<p><strong>BSc (Hons) in Information Security</strong></p>
+<ul><li>
+<p class="text-align-justify">Year Two: Applied Cryptography, Data Structures and Algorithms, Database System, Digital and Computer System, Discrete Mathematics, Data and Computer Communication, Operating Systems and Foundation Techniques in Artificial Intelligence.</p>
+</li>
+<li>
+<p class="text-align-justify">Year Three: Computer Systems Principles and Security, Database Security, Computer System Security, Integrated Project, Legal Aspects and Ethics of Computing, Network Security, Professionals in Society, Professional Communication subject, System Programming, Web Systems and Technologies, and Technical Elective subjects.</p>
+</li>
+<li>
+<p class="text-align-justify">Year Four: Engineering Management, Service and Cloud Computing, Service-Learning, Wireless and Mobile Systems, Capstone Project and Technical Elective subjects.</p>
+</li>
+<li>
+<p class="text-align-justify">To graduate from the programme, students must complete the Summer Internship and Work-Integrated Education requirement, i.e., four weeks of full-time employment within the study period.</p>
+</li>
+</ul><p class="text-align-justify"> </p>
+<p class="text-align-justify">Information on the subjects offered can be obtained at <a href="https://www.polyu.edu.hk/eee/" target="_blank"><span style="color:#0000FF;">https://www.polyu.edu.hk/eee/</span></a>.</p>
+<p class="text-align-justify"> </p>
+<p class="text-align-justify">* The curriculum is subject to review, and changes may be made by the department from time to time.</p>
+</div>
+          </div>
+            <div class="field field--text-long field--field-prog-sec-maj field--node--prog-detail-jps field--node--field-prog-sec-maj field--node--field-prog-sec-maj--prog-detail-jps field--field-prog-sec-maj--about-programme field--node--field-prog-sec-maj--about-programme field--node--prog-detail-jps--field-prog-sec-maj--about-programme field--label-above">
+      <div class="field__label">Secondary Major Details</div>
+              <div class="field__item"><p class="text-align-justify">The option of Secondary Major in <strong>Artificial Intelligence and Data Analytics (AIDA)</strong> is available to the students of <strong>BEng (Hons) in Electronic Systems and Internet-of-Things (ESIoT):</strong></p>
+<p> </p>
+<p><strong><u>Features</u></strong></p>
+<p class="text-align-justify">Artificial intelligence and data analytics are the prevalent technologies across various disciplines and have become a standard approach to enriching business, advancing technology and achieving breakthroughs in virtually all fields. The Department is fully aware of the opportunities and challenges brought about by the new economy and believes that it is indispensable for the next generation of the workforce to possess expertise in AIDA and IoT, which is a fast-developing field throughout the world and for which Hong Kong has a pressing need for workers, as encapsulated in the Hong Kong Smart City Blueprint 2.0 published by the Government of the Hong Kong Special Administrative Region.</p>
+<p class="text-align-justify"> </p>
+<p class="text-align-justify">The curriculum of BEng (Hons) in ESIoT aims to develop students’ fundamental discipline-specific knowledge in IoT and generic competencies in a professional context. These include artificial intelligence of things, robotics, sensor technologies, electronic devices and their associated software to sense, measure, interpret, connect and analyse data. Foundation computer science and statistics subjects will provide the basis for the study of AI. Students will take upper-level AI subjects designed in the Secondary Major to enable them to integrate AIDA skills into the study of BEng (Hons) in ESIoT. </p>
+<p class="text-align-justify"> </p>
+<p class="text-align-justify">A key feature of this Secondary Major is the Integrated Capstone Project (ICP) requirement that students will undertake in their final years of study. Students are expected to identify a project topic with a supervisor in IoT and a co-supervisor with AI expertise. Students need to work under both supervisors and demonstrate their knowledge in both IoT and AIDA in the project. Through the project, students will have the opportunity to apply their knowledge learned in various subjects in IoT and AIDA to solve practical problems, develop an in-depth understanding of the technologies involved and be inspired to innovate new solutions and technologies that will contribute to the advancement of the IoT and AIDA fields.</p>
+<p> </p>
+<p><strong><u>Remarks</u></strong></p>
+<ul><li>
+<p class="text-align-justify">Studying for a Secondary Major is a free choice by students and is not mandatory. Only students with a cumulative GPA of 2.7 or above may be considered for Secondary Major enrolment. This Secondary Major may stipulate additional selection criteria for admission and is subject to quota availability. The details on selecting a Secondary Major will be announced in semester two of the first year of study.</p>
+</li>
+</ul></div>
+          </div>
+            <div class="field field--text-long field--field-prog-entrance-req field--node--prog-detail-jps field--node--field-prog-entrance-req field--node--field-prog-entrance-req--prog-detail-jps field--field-prog-entrance-req--about-programme field--node--field-prog-entrance-req--about-programme field--node--prog-detail-jps--field-prog-entrance-req--about-programme field--label-above">
+      <div class="field__label">Entrance Requirements and Subject Weightings</div>
+              <div class="field__item"><p><span style="color:rgb(34, 34, 34);">Satisfy the University's </span><a style="background-color:transparent;box-sizing:border-box;color:rgb(77, 163, 85) !important;" href="https://www.polyu.edu.hk/study/ug/admissions/jupas/jupas-general-entrance-requirements" target="_blank"><span style="color:rgb(0, 0, 255);"><u>General Entrance Requirements</u></span></a><span style="color:rgb(34, 34, 34);">.</span></p>
+<p> </p>
+<p>Please click <a href="https://www.polyu.edu.hk/saso/docdrive/jupas/2027_JS3180_SW.pdf" target="_blank"><span style="color:rgb(0, 0, 255);"><u>here</u></span></a> for the subject weightings for 2027/28.</p>
+</div>
+          </div>
+            <div class="field field--text-long field--field-prog-pref-subj-wgt-cap field--node--prog-detail-jps field--node--field-prog-pref-subj-wgt-cap field--node--field-prog-pref-subj-wgt-cap--prog-detail-jps field--field-prog-pref-subj-wgt-cap--about-programme field--node--field-prog-pref-subj-wgt-cap--about-programme field--node--prog-detail-jps--field-prog-pref-subj-wgt-cap--about-programme field--label-above">
+      <div class="field__label">Preferred Subjects with the Highest Weighting</div>
+              <div class="field__item"><p>There is no compulsory subject requirement. Preferred subject(s) with the highest weighting for admission score calculation include(s):</p>
+</div>
+          </div>
+            <div class="field field--entity-reference field--entity-reference-type--taxonomy-term field--field-prog-pref-subj-wgt field--node--prog-detail-jps field--node--field-prog-pref-subj-wgt field--node--field-prog-pref-subj-wgt--prog-detail-jps field--field-prog-pref-subj-wgt--about-programme field--node--field-prog-pref-subj-wgt--about-programme field--node--prog-detail-jps--field-prog-pref-subj-wgt--about-programme field--label-hidden">
+              <div class="field__item">English Language</div>
+              <div class="field__item">Mathematics</div>
+              <div class="field__item">Mathematics (Extended part - Calculus and Statistics)</div>
+              <div class="field__item">Mathematics (Extended part - Algebra and Calculus)</div>
+              <div class="field__item">Biology</div>
+              <div class="field__item">Chemistry</div>
+              <div class="field__item">Physics</div>
+              <div class="field__item">Combined Science: Biology + Chemistry</div>
+              <div class="field__item">Combined Science: Biology + Physics</div>
+              <div class="field__item">Combined Science: Physics + Chemistry</div>
+              <div class="field__item">Information and Communication Technology</div>
+          </div>
+            <div class="field field--text-long field--field-prog-pref-apl-subj-cap field--node--prog-detail-jps field--node--field-prog-pref-apl-subj-cap field--node--field-prog-pref-apl-subj-cap--prog-detail-jps field--field-prog-pref-apl-subj-cap--about-programme field--node--field-prog-pref-apl-subj-cap--about-programme field--node--prog-detail-jps--field-prog-pref-apl-subj-cap--about-programme field--label-above">
+      <div class="field__label">Preferred Applied Learning Subjects</div>
+              <div class="field__item"><p>Applied Learning Subject(s):</p>
+</div>
+          </div>
+            <div class="field field--entity-reference field--entity-reference-type--taxonomy-term field--field-prog-pref-apl-subj-lst field--node--prog-detail-jps field--node--field-prog-pref-apl-subj-lst field--node--field-prog-pref-apl-subj-lst--prog-detail-jps field--field-prog-pref-apl-subj-lst--about-programme field--node--field-prog-pref-apl-subj-lst--about-programme field--node--prog-detail-jps--field-prog-pref-apl-subj-lst--about-programme field--label-hidden">
+              <div class="field__item"><a href="/study/taxonomy/term/2542" hreflang="en">AI and Robotics</a></div>
+              <div class="field__item"><a href="/study/taxonomy/term/2109" hreflang="en">Computer Forensic Technology</a></div>
+              <div class="field__item"><a href="/study/taxonomy/term/2306" hreflang="en">Constructing Smart Cities</a></div>
+              <div class="field__item"><a href="/study/taxonomy/term/2679" hreflang="en">Cybersecurity</a></div>
+              <div class="field__item"><a href="/study/taxonomy/term/2112" hreflang="en">Electrical and Energy Engineering</a></div>
+              <div class="field__item"><a href="/study/taxonomy/term/2113" hreflang="en">Electronic Product Design in Action</a></div>
+              <div class="field__item"><a href="/study/taxonomy/term/2234" hreflang="en">Internet of Everything Application</a></div>
+              <div class="field__item"><a href="/study/taxonomy/term/2155" hreflang="en">Mobile and Online Apps Development</a></div>
+              <div class="field__item"><a href="/study/taxonomy/term/2375" hreflang="en">Tech Basics</a></div>
+          </div>
+            <div class="field field--text-long field--field-prog-rel-apl-subj-cap field--node--prog-detail-jps field--node--field-prog-rel-apl-subj-cap field--node--field-prog-rel-apl-subj-cap--prog-detail-jps field--field-prog-rel-apl-subj-cap--about-programme field--node--field-prog-rel-apl-subj-cap--about-programme field--node--prog-detail-jps--field-prog-rel-apl-subj-cap--about-programme field--label-above">
+      <div class="field__label">Relevant Applied Learning Subjects</div>
+              <div class="field__item"><p>Relevant Applied Learning subject(s) that can be considered for meeting the University entrance requirement and admission score calculation is/are:</p>
+</div>
+          </div>
+            <div class="field field--entity-reference field--entity-reference-type--taxonomy-term field--field-prog-rel-apl-subj-lst field--node--prog-detail-jps field--node--field-prog-rel-apl-subj-lst field--node--field-prog-rel-apl-subj-lst--prog-detail-jps field--field-prog-rel-apl-subj-lst--about-programme field--node--field-prog-rel-apl-subj-lst--about-programme field--node--prog-detail-jps--field-prog-rel-apl-subj-lst--about-programme field--label-hidden">
+              <div class="field__item"><a href="/study/taxonomy/term/2542" hreflang="en">AI and Robotics</a></div>
+              <div class="field__item"><a href="/study/taxonomy/term/2540" hreflang="en">AI in Business</a></div>
+              <div class="field__item"><a href="/study/taxonomy/term/2109" hreflang="en">Computer Forensic Technology</a></div>
+              <div class="field__item"><a href="/study/taxonomy/term/2306" hreflang="en">Constructing Smart Cities</a></div>
+              <div class="field__item"><a href="/study/taxonomy/term/2679" hreflang="en">Cybersecurity</a></div>
+              <div class="field__item"><a href="/study/taxonomy/term/2233" hreflang="en">Data Application for Business / Business Data Analysis</a></div>
+              <div class="field__item"><a href="/study/taxonomy/term/2112" hreflang="en">Electrical and Energy Engineering</a></div>
+              <div class="field__item"><a href="/study/taxonomy/term/2113" hreflang="en">Electronic Product Design in Action</a></div>
+              <div class="field__item"><a href="/study/taxonomy/term/2234" hreflang="en">Internet of Everything Application</a></div>
+              <div class="field__item"><a href="/study/taxonomy/term/2155" hreflang="en">Mobile and Online Apps Development</a></div>
+              <div class="field__item"><a href="/study/taxonomy/term/2375" hreflang="en">Tech Basics</a></div>
+          </div>
+            <div class="field field--entity-reference field--entity-reference-type--taxonomy-term field--field-prog-scr-calc-mech-lst field--node--prog-detail-jps field--node--field-prog-scr-calc-mech-lst field--node--field-prog-scr-calc-mech-lst--prog-detail-jps field--field-prog-scr-calc-mech-lst--about-programme field--node--field-prog-scr-calc-mech-lst--about-programme field--node--prog-detail-jps--field-prog-scr-calc-mech-lst--about-programme field--label-above">
+      <div class="field__label">Admission Score Calculation Mechanism for the Current Admission Exercise</div>
+              <div class="field__item">Any Best 5 Subjects</div>
+          </div>
+            <div class="field field--text-long field--field-prog-dse-avg-score field--node--prog-detail-jps field--node--field-prog-dse-avg-score field--node--field-prog-dse-avg-score--prog-detail-jps field--field-prog-dse-avg-score--about-programme field--node--field-prog-dse-avg-score--about-programme field--node--prog-detail-jps--field-prog-dse-avg-score--about-programme field--label-above">
+      <div class="field__label">Average HKDSE Scores of Admittees</div>
+              <div class="field__item"><p>2026/27 Average Score: <span style="color:#008000;"><strong>Any Best 5 Subjects (</strong></span><a href="https://www.polyu.edu.hk/saso/docdrive/jupas/2026_JS3180_SW.pdf" target="_blank"><span style="color:#008000;"><strong><u>with Subject Weighting</u></strong></span></a><span style="color:#008000;"><strong>)</strong></span> = 236.4</p>
+</div>
+          </div>
+            <div class="field field--text-long field--field-prog-enquiry field--node--prog-detail-jps field--node--field-prog-enquiry field--node--field-prog-enquiry--prog-detail-jps field--field-prog-enquiry--about-programme field--node--field-prog-enquiry--about-programme field--node--prog-detail-jps--field-prog-enquiry--about-programme field--label-above">
+      <div class="field__label">Enquiries</div>
+              <div class="field__item"><table style="border-color:rgb(255, 255, 255);font-family:sans-serif;width:550px;" border="1" cellpadding="1" cellspacing="1"><tbody><tr><td><strong>Tel. No. </strong></td>
+<td><strong>Email Address</strong></td>
+<td><strong>Website</strong></td>
+</tr><tr><td>2766 6150</td>
+<td><a href="mailto:eee.notice@polyu.edu.hk">eee.notice@polyu.edu.hk</a></td>
+<td><a href="https://www.polyu.edu.hk/eee/" target="_blank">www.polyu.edu.hk/eee</a><a href="http://www.polyu.edu.hk/eee/">/</a></td>
+</tr></tbody></table><p> </p>
+<p>For more information, please refer to the programme leaflet at <a href="https://www.polyu.edu.hk/eee/doc/leaflet_ug_eee" target="_blank"><span style="color:rgb(0, 0, 255);">here</span></a>.</p>
+</div>
+          </div>
+            <div class="field field--entity-reference-revisions field--entity-reference-type--paragraph field--field-prog-stud-msg-list field--node--prog-detail-jps field--node--field-prog-stud-msg-list field--node--field-prog-stud-msg-list--prog-detail-jps field--field-prog-stud-msg-list--about-programme field--node--field-prog-stud-msg-list--about-programme field--node--prog-detail-jps--field-prog-stud-msg-list--about-programme field--label-above">
+      <div class="field__label">Student Message</div>
+      <div class="field__items">
+                  <div class="field__item">
+<div class="student-message-container">
+    <div class="text-container-student-message">
+        <div class="readmore-student-message">
+            <p class="text-align-justify">It’s been an honour to graduate from the Electronic and Information Engineering (EIE)* degree programme. The invaluable lessons I learned from all of the professors, instructors and tutors greatly benefited me, as did the well-rounded facilities and the support of the department.</p><p class="text-align-justify">&nbsp;</p><p class="text-align-justify">An integrated project in the curriculum provided us with an opportunity to learn electronics. I had a chance to assemble a robotic car and programme it to track a line and complete various tasks. This project equipped me with solid knowledge of electronic components, embedded systems and programming skills.</p><p class="text-align-justify">&nbsp;</p><p class="text-align-justify">It is very exciting to reach the final year, when a range of elective subjects are available. These include topics like computer vision, cloud computing and network security, which are highly related to modern technologies like AI, AWS and TLS, to name a few.</p><p class="text-align-justify">&nbsp;</p><p class="text-align-justify">In addition to the technical foundations that this course provided, I had the opportunity to collaborate with talents from other fields. For example, my multidisciplinary manufacturing project required students from different fields to work collaboratively, and my multidisciplinary final-year project required students from different fields to work collaboratively on a larger-scale and more challenging project.</p><p class="text-align-justify">&nbsp;</p><p class="text-align-justify">With the technical knowledge gained and all-rounded training that I received from EIE, I feel well-prepared to face the era of the metaverse.</p><p class="text-align-justify">&nbsp;</p><p class="text-align-justify"><em>* Former programme title of BEng(Hons) in Electronic Systems and Internet-of-Things</em></p>
+            <div class="name-container">CHENG Wai Kiu</div>
+        </div>
+    </div>
+                <div class="image-container"><img src="/study/sites/default/files/styles/student_message_260x260/public/2026-06/Photo_ChengWaiKiu_0.jpg?itok=kefLuXVL" alt=""></div>
+    </div>
+</div>
+                  <div class="field__item">
+<div class="student-message-container">
+    <div class="text-container-student-message">
+        <div class="readmore-student-message">
+            <p class="text-align-justify">I chose the BSc (Hons) in Artificial Intelligence and Information Engineering at PolyU because I was fascinated by the transformative power of AI. I wanted to understand the science behind how machines generate human-like language, recognize complex visual patterns, and make intelligent decisions. This programme stood out for its strong blend of theoretical foundations and hands-on AI training.</p><p class="text-align-justify">&nbsp;</p><p class="text-align-justify">Through my studies, I transformed from a complete computer beginner into a confident AI practitioner. The curriculum equipped me with solid expertise in deep learning, algorithms, and data structures, enabling me to design, train, and deploy my own machine learning models. The programme combines mathematical rigour with practical coding skills, turning curiosity into professional capability.</p><p class="text-align-justify">&nbsp;</p><p class="text-align-justify">A defining highlight of my journey was participating in the Undergraduate Research Internship Scheme (URIS), where I worked closely with professors on real research projects. My Final Year Project on text-assisted image generation was particularly rewarding. It taught me how to learn independently, solve complex problems, and think like both a researcher and engineer.</p><p class="text-align-justify">&nbsp;</p><p class="text-align-justify">My time at PolyU has been an incredible journey of academic growth, self-discovery, and lifelong friendships. I highly recommend this programme to anyone passionate about AI.<o:p></o:p></p>
+            <div class="name-container">LI Haige</div>
+        </div>
+    </div>
+                <div class="image-container"><img src="/study/sites/default/files/styles/student_message_260x260/public/2026-06/2026%20Graduate_46409-AIE_LI%20Haige.jpg?itok=upwn1Nvw" alt=""></div>
+    </div>
+</div>
+                  <div class="field__item">
+<div class="student-message-container">
+    <div class="text-container-student-message">
+        <div class="readmore-student-message">
+            <p class="text-align-justify">I am pleased to be among the first batch of graduates of the BSc (Hons) in Information Security programme. I have acquired a great deal of useful knowledge and skills in various areas of information security, such as network security, digital forensics, encryption, database and operation systems. I now have a high awareness of security threats to systems and understand how to prevent them.</p><p class="text-align-justify">&nbsp;</p><p class="text-align-justify">This degree programme is very practical and provides opportunities for students to apply and demonstrate security techniques. For example, in the integrated project, we built a social website similar to Instagram, with a strong emphasis on information security.</p><p class="text-align-justify">&nbsp;</p><p class="text-align-justify">The EIE Department has established an information security laboratory to facilitate our learning. This laboratory includes high-capacity PCs and servers, so we do not need to worry about the hardware when we perform attack and defence deployments, such as regarding DDoS attacks.</p>
+            <div class="name-container">YUEN Chun Ming</div>
+        </div>
+    </div>
+        </div>
+</div>
+                  <div class="field__item">
+<div class="student-message-container">
+    <div class="text-container-student-message">
+        <div class="readmore-student-message">
+            <p class="text-align-justify">I chose BEng (Hons) in Electronic Systems and Internet-of-Things with a Secondary Major in Artificial Intelligence and Data Analytics programme because it perfectly aligns with my interest in combining hardware and software to create meaningful real‑world solutions. The programme has equipped me not only with advanced algorithmic knowledge but also with the practical skills needed to implement these algorithms in real electronic systems.</p><p class="text-align-justify">&nbsp;</p><p class="text-align-justify">Throughout my studies, I built a solid foundation in electronic systems, mathematics, machine learning, communication theory, control theory, and signal processing. The opportunities to apply this knowledge to practical projects were incredibly beneficial. This breadth of knowledge, combined with extensive hands-on experience, has been the most valuable aspect of my education.</p><p class="text-align-justify">&nbsp;</p><p class="text-align-justify">I particularly enjoyed some “hands-on” subjects, which provided rich resources, including materials and technical guides for students to build actual robots using what we'd learned. Working with teammates from diverse backgrounds and bringing our innovative designs to life was truly rewarding.</p>
+            <div class="name-container">YUAN Ye</div>
+        </div>
+    </div>
+                <div class="image-container"><img src="/study/sites/default/files/styles/student_message_260x260/public/2026-06/2026%20Graduate_46409-XAI_YUAN%20Ye.jpg?itok=Vsqr7q4a" alt=""></div>
+    </div>
+</div>
+              </div>
+    </div>
+  
+  </div>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="content" data-id="specific-notes">
+                    <div class="specific-notes-container page--combined-programme-basic-accordion">
+                        <div class="container">
+                            <div class="accordion-container">
+                                                                    <div class="ac" data-admission-type="prog_detail_jps">
+                                        <div class="ac-header">
+                                            <div class="ac-trigger"><span class=local>Local</span>JUPAS</div>
+                                        </div>
+                                        <div class="ac-panel">
+                                            <div class="accordion-content">
+                                                                                                                                                            <div class="no-specific-notes">No information is available at present.</div>
+                                                                                                                                                </div>
+                                        </div>
+                                    </div>
+                                                                    <div class="ac" data-admission-type="prog_detail_nj">
+                                        <div class="ac-header">
+                                            <div class="ac-trigger"><span class=local>Local</span>Non-JUPAS Year 1</div>
+                                        </div>
+                                        <div class="ac-panel">
+                                            <div class="accordion-content">
+                                                                                                    <div class="sn_wrapper">
+              <div class="field field--entity-reference-revisions field--entity-reference-type--paragraph field--field-prog-addt-doc-list field--node--prog-detail-nj field--node--field-prog-addt-doc-list field--node--field-prog-addt-doc-list--prog-detail-nj field--field-prog-addt-doc-list--specific-notes field--node--field-prog-addt-doc-list--specific-notes field--node--prog-detail-nj--field-prog-addt-doc-list--specific-notes field--label-above">
+      <div class="field__label">Additional Documents Required</div>
+      <div class="field__items">
+                  <div class="field__item"><div class="additional_documents_container">
+    <div class="additional_documents_wrapper">
+        <div class="additional_document_item">
+            <div class="document_type">
+                Transcript / Certificate
+            </div>
+            <div class="document_remark">
+                <p>Required</p>
+            </div>
+        </div>
+    </div>
+</div></div>
+              </div>
+    </div>
+            <div class="field field--entity-reference-revisions field--entity-reference-type--paragraph field--field-prog-interview-list field--node--prog-detail-nj field--node--field-prog-interview-list field--node--field-prog-interview-list--prog-detail-nj field--field-prog-interview-list--specific-notes field--node--field-prog-interview-list--specific-notes field--node--prog-detail-nj--field-prog-interview-list--specific-notes field--label-above">
+      <div class="field__label">Interview Arrangement</div>
+      <div class="field__items">
+                  <div class="field__item">
+<div class="paragraph paragraph--full paragraph--prog-interview-arrangement paragraph--prog-interview-arrangement--full pid-104415 wide_layout study">
+			          <div class="field field--text-long field--field-prog-interview-aim field--paragraph--prog-interview-arrangement field--paragraph--field-prog-interview-aim field--paragraph--field-prog-interview-aim--prog-interview-arrangement field--field-prog-interview-aim--full field--paragraph--field-prog-interview-aim--full field--paragraph--prog-interview-arrangement--field-prog-interview-aim--full field--label-above">
+      <div class="field__label">Aims</div>
+              <div class="field__item"><p>To conduct an all-round (academic and non-academic) evaluation of the interests, achievements and ability of applicants.</p>
+</div>
+          </div>
+    
+          <div class="field field--string-long field--field-prog-interview-date field--paragraph--prog-interview-arrangement field--paragraph--field-prog-interview-date field--paragraph--field-prog-interview-date--prog-interview-arrangement field--field-prog-interview-date--full field--paragraph--field-prog-interview-date--full field--paragraph--prog-interview-arrangement--field-prog-interview-date--full field--label-above">
+      <div class="field__label">Date of Interview</div>
+              <div class="field__item">November to April</div>
+          </div>
+    
+          <div class="field field--text-long field--field-prog-interview-dur field--paragraph--prog-interview-arrangement field--paragraph--field-prog-interview-dur field--paragraph--field-prog-interview-dur--prog-interview-arrangement field--field-prog-interview-dur--full field--paragraph--field-prog-interview-dur--full field--paragraph--prog-interview-arrangement--field-prog-interview-dur--full field--label-above">
+      <div class="field__label">Duration</div>
+              <div class="field__item"><p>About 10-15 minutes</p>
+</div>
+          </div>
+    
+          <div class="field field--string-long field--field-prog-interview-medium field--paragraph--prog-interview-arrangement field--paragraph--field-prog-interview-medium field--paragraph--field-prog-interview-medium--prog-interview-arrangement field--field-prog-interview-medium--full field--paragraph--field-prog-interview-medium--full field--paragraph--prog-interview-arrangement--field-prog-interview-medium--full field--label-above">
+      <div class="field__label">Medium</div>
+              <div class="field__item">English</div>
+          </div>
+    
+          <div class="field field--string-long field--field-prog-interview-mode field--paragraph--prog-interview-arrangement field--paragraph--field-prog-interview-mode field--paragraph--field-prog-interview-mode--prog-interview-arrangement field--field-prog-interview-mode--full field--paragraph--field-prog-interview-mode--full field--paragraph--prog-interview-arrangement--field-prog-interview-mode--full field--label-above">
+      <div class="field__label">Mode</div>
+              <div class="field__item">Online interviews may be conducted where necessary</div>
+          </div>
+    
+          <div class="field field--text-long field--field-prog-interview-rmk field--paragraph--prog-interview-arrangement field--paragraph--field-prog-interview-rmk field--paragraph--field-prog-interview-rmk--prog-interview-arrangement field--field-prog-interview-rmk--full field--paragraph--field-prog-interview-rmk--full field--paragraph--prog-interview-arrangement--field-prog-interview-rmk--full field--label-above">
+      <div class="field__label">Remarks</div>
+              <div class="field__item"><p>Only selected applicants will be invited for interviews.</p>
+</div>
+          </div>
+    
+
+	</div>
+</div>
+              </div>
+    </div>
+  
+</div>
+
+                                                                                            </div>
+                                        </div>
+                                    </div>
+                                                                    <div class="ac" data-admission-type="prog_detail_international">
+                                        <div class="ac-header">
+                                            <div class="ac-trigger"><span class=non-local>Non-Local</span>International / Other Qualification</div>
+                                        </div>
+                                        <div class="ac-panel">
+                                            <div class="accordion-content">
+                                                                                                    <div class="sn_wrapper">
+              <div class="field field--entity-reference-revisions field--entity-reference-type--paragraph field--field-prog-addt-doc-list field--node--prog-detail-international field--node--field-prog-addt-doc-list field--node--field-prog-addt-doc-list--prog-detail-international field--field-prog-addt-doc-list--specific-notes field--node--field-prog-addt-doc-list--specific-notes field--node--prog-detail-international--field-prog-addt-doc-list--specific-notes field--label-above">
+      <div class="field__label">Additional Documents Required</div>
+      <div class="field__items">
+                  <div class="field__item"><div class="additional_documents_container">
+    <div class="additional_documents_wrapper">
+        <div class="additional_document_item">
+            <div class="document_type">
+                Transcript / Certificate
+            </div>
+            <div class="document_remark">
+                <p>Required</p>
+            </div>
+        </div>
+    </div>
+</div></div>
+              </div>
+    </div>
+            <div class="field field--entity-reference-revisions field--entity-reference-type--paragraph field--field-prog-interview-list field--node--prog-detail-international field--node--field-prog-interview-list field--node--field-prog-interview-list--prog-detail-international field--field-prog-interview-list--specific-notes field--node--field-prog-interview-list--specific-notes field--node--prog-detail-international--field-prog-interview-list--specific-notes field--label-above">
+      <div class="field__label">Interview Arrangement</div>
+      <div class="field__items">
+                  <div class="field__item">
+<div class="paragraph paragraph--full paragraph--prog-interview-arrangement paragraph--prog-interview-arrangement--full pid-104633 wide_layout study">
+			          <div class="field field--text-long field--field-prog-interview-aim field--paragraph--prog-interview-arrangement field--paragraph--field-prog-interview-aim field--paragraph--field-prog-interview-aim--prog-interview-arrangement field--field-prog-interview-aim--full field--paragraph--field-prog-interview-aim--full field--paragraph--prog-interview-arrangement--field-prog-interview-aim--full field--label-above">
+      <div class="field__label">Aims</div>
+              <div class="field__item"><p>To conduct an all-round (academic and non-academic) evaluation of applicants' interests, achievements and ability.</p>
+</div>
+          </div>
+    
+          <div class="field field--string-long field--field-prog-interview-date field--paragraph--prog-interview-arrangement field--paragraph--field-prog-interview-date field--paragraph--field-prog-interview-date--prog-interview-arrangement field--field-prog-interview-date--full field--paragraph--field-prog-interview-date--full field--paragraph--prog-interview-arrangement--field-prog-interview-date--full field--label-above">
+      <div class="field__label">Date of Interview</div>
+              <div class="field__item">November to April</div>
+          </div>
+    
+          <div class="field field--text-long field--field-prog-interview-dur field--paragraph--prog-interview-arrangement field--paragraph--field-prog-interview-dur field--paragraph--field-prog-interview-dur--prog-interview-arrangement field--field-prog-interview-dur--full field--paragraph--field-prog-interview-dur--full field--paragraph--prog-interview-arrangement--field-prog-interview-dur--full field--label-above">
+      <div class="field__label">Duration</div>
+              <div class="field__item"><p>About 10<span style="font-family:&quot;Aptos&quot;,sans-serif;font-size:12.0pt;line-height:115%;mso-ansi-language:EN-GB;mso-ascii-theme-font:minor-latin;mso-bidi-font-family:&quot;Times New Roman&quot;;mso-bidi-language:AR-SA;mso-bidi-theme-font:minor-bidi;mso-fareast-font-family:Aptos;mso-fareast-language:EN-US;mso-fareast-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;">–</span>15 minutes</p>
+</div>
+          </div>
+    
+          <div class="field field--string-long field--field-prog-interview-medium field--paragraph--prog-interview-arrangement field--paragraph--field-prog-interview-medium field--paragraph--field-prog-interview-medium--prog-interview-arrangement field--field-prog-interview-medium--full field--paragraph--field-prog-interview-medium--full field--paragraph--prog-interview-arrangement--field-prog-interview-medium--full field--label-above">
+      <div class="field__label">Medium</div>
+              <div class="field__item">English</div>
+          </div>
+    
+          <div class="field field--string-long field--field-prog-interview-mode field--paragraph--prog-interview-arrangement field--paragraph--field-prog-interview-mode field--paragraph--field-prog-interview-mode--prog-interview-arrangement field--field-prog-interview-mode--full field--paragraph--field-prog-interview-mode--full field--paragraph--prog-interview-arrangement--field-prog-interview-mode--full field--label-above">
+      <div class="field__label">Mode</div>
+              <div class="field__item">Online interviews may be conducted where necessary</div>
+          </div>
+    
+          <div class="field field--text-long field--field-prog-interview-rmk field--paragraph--prog-interview-arrangement field--paragraph--field-prog-interview-rmk field--paragraph--field-prog-interview-rmk--prog-interview-arrangement field--field-prog-interview-rmk--full field--paragraph--field-prog-interview-rmk--full field--paragraph--prog-interview-arrangement--field-prog-interview-rmk--full field--label-above">
+      <div class="field__label">Remarks</div>
+              <div class="field__item"><p>Only selected applicants will be invited for interviews.</p>
+</div>
+          </div>
+    
+
+	</div>
+</div>
+              </div>
+    </div>
+  
+</div>
+
+                                                                                            </div>
+                                        </div>
+                                    </div>
+                                                                    <div class="ac" data-admission-type="prog_detail_jee">
+                                        <div class="ac-header">
+                                            <div class="ac-trigger"><span class=non-local>Non-Local</span>內地应届高考生</div>
+                                        </div>
+                                        <div class="ac-panel">
+                                            <div class="accordion-content">
+                                                                                                                                                            <div class="no-specific-notes">暫時没有相关资料</div>
+                                                                                                                                                </div>
+                                        </div>
+                                    </div>
+                                                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="content" data-id="how-to-apply">
+                    <div class="specific-notes-container page--combined-programme-basic-accordion">
+                        <div class="container">
+                            <div class="accordion-container">
+                                                                    <div class="ac" data-admission-type="prog_detail_jps">
+                                        <div class="ac-header">
+                                            <div class="ac-trigger"><span class=local>Local</span>JUPAS</div>
+                                        </div>
+                                        <div class="ac-panel">
+                                            <div class="accordion-content">
+                                                                                                      <div class="paragraph paragraph--default paragraph--basic-info-block paragraph--basic-info-block--default">
+    <div class="basic-info-background">
+        <img src="/study/profiles/contrib/polyu_study_profile/themes/polyu_theme/templates/paragraph/paragraph--basic-info-block/images/base-bg.png"/>
+    </div>
+    <div class="basic-info-wrapper">
+        <div class="basic-info-tile-background"></div>
+        <div class="basic-info-wrapper-inner">
+            <div class="basic-info-acc__content">
+                
+                <div class="basic-info-acc__wrapper">
+                                                                                                                                                                                            <div class="basic-info-acc-item">
+                            <div class="basic-info-acc-item__wrapper basic-info-acc-item__questions">
+                                <div class="basic-info-acc-item__label basic-info-acc-item__questions__label"></div>
+                                <div class="basic-info-acc-item__question field--basic-info-item-title">Requirements</div>
+                            </div>
+                            <div class="basic-info-acc-item__wrapper basic-info-acc-item__answers">
+                                <div class="basic-info-acc-item__answers__content field--link">
+                                                                                                                <div class="field__item">
+                                            <a href="https://www.polyu.edu.hk/study/ug/admissions/jupas/jupas-general-entrance-requirements">General Entrance Requirements</a>
+                                        </div>
+                                                                            <div class="field__item">
+                                            <a href="https://www.polyu.edu.hk/study/ug/admissions/jupas/jupas-scheme-programme-requirements">Scheme / Programme Requirements</a>
+                                        </div>
+                                                                            <div class="field__item">
+                                            <a href="https://www.polyu.edu.hk/saso/docdrive/jupas/admission_figures.pdf">Admission Scores</a>
+                                        </div>
+                                                                            <div class="field__item">
+                                            <a href="https://www.polyu.edu.hk/study/ug/admissions/jupas/jupas-score-calculator">JUPAS Score Calculator</a>
+                                        </div>
+                                                                         <div id="read-more-container">
+                                                                        </div>
+                                </div>
+                            </div>
+                        </div>
+                                                                                                                                                                                            <div class="basic-info-acc-item">
+                            <div class="basic-info-acc-item__wrapper basic-info-acc-item__questions">
+                                <div class="basic-info-acc-item__label basic-info-acc-item__questions__label"></div>
+                                <div class="basic-info-acc-item__question field--basic-info-item-title">Procedures</div>
+                            </div>
+                            <div class="basic-info-acc-item__wrapper basic-info-acc-item__answers">
+                                <div class="basic-info-acc-item__answers__content field--link">
+                                                                                                                <div class="field__item">
+                                            <a href="https://www.polyu.edu.hk/study/ug/admissions/jupas/jupas-application-procedures">Application Procedures </a>
+                                        </div>
+                                                                            <div class="field__item">
+                                            <a href="https://www.polyu.edu.hk/study/ug/admissions/jupas/jupas-interview-arrangement">Interview Arrangement</a>
+                                        </div>
+                                                                            <div class="field__item">
+                                            <a href="https://www.polyu.edu.hk/study/ug/admissions/jupas/jupas-student-under-18">Student Under 18</a>
+                                        </div>
+                                                                         <div id="read-more-container">
+                                                                        </div>
+                                </div>
+                            </div>
+                        </div>
+                                                                                                                                                                                            <div class="basic-info-acc-item">
+                            <div class="basic-info-acc-item__wrapper basic-info-acc-item__questions">
+                                <div class="basic-info-acc-item__label basic-info-acc-item__questions__label"></div>
+                                <div class="basic-info-acc-item__question field--basic-info-item-title">Special Admission Scheme</div>
+                            </div>
+                            <div class="basic-info-acc-item__wrapper basic-info-acc-item__answers">
+                                <div class="basic-info-acc-item__answers__content field--link">
+                                                                                                                <div class="field__item">
+                                            <a href="https://www.polyu.edu.hk/study/ug/admissions/jupas/jupas-school-nominations-direct-admission-scheme-sndas">School Nominations Direct Admission Scheme (SNDAS)</a>
+                                        </div>
+                                                                            <div class="field__item">
+                                            <a href="/study/ug/admissions/special-talents-admission-and-recognition-scheme">Special Talents Admission and Recognition Scheme (STARS)</a>
+                                        </div>
+                                                                         <div id="read-more-container">
+                                                                        </div>
+                                </div>
+                            </div>
+                        </div>
+                                                                                                                                                                                            <div class="basic-info-acc-item">
+                            <div class="basic-info-acc-item__wrapper basic-info-acc-item__questions">
+                                <div class="basic-info-acc-item__label basic-info-acc-item__questions__label"></div>
+                                <div class="basic-info-acc-item__question field--basic-info-item-title">Policies</div>
+                            </div>
+                            <div class="basic-info-acc-item__wrapper basic-info-acc-item__answers">
+                                <div class="basic-info-acc-item__answers__content field--link">
+                                                                                                                <div class="field__item">
+                                            <a href="https://www.polyu.edu.hk/study/ug/admissions/jupas/jupas-jupas-applicants">JUPAS Applicants</a>
+                                        </div>
+                                                                            <div class="field__item">
+                                            <a href="https://www.polyu.edu.hk/study/ug/admissions/jupas/jupas-distinctive-features-ug-programmes">Distinctive Features of UG Programmes</a>
+                                        </div>
+                                                                            <div class="field__item">
+                                            <a href="https://www.polyu.edu.hk/study/ug/admissions/jupas/jupas-curriculum-framework">Curriculum Framework</a>
+                                        </div>
+                                                                            <div class="field__item">
+                                            <a href="https://www.polyu.edu.hk/study/ug/admissions/jupas/jupas-admission-selection">Admission Selection</a>
+                                        </div>
+                                                                            <div class="field__item">
+                                            <a href="https://www.polyu.edu.hk/study/ug/admissions/jupas/jupas-credit-transfer-and-exemption">Credit Transfer and Exemption</a>
+                                        </div>
+                                                                            <div class="field__item">
+                                            <a href="https://www.polyu.edu.hk/study/ug/admissions/jupas/jupas-concurrent-enrolment">Concurrent Enrolment</a>
+                                        </div>
+                                                                            <div class="field__item">
+                                            <a href="https://www.polyu.edu.hk/study/ug/admissions/jupas/jupas-inter-institutional-transfer">Inter-institutional Transfer</a>
+                                        </div>
+                                                                            <div class="field__item">
+                                            <a href="https://www.polyu.edu.hk/study/ug/admissions/jupas/jupas-re-admission">Re-admission</a>
+                                        </div>
+                                                                            <div class="field__item">
+                                            <a href="https://www.polyu.edu.hk/study/ug/admissions/jupas/jupas-applicants-disabilities-special-educational-needs">Applicants with Disabilities / Special Educational Needs</a>
+                                        </div>
+                                                                         <div id="read-more-container">
+                                                                        </div>
+                                </div>
+                            </div>
+                        </div>
+                                                                                                                                                                                            <div class="basic-info-acc-item">
+                            <div class="basic-info-acc-item__wrapper basic-info-acc-item__questions">
+                                <div class="basic-info-acc-item__label basic-info-acc-item__questions__label"></div>
+                                <div class="basic-info-acc-item__question field--basic-info-item-title">Fees / Financial Assistance</div>
+                            </div>
+                            <div class="basic-info-acc-item__wrapper basic-info-acc-item__answers">
+                                <div class="basic-info-acc-item__answers__content field--link">
+                                                                                                                <div class="field__item">
+                                            <a href="https://www.polyu.edu.hk/study/ug/admissions/jupas/jupas-tuition-fees">Tuition Fees</a>
+                                        </div>
+                                                                            <div class="field__item">
+                                            <a href="https://www.polyu.edu.hk/study/ug/admissions/jupas/jupas-other-fees-and-expenses">Other Fees and Expenses </a>
+                                        </div>
+                                                                            <div class="field__item">
+                                            <a href="https://www.polyu.edu.hk/study/ug/admissions/jupas/jupas-financial-assistance">Financial Assistance</a>
+                                        </div>
+                                                                         <div id="read-more-container">
+                                                                        </div>
+                                </div>
+                            </div>
+                        </div>
+                                                                                                                                                                                            <div class="basic-info-acc-item">
+                            <div class="basic-info-acc-item__wrapper basic-info-acc-item__questions">
+                                <div class="basic-info-acc-item__label basic-info-acc-item__questions__label"></div>
+                                <div class="basic-info-acc-item__question field--basic-info-item-title">FAQs</div>
+                            </div>
+                            <div class="basic-info-acc-item__wrapper basic-info-acc-item__answers">
+                                <div class="basic-info-acc-item__answers__content field--link">
+                                                                                                                <div class="field__item">
+                                            <a href="https://www.polyu.edu.hk/study/ug/admissions/jupas/jupas-frequently-asked-questions-entrance-requirements">Entrance Requirements</a>
+                                        </div>
+                                                                            <div class="field__item">
+                                            <a href="https://www.polyu.edu.hk/study/ug/admissions/jupas/jupas-frequently-asked-questions-admission-score-calculation">Admission Score Calculation </a>
+                                        </div>
+                                                                            <div class="field__item">
+                                            <a href="https://www.polyu.edu.hk/study/ug/admissions/jupas/jupas-frequently-asked-questions-admission-selection">Admission Selection </a>
+                                        </div>
+                                                                            <div class="field__item">
+                                            <a href="https://www.polyu.edu.hk/study/ug/admissions/jupas/jupas-frequently-asked-questions-non-academic-achievements">Non-Academic Achievements</a>
+                                        </div>
+                                                                         <div id="read-more-container">
+                                                                        </div>
+                                </div>
+                            </div>
+                        </div>
+                                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+                                                                                            </div>
+                                        </div>
+                                    </div>
+                                                                    <div class="ac" data-admission-type="prog_detail_nj">
+                                        <div class="ac-header">
+                                            <div class="ac-trigger"><span class=local>Local</span>Non-JUPAS Year 1</div>
+                                        </div>
+                                        <div class="ac-panel">
+                                            <div class="accordion-content">
+                                                                                                      <div class="paragraph paragraph--default paragraph--basic-info-block paragraph--basic-info-block--default">
+    <div class="basic-info-background">
+        <img src="/study/profiles/contrib/polyu_study_profile/themes/polyu_theme/templates/paragraph/paragraph--basic-info-block/images/base-bg.png"/>
+    </div>
+    <div class="basic-info-wrapper">
+        <div class="basic-info-tile-background"></div>
+        <div class="basic-info-wrapper-inner">
+            <div class="basic-info-acc__content">
+                
+                <div class="basic-info-acc__wrapper">
+                                                                                                                                                                                            <div class="basic-info-acc-item">
+                            <div class="basic-info-acc-item__wrapper basic-info-acc-item__questions">
+                                <div class="basic-info-acc-item__label basic-info-acc-item__questions__label"></div>
+                                <div class="basic-info-acc-item__question field--basic-info-item-title">Requirements</div>
+                            </div>
+                            <div class="basic-info-acc-item__wrapper basic-info-acc-item__answers">
+                                <div class="basic-info-acc-item__answers__content field--link">
+                                                                                                                <div class="field__item">
+                                            <a href="/study/ug/admissions/non-jupas-year-1/non-jupas-year-1-general-entrance-requirements">General Entrance Requirements</a>
+                                        </div>
+                                                                            <div class="field__item">
+                                            <a href="/study/ug/admissions/non-jupas-year-1/non-jupas-year-1-english-language-requirements">English Language Requirements</a>
+                                        </div>
+                                                                            <div class="field__item">
+                                            <a href="/study/ug/admissions/non-jupas-year-1/non-jupas-year-1-preferred-subjects">Preferred Subjects</a>
+                                        </div>
+                                                                            <div class="field__item">
+                                            <a href="/study/ug/admissions/non-jupas-year-1/non-jupas-year-1-admission-figures-gce-and-ib-qualifications">Admission Figures for GCE and IB Qualifications</a>
+                                        </div>
+                                                                         <div id="read-more-container">
+                                                                        </div>
+                                </div>
+                            </div>
+                        </div>
+                                                                                                                                                                                            <div class="basic-info-acc-item">
+                            <div class="basic-info-acc-item__wrapper basic-info-acc-item__questions">
+                                <div class="basic-info-acc-item__label basic-info-acc-item__questions__label"></div>
+                                <div class="basic-info-acc-item__question field--basic-info-item-title">Procedures</div>
+                            </div>
+                            <div class="basic-info-acc-item__wrapper basic-info-acc-item__answers">
+                                <div class="basic-info-acc-item__answers__content field--link">
+                                                                                                                <div class="field__item">
+                                            <a href="/study/ug/admissions/non-jupas-year-1/non-jupas-year-1-application-procedures-and-admission-process">Application Procedures and Admission Process</a>
+                                        </div>
+                                                                            <div class="field__item">
+                                            <a href="/study/ug/admissions/non-jupas-year-1/non-jupas-year-1-student-under-18">Student Under 18</a>
+                                        </div>
+                                                                            <div class="field__item">
+                                            <a href="/study/ug/admissions/non-jupas-year-1/non-jupas-year-1-interview-arrangement">Interview Arrangement</a>
+                                        </div>
+                                                                            <div class="field__item">
+                                            <a href="/study/ug/admissions/non-jupas-year-1/non-jupas-year-1-additional-supporting-documents-required">Additional Supporting Documents Required for Application for Admissions</a>
+                                        </div>
+                                                                         <div id="read-more-container">
+                                                                        </div>
+                                </div>
+                            </div>
+                        </div>
+                                                                                                                                                                                            <div class="basic-info-acc-item">
+                            <div class="basic-info-acc-item__wrapper basic-info-acc-item__questions">
+                                <div class="basic-info-acc-item__label basic-info-acc-item__questions__label"></div>
+                                <div class="basic-info-acc-item__question field--basic-info-item-title">Special Admission Scheme</div>
+                            </div>
+                            <div class="basic-info-acc-item__wrapper basic-info-acc-item__answers">
+                                <div class="basic-info-acc-item__answers__content field--link">
+                                                                                                                <div class="field__item">
+                                            <a href="https://www.polyu.edu.hk/study/ug/admissions/jupas/jupas-school-nominations-direct-admission-scheme-sndas">School Nominations Direct Admission Scheme (SNDAS)</a>
+                                        </div>
+                                                                            <div class="field__item">
+                                            <a href="/study/ug/admissions/special-talents-admission-and-recognition-scheme">Special Talents Admission and Recognition Scheme (STARS)</a>
+                                        </div>
+                                                                         <div id="read-more-container">
+                                                                        </div>
+                                </div>
+                            </div>
+                        </div>
+                                                                                                                                                                                            <div class="basic-info-acc-item">
+                            <div class="basic-info-acc-item__wrapper basic-info-acc-item__questions">
+                                <div class="basic-info-acc-item__label basic-info-acc-item__questions__label"></div>
+                                <div class="basic-info-acc-item__question field--basic-info-item-title">Policies</div>
+                            </div>
+                            <div class="basic-info-acc-item__wrapper basic-info-acc-item__answers">
+                                <div class="basic-info-acc-item__answers__content field--link">
+                                                                                                                <div class="field__item">
+                                            <a href="/study/ug/admissions/non-jupas-year-1/non-jupas-year-1-local-applicants">Local Applicants</a>
+                                        </div>
+                                                                            <div class="field__item">
+                                            <a href="/study/ug/admissions/non-jupas-year-1/non-jupas-year-1-distinctive-features-ug-programmes">Distinctive Features of UG Programmes</a>
+                                        </div>
+                                                                            <div class="field__item">
+                                            <a href="/study/ug/admissions/non-jupas-year-1/non-jupas-year-1-curriculum-framework">Curriculum Framework</a>
+                                        </div>
+                                                                            <div class="field__item">
+                                            <a href="/study/ug/admissions/non-jupas-year-1/non-jupas-year-1-credit-transfer-and-exemption">Credit Transfer and Exemption</a>
+                                        </div>
+                                                                            <div class="field__item">
+                                            <a href="/study/ug/admissions/non-jupas-year-1/non-jupas-year-1-concurrent-enrolment">Concurrent Enrolment</a>
+                                        </div>
+                                                                            <div class="field__item">
+                                            <a href="/study/ug/admissions/non-jupas-year-1/non-jupas-year-1-inter-institutional-transfer">Inter-institutional Transfer</a>
+                                        </div>
+                                                                            <div class="field__item">
+                                            <a href="/study/ug/admissions/non-jupas-year-1/non-jupas-year-1-re-admission">Re-admission</a>
+                                        </div>
+                                                                            <div class="field__item">
+                                            <a href="/study/ug/admissions/non-jupas-year-1/non-jupas-year-1-applicants-disabilities-special-educational-needs-0">Applicants with Disabilities / Special Educational Needs</a>
+                                        </div>
+                                                                            <div class="field__item">
+                                            <a href="/study/ug/admissions/non-jupas-year-1/non-jupas-year-1-mature-applicants">Mature Applicants</a>
+                                        </div>
+                                                                            <div class="field__item">
+                                            <a href="/study/ug/admissions/non-jupas-year-1/non-jupas-year-1-qualification-verification">Qualification Verification</a>
+                                        </div>
+                                                                         <div id="read-more-container">
+                                                                        </div>
+                                </div>
+                            </div>
+                        </div>
+                                                                                                                                                                                            <div class="basic-info-acc-item">
+                            <div class="basic-info-acc-item__wrapper basic-info-acc-item__questions">
+                                <div class="basic-info-acc-item__label basic-info-acc-item__questions__label"></div>
+                                <div class="basic-info-acc-item__question field--basic-info-item-title">Fees / Financial Assistance</div>
+                            </div>
+                            <div class="basic-info-acc-item__wrapper basic-info-acc-item__answers">
+                                <div class="basic-info-acc-item__answers__content field--link">
+                                                                                                                <div class="field__item">
+                                            <a href="/study/ug/admissions/non-jupas-year-1/non-jupas-year-1-tuition-fees">Tuition Fees</a>
+                                        </div>
+                                                                            <div class="field__item">
+                                            <a href="/study/ug/admissions/non-jupas-year-1/non-jupas-year-1-other-fees-and-expenses">Other Fees and Expenses</a>
+                                        </div>
+                                                                            <div class="field__item">
+                                            <a href="/study/ug/admissions/non-jupas-year-1/non-jupas-year-1-financial-assistance">Financial Assistance</a>
+                                        </div>
+                                                                         <div id="read-more-container">
+                                                                        </div>
+                                </div>
+                            </div>
+                        </div>
+                                                                                                                                                                                            <div class="basic-info-acc-item">
+                            <div class="basic-info-acc-item__wrapper basic-info-acc-item__questions">
+                                <div class="basic-info-acc-item__label basic-info-acc-item__questions__label"></div>
+                                <div class="basic-info-acc-item__question field--basic-info-item-title">FAQs</div>
+                            </div>
+                            <div class="basic-info-acc-item__wrapper basic-info-acc-item__answers">
+                                <div class="basic-info-acc-item__answers__content field--link">
+                                                                                                                <div class="field__item">
+                                            <a href="/study/ug/admissions/non-jupas-year-1/non-jupas-year-1-frequently-asked-questions">Frequently Asked Questions</a>
+                                        </div>
+                                                                         <div id="read-more-container">
+                                                                        </div>
+                                </div>
+                            </div>
+                        </div>
+                                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+                                                                                            </div>
+                                        </div>
+                                    </div>
+                                                                    <div class="ac" data-admission-type="prog_detail_international">
+                                        <div class="ac-header">
+                                            <div class="ac-trigger"><span class=non-local>Non-Local</span>International / Other Qualification</div>
+                                        </div>
+                                        <div class="ac-panel">
+                                            <div class="accordion-content">
+                                                                                                      <div class="paragraph paragraph--default paragraph--basic-info-block paragraph--basic-info-block--default">
+    <div class="basic-info-background">
+        <img src="/study/profiles/contrib/polyu_study_profile/themes/polyu_theme/templates/paragraph/paragraph--basic-info-block/images/base-bg.png"/>
+    </div>
+    <div class="basic-info-wrapper">
+        <div class="basic-info-tile-background"></div>
+        <div class="basic-info-wrapper-inner">
+            <div class="basic-info-acc__content">
+                
+                <div class="basic-info-acc__wrapper">
+                                                                                                                                                                                            <div class="basic-info-acc-item">
+                            <div class="basic-info-acc-item__wrapper basic-info-acc-item__questions">
+                                <div class="basic-info-acc-item__label basic-info-acc-item__questions__label"></div>
+                                <div class="basic-info-acc-item__question field--basic-info-item-title">Requirements</div>
+                            </div>
+                            <div class="basic-info-acc-item__wrapper basic-info-acc-item__answers">
+                                <div class="basic-info-acc-item__answers__content field--link">
+                                                                                                                <div class="field__item">
+                                            <a href="/study/ug/admissions/international-other-qualifications/international-other-qualifications-general">General Entrance Requirements</a>
+                                        </div>
+                                                                            <div class="field__item">
+                                            <a href="/study/ug/admissions/international-other-qualifications/international-other-qualifications-english">English Language Requirements</a>
+                                        </div>
+                                                                            <div class="field__item">
+                                            <a href="/study/ug/admissions/international-other-qualifications/international-other-qualifications-preferred">Preferred Subjects</a>
+                                        </div>
+                                                                            <div class="field__item">
+                                            <a href="/study/ug/admissions/international-other-qualifications/international-other-qualifications-admission">Admission Figures for GCE and IB Qualifications</a>
+                                        </div>
+                                                                         <div id="read-more-container">
+                                                                        </div>
+                                </div>
+                            </div>
+                        </div>
+                                                                                                                                                                                            <div class="basic-info-acc-item">
+                            <div class="basic-info-acc-item__wrapper basic-info-acc-item__questions">
+                                <div class="basic-info-acc-item__label basic-info-acc-item__questions__label"></div>
+                                <div class="basic-info-acc-item__question field--basic-info-item-title">Procedures</div>
+                            </div>
+                            <div class="basic-info-acc-item__wrapper basic-info-acc-item__answers">
+                                <div class="basic-info-acc-item__answers__content field--link">
+                                                                                                                <div class="field__item">
+                                            <a href="/study/ug/admissions/international-other-qualifications/international-other-qualifications-application-0">Application Procedures and Important Points to Note</a>
+                                        </div>
+                                                                            <div class="field__item">
+                                            <a href="/study/ug/admissions/international-other-qualifications/international-other-qualifications-students-under">Students Under 18</a>
+                                        </div>
+                                                                            <div class="field__item">
+                                            <a href="/study/ug/admissions/international-other-qualifications/international-other-qualifications-key-dates">Key Dates</a>
+                                        </div>
+                                                                            <div class="field__item">
+                                            <a href="https://www38.polyu.edu.hk/eAdmission/index.do">Online Application</a>
+                                        </div>
+                                                                            <div class="field__item">
+                                            <a href="/study/ug/admissions/international-other-qualifications/international-other-qualifications-additional">Additional Supporting Documents Required for Application for Admissions</a>
+                                        </div>
+                                                                            <div class="field__item">
+                                            <a href="/study/ug/admissions/international-other-qualifications/international-other-qualifications-student-visa">Student Visa Application</a>
+                                        </div>
+                                                                         <div id="read-more-container">
+                                                                        </div>
+                                </div>
+                            </div>
+                        </div>
+                                                                                                                                                                                            <div class="basic-info-acc-item">
+                            <div class="basic-info-acc-item__wrapper basic-info-acc-item__questions">
+                                <div class="basic-info-acc-item__label basic-info-acc-item__questions__label"></div>
+                                <div class="basic-info-acc-item__question field--basic-info-item-title">Admission Policies</div>
+                            </div>
+                            <div class="basic-info-acc-item__wrapper basic-info-acc-item__answers">
+                                <div class="basic-info-acc-item__answers__content field--link">
+                                                                                                                <div class="field__item">
+                                            <a href="/study/ug/admissions/international-other-qualifications/international-other-qualifications-definition-non">Definition of Non-local applicants</a>
+                                        </div>
+                                                                            <div class="field__item">
+                                            <a href="/study/ug/admissions/international-other-qualifications/international-other-qualifications-distinctive">Distinctive Features of UG Programmes</a>
+                                        </div>
+                                                                            <div class="field__item">
+                                            <a href="/study/ug/admissions/international-other-qualifications/international-other-qualifications-credit-transfer">Credit Transfer and Exemption</a>
+                                        </div>
+                                                                            <div class="field__item">
+                                            <a href="/study/ug/admissions/international-other-qualifications/international-other-qualifications-concurrent">Concurrent Enrolment</a>
+                                        </div>
+                                                                            <div class="field__item">
+                                            <a href="/study/ug/admissions/international-other-qualifications/international-other-qualifications-accommodation">Accommodation </a>
+                                        </div>
+                                                                            <div class="field__item">
+                                            <a href="/study/ug/admissions/international-other-qualifications/international-other-qualifications-services-non-0">Services for Non-local Students</a>
+                                        </div>
+                                                                            <div class="field__item">
+                                            <a href="/study/ug/admissions/international-other-qualifications/international-other-qualifications-re-admission">Re-admission</a>
+                                        </div>
+                                                                            <div class="field__item">
+                                            <a href="/study/ug/admissions/international-other-qualifications/international-other-qualifications-applicants">Applicants with Disabilities / Special Educational Needs</a>
+                                        </div>
+                                                                            <div class="field__item">
+                                            <a href="/study/ug/admissions/international-other-qualifications/international-other-qualifications-qualification">Qualification Verification</a>
+                                        </div>
+                                                                         <div id="read-more-container">
+                                                                        </div>
+                                </div>
+                            </div>
+                        </div>
+                                                                                                                                                                                            <div class="basic-info-acc-item">
+                            <div class="basic-info-acc-item__wrapper basic-info-acc-item__questions">
+                                <div class="basic-info-acc-item__label basic-info-acc-item__questions__label"></div>
+                                <div class="basic-info-acc-item__question field--basic-info-item-title">Fees / Financial Assistance</div>
+                            </div>
+                            <div class="basic-info-acc-item__wrapper basic-info-acc-item__answers">
+                                <div class="basic-info-acc-item__answers__content field--link">
+                                                                                                                <div class="field__item">
+                                            <a href="/study/ug/admissions/international-other-qualifications/international-other-qualifications-tuition-fees">Tuition Fees for Government-funded Programmes</a>
+                                        </div>
+                                                                            <div class="field__item">
+                                            <a href="/study/ug/admissions/international-other-qualifications/international-other-qualifications-other-fees-and">Other Fees and Expenses</a>
+                                        </div>
+                                                                         <div id="read-more-container">
+                                                                        </div>
+                                </div>
+                            </div>
+                        </div>
+                                                                                                                                                                                            <div class="basic-info-acc-item">
+                            <div class="basic-info-acc-item__wrapper basic-info-acc-item__questions">
+                                <div class="basic-info-acc-item__label basic-info-acc-item__questions__label"></div>
+                                <div class="basic-info-acc-item__question field--basic-info-item-title">FAQs</div>
+                            </div>
+                            <div class="basic-info-acc-item__wrapper basic-info-acc-item__answers">
+                                <div class="basic-info-acc-item__answers__content field--link">
+                                                                                                                <div class="field__item">
+                                            <a href="/study/ug/admissions/international-other-qualifications/international-other-qualifications-frequently">Frequently Asked Questions</a>
+                                        </div>
+                                                                         <div id="read-more-container">
+                                                                        </div>
+                                </div>
+                            </div>
+                        </div>
+                                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+                                                                                            </div>
+                                        </div>
+                                    </div>
+                                                                    <div class="ac" data-admission-type="prog_detail_jee">
+                                        <div class="ac-header">
+                                            <div class="ac-trigger"><span class=non-local>Non-Local</span>內地应届高考生</div>
+                                        </div>
+                                        <div class="ac-panel">
+                                            <div class="accordion-content">
+                                                                                                      <div class="paragraph paragraph--default paragraph--basic-info-block paragraph--basic-info-block--default">
+    <div class="basic-info-background">
+        <img src="/study/profiles/contrib/polyu_study_profile/themes/polyu_theme/templates/paragraph/paragraph--basic-info-block/images/base-bg.png"/>
+    </div>
+    <div class="basic-info-wrapper">
+        <div class="basic-info-tile-background"></div>
+        <div class="basic-info-wrapper-inner">
+            <div class="basic-info-acc__content">
+                
+                <div class="basic-info-acc__wrapper">
+                                                                                                                                                                                            <div class="basic-info-acc-item">
+                            <div class="basic-info-acc-item__wrapper basic-info-acc-item__questions">
+                                <div class="basic-info-acc-item__label basic-info-acc-item__questions__label"></div>
+                                <div class="basic-info-acc-item__question field--basic-info-item-title">入学要求</div>
+                            </div>
+                            <div class="basic-info-acc-item__wrapper basic-info-acc-item__answers">
+                                <div class="basic-info-acc-item__answers__content field--link">
+                                                                                                                <div class="field__item">
+                                            <a href="/study/ug/admissions/jee/general-entrance-requirements">基本入学资格</a>
+                                        </div>
+                                                                            <div class="field__item">
+                                            <a href="/study/ug/admissions/jee/entrance-requirements-summary">入学要求总览</a>
+                                        </div>
+                                                                            <div class="field__item">
+                                            <a href="/study/ug/admissions/jee/popular-programmes">去年热门专业课程</a>
+                                        </div>
+                                                                         <div id="read-more-container">
+                                                                        </div>
+                                </div>
+                            </div>
+                        </div>
+                                                                                                                                                                                            <div class="basic-info-acc-item">
+                            <div class="basic-info-acc-item__wrapper basic-info-acc-item__questions">
+                                <div class="basic-info-acc-item__label basic-info-acc-item__questions__label"></div>
+                                <div class="basic-info-acc-item__question field--basic-info-item-title">入学申请</div>
+                            </div>
+                            <div class="basic-info-acc-item__wrapper basic-info-acc-item__answers">
+                                <div class="basic-info-acc-item__answers__content field--link">
+                                                                                                                <div class="field__item">
+                                            <a href="/study/ug/admissions/jee/definition-of-non-local-applicants">非本地申请人的定义</a>
+                                        </div>
+                                                                            <div class="field__item">
+                                            <a href="/study/ug/admissions/jee/students-under-18">未满十八岁的学生</a>
+                                        </div>
+                                                                            <div class="field__item">
+                                            <a href="/study/ug/admissions/jee/application-procedures-and-important-points-to-note">申请办法及注意事项</a>
+                                        </div>
+                                                                            <div class="field__item">
+                                            <a href="/study/ug/admissions/jee/student-visa-application">申请学生签证手续</a>
+                                        </div>
+                                                                            <div class="field__item">
+                                            <a href="/study/ug/admissions/jee/additional-documents-required">所需附加文件</a>
+                                        </div>
+                                                                            <div class="field__item">
+                                            <a href="https://www.polyu.edu.hk/saso/docdrive/jee/jee_demo.pdf">网上申请及程序示范</a>
+                                        </div>
+                                                                         <div id="read-more-container">
+                                                                        </div>
+                                </div>
+                            </div>
+                        </div>
+                                                                                                                                                                                            <div class="basic-info-acc-item">
+                            <div class="basic-info-acc-item__wrapper basic-info-acc-item__questions">
+                                <div class="basic-info-acc-item__label basic-info-acc-item__questions__label"></div>
+                                <div class="basic-info-acc-item__question field--basic-info-item-title">专才招生计划</div>
+                            </div>
+                            <div class="basic-info-acc-item__wrapper basic-info-acc-item__answers">
+                                <div class="basic-info-acc-item__answers__content field--link">
+                                                                                                                <div class="field__item">
+                                            <a href="https://www.polyu.edu.hk/study/ug/admissions/jee/3d-admission-scheme">3D综合评估入学计划</a>
+                                        </div>
+                                                                            <div class="field__item">
+                                            <a href="https://www.polyu.edu.hk/study/ug/admissions/jee/stars">德艺计划 (STARS)</a>
+                                        </div>
+                                                                         <div id="read-more-container">
+                                                                        </div>
+                                </div>
+                            </div>
+                        </div>
+                                                                                                                                                                                            <div class="basic-info-acc-item">
+                            <div class="basic-info-acc-item__wrapper basic-info-acc-item__questions">
+                                <div class="basic-info-acc-item__label basic-info-acc-item__questions__label"></div>
+                                <div class="basic-info-acc-item__question field--basic-info-item-title">招生政策</div>
+                            </div>
+                            <div class="basic-info-acc-item__wrapper basic-info-acc-item__answers">
+                                <div class="basic-info-acc-item__answers__content field--link">
+                                                                                                                <div class="field__item">
+                                            <a href="/study/ug/admissions/jee/bachelors-degree-scheme">本科组合学士课程</a>
+                                        </div>
+                                                                            <div class="field__item">
+                                            <a href="/study/ug/admissions/jee/course-features">课程特色</a>
+                                        </div>
+                                                                            <div class="field__item">
+                                            <a href="/study/ug/admissions/jee/applicants-with-disabilities-or-special-educational-needs">身体有残障及疾病人士</a>
+                                        </div>
+                                                                            <div class="field__item">
+                                            <a href="/study/ug/admissions/jee/concurrent-enrolment">双重学籍</a>
+                                        </div>
+                                                                            <div class="field__item">
+                                            <a href="/study/ug/admissions/jee/re-admission">重新入学</a>
+                                        </div>
+                                                                            <div class="field__item">
+                                            <a href="/study/ug/admissions/jee/student-hall">学生宿舍</a>
+                                        </div>
+                                                                            <div class="field__item">
+                                            <a href="/study/ug/admissions/jee/non-local-services-and-activities">非本地生服务及活动</a>
+                                        </div>
+                                                                            <div class="field__item">
+                                            <a href="/study/ug/admissions/jee/inter-institutional-transfer">转校</a>
+                                        </div>
+                                                                         <div id="read-more-container">
+                                                                        </div>
+                                </div>
+                            </div>
+                        </div>
+                                                                                                                                                                                            <div class="basic-info-acc-item">
+                            <div class="basic-info-acc-item__wrapper basic-info-acc-item__questions">
+                                <div class="basic-info-acc-item__label basic-info-acc-item__questions__label"></div>
+                                <div class="basic-info-acc-item__question field--basic-info-item-title">费用/奖学金</div>
+                            </div>
+                            <div class="basic-info-acc-item__wrapper basic-info-acc-item__answers">
+                                <div class="basic-info-acc-item__answers__content field--link">
+                                                                                                                <div class="field__item">
+                                            <a href="/study/ug/admissions/jee/tuition-fees-for-government-funded-programmes">政府资助课程的学费</a>
+                                        </div>
+                                                                            <div class="field__item">
+                                            <a href="/study/ug/admissions/jee/other-fees-and-expenses">其他费用及学习支出</a>
+                                        </div>
+                                                                            <div class="field__item">
+                                            <a href="/study/ug/admissions/jee/financial-assistance-and-scholarships">经济援助及奖学金</a>
+                                        </div>
+                                                                         <div id="read-more-container">
+                                                                        </div>
+                                </div>
+                            </div>
+                        </div>
+                                                                                                                                                                                            <div class="basic-info-acc-item">
+                            <div class="basic-info-acc-item__wrapper basic-info-acc-item__questions">
+                                <div class="basic-info-acc-item__label basic-info-acc-item__questions__label"></div>
+                                <div class="basic-info-acc-item__question field--basic-info-item-title">常见问题</div>
+                            </div>
+                            <div class="basic-info-acc-item__wrapper basic-info-acc-item__answers">
+                                <div class="basic-info-acc-item__answers__content field--link">
+                                                                                                                <div class="field__item">
+                                            <a href="/study/ug/admissions/jee/frequently-asked-questions">常见问题</a>
+                                        </div>
+                                                                         <div id="read-more-container">
+                                                                        </div>
+                                </div>
+                            </div>
+                        </div>
+                                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+                                                                                            </div>
+                                        </div>
+                                    </div>
+                                                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="other-prog-container">
+        <div class="other-prog-wrapper">
+                                        <div class="other-prog-tilte">View Other Programmes</div>
+                <div class="other-prog-list">
+                    <div class="views-element-container container container--no-parent container--view container--view--ug-programmes container--view--ug-programmes--other-prog"><div class="ug-programmes-list views-view js-view-dom-id-2293d9b68ad5e700cad481366b24ec06196d351e2aec286fd6162b1e029fac72">
+  
+  
+  
+
+  
+  
+  
+
+  
+<div class="programmes-row">
+        <div class="programmes-items">
+                                                                                                                                                                                                                                                                <div class="views-row fire_red"><a class="programme" href="/study/ug/jupas/2027/js3140">
+	<div class="top-section">
+		<div class="programmes-code-and-entry-description">
+			JS3140 | Sept 2027 Entry
+
+		</div>
+		<div class="study-mode-and-duration">
+			Full-time, 4 years
+
+		</div>
+	</div>
+	<div class="title-section">
+		<div class="chinese-title">Aviation Engineering (Aeronautical Engineering / Air Transport Engineering) - BEng (Hons) Scheme - Bachelor of Engineering (Honours) Scheme</div>
+				<div class="chinese-title">航空工程學(榮譽)工學士組合課程 (航空工程學 / 民航工程學)</div>
+			</div>
+	</a></div>
+                                                                                                                                                                                                                                                                <div class="views-row fire_red"><a class="programme" href="/study/ug/jupas/2027/js3150">
+	<div class="top-section">
+		<div class="programmes-code-and-entry-description">
+			JS3150 | Sept 2027 Entry
+
+		</div>
+		<div class="study-mode-and-duration">
+			Full-time, 4 years
+
+		</div>
+	</div>
+	<div class="title-section">
+		<div class="chinese-title">Biomedical Engineering - BSc (Hons) - Bachelor of Science (Honours)</div>
+				<div class="chinese-title">生物醫學工程(榮譽)理學士</div>
+			</div>
+	</a></div>
+                                                                                                                                                                                                                                                                <div class="views-row fire_red"><a class="programme" href="/study/ug/jupas/2027/js3170">
+	<div class="top-section">
+		<div class="programmes-code-and-entry-description">
+			JS3170 | Sept 2027 Entry
+
+		</div>
+		<div class="study-mode-and-duration">
+			Full-time, 4 years
+
+		</div>
+	</div>
+	<div class="title-section">
+		<div class="chinese-title">Electrical Engineering (Electrical Engineering / Transportation Systems Engineering) - BEng (Hons) Scheme - Bachelor of Engineering (Honours) Scheme</div>
+				<div class="chinese-title">電機工程學(榮譽)工學士組合課程 (電機工程學 / 運輸系統工程學)</div>
+			</div>
+	</a></div>
+                                                                                                                                                                                <div class="views-row fire_red"><a class="programme" href="/study/ug/jupas/2027/js3005">
+	<div class="top-section">
+		<div class="programmes-code-and-entry-description">
+			JS3005 | Sept 2027 Entry
+
+		</div>
+		<div class="study-mode-and-duration">
+			Full-time, 4 years
+
+		</div>
+	</div>
+	<div class="title-section">
+		<div class="chinese-title">Engineering - Bachelor’s Degree Scheme</div>
+				<div class="chinese-title">工程學科組合學士課程</div>
+			</div>
+	</a></div>
+                                                                                                                                                                                                                                                                <div class="views-row fire_red"><a class="programme" href="/study/ug/jupas/2027/js3237">
+	<div class="top-section">
+		<div class="programmes-code-and-entry-description">
+			JS3237 | Sept 2027 Entry
+
+		</div>
+		<div class="study-mode-and-duration">
+			Full-time, 4 years
+
+		</div>
+	</div>
+	<div class="title-section">
+		<div class="chinese-title">Intelligent Supply Chain and Engineering Management (Intelligent Supply Chain / Engineering Management with Data Analytics / Aviation Operations and Systems) - BSc (Hons) Scheme - Bachelor of Science (Honours) Scheme</div>
+				<div class="chinese-title">智能供應鏈及工程管理(榮譽)理學士組合課程 (智能供應鏈 / 工程管理兼數據分析 / 航空營運及系統學)</div>
+			</div>
+	</a></div>
+                                                                                                                                                                                                                                                                <div class="views-row fire_red"><a class="programme" href="/study/ug/jupas/2027/js3741">
+	<div class="top-section">
+		<div class="programmes-code-and-entry-description">
+			JS3741 | Sept 2027 Entry
+
+		</div>
+		<div class="study-mode-and-duration">
+			Full-time, 4 years
+
+		</div>
+	</div>
+	<div class="title-section">
+		<div class="chinese-title">Mechanical Engineering (Intelligent Robotics Engineering / Mechanical Engineering) - BEng (Hons) Scheme - Bachelor of Engineering (Honours) Scheme</div>
+				<div class="chinese-title">機械工程學(榮譽)工學士組合課程 (智能機械人工程學 / 機械工程學)</div>
+			</div>
+	</a></div>
+                                                                                                                                                                                                                                                                <div class="views-row fire_red"><a class="programme" href="/study/ug/jupas/2027/js3236">
+	<div class="top-section">
+		<div class="programmes-code-and-entry-description">
+			JS3236 | Sept 2027 Entry
+
+		</div>
+		<div class="study-mode-and-duration">
+			Full-time, 4 years
+
+		</div>
+	</div>
+	<div class="title-section">
+		<div class="chinese-title">Product Innovation and Smart Manufacturing (Product Innovation with Marketing / Smart Manufacturing) - BEng (Hons) Scheme - Bachelor of Engineering (Honours) Scheme</div>
+				<div class="chinese-title">產品創新及智能製造(榮譽)工學士組合課程 (產品創新兼市場學 / 智能製造)</div>
+			</div>
+	</a></div>
+                                                                                                                                                                                                                                                                <div class="views-row fire_red"><a class="programme" href="/study/ug/jupas/2027/js3160">
+	<div class="top-section">
+		<div class="programmes-code-and-entry-description">
+			JS3160 | Sept 2027 Entry
+
+		</div>
+		<div class="study-mode-and-duration">
+			Full-time, 4 years
+
+		</div>
+	</div>
+	<div class="title-section">
+		<div class="chinese-title">Sports Science and Technology - BSc (Hons) - Bachelor of Science (Honours)</div>
+				<div class="chinese-title">體育科技(榮譽)理學士</div>
+			</div>
+	</a></div>
+            </div>
+</div>
+
+    
+
+  
+  
+
+  
+  
+</div>
+</div>
+
+                </div>
+                        <div class="other-prog-action">
+                <a class="button btn-outline-white" href="/study/ug/programmes/faculties-and-schools">Our Faculties and Schools</a>
+                <a class="button btn-outline-white" href="/study/ug/programmes/programme-z">Programme by A-Z</a>
+            </div>
+        </div>
+    </div>
+</article>
+
+  </div>
+
+  </div>
+
+                
+                
+            </div>
+            </main>
+
+    <footer class="page__footer" role="contentinfo">
+                    <div class="uni-wrapper">
+                  <div class="region region--footer">
+                
+    <div class="footer-container">
+        <div class="footer-wrapper">
+            <div class="menu-section">
+                
+              <div class="menu menu--level-0">
+        <ul class="menu__list menu__list--level-0">
+          <li class="menu__item menu__item--level-0">
+        <a href="/study/ug/sitemap" class="menu__link menu__link--level-0" data-drupal-link-system-path="ug/sitemap">Sitemap</a>
+              </li>
+          <li class="menu__item menu__item--level-0">
+        <a href="https://www.polyu.edu.hk/en/privacy-policy-statement/" class="menu__link menu__link--level-0">Privacy Policy Statement</a>
+              </li>
+          <li class="menu__item menu__item--level-0">
+        <a href="https://www.polyu.edu.hk/accessibility/" class="menu__link menu__link--level-0">Accessibility</a>
+              </li>
+          <li class="menu__item menu__item--level-0">
+        <a href="https://www.polyu.edu.hk/terms-of-use/" class="menu__link menu__link--level-0">Terms of Use</a>
+              </li>
+          <li class="menu__item menu__item--level-0">
+        <a href="https://www.polyu.edu.hk/study/ug/contact-us" class="menu__link menu__link--level-0">Contact Us</a>
+              </li>
+        </ul>
+    </div>
+  
+
+
+            </div>
+            <div class="copyright-section">
+                Copyright © 2025 The Hong Kong Polytechnic University. All Rights Reserved.
+            </div>
+                      <div class="apply-now-section">
+                                                                                    <a href="https://www38.polyu.edu.hk/eAdmission/jupasLogin.do" class="btn-apply">
+                    <i class="fa-light fa-pen-to-square"></i>
+                    <span>JUPAS Login</span>
+                </a>
+                            </div>
+                      <div class="scroll-top-section">
+                <a onclick="scrollToTop()" class="btn-apply btn-scroll-tio">
+                    <i class="fa-light fa-angle-up"></i>
+                </a>
+            </div>
+        </div>
+    </div>
+    
+
+  </div>
+
+            </div>
+            </footer>
+
+      <div class="region region--fixed">
+            <article>
+        <div class="polyu_quick_access">
+            <div class="quick_access_wrapper">
+                <div class="sliding_pane_action">
+                    <a class="sliding_pane_close" href="#"> <i class="far fa-times"></i></a>
+                </div>
+                <h3>Quick Access</h3>
+                
+              <div class="menu menu--level-0">
+        <ul class="menu__list menu__list--level-0">
+          <li class="menu__item menu__item--level-0">
+        <a href="https://www.polyu.edu.hk/en/" class="menu__link menu__link--level-0">PolyU Main Site</a>
+              </li>
+          <li class="menu__item menu__item--level-0">
+        <a href="https://www.polyu.edu.hk/ar/" class="menu__link menu__link--level-0">Academic Registry (AR)</a>
+              </li>
+          <li class="menu__item menu__item--level-0">
+        <a href="https://www.polyu.edu.hk/geo/" class="menu__link menu__link--level-0">Global Engagement Office (GEO)</a>
+              </li>
+          <li class="menu__item menu__item--level-0">
+        <a href="https://www.polyu.edu.hk/gs/" class="menu__link menu__link--level-0">Graduate School (GS)</a>
+              </li>
+          <li class="menu__item menu__item--level-0">
+        <a href="https://www.polyu.edu.hk/ous/" class="menu__link menu__link--level-0">Office of Undergraduate Studies (OUS)</a>
+              </li>
+          <li class="menu__item menu__item--level-0">
+        <a href="https://www.polyu.edu.hk/sao/" class="menu__link menu__link--level-0">Student Affairs Office (SAO)</a>
+              </li>
+          <li class="menu__item menu__item--level-0">
+        <a href="https://www.hkcc-polyu.edu.hk/tc/home/index.html" class="menu__link menu__link--level-0">Hong Kong Community College (HKCC)</a>
+              </li>
+          <li class="menu__item menu__item--level-0">
+        <a href="https://www.speed-polyu.edu.hk/" class="menu__link menu__link--level-0">School of Professional Education and Executive Development (SPEED)</a>
+              </li>
+          <li class="menu__item menu__item--level-0">
+        <a href="https://www.jupas.edu.hk/en/" class="menu__link menu__link--level-0">JUPAS</a>
+              </li>
+          <li class="menu__item menu__item--level-0">
+        <a href="https://www.edb.gov.hk/en/edu-system/postsecondary/policy-doc/SNDAS/index.html" class="menu__link menu__link--level-0">School Nominations Direct Admission Scheme (SNDAS)</a>
+              </li>
+        </ul>
+    </div>
+  
+
+
+            </div>
+        </div>
+    </article>
+
+  </div>
+
+</div>
+
+  </div>
+
+    
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/study\/","scriptPath":null,"pathPrefix":"","currentPath":"node\/70292","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"gtag":{"tagId":"G-N0RNDCLXM4","otherIds":["G-Z2SGDMFMDM"],"events":[],"additionalConfigInfo":[]},"ajaxPageState":{"libraries":"extlink\/drupal.extlink,google_tag\/gtag,google_tag\/gtag.ajax,lazy\/lazy,paragraphs\/drupal.paragraphs.unpublished,polyu_theme\/block--config-pages--footer-configuration,polyu_theme\/block--config-pages--header-configuration,polyu_theme\/block--polyu-quick-access,polyu_theme\/block--polyu-search-block--top,polyu_theme\/block--polyu-theme-content,polyu_theme\/node--prog-detail-international,polyu_theme\/node--prog-detail-jps,polyu_theme\/node--prog-detail-nj,polyu_theme\/paragraph--basic-info-block,polyu_theme\/paragraph--prog-additional-document,polyu_theme\/paragraph--prog-student-message,polyu_theme\/polyu_programme_page,polyu_theme\/styling,system\/base,uni\/fontawesome,uni\/html,uni\/really,uni\/swiper,uni_theme\/uni-card,uni_theme\/uni-modal,views\/views.ajax,views\/views.module","theme":"polyu_theme","theme_token":null},"ajaxTrustedUrl":{"\/study\/ug\/search":true},"jupas_calculator_toggle":{"enabled":true},"lazy":{"lazysizes":{"lazyClass":"lazyload","loadedClass":"lazyloaded","loadingClass":"lazyloading","preloadClass":"lazypreload","errorClass":"lazyerror","autosizesClass":"lazyautosizes","srcAttr":"data-src","srcsetAttr":"data-srcset","sizesAttr":"data-sizes","minSize":40,"customMedia":[],"init":true,"expFactor":1.5,"hFac":0.8,"loadMode":2,"loadHidden":true,"ricTimeout":0,"throttleDelay":125,"plugins":[]},"placeholderSrc":"","preferNative":false,"minified":true,"libraryPath":"\/study\/libraries\/lazysizes"},"data":{"extlink":{"extTarget":true,"extTargetNoOverride":true,"extNofollow":true,"extNoreferrer":true,"extFollowNoOverride":false,"extClass":"0","extLabel":"(link is external)","extImgClass":false,"extSubdomains":false,"extExclude":"","extInclude":"","extCssExclude":"","extCssExplicit":"","extAlert":false,"extAlertText":"This link will take you to an external web site. We are not responsible for their content.","mailtoClass":"0","mailtoLabel":"(link sends email)","extUseFontAwesome":false,"extIconPlacement":"append","extFaLinkClasses":"fa fa-external-link","extFaMailtoClasses":"fa fa-envelope-o","whitelistedDomains":[]}},"views":{"ajax_path":"\/study\/views\/ajax","ajaxViews":{"views_dom_id:2293d9b68ad5e700cad481366b24ec06196d351e2aec286fd6162b1e029fac72":{"view_name":"ug_programmes","view_display_id":"other_prog","view_args":"70292\/1278\/prog_detail_jps\/2669","view_path":"\/node\/70292","view_base_path":null,"view_dom_id":"2293d9b68ad5e700cad481366b24ec06196d351e2aec286fd6162b1e029fac72","pager_element":0}}},"node":{"nid":"70292","type":"prog_detail_jps"},"toolbar":{"breakpoints":{"toolbar.narrow":"all","toolbar.standard":"all","toolbar.wide":"all"}},"user":{"uid":0,"permissionsHash":"a40ae53b446f575a539a41603b43eaae0ece92962849ee2eb24f3fa6a38338cd"}}</script>
+<script src="/study/core/misc/polyfills/element.matches.js?v=9.5.11"></script>
+<script src="/study/core/assets/vendor/jquery/jquery.min.js?v=3.6.3"></script>
+<script src="/study/core/misc/polyfills/object.assign.js?v=9.5.11"></script>
+<script src="/study/core/misc/polyfills/nodelist.foreach.js?v=9.5.11"></script>
+<script src="/study/core/assets/vendor/css-escape/css.escape.js?v=1.5.1"></script>
+<script src="/study/core/assets/vendor/es6-promise/es6-promise.auto.min.js?v=4.2.8"></script>
+<script src="/study/core/assets/vendor/once/once.min.js?v=1.0.1"></script>
+<script src="/study/core/assets/vendor/jquery-once/jquery.once.min.js?v=2.2.3"></script>
+<script src="/study/core/misc/drupalSettingsLoader.js?v=9.5.11"></script>
+<script src="/study/core/misc/drupal.js?v=9.5.11"></script>
+<script src="/study/core/misc/drupal.init.js?v=9.5.11"></script>
+<script src="/study/core/assets/vendor/tabbable/index.umd.min.js?v=5.3.3"></script>
+<script src="/study/modules/contrib/lazy/js/lazy.js?v=9.5.11"></script>
+<script src="/study/core/misc/jquery.once.bc.js?v=9.5.11"></script>
+<script src="/study/profiles/contrib/polyu_study_profile/themes/polyu_theme/assets/js/views/views.js?tmtvme"></script>
+<script src="/study/profiles/contrib/polyu_study_profile/themes/polyu_theme/assets/js/nodes/nodes.js?tmtvme"></script>
+<script src="/study/modules/contrib/extlink/extlink.js?v=9.5.11"></script>
+<script src="/study/modules/contrib/google_tag/js/gtag.js?tmtvme"></script>
+<script src="/study/core/misc/progress.js?v=9.5.11"></script>
+<script src="/study/core/assets/vendor/loadjs/loadjs.min.js?v=4.2.0"></script>
+<script src="/study/core/modules/responsive_image/js/responsive_image.ajax.js?v=9.5.11"></script>
+<script src="/study/core/misc/ajax.js?v=9.5.11"></script>
+<script src="/study/modules/contrib/google_tag/js/gtag.ajax.js?tmtvme"></script>
+<script src="/study/profiles/contrib/polyu_study_profile/themes/polyu_theme/templates/block/block--polyu-quick-access/block--polyu-quick-access.js?tmtvme"></script>
+<script src="/study/profiles/contrib/polyu_study_profile/themes/polyu_theme/templates/block/block--config-pages--footer-configuration/block--config-pages--footer-configuration.js?tmtvme"></script>
+<script src="/study/core/assets/vendor/jquery-form/jquery.form.min.js?v=4.3.0"></script>
+<script src="/study/core/modules/views/js/base.js?v=9.5.11"></script>
+<script src="/study/core/modules/views/js/ajax_view.js?v=9.5.11"></script>
+<script src="/study/profiles/contrib/polyu_study_profile/themes/polyu_theme/templates/paragraph/paragraph--basic-info-block/paragraph--basic-info-block.js?tmtvme"></script>
+<script src="/study/profiles/contrib/polyu_study_profile/themes/polyu_theme/templates/node/node--prog-detail-international/node--prog-detail-international.js?tmtvme"></script>
+<script src="/study/profiles/contrib/polyu_study_profile/themes/polyu_theme/templates/node/node--prog-detail-nj/node--prog-detail-nj.js?tmtvme"></script>
+<script src="/study/profiles/contrib/polyu_study_profile/themes/polyu_theme/templates/paragraph/paragraph--prog-student-message/paragraph--prog-student-message.js?tmtvme"></script>
+<script src="/study/profiles/contrib/polyu_study_profile/themes/polyu_theme/templates/node/node--prog-detail-jps/node--prog-detail-jps.js?tmtvme"></script>
+<script src="/study/profiles/contrib/polyu_study_profile/themes/polyu_theme/assets/js/polyu_programme_page/polyu_programme_page.js?tmtvme"></script>
+<script src="/study/modules/contrib/uni/node_modules/swiper/swiper-bundle.min.js?tmtvme"></script>
+<script src="/study/profiles/contrib/polyu_study_profile/themes/polyu_theme/templates/block/block--config-pages--header-configuration/block--config-pages--header-configuration.js?tmtvme"></script>
+<script src="/study/profiles/contrib/polyu_study_profile/themes/polyu_theme/templates/block/block--polyu-search-block--top/block--polyu-search-block--top.js?tmtvme"></script>
+
+  </body>
+</html>

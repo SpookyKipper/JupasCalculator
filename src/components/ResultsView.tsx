@@ -1,0 +1,588 @@
+import { useEffect, useRef, useState } from "react";
+import type { MouseEvent as ReactMouseEvent } from "react";
+import { institutionLabel } from "../lib/institutions";
+import { slotLabel } from "../lib/slots";
+import { bandLabelKey, formatDelta, formatPercent } from "../lib/results";
+import { hasDisplayInterview, interviewTiming } from "../lib/selection";
+import { useMediaQuery, DESKTOP_MEDIA_QUERY } from "../lib/useMediaQuery";
+import { useLang, pickName } from "../lib/i18n";
+import type { SortKey } from "../lib/results";
+import type { BenchmarkKey, Programme, ProgrammeResult } from "../types/jupas";
+import "./ResultsView.css";
+
+
+// Windowed-render chunk sizes. INITIAL fills a tall desktop viewport on
+// first paint; CHUNK is how many more stream in each time the user nears
+// the bottom. Kept generous so scrolling never visibly "waits" for rows.
+const WINDOW_INITIAL = 40;
+const WINDOW_CHUNK = 40;
+
+type Props = {
+  results: ProgrammeResult[];
+  selectedCodes: string[];
+  activeCode?: string;
+  compact: boolean;
+  deltaMode?: "points" | "percent";
+  sortKey: SortKey;
+  sortDirection: "asc" | "desc";
+  // View mode: pick/unpick is a no-op and the pick button is hidden.
+  // Filtering and sorting stay enabled – those don't mutate the
+  // shared profile.
+  readOnly?: boolean;
+  onFocus: (code: string) => void;
+  onPick: (code: string) => void;
+  onUnpick: (code: string) => void;
+  // Bulk variants used by desktop multi-select (shift-click range, tick drag,
+  // select-all). One atomic state update instead of N — optional so other
+  // ResultsView embeds keep working with the per-code handlers.
+  onPickMany?: (codes: string[]) => void;
+  onUnpickMany?: (codes: string[]) => void;
+  onSortChange: (sortKey: SortKey) => void;
+  // Desktop Browse row-click mode: "select" (default) toggles the pick; "view"
+  // opens the detail panel via onOpenDetail (the tick box still toggles the pick).
+  rowMode?: "select" | "view";
+  onOpenDetail?: (code: string) => void;
+};
+
+export function ResultsView({ results, selectedCodes, activeCode, compact, deltaMode = "points", sortKey, sortDirection, readOnly = false, onFocus, onPick, onUnpick, onPickMany, onUnpickMany, onSortChange, rowMode = "select", onOpenDetail }: Props) {
+  const { t, lang } = useLang();
+  const slotByCode = new Map(selectedCodes.map((code, index) => [code, slotLabel(index)]));
+  // Render only the view that matches the current viewport instead
+  // of building both the desktop table AND the mobile cards for all
+  // ~419 results (the CSS hid one, but React still rendered both –
+  // 2× the DOM + reconciliation work on every filter/sort change).
+  // matchMedia reads synchronously on first render so there's no
+  // wrong-view flash. 920px mirrors the CSS breakpoint below.
+  const isDesktop = useMediaQuery(DESKTOP_MEDIA_QUERY);
+
+  // Windowed rendering. Building all ~419 rows (table OR cards) in one
+  // commit is what made entering Step 2 lag – so we paint an initial
+  // chunk immediately and stream the rest in as the user scrolls toward
+  // the bottom (an IntersectionObserver sentinel with a generous preload
+  // margin keeps it seamless). Resets to the first chunk whenever the
+  // list identity changes (filter / sort / data update).
+  const [visibleCount, setVisibleCount] = useState(WINDOW_INITIAL);
+  // Callback ref so the same sentinel logic works for the table's <tr> and
+  // the card list's <div> without ref-type variance gymnastics.
+  const sentinelRef = useRef<Element | null>(null);
+  const setSentinel = (el: Element | null) => {
+    sentinelRef.current = el;
+  };
+
+  useEffect(() => {
+    setVisibleCount(WINDOW_INITIAL);
+  }, [results]);
+
+  useEffect(() => {
+    const node = sentinelRef.current;
+    if (!node) return;
+    const observer = new IntersectionObserver(
+      (entries) => {
+        if (entries[0]?.isIntersecting) {
+          setVisibleCount((current) => Math.min(current + WINDOW_CHUNK, results.length));
+        }
+      },
+      { rootMargin: "800px 0px" },
+    );
+    observer.observe(node);
+    return () => observer.disconnect();
+  }, [results.length, visibleCount]);
+
+  const visibleResults = results.slice(0, visibleCount);
+  const hasMore = visibleCount < results.length;
+
+  // ── Desktop multi-select ─────────────────────────────────────────────────
+  // anchorRef remembers the last plain tick interaction (code + whether it
+  // picked or unpicked); a shift-click applies that same mode to the whole
+  // range between anchor and target — file-manager style, not per-row toggle.
+  // dragRef tracks a mousedown that started on a tick: once the pointer enters
+  // a different row the drag activates and paints its mode over every row it
+  // crosses. suppressClickRef swallows the synthetic click that fires when a
+  // drag releases back on its origin tick (the drag already applied it).
+  const anchorRef = useRef<{ code: string; mode: "pick" | "unpick" } | null>(null);
+  const dragRef = useRef<{ originCode: string; mode: "pick" | "unpick"; started: boolean } | null>(null);
+  const suppressClickRef = useRef(false);
+
+  useEffect(() => {
+    const endDrag = () => {
+      if (dragRef.current?.started) {
+        suppressClickRef.current = true;
+        // The origin-tick click (if any) dispatches synchronously after
+        // mouseup, before timers — clear the flag right after so it never
+        // swallows an unrelated later click.
+        window.setTimeout(() => {
+          suppressClickRef.current = false;
+        }, 0);
+      }
+      dragRef.current = null;
+    };
+    window.addEventListener("mouseup", endDrag);
+    return () => window.removeEventListener("mouseup", endDrag);
+  }, []);
+
+  function applyMode(codes: string[], mode: "pick" | "unpick") {
+    if (readOnly) return;
+    const targets = codes.filter((code) => selectedCodes.includes(code) === (mode === "unpick"));
+    if (!targets.length) return;
+    if (mode === "pick") {
+      if (onPickMany) onPickMany(targets);
+      else targets.forEach(onPick);
+    } else {
+      if (onUnpickMany) onUnpickMany(targets);
+      else targets.forEach(onUnpick);
+    }
+  }
+
+  function rangeCodes(fromCode: string, toCode: string): string[] {
+    const codes = results.map((result) => result.programme.jupas_code);
+    const a = codes.indexOf(fromCode);
+    const b = codes.indexOf(toCode);
+    if (a === -1 || b === -1) return [];
+    return codes.slice(Math.min(a, b), Math.max(a, b) + 1);
+  }
+
+  function beginTickDrag(code: string) {
+    if (readOnly || !isDesktop) return;
+    dragRef.current = { originCode: code, mode: selectedCodes.includes(code) ? "unpick" : "pick", started: false };
+  }
+
+  function dragOverRow(code: string) {
+    const drag = dragRef.current;
+    if (!drag || readOnly) return;
+    if (!drag.started) {
+      if (code === drag.originCode) return;
+      drag.started = true;
+      anchorRef.current = { code: drag.originCode, mode: drag.mode };
+    }
+    // Paint the whole origin→pointer range on every move: a fast flick can
+    // skip mouseenter on intermediate rows (mouse events are sampled), and
+    // re-applying the range keeps them covered. Additive — overshoot stays.
+    applyMode(rangeCodes(drag.originCode, code), drag.mode);
+  }
+
+  function togglePick(code: string, shiftKey = false) {
+    if (readOnly) return;
+    if (suppressClickRef.current) {
+      suppressClickRef.current = false;
+      return;
+    }
+    if (shiftKey && isDesktop && anchorRef.current) {
+      // Anchor stays put so further shift-clicks keep extending from it.
+      applyMode(rangeCodes(anchorRef.current.code, code), anchorRef.current.mode);
+      return;
+    }
+    const mode: "pick" | "unpick" = selectedCodes.includes(code) ? "unpick" : "pick";
+    anchorRef.current = { code, mode };
+    if (mode === "unpick") {
+      onUnpick(code);
+      return;
+    }
+    onPick(code);
+  }
+
+  // What a row-body click/Enter does. "view" mode drills into the detail panel;
+  // "select" mode (default) toggles the pick + focuses. The tick box (PickButton)
+  // always toggles the pick regardless of mode.
+  function activateRow(code: string, shiftKey = false) {
+    if (readOnly) return;
+    if (rowMode === "view" && onOpenDetail) {
+      onOpenDetail(code);
+      return;
+    }
+    togglePick(code, shiftKey);
+    onFocus(code);
+  }
+
+  function resultClassName(code: string, base = "") {
+    const classes = base ? [base] : [];
+    if (activeCode === code) classes.push("selected");
+    if (selectedCodes.includes(code)) classes.push("picked");
+    return classes.join(" ");
+  }
+
+  // On a wide viewport the default is the full sortable table. The "Compact"
+  // toggle drops to the card list — on desktop this is the only thing it does
+  // (the table is already the dense view), and on the Advisor Console's narrow
+  // Browse panel the table overflows horizontally, so cards read far better on
+  // iPad. On mobile isDesktop is false so cards always render and `compact`
+  // just controls their density (unchanged).
+  const showTable = isDesktop && !compact;
+  return (
+    <section className="results-panel" aria-label={t("results.ariaPanel")}>
+      {showTable ? (
+      <div className="table-shell">
+        <table className="results-table">
+          <thead>
+            <tr>
+              <SortableHeader label={t("results.col.programme")} column="code" sortKey={sortKey} sortDirection={sortDirection} onSortChange={onSortChange} />
+              <SortableHeader label={t("results.col.institution")} column="institution" sortKey={sortKey} sortDirection={sortDirection} onSortChange={onSortChange} />
+              <SortableHeader label={t("filters.sort.quota")} column="quota" sortKey={sortKey} sortDirection={sortDirection} onSortChange={onSortChange} />
+              <SortableHeader label={t("results.col.score")} column="score" sortKey={sortKey} sortDirection={sortDirection} onSortChange={onSortChange} />
+              <SortableHeader label={t("results.col.band")} column="benchmark" sortKey={sortKey} sortDirection={sortDirection} onSortChange={onSortChange} />
+              <SortableHeader label={t("results.col.lqDiff")} column="lq" sortKey={sortKey} sortDirection={sortDirection} onSortChange={onSortChange} />
+              <SortableHeader label={t("results.col.medianDiff")} column="median" sortKey={sortKey} sortDirection={sortDirection} onSortChange={onSortChange} />
+              <SortableHeader label={t("results.col.uqDiff")} column="uq" sortKey={sortKey} sortDirection={sortDirection} onSortChange={onSortChange} />
+            </tr>
+          </thead>
+          <tbody>
+            {visibleResults.map((result) => (
+              <tr
+                key={result.programme.jupas_code}
+                data-code={result.programme.jupas_code}
+                className={resultClassName(result.programme.jupas_code)}
+                role={readOnly ? undefined : "button"}
+                tabIndex={readOnly ? -1 : 0}
+                onClick={readOnly ? undefined : (event) => activateRow(result.programme.jupas_code, event.shiftKey)}
+                onMouseEnter={readOnly ? undefined : () => dragOverRow(result.programme.jupas_code)}
+                onKeyDown={readOnly ? undefined : (event) => {
+                  if (event.key === "Enter" || event.key === " ") {
+                    event.preventDefault();
+                    activateRow(result.programme.jupas_code, event.shiftKey);
+                  }
+                }}
+                style={readOnly ? undefined : { cursor: "pointer" }}
+              >
+                <td>
+                  <span className="programme-cell-head">
+                    {readOnly ? null : (
+                      // Enlarged selection hit-zone: the whole left gutter around the
+                      // tick box toggles the pick (so "view mode" rows still open on a
+                      // body click, but the left area is an easy select target).
+                      // mousedown arms a drag-select; shift-click extends from the
+                      // last tick (preventDefault stops text selection for both).
+                      <span
+                        className="pick-hitzone"
+                        onMouseDown={(event) => { event.preventDefault(); beginTickDrag(result.programme.jupas_code); }}
+                        onClick={(event) => { event.stopPropagation(); togglePick(result.programme.jupas_code, event.shiftKey); }}
+                      >
+                        <PickButton picked={selectedCodes.includes(result.programme.jupas_code)} onClick={(event) => togglePick(result.programme.jupas_code, event.shiftKey)} />
+                      </span>
+                    )}
+                    <span className="programme-cell-text">
+                      <strong>
+                        {slotByCode.get(result.programme.jupas_code) ? <SlotBadge slot={slotByCode.get(result.programme.jupas_code)!} /> : null}
+                        {result.programme.jupas_code}
+                        <StatusBadge pass={result.eligibility.eligible} compact />
+                        <InterviewFlag programme={result.programme} compact />
+                      </strong>
+                      <span>{pickName(result.programme, lang)}</span>
+                    </span>
+                  </span>
+                </td>
+                <td>{institutionLabel(result.programme.institution)}</td>
+                <td><QuotaBadge quota={result.programme.quota} compact label={false} /></td>
+                <td>{result.calculation.totalScore.toFixed(2)}</td>
+                <td><BandBadge result={result} /></td>
+                <DeltaCell result={result} keyName="lq" deltaMode={deltaMode} />
+                <DeltaCell result={result} keyName="central" deltaMode={deltaMode} />
+                <DeltaCell result={result} keyName="uq" deltaMode={deltaMode} />
+              </tr>
+            ))}
+            {hasMore ? (
+              <tr ref={setSentinel} className="results-sentinel-row" aria-hidden="true">
+                <td colSpan={8} />
+              </tr>
+            ) : null}
+          </tbody>
+        </table>
+      </div>
+      ) : (
+      <div className={compact ? "result-cards compact-results" : "result-cards"}>
+        {visibleResults.map((result) => (
+          <div
+            role={readOnly ? undefined : "button"}
+            tabIndex={readOnly ? -1 : 0}
+            data-code={result.programme.jupas_code}
+            className={resultClassName(result.programme.jupas_code, "mobile-card")}
+            key={result.programme.jupas_code}
+            onClick={readOnly ? undefined : (event) => {
+              // Desktop compact-card Browse honours the same "view" row-click mode
+              // as the table. Gated on isDesktop so mobile card taps are unchanged.
+              if (isDesktop && rowMode === "view" && onOpenDetail) {
+                onOpenDetail(result.programme.jupas_code);
+                return;
+              }
+              togglePick(result.programme.jupas_code, event.shiftKey);
+            }}
+            onMouseEnter={readOnly ? undefined : () => dragOverRow(result.programme.jupas_code)}
+            onKeyDown={readOnly ? undefined : (event) => {
+              if (event.key === "Enter" || event.key === " ") {
+                event.preventDefault();
+                if (isDesktop && rowMode === "view" && onOpenDetail) {
+                  onOpenDetail(result.programme.jupas_code);
+                  return;
+                }
+                togglePick(result.programme.jupas_code, event.shiftKey);
+              }
+            }}
+          >
+            <span className="card-topline">
+              <span className="card-focus-button">
+                {slotByCode.get(result.programme.jupas_code) ? <SlotBadge slot={slotByCode.get(result.programme.jupas_code)!} /> : null}
+                <span className="card-code">{result.programme.jupas_code}</span>
+                <span>{institutionLabel(result.programme.institution)}</span>
+              </span>
+              <span className="card-badges">
+                <QuotaBadge quota={result.programme.quota} />
+                <StatusBadge pass={result.eligibility.eligible} />
+              </span>
+              {readOnly ? null : (
+                <PickButton
+                  picked={selectedCodes.includes(result.programme.jupas_code)}
+                  onMouseDown={(event) => { event.preventDefault(); event.stopPropagation(); beginTickDrag(result.programme.jupas_code); }}
+                  onClick={(event) => togglePick(result.programme.jupas_code, event.shiftKey)}
+                />
+              )}
+            </span>
+            <div className="mobile-card-main">
+              <strong>{pickName(result.programme, lang)}</strong>
+              {(lang === "zh" ? result.programme.name_en : result.programme.name_zh)
+                ? <small className="card-zh">{lang === "zh" ? result.programme.name_en : result.programme.name_zh}</small>
+                : null}
+            </div>
+            <span className="compact-score-strip">
+              <b>{result.calculation.totalScore.toFixed(2)}</b>
+              <CompactBenchmark result={result} benchmarkKey="lq" label={t("common.lq")} deltaMode={deltaMode} />
+              <CentralCompactBenchmark result={result} deltaMode={deltaMode} />
+              <CompactBenchmark result={result} benchmarkKey="uq" label={t("common.uq")} deltaMode={deltaMode} />
+            </span>
+            <span className="card-score-row">
+              <span>
+                <em>{t("results.yourScore")}</em>
+                <b>{result.calculation.totalScore.toFixed(2)}</b>
+              </span>
+              <span className="card-score-badges">
+                <InterviewFlag programme={result.programme} compact />
+                <BandBadge result={result} />
+              </span>
+            </span>
+            <span className="card-benchmarks">
+              <BenchmarkChip result={result} benchmarkKey="lq" label={t("common.lq")} deltaMode={deltaMode} />
+              <CentralBenchmarkChip result={result} deltaMode={deltaMode} />
+              <BenchmarkChip result={result} benchmarkKey="uq" label={t("common.uq")} deltaMode={deltaMode} />
+            </span>
+          </div>
+        ))}
+        {hasMore ? <div ref={setSentinel} className="results-sentinel" aria-hidden="true" /> : null}
+      </div>
+      )}
+    </section>
+  );
+}
+
+function SlotBadge({ slot }: { slot: string }) {
+  return <span className="selected-slot-badge">{slot}</span>;
+}
+
+function PickButton({ picked, onClick, onMouseDown }: { picked: boolean; onClick: (event: ReactMouseEvent) => void; onMouseDown?: (event: ReactMouseEvent) => void }) {
+  const { t } = useLang();
+  return (
+    <button
+      className={picked ? "pick-button picked" : "pick-button"}
+      type="button"
+      aria-label={picked ? t("results.removeFromCompare") : t("results.addToCompare")}
+      onMouseDown={onMouseDown}
+      onClick={(event) => {
+        event.stopPropagation();
+        onClick(event);
+      }}
+    >
+      {picked ? (
+        <svg width="11" height="9" viewBox="0 0 11 9" fill="none" aria-hidden="true">
+          <path d="M1 4L4 7.5L10 1" stroke="currentColor" strokeWidth="1.75" strokeLinecap="round" strokeLinejoin="round"/>
+        </svg>
+      ) : null}
+    </button>
+  );
+}
+
+function SortableHeader({
+  label,
+  column,
+  sortKey,
+  sortDirection,
+  onSortChange,
+}: {
+  label: string;
+  column: SortKey;
+  sortKey: SortKey;
+  sortDirection: "asc" | "desc";
+  onSortChange: (sortKey: SortKey) => void;
+}) {
+  const active = sortKey === column;
+  return (
+    <th onClick={() => onSortChange(column)}>
+      <button
+        className={active ? "sort-header active" : "sort-header"}
+        type="button"
+        onClick={(event) => {
+          // The whole cell is clickable (th onClick); stop the button's own
+          // click from bubbling so it doesn't toggle the sort twice.
+          event.stopPropagation();
+          onSortChange(column);
+        }}
+      >
+        {label}
+        <span>{active ? (sortDirection === "asc" ? "↑" : "↓") : "↕"}</span>
+      </button>
+    </th>
+  );
+}
+
+// The institution's published reference score for a benchmark key. Shown even when
+// the student has no score yet — the school's LQ/median/UQ exist independently of the
+// student's input, so the list should never blank them out to "-".
+function refScore(result: ProgrammeResult, key: BenchmarkKey | "central"): number | null {
+  const s = result.programme.scores_2026 || {};
+  if (key === "central" || key === "median") return s.median ?? s.mean ?? s.expected_score ?? null;
+  if (key === "mean") return s.mean ?? null;
+  if (key === "lq") return s.lq ?? null;
+  if (key === "uq") return s.uq ?? null;
+  if (key === "expected_score") return s.expected_score ?? null;
+  return null;
+}
+
+// The student's band (their score's position). Hidden while they simply haven't
+// entered grades yet but the programme HAS reference scores (shown alongside) — a
+// "No score data" chip there is misleading; the band returns once there's a score
+// to place. Kept for genuinely data-less programmes.
+function BandBadge({ result }: { result: ProgrammeResult }) {
+  const { t } = useLang();
+  if (result.band === "no-score" && result.hasScoreData) return null;
+  return <span className={`band ${result.band}`}>{t(bandLabelKey(result.band))}</span>;
+}
+
+function DeltaCell({ result, keyName, deltaMode }: { result: ProgrammeResult; keyName: "lq" | "central" | "uq"; deltaMode: "points" | "percent" }) {
+  const { t } = useLang();
+  const comparison = keyName === "central" ? centralComparison(result) : result.comparisons.find((item) => item.key === keyName);
+  const ref = comparison ? null : refScore(result, keyName);
+  const positive = comparison && comparison.delta >= 0;
+  const showMeanLabel = keyName === "central" && comparison?.key === "mean";
+  return (
+    <td className={comparison || ref != null ? "benchmark-cell" : "muted"}>
+      {comparison ? (
+        <>
+          {showMeanLabel ? <em className="benchmark-cell-label">{t("common.mean")}</em> : null}
+          <strong>{comparison.score.toFixed(2)}</strong>
+          <span className={positive ? "positive-text" : "negative-text"}>
+            {deltaMode === "percent" ? formatPercent(comparison.percent) : formatDelta(comparison.delta)}
+          </span>
+        </>
+      ) : ref != null ? <strong>{ref.toFixed(2)}</strong> : "-"}
+    </td>
+  );
+}
+
+function StatusBadge({ pass, compact = false }: { pass: boolean; compact?: boolean }) {
+  const { t } = useLang();
+  return <span className={`${pass ? "status pass" : "status fail"}${compact ? " is-compact" : ""}`}>{pass ? t("results.eligible") : t("results.checkReq")}</span>;
+}
+
+function QuotaBadge({ quota, compact = false, label = true }: { quota?: number | null; compact?: boolean; label?: boolean }) {
+  const { t } = useLang();
+  if (typeof quota !== "number" || quota <= 0) return null;
+  return <span className={compact ? "quota-badge is-compact" : "quota-badge"}>{label ? `${t("results.quotaShort")} ${quota}` : quota}</span>;
+}
+
+// At-a-glance marker for officially listed interviews. Vague "when necessary"
+// entries are kept in Detail only.
+function InterviewFlag({ programme, compact = false }: { programme: Programme; compact?: boolean }) {
+  const { t, lang } = useLang();
+  if (!hasDisplayInterview(programme)) return null;
+  const timing = interviewTiming(programme);
+  const title = timing === "both"
+    ? t("results.interviewFlag.titleBoth")
+    : timing === "post-results"
+      ? t("results.interviewFlag.titleAfter")
+      : t("results.interviewFlag.titleBefore");
+  const label = timing === "both"
+    ? t("results.interviewFlag.labelBoth")
+    : timing === "post-results"
+      ? t("results.interviewFlag.labelAfter")
+      : t("results.interviewFlag.labelBefore");
+  const className = [
+    "interview-flag",
+    compact ? "is-compact" : "",
+    `is-${timing}`,
+  ].filter(Boolean).join(" ");
+  const englishParts = timing === "both"
+    ? ["Pre/post-results", "interview"]
+    : timing === "post-results"
+      ? ["Post-results", "interview"]
+      : ["Pre-results", "interview"];
+  return (
+    <span className={className} title={title} aria-label={title} data-timing={timing}>
+      {lang === "en" ? (
+        <span className="interview-flag-copy" aria-hidden="true">
+          <span className="interview-flag-line">{englishParts[0]}</span>
+          <span className="interview-flag-line">{englishParts[1]}</span>
+        </span>
+      ) : (
+        <span>{label}</span>
+      )}
+    </span>
+  );
+}
+
+function benchmarkDiff(comparison: { delta: number; percent: number } | undefined, deltaMode: "points" | "percent") {
+  if (!comparison) return "-";
+  return deltaMode === "percent" ? formatPercent(comparison.percent) : formatDelta(comparison.delta);
+}
+
+function BenchmarkChip({ result, benchmarkKey, label, deltaMode = "points" }: { result: ProgrammeResult; benchmarkKey: BenchmarkKey; label: string; deltaMode?: "points" | "percent" }) {
+  const comparison = result.comparisons.find((item) => item.key === benchmarkKey);
+  const ref = comparison ? null : refScore(result, benchmarkKey);
+  const positive = comparison ? comparison.delta >= 0 : false;
+  return (
+    <span className={!comparison ? "benchmark-chip muted" : positive ? "benchmark-chip positive" : "benchmark-chip negative"}>
+      <em>{label}</em>
+      <strong>{comparison ? comparison.score.toFixed(2) : ref != null ? ref.toFixed(2) : "-"}</strong>
+      <b>{comparison ? benchmarkDiff(comparison, deltaMode) : ""}</b>
+    </span>
+  );
+}
+
+function CentralBenchmarkChip({ result, deltaMode = "points" }: { result: ProgrammeResult; deltaMode?: "points" | "percent" }) {
+  const { t } = useLang();
+  const comparison = centralComparison(result);
+  return (
+    <BenchmarkChip
+      result={result}
+      benchmarkKey={comparison?.key === "mean" ? "mean" : "median"}
+      label={comparison?.key === "mean" ? t("common.mean") : t("common.median")}
+      deltaMode={deltaMode}
+    />
+  );
+}
+
+function CompactBenchmark({ result, benchmarkKey, label, deltaMode = "points" }: { result: ProgrammeResult; benchmarkKey: BenchmarkKey; label: string; deltaMode?: "points" | "percent" }) {
+  const comparison = result.comparisons.find((item) => item.key === benchmarkKey);
+  const ref = comparison ? null : refScore(result, benchmarkKey);
+  const positive = comparison ? comparison.delta >= 0 : false;
+  return (
+    <span className={!comparison ? "compact-benchmark muted" : positive ? "compact-benchmark positive" : "compact-benchmark negative"}>
+      <span className="compact-benchmark-score">
+        <em>{label}</em>
+        <strong>{comparison ? comparison.score.toFixed(2) : ref != null ? ref.toFixed(2) : "-"}</strong>
+      </span>
+      <b>{comparison ? benchmarkDiff(comparison, deltaMode) : ""}</b>
+    </span>
+  );
+}
+
+function CentralCompactBenchmark({ result, deltaMode = "points" }: { result: ProgrammeResult; deltaMode?: "points" | "percent" }) {
+  const { t } = useLang();
+  const comparison = centralComparison(result);
+  return (
+    <CompactBenchmark
+      result={result}
+      benchmarkKey={comparison?.key === "mean" ? "mean" : "median"}
+      label={comparison?.key === "mean" ? t("common.meanAbbr") : t("results.medShort")}
+      deltaMode={deltaMode}
+    />
+  );
+}
+
+function centralComparison(result: ProgrammeResult) {
+  return result.comparisons.find((item) => item.key === "median" || item.key === "mean");
+}

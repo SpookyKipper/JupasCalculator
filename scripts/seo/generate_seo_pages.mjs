@@ -1,0 +1,436 @@
+// Static SEO page generator (build-time SSG, run after `vite build`).
+//
+// Writes a crawlable, bilingual page PER PROGRAMME (+ browse index + 424-url sitemap)
+// into dist/. To make each page identical to the app, the templates LINK the app's own
+// built CSS (index-*.css + App-*.css, filenames read from the build) and reproduce the
+// APP'S EXACT DETAIL-PANEL DOM — the real class names AND nesting captured from the
+// running app: app-topbar / app-shell layout-mobile / panel detail-panel / detail-header
+// / detail-name / score-context > benchmark-grid / eligibility-card formula-card /
+// formula-year-grid / offers-card / extra-info-card / official-card, dividers, and the
+// stepper-next-btn CTA + stepper-footer. A tiny inline script sets data-theme before
+// paint (saved choice → system), so it matches the app's light/dark. The two user-
+// specific sections (your-score, pass/fail eligibility) are reframed for a no-user page:
+// the score card prompts you to open the calculator, and eligibility is shown as the
+// programme's REQUIREMENTS. Every CTA deep-links into the app (/?p=<CODE>).
+import { readFileSync, writeFileSync, mkdirSync, readdirSync } from "fs";
+
+const SITE = "https://jupascal.com";
+const OUT = "dist";
+const DATA = "data/processed/JUPAS_2027_Unified_Data.json";
+const data = JSON.parse(readFileSync(DATA, "utf8"));
+let DETAILS = {};
+try { DETAILS = JSON.parse(readFileSync("data/processed/programme_details_2027.json", "utf8")); } catch {}
+
+// Pull the authoritative score-basis disclaimers STRAIGHT from the app's i18n
+// dictionary (src/lib/strings.ts) instead of paraphrasing them here — so the static
+// pages carry the exact copy the app shows (single source of truth, no drift).
+const STR = {};
+try {
+  const src = readFileSync("src/lib/strings.ts", "utf8");
+  const re = /"([\w.]+)":\s*\{\s*en:\s*"((?:[^"\\]|\\.)*)"\s*,\s*zh:\s*"((?:[^"\\]|\\.)*)"\s*\}/g;
+  let m; while ((m = re.exec(src))) STR[m[1]] = { en: m[2].replace(/\\"/g, '"'), zh: m[3].replace(/\\"/g, '"') };
+} catch {}
+const str = (k) => STR[k] || null;
+
+const cssFiles = (() => {
+  try { return readdirSync(`${OUT}/assets`).filter((x) => x.endsWith(".css")).sort((a, b) => (a.startsWith("index") ? -1 : 1) - (b.startsWith("index") ? -1 : 1)); } catch { return []; }
+})();
+const APP_CSS = cssFiles.map((f) => `<link rel="stylesheet" href="/assets/${f}" />`).join("\n");
+const PREFETCH = (() => {
+  try {
+    const a = readdirSync(`${OUT}/assets`).filter((f) => /\.(js|css)$/.test(f));
+    return ["/", ...a.map((f) => `/assets/${f}`), "/data/processed/JUPAS_2027_Unified_Data.json"].map((h) => `<link rel="prefetch" href="${h}" />`).join("\n");
+  } catch { return ""; }
+})();
+
+const LOGO = `<svg class="app-brand-logo" viewBox="32 30 284 214" aria-hidden="true" focusable="false"><path fill="currentColor" d="M172,33 176,33 312,103 173,172 36,103 171,34Z"></path><path fill="currentColor" d="M90,149 172,189 182,186 257,149 257,208 241,220 216,233 200,238 180,241 158,240 137,235 113,224 90,208 90,150Z"></path><path fill="#c2922e" d="M291,198 299,198 303,204 309,223 311,240 279,241 283,215 290,199Z"></path><path fill="#c2922e" d="M293,169 303,173 306,179 305,186 298,192 292,192 286,188 284,178 285,175 292,170Z"></path><path fill="#c2922e" d="M293,123 299,126 299,162 291,164 292,124Z"></path></svg>`;
+const THEME_SCRIPT = `<script>try{document.documentElement.dataset.theme=localStorage.getItem('jupas-staging-theme')||(matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light');}catch(e){}</script>`;
+// Chevron used inside .weight-toggle buttons (matches the app; .open rotates it 180°).
+const CHEV = `<svg width="14" height="14" viewBox="0 0 16 16" fill="none" aria-hidden="true"><polyline points="3,5 8,11 13,5" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"></polyline></svg>`;
+// Tiny runtime for the static pages: wire up the collapse toggles + sticky-header shadow.
+const PAGE_SCRIPT = `<script>(function(){document.querySelectorAll('button.weight-toggle[data-collapse]').forEach(function(b){var body=b.nextElementSibling;if(!body)return;b.addEventListener('click',function(){body.classList.toggle('wt-hidden');var hid=body.classList.contains('wt-hidden');b.classList.toggle('open',!hid);b.setAttribute('aria-expanded',String(!hid));if(b.dataset.show)b.firstChild.nodeValue=hid?b.dataset.show:b.dataset.hide;});});var h=document.querySelector('.detail-static .detail-header');if(h){var f=function(){h.classList.toggle('is-stuck',h.getBoundingClientRect().top<=1);};addEventListener('scroll',f,{passive:true});f();}})();</script>`;
+const EXTRA_CSS = `<style>
+  /* The app's mobile .app-shell is position:fixed (a pinned scroll container for the
+     app's gesture handling). A static page wants a normal-scrolling document, so
+     neutralise that and give the content comfortable top padding (the app's stepper-bar
+     normally supplies it). */
+  /* overflow:visible (not auto) so neither html nor body becomes a scroll container —
+     the viewport scrolls, which is what position:sticky needs to pin the header. */
+  html,body{overflow:visible!important;height:auto!important;position:static!important;overscroll-behavior-y:auto!important}
+  main.app-shell.detail-static{position:static!important;height:auto!important;min-height:0!important;overflow:visible!important;width:100%;max-width:640px;margin:0 auto;padding:18px 14px 112px!important}
+  /* The app caps .detail-panel at ~100vh and scrolls inside it; a static page must let
+     the whole card grow with its content (else the rounded card ends one screen down and
+     the rest spills outside it — the "broken" look). */
+  .detail-static .detail-panel{position:static!important;overflow:visible!important;max-height:none!important}
+  /* Sticky programme header — mirrors the app: pins to the viewport top as you scroll,
+     compacts + gains a shadow via .is-stuck (toggled by the inline script). */
+  .detail-static .detail-panel .detail-header{position:sticky!important;top:0!important;z-index:26}
+  /* Collapsible bodies (offers table / more info / weight breakdown), toggled by JS. */
+  .detail-static .wt-hidden{display:none!important}
+  /* The app's mobile .app-topbar bleeds -space-4 (−16px) sideways to sit flush inside
+     the padded .app-shell. On a static page it's a bare <body> child (no padding), so
+     that negative margin overflowed the viewport by 16px each side and the browser
+     zoomed the whole page out. Re-centre it on the content column with matching padding. */
+  body > .app-topbar{margin-left:auto!important;margin-right:auto!important;width:100%!important;max-width:640px!important;box-sizing:border-box;padding-left:14px!important;padding-right:14px!important}
+  a.stepper-next-btn{display:inline-flex;align-items:center;justify-content:center;gap:8px;text-decoration:none}
+  .detail-static .detail-name h2{cursor:default}
+  .seo-cta{margin:14px 0 4px}
+  .seo-lede{color:var(--muted);font-size:.92rem;margin:0 0 4px}
+  .seo-faq p.eyebrow,.seo-faq{margin-top:0}
+  .seo-faq h4{font-size:.95rem;margin:14px 0 3px}
+  .seo-faq .a{color:var(--muted);font-size:.88rem;margin:0 0 10px;line-height:1.5}
+  .seo-faq .a .seo-en{display:block;margin-top:2px;opacity:.9}
+  /* Unlike the app (which drops the English sub-name once the header compacts),
+     a static bilingual page keeps both names visible when the header sticks. */
+  .detail-static .detail-header.is-stuck .zh-name{display:block!important}
+  /* Related-programme list: one programme per row, both names + code. */
+  .seo-rel{display:flex;flex-direction:column;gap:0}
+  .seo-rel a{display:block;margin:0;padding:7px 2px;border-top:1px solid var(--line);text-decoration:none}
+  .seo-rel a:last-child{border-bottom:1px solid var(--line)}
+  .seo-rel .rel-en{color:var(--muted);font-size:.86em;margin-left:4px}
+  .seo-rel .rel-code{color:var(--muted);font-size:.82em;margin-left:4px}
+  .offers-sentence{margin:0}.offers-sentence .seo-en,.offers-caption .seo-en{display:block;color:var(--muted)}
+  .offers-caption{margin:0}
+  /* Benchmark labels carry both languages (上四分位 UQ / 中位數 MED / 下四分位 LQ) —
+     shrink the label a touch so it stays on one line in the narrow cards. */
+  .detail-static .benchmark-card span{font-size:.62rem;letter-spacing:.01em}
+  /* Per-benchmark "how it's computed" box (CUHK estimated/recalculated scores). */
+  .estdetail-intro{margin:6px 0 0}
+  .estdetail-intro .seo-en,.estdetail-method .seo-en,.estdetail-calc .seo-en{display:block;color:var(--muted)}
+  .estdetail-method{font-size:.84rem;margin:6px 0 0;line-height:1.5}
+  .estbench-toggle{margin-top:8px}
+  .estdetail-body{margin:4px 0 2px}
+  .estgrades{list-style:none;margin:8px 0 0;padding:0;display:flex;flex-wrap:wrap;gap:6px}
+  .estgrade{display:flex;gap:6px;align-items:baseline;border:1px solid var(--line);border-radius:8px;padding:4px 9px;background:var(--surface-strong);font-size:.82rem}
+  .estgrade span{color:var(--muted)}.estgrade b{color:var(--ink)}
+  .estdetail-calc{font-size:.84rem;margin:8px 0 0;line-height:1.5}
+  .stepper-footer .stepper-next-btn{width:100%}
+</style>`;
+
+const INST = {
+  HKU: { en: "The University of Hong Kong", zh: "香港大學", short: "港大" }, CUHK: { en: "The Chinese University of Hong Kong", zh: "香港中文大學", short: "中大" },
+  HKUST: { en: "The Hong Kong University of Science and Technology", zh: "香港科技大學", short: "科大" }, PolyU: { en: "The Hong Kong Polytechnic University", zh: "香港理工大學", short: "理大" },
+  CityUHK: { en: "City University of Hong Kong", zh: "香港城市大學", short: "城大" }, HKBU: { en: "Hong Kong Baptist University", zh: "香港浸會大學", short: "浸大" },
+  LingnanU: { en: "Lingnan University", zh: "嶺南大學", short: "嶺大" }, EdUHK: { en: "The Education University of Hong Kong", zh: "香港教育大學", short: "教大" },
+  HKMU: { en: "Hong Kong Metropolitan University", zh: "香港都會大學", short: "都大" }, SSSDP: { en: "SSSDP", zh: "SSSDP 指定專業／界別課程資助計劃", short: "SSSDP" },
+};
+const instZh = (k) => (INST[k]?.zh || k);
+const instEn = (k) => (INST[k]?.en || k);
+const instShort = (k) => (INST[k]?.short || k);
+const esc = (s) => String(s ?? "").replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
+const num = (x) => (x == null || Number.isNaN(x) ? null : x);
+const httpsHref = (u) => (/^https?:\/\//i.test(String(u ?? "").trim()) ? String(u).trim() : null);
+const shortUrl = (u) => String(u).replace(/^https?:\/\/(www\.)?/, "").replace(/\/$/, "");
+
+const SHORT = { "English Language": "English 英文", "Chinese Language": "Chinese 中文", "Mathematics (Compulsory Part)": "Maths 數學", "Citizenship and Social Development": "CSD 公民科", "Mathematics Extended Part (Module 1)": "M1", "Mathematics Extended Part (Module 2)": "M2" };
+const shortSubj = (s) => SHORT[s] ?? s;
+const REQ_ZH = { chi: "中文 Chinese", eng: "英文 English", math: "數學 Maths", csd: "公民科 CSD" };
+// Split a "中文 English" bilingual label back into its parts (for one-language contexts
+// like the Chinese/English FAQ answers). zhPart keeps the leading CJK run; enPart the rest.
+const zhPart = (label) => String(label).replace(/\s+[A-Za-z].*$/, "").trim();
+const enPart = (label) => { const m = String(label).match(/[A-Za-z].*$/); return m ? m[0].trim() : String(label); };
+
+function weightItems(p) {
+  const out = [];
+  for (const [k, v] of Object.entries(p.subject_weights_2027 || {})) out.push([shortSubj(k), `x${v}`]);
+  for (const pool of p.best_of_weights_2027 || []) out.push([`best ${pool.count ?? 1} of ${(pool.subjects || []).map(shortSubj).join(" / ")}`, `x${pool.weight}`]);
+  return out;
+}
+function requirements(p) {
+  const r = p.min_requirements_2027 || {};
+  const rows = [];
+  if (r.chi) rows.push([REQ_ZH.chi, esc(r.chi), null]);
+  if (r.eng) rows.push([REQ_ZH.eng, esc(r.eng), null]);
+  if (r.math) rows.push([REQ_ZH.math, esc(r.math), null]);
+  if (r.csd) rows.push([REQ_ZH.csd, esc(r.csd), null]);
+  for (const key of ["elect1", "elect2"]) {
+    const e = r[key];
+    if (e && (e.subjects?.length || e.grade)) rows.push([key === "elect1" ? "選修一 Elective 1" : "選修二 Elective 2", esc(e.grade || "—"), (e.subjects || []).join(" / ") || null]);
+  }
+  return rows;
+}
+function offerStats(p) {
+  const rows = p.offer_statistics || [];
+  const y = rows.filter((r) => r.Type === "Application").map((r) => r.Year);
+  if (!y.length) return null;
+  const year = Math.max(...y);
+  const app = rows.find((r) => r.Year === year && r.Type === "Application");
+  const off = rows.find((r) => r.Year === year && r.Type === "Offer");
+  if (!app) return null;
+  return { year, apps: app.Total ?? null, appsBandA: app["Band A"] ?? null, offers: off?.Total ?? null, offersBandA: off?.["Band A"] ?? null, quota: app.Quota ?? off?.Quota ?? p.quota ?? null };
+}
+function basisNote(p) {
+  if (p.score_basis === "cuhk_2027_recalculated") return str("detail.cuhkRecalc.note");
+  if (p.score_basis === "cuhk_2027_simulated") return str("detail.cuhkSim.note");
+  if (p.score_basis === "restructured" && p.restructured_from) {
+    const s = str("detail.restructured.note");
+    return s ? { en: s.en.replaceAll("{from}", p.restructured_from), zh: s.zh.replaceAll("{from}", p.restructured_from) } : null;
+  }
+  return null;
+}
+
+// Per-benchmark "how it's computed" box, for the CUHK estimated/recalculated scores.
+// score_grades_2026 holds the ACTUAL DSE grades of the student admitted at each of the
+// 2026 LQ / median / UQ positions — so each benchmark expands to show those real grades
+// and the resulting score. Only rendered for programmes that carry that grade data.
+const GKEY = [["CHIN", "中文 Chinese"], ["ENGL", "英文 English"], ["MATH", "數學 Maths"], ["CSD", "公民科 CSD"], ["M1/M2", "M1/M2"], ["Elective 1", "選修一 Elective 1"], ["Elective 2", "選修二 Elective 2"], ["Elective 3", "選修三 Elective 3"]];
+const BENCH = [["uq", "上四分位 UQ"], ["median", "中位數 MED"], ["lq", "下四分位 LQ"]];
+function gradeChips(profile) {
+  return GKEY.filter(([k]) => profile[k] != null && profile[k] !== "").map(([k, lab]) => `<li class="estgrade"><span>${lab}</span><b>${esc(profile[k])}</b></li>`).join("");
+}
+function estimateDetail(p) {
+  const sg = p.score_grades_2026, s = p.scores_2026 || {};
+  if (!sg || !p.score_basis) return "";
+  const isSim = p.score_basis === "cuhk_2027_simulated";
+  const rows = BENCH.map(([key, lab]) => {
+    const prof = sg[key], val = num(s[key]);
+    if (!prof || !Object.keys(prof).length || val == null) return "";
+    const chips = gradeChips(prof);
+    if (!chips) return "";
+    const calcZh = isSim ? `取錄學生的實際成績，以 2027 年加權按中大公式重算 → <b>${val}</b>。` : `中大公佈的取錄學生成績，以 2027 年新公式重算 → <b>${val}</b>。`;
+    const calcEn = isSim ? `The admitted student's real grades, re-scored with the 2027 weighting → ${val}.` : `CUHK's admitted-student grades, scored with the new 2027 formula → ${val}.`;
+    return `<button type="button" class="weight-toggle estbench-toggle" aria-expanded="false" data-collapse>${lab} · ${val}${CHEV}</button><div class="wt-hidden estdetail-body"><ul class="estgrades">${chips}</ul><p class="muted estdetail-calc">${calcZh}<span class="seo-en">${calcEn}</span></p></div>`;
+  }).filter(Boolean).join("");
+  if (!rows) return "";
+  const introZh = "點按任何分數，查看該取錄學生的實際 DSE 成績及計算方法。";
+  const introEn = "Tap any figure to see that admitted student's actual DSE grades and how it's worked out.";
+  const method = isSim ? str("detail.cuhkSim.method") : null;
+  return `<hr class="grade-section-divider"><section class="estdetail-card formula-card"><div class="eligibility-card-eyebrow"><span>逐項計算 · How each figure is worked out</span></div><p class="formula-text estdetail-intro">${introZh}<span class="seo-en">${introEn}</span></p>${method ? `<p class="muted estdetail-method">${esc(method.zh)}<span class="seo-en">${esc(method.en)}</span></p>` : ""}<hr class="weight-divider">${rows}</section>`;
+}
+
+// Full Band A offers table (all years), exact app markup (offers-table / -row / -cell).
+function offersCard(p) {
+  const rows = p.offer_statistics || [];
+  const byYear = {};
+  for (const r of rows) { if (r.Type !== "Application" && r.Type !== "Offer") continue; (byYear[r.Year] ||= {})[r.Type] = r["Band A"]; }
+  const years = Object.keys(byYear).map(Number).sort((a, b) => b - a);
+  if (!years.length) return "";
+  const latest = years[0], la = byYear[latest].Application, lo = byYear[latest].Offer;
+  const rate = (la && lo != null) ? (lo / la * 100).toFixed(1) + "%" : null;
+  const trows = years.map((y) => {
+    const a = byYear[y].Application, o = byYear[y].Offer;
+    const r = (a && o != null) ? (o / a * 100).toFixed(1) + "%" : "—";
+    return `<div class="offers-table-row" role="row"><span role="cell" class="offers-table-year">${y}</span><span role="cell" class="offers-table-cell"><b>${a ?? "—"}</b></span><span role="cell" class="offers-table-cell"><b>${o ?? "—"}</b></span><span role="cell" class="offers-table-cell accent"><b>${r}</b></span></div>`;
+  }).join("");
+  const showLabel = `顯示 ${years.length} 年數據 · Show ${years.length} years`;
+  const hideLabel = `隱藏 ${years.length} 年數據 · Hide ${years.length} years`;
+  const sentence = la != null
+    ? `<p class="formula-text offers-sentence">${la} 名 Band A 申請人中 ${lo ?? "—"} 人獲取錄<span class="seo-en">${lo ?? "—"} of ${la} Band A applicants received an offer</span></p>`
+    : "";
+  return `<hr class="grade-section-divider"><section class="offers-card formula-card"><div class="offers-card-eyebrow"><span>Band A 取錄 · Offers ${latest}</span>${rate ? `<b class="tally-badge offers-tally">取錄率 · Rate ${rate}</b>` : ""}</div>${sentence}<small class="offers-caption">歷年 Band A 申請與取錄人數（${years[years.length - 1]}–${latest}）<span class="seo-en">Band A applications vs offers by year</span></small><hr class="weight-divider"><button type="button" class="weight-toggle" aria-expanded="false" data-collapse data-show="${showLabel}" data-hide="${hideLabel}">${showLabel}${CHEV}</button><div class="offers-body wt-hidden"><div class="offers-table" role="table" aria-label="按年份列出的 Band A 取錄紀錄 · Band A offers by year"><div class="offers-table-head" role="row"><span role="columnheader">年份<br>Year</span><span role="columnheader">Band A 申請<br>Applicants</span><span role="columnheader">取錄<br>Offers</span><span role="columnheader">取錄率<br>Rate</span></div>${trows}</div></div></section>`;
+}
+
+// The full "more information" card (overview blocks + study level, tuition, contacts) —
+// exact app markup. The overview comes from our own compiled programme dataset.
+function descBlocksHtml(code) {
+  const b = DETAILS[code]?.blocks;
+  if (!b?.length) return "";
+  return b.map((blk) => {
+    const cls = blk.t === "li" ? "desc-block desc-li" : blk.t === "h" ? "desc-block desc-h" : "desc-block desc-p";
+    const inner = (blk.spans || []).map((s) => s.href ? `<a href="${esc(s.href)}" target="_blank" rel="noopener noreferrer" class="desc-link">${esc(s.text)}</a>` : `<span>${esc(s.text)}</span>`).join("");
+    return `<p class="${cls}">${inner}</p>`;
+  }).join("");
+}
+function extraInfoCard(p) {
+  const parts = [];
+  const blocks = descBlocksHtml(p.jupas_code);
+  if (blocks) parts.push(`<div class="extra-info-row"><em>概覽 Overview</em><div class="extra-info-value desc-blocks">${blocks}</div></div>`);
+  if (p.study_level) parts.push(`<div class="extra-info-row"><em>修讀程度 Study level</em><span class="extra-info-value">${esc(p.study_level)}</span></div>`);
+  if (p.tuition_fee_first_year) parts.push(`<div class="extra-info-row"><em>首年學費 First-year tuition</em><span class="extra-info-value">${esc(p.tuition_fee_first_year)}</span></div>`);
+  if (p.contacts_text) parts.push(`<div class="extra-info-row"><em>聯絡資料 Contact</em><span class="extra-info-value multiline">${esc(p.contacts_text)}</span></div>`);
+  if (!parts.length) return "";
+  return `<hr class="grade-section-divider"><section class="extra-info-card formula-card"><div class="extra-info-eyebrow"><span>更多資料 · More information</span><b class="tally-badge extra-info-tally">${parts.length} 部分 · ${parts.length} sections</b></div><hr class="weight-divider"><button type="button" class="weight-toggle" aria-expanded="false" data-collapse data-show="顯示課程詳情 · Show details" data-hide="隱藏課程詳情 · Hide details">顯示課程詳情 · Show details${CHEV}</button><div class="extra-info-body wt-hidden">${parts.join("")}</div></section>`;
+}
+
+function head(title, desc, canonical, extraLd, extraStyle) {
+  return `<!doctype html>
+<html lang="zh-Hant">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>${esc(title)}</title>
+<meta name="description" content="${esc(desc)}" />
+<link rel="canonical" href="${canonical}" />
+<meta name="robots" content="index, follow" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="${esc(title)}" />
+<meta property="og:description" content="${esc(desc)}" />
+<meta property="og:url" content="${canonical}" />
+<meta property="og:image" content="${SITE}/og-image.png?v=2" />
+<meta property="og:site_name" content="JUPASCal" />
+<meta property="og:locale" content="zh_HK" />
+<meta property="og:locale:alternate" content="en_US" />
+<meta name="twitter:card" content="summary_large_image" />
+<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Gelasio:wght@400;600;700&display=swap" />
+${APP_CSS}
+${EXTRA_CSS}${extraStyle || ""}
+${PREFETCH}
+${extraLd || ""}
+${THEME_SCRIPT}
+</head>
+<body>
+<header class="app-topbar">
+  <div class="app-topbar-left"><a class="app-brand" href="/" aria-label="JUPASCal 2027">${LOGO}<span class="app-brand-name">JUPASCal <span class="app-brand-year">2027</span></span></a></div>
+  <nav class="app-topbar-actions" aria-label="導覽"><a class="topbar-link" href="/p/">所有課程 · All</a></nav>
+</header>`;
+}
+
+function programmePage(p, siblings) {
+  const code = p.jupas_code;
+  const nameEn = p.name_en || code, nameZh = p.name_zh || "", inst = p.institution || "";
+  const canonical = `${SITE}/p/${code}/`;
+  const s = p.scores_2026 || {};
+  const med = num(s.median), uq = num(s.uq), lq = num(s.lq);
+  const witems = weightItems(p);
+  const reqs = requirements(p);
+  const note = basisNote(p);
+  const os = offerStats(p);
+  const formulaTxt = p.formula_2027 || p.formula_2026 || "Best 5 subjects";
+  const plainWeights = witems.map(([k, v]) => `${k} ${v}`).join(", ").replace(/&amp;/g, "&");
+
+  const title = `${inst} ${nameEn}${nameZh ? " " + nameZh : ""} (${code}) · ${instZh(inst)}收生分數與計分方法 2027 | JUPASCal`;
+  const desc = `${instShort(inst)}${nameZh ? nameZh + "（" + code + "）" : nameEn + " (" + code + ")"}｜${instZh(inst)}${med != null ? `：2026 年收生中位數 ${med}分` : ""}、2027 入學要求及計分比重。用 JUPASCal 估算你的 JUPAS 分數。`;
+  const summary = `${inst} ${nameEn} (${code}) is a JUPAS undergraduate programme offered by ${instEn(inst)} (${inst}).`
+    + (med != null ? ` Its 2026 median admission score was ${med}${uq != null && lq != null ? ` (upper quartile ${uq}, lower quartile ${lq})` : ""}.` : "")
+    + ` It is scored on ${formulaTxt}${witems.length ? ` with weighting: ${plainWeights}` : " with equal subject weighting"}.`
+    + (os && os.apps != null ? ` In ${os.year} it received ${os.apps} applications for about ${os.quota ?? "?"} places.` : "");
+  const zhName = nameZh || nameEn, instP = instShort(inst);
+  const faqs = [];
+  if (med != null) faqs.push({
+    q: `${code} 2026 年收生分數是多少？ · What was the 2026 admission score for ${code}?`,
+    aZh: `${instP}${zhName}（${code}）2026 年收生中位數為 ${med} 分${uq != null ? `，上四分位 ${uq} 分` : ""}${lq != null ? `，下四分位 ${lq} 分` : ""}。${note ? note.zh : ""}`,
+    aEn: `The 2026 median admission score for ${nameEn} (${code}) at ${inst} was ${med}${uq != null ? `, UQ ${uq}` : ""}${lq != null ? `, LQ ${lq}` : ""}.${note ? " " + note.en : ""}`,
+  });
+  if (reqs.length) faqs.push({
+    q: `${code} 2027 入學要求？ · Entrance requirements for ${code}?`,
+    aZh: `${instP}${zhName}（${code}）2027 年最低入學要求：${reqs.map(([k, v]) => `${zhPart(k)} ${v}`).join("、")}。`,
+    aEn: `${nameEn} (${code}) requires ${reqs.map(([k, v]) => enPart(k.replace(/&amp;/g, "&")) + " L" + v).join("; ")}.`,
+  });
+  faqs.push({
+    q: `${code} 的分數如何計算？ · How is the ${code} score calculated?`,
+    aZh: `${instP}${zhName}以「${formulaTxt}」計分${witems.length ? `，科目比重：${plainWeights}` : "，各科同等比重（×1）"}。`,
+    aEn: `${nameEn} uses ${formulaTxt}${witems.length ? `, with weightings: ${plainWeights}` : " with equal (x1) subject weighting"}.`,
+  });
+
+  const courseLd = { "@context": "https://schema.org", "@type": "Course", name: nameEn, alternateName: nameZh || undefined, description: summary, url: canonical, inLanguage: ["zh-Hant", "en"], isAccessibleForFree: true, provider: { "@type": "CollegeOrUniversity", name: instEn(inst) } };
+  const faqLd = { "@context": "https://schema.org", "@type": "FAQPage", mainEntity: faqs.map(({ q, aZh, aEn }) => ({ "@type": "Question", name: q, acceptedAnswer: { "@type": "Answer", text: aZh + " " + aEn } })) };
+  const crumbLd = { "@context": "https://schema.org", "@type": "BreadcrumbList", itemListElement: [
+    { "@type": "ListItem", position: 1, name: "JUPASCal", item: `${SITE}/` }, { "@type": "ListItem", position: 2, name: "All programmes", item: `${SITE}/p/` }, { "@type": "ListItem", position: 3, name: `${nameEn} (${code})`, item: canonical },
+  ] };
+  const extraLd = [courseLd, faqLd, crumbLd].map((o) => `<script type="application/ld+json">${JSON.stringify(o)}</script>`).join("\n");
+
+  const cards = [];
+  if (uq != null) cards.push(`<div class="benchmark-card"><span>上四分位 UQ</span><strong>${uq}</strong></div>`);
+  if (med != null) cards.push(`<div class="benchmark-card"><span>中位數 MED</span><strong>${med}</strong></div>`);
+  if (lq != null) cards.push(`<div class="benchmark-card"><span>下四分位 LQ</span><strong>${lq}</strong></div>`);
+
+  const badges = [];
+  // "restructured" isn't a scoring change — it's disclosed via basisNote instead.
+  if (p.year_changes?.weighting_changed || (p.score_basis && p.score_basis !== "restructured")) badges.push(`<span class="status change">2027 計分更新 · Scoring updated</span>`);
+  if (p.quota) badges.push(`<span class="status neutral">學額 Quota ${esc(p.quota)}</span>`);
+
+  const reqRows = reqs.map(([k, v, note2]) => `<li class="eligibility-cell"><span class="eligibility-cell-mark" aria-hidden="true">·</span><span class="eligibility-cell-subject">${k}</span><span class="eligibility-cell-have"></span><span class="eligibility-cell-need"><em>要求 Req</em><b>${v}</b></span>${note2 ? `<span class="eligibility-cell-note">${esc(note2)}</span>` : ""}</li>`).join("");
+
+  const weightCloud = witems.length ? `<hr class="weight-divider"><button type="button" class="weight-toggle" aria-expanded="false" data-collapse>比重詳情 · Weightings${CHEV}</button><div class="weight-cloud wt-hidden">${witems.map(([k, v]) => `<span class="weight-item"><span>${k}</span><span>${v}</span></span>`).join("")}</div>` : "";
+
+  const estHtml = estimateDetail(p);
+  const offersHtml = offersCard(p);
+  const descBlock = extraInfoCard(p);
+
+  const links = [];
+  const jupas = httpsHref(p.jupas_url);
+  if (jupas) links.push(`<a class="official-link" href="${esc(jupas)}" target="_blank" rel="nofollow noopener"><strong>官方 JUPAS 頁面 Official page</strong><em>${code} · ${esc(inst)}</em></a>`);
+  const site = httpsHref((p.programme_websites || [])[0]);
+  if (site) links.push(`<a class="official-link" href="${esc(site)}" target="_blank" rel="nofollow noopener"><strong>課程網站 Programme site</strong><em>${esc(shortUrl(site))}</em></a>`);
+
+  const cta = `<a class="stepper-next-btn" href="/?p=${code}">計算我的分數 · Calculate my score →</a>`;
+
+  return head(title, desc, canonical, extraLd)
+    + `<main class="app-shell layout-mobile detail-static">
+  <aside class="panel detail-panel">
+    <div class="detail-header"><div class="detail-header-main"><div class="detail-header-text">
+      <p class="eyebrow">課程詳情 · Programme · ${code}</p>
+      <div class="detail-name"><h2>${esc(nameZh ? instShort(inst) + " " + nameZh : inst + " " + nameEn)}</h2>${nameZh ? `<p class="zh-name">${esc(inst + " " + nameEn)}</p>` : ""}</div>
+    </div></div>
+    ${badges.length ? `<div class="detail-badges">${badges.join("")}</div>` : ""}</div>
+
+    <p class="seo-lede">輸入你的 DSE 成績即可按此課程計分方法估算分數，並對照往年收生。<span class="seo-en"> Enter your DSE grades to estimate your score for this programme.</span></p>
+    <div class="seo-cta">${cta}</div>
+
+    <section class="score-context">
+      <div class="score-context-header" style="cursor:default">
+        <div class="score-context-line"><div class="score-context-score"><em>收生分數 · Admission scores</em><strong>2026</strong></div></div>
+        <p class="score-context-note">往年取錄學生的分數分佈 · Past admitted students</p>
+      </div>
+      ${cards.length ? `<div class="benchmark-grid">${cards.join("")}</div>` : `<p class="muted" style="padding:8px 4px">暫無往年收生分數（多為新課程）。No 2026 benchmark on record.</p>`}
+    </section>
+    ${note ? `<p class="muted benchmark-caveat">${esc(note.zh)}<br><span class="seo-en">${esc(note.en)}</span></p>` : ""}
+    ${estHtml}
+
+    ${reqs.length ? `<hr class="grade-section-divider"><section class="eligibility-card formula-card"><div class="eligibility-card-eyebrow"><span>入學要求 · Entrance requirements 2027</span></div><hr class="weight-divider"><div class="eligibility-body desktop-open"><ol class="eligibility-rows">${reqRows}</ol></div></section>` : ""}
+
+    <hr class="grade-section-divider"><section><div class="formula-year-grid"><div class="formula-card"><span>計分方法 · Scoring 2027</span><p class="formula-text">${esc(formulaTxt)}</p><small>${witems.length ? "另有科目加權（見下方）· Some subjects carry extra weight (see below)" : "各科同等比重（×1）· Equal subject weighting (×1)"}</small>${weightCloud}</div></div></section>
+
+    ${offersHtml}
+    ${descBlock}
+
+    ${links.length ? `<hr class="grade-section-divider"><section class="formula-card official-card"><span>官方頁面 · Official links</span><div class="official-links">${links.join("")}</div></section>` : ""}
+
+    <hr class="grade-section-divider"><section class="seo-faq"><p class="eyebrow">常見問題 · FAQ</p>${faqs.map(({ q, aZh, aEn }) => `<h4>${esc(q)}</h4><p class="a">${esc(aZh)}<span class="seo-en">${esc(aEn)}</span></p>`).join("")}</section>
+
+    ${siblings.length > 1 ? `<hr class="grade-section-divider"><p class="eyebrow">${esc(instShort(inst))}其他課程 · Other ${esc(inst)} programmes</p><nav class="seo-rel" aria-label="${esc(instShort(inst))}其他課程">${siblings.filter((q) => q.jupas_code !== code).slice(0, 10).map((q) => `<a href="/p/${q.jupas_code}/"><span class="rel-zh">${esc(q.name_zh || q.name_en || q.jupas_code)}</span>${q.name_zh && q.name_en ? `<span class="rel-en">${esc(q.name_en)}</span>` : ""}<span class="rel-code">${q.jupas_code}</span></a>`).join("")}</nav>` : ""}
+
+    <p class="muted" style="margin-top:18px;font-size:.76rem">JUPASCal 為免費、非官方的 JUPAS／DSE 收生計分工具，分數僅供參考，請以 ${esc(instZh(inst))} 及 JUPAS 公佈為準。A free, unofficial JUPAS / HKDSE score calculator — estimates for reference only.</p>
+  </aside>
+</main>
+<footer class="stepper-footer"><div class="stepper-footer-right" style="flex:1;justify-content:stretch">${cta}</div></footer>
+${PAGE_SCRIPT}
+</body>
+</html>`;
+}
+
+// Sort value from a JUPAS code: the numeric part after "JS" (JS1000 → 1000), so
+// institutions order by their code block (CityU JS1xxx … HKMU JS9xxx). SSSDP uses
+// letter codes (JSSA01) → NaN → Infinity, so it sorts last.
+const codeSortValue = (code) => { const n = parseInt(String(code).replace(/^JS/i, ""), 10); return Number.isNaN(n) ? Infinity : n; };
+const instCodeRank = (progs) => Math.min(...progs.map((p) => codeSortValue(p.jupas_code)));
+
+function indexPage(byInst) {
+  const canonical = `${SITE}/p/`;
+  const sections = Object.keys(byInst).sort((a, b) => instCodeRank(byInst[a]) - instCodeRank(byInst[b])).map((inst) => {
+    const items = byInst[inst].slice().sort((a, b) => codeSortValue(a.jupas_code) - codeSortValue(b.jupas_code) || a.jupas_code.localeCompare(b.jupas_code)).map((p) => `<a href="/p/${p.jupas_code}/"><b class="rel-code">${p.jupas_code}</b><span class="rel-zh">${esc(p.name_zh || p.name_en || p.jupas_code)}</span>${p.name_zh && p.name_en ? `<span class="rel-en">${esc(p.name_en)}</span>` : ""}</a>`).join("");
+    return `<hr class="grade-section-divider"><p class="eyebrow">${esc(instZh(inst))} · ${esc(inst)}</p><nav class="seo-rel rel-by-code" aria-label="${esc(instZh(inst))}">${items}</nav>`;
+  }).join("");
+  const extra = `<style>main.detail-static{max-width:760px}
+    .rel-by-code a{display:flex;gap:2px 10px;align-items:baseline;flex-wrap:wrap}
+    .rel-by-code .rel-code{margin:0;font-weight:800;color:var(--ink);font-variant-numeric:tabular-nums;min-width:4.6em;flex:0 0 auto}
+    .rel-by-code .rel-zh{order:2}.rel-by-code .rel-en{order:3;margin-left:0}</style>`;
+  return head("所有 JUPAS 課程 2027 — 收生分數及計分方法 | JUPASCal", "瀏覽全港十間院校所有 JUPAS 課程的 2026 年收生分數、計分比重及 2027 入學要求。Browse every JUPAS programme across Hong Kong's 10 institutions.", canonical, "", extra)
+    + `<main class="app-shell layout-mobile detail-static"><aside class="panel detail-panel">
+    <div class="detail-header"><div class="detail-header-main"><div class="detail-header-text"><p class="eyebrow">所有課程 · All programmes</p><div class="detail-name"><h2>所有 JUPAS 課程</h2><p class="zh-name">Every JUPAS programme (2027)</p></div></div></div></div>
+    <p class="seo-lede">全港十間院校所有 JUPAS 課程。選擇課程查看收生分數、計分比重及入學要求。</p>
+    <div class="seo-cta"><a class="stepper-next-btn" href="/">開啟計算機 · Open the calculator →</a></div>
+    ${sections}
+  </aside></main>
+${PAGE_SCRIPT}
+</body>
+</html>`;
+}
+
+// ---- generate ----
+const byInst = {};
+for (const p of data) (byInst[p.institution] ||= []).push(p);
+let n = 0;
+for (const p of data) { const dir = `${OUT}/p/${p.jupas_code}`; mkdirSync(dir, { recursive: true }); writeFileSync(`${dir}/index.html`, programmePage(p, byInst[p.institution] || [])); n++; }
+mkdirSync(`${OUT}/p`, { recursive: true });
+writeFileSync(`${OUT}/p/index.html`, indexPage(byInst));
+const urls = [`${SITE}/`, `${SITE}/p/`, ...data.map((p) => `${SITE}/p/${p.jupas_code}/`)];
+writeFileSync(`${OUT}/sitemap.xml`, `<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+${urls.map((u) => `  <url><loc>${u}</loc><changefreq>weekly</changefreq><priority>${u === SITE + "/" ? "1.0" : "0.7"}</priority></url>`).join("\n")}
+</urlset>
+`);
+console.log(`SEO: ${n} programme pages + index + sitemap (${urls.length} urls) [app CSS: ${cssFiles.join(", ") || "NONE"}]`);

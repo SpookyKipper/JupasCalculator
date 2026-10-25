@@ -1,0 +1,30 @@
+{
+ "_conversion": {
+  "category_a": "5**=7, 5*=6, 5=5, 4=4, 3=3, 2=2, 1=1 (EdUHK 7-point scale, NOT the 8.5 scale)",
+  "category_b_apl": "Attained with Distinction (II)=4, Attained with Distinction / (I)=3, Attained=0",
+  "category_c_from_2025": "Japanese N1=7/N2=5/N3=4; Korean L6=7/L5=6/L4=5/L3=4; French/German/Spanish C2=7/C1=6/B2=5/B1=4/A2=3; Urdu A++/A+/A=7, B++=6, B+/B=5, C=4, D=3, E=2",
+  "csd": "Citizenship and Social Development is excluded from the admission score",
+  "best_five": "Sum of the best five subjects (core or elective, CSD excluded), subject weightings applied per programme"
+ },
+ "_meta": {
+  "dataset": "JUPAS 2027 entry (admission cycle 2027)",
+  "generated": "2026-10-25",
+  "scores_basis": "2026 intake (main round), weighted Best-5 scores as published by EdUHK on 15 Oct 2026",
+  "weights_basis": "2027-entry weighting column of the same EdUHK PDF (authoritative for 2027 entry)",
+  "requirements_basis": "official JUPAS 2027 programme pages (fetched 25 Oct 2026)",
+  "not_published": "EdUHK publishes Lower Quartile and Median only: no UQ and no overall mean (the PDF's 'mean score of specific HKDSE subject' is a per-subject figure, not an overall mean) -> uq/mean are null",
+  "revised_2027_weights_reference_scores": {
+   "JS8012": "EdUHK also prints 2027-weighted reference scores: Lower Quartile 26.5, Median 27.5",
+   "JS8702": "EdUHK also prints 2027-weighted reference scores: Lower Quartile 26.4, Median 26.6"
+  },
+  "high_proficiency_note": "JS8003/JS8004/JS8005/JS8674/JS8675 carry an EdUHK remark that the programme requires high Chinese or English proficiency and that the subject requirement cannot be substituted; the formal JUPAS table still lists level 3, which is what is recorded here",
+  "subject_note": "'Specified ApL subject(s)' is EdUHK's placeholder for its list of weighted Applied Learning subjects (see EdUHK_ApL_Recognition_and_Subject_Weightings.pdf); ApL is not a Category A subject so no canonical name applies",
+  "elective_note": "elect1/elect2 hold the two elective slots of the 332A22 baseline; a constrained slot lists the accepted subjects, 'Any' means any elective. JS8507 (Higher Diploma) requires any 3 electives, expressed as elect1.count=3 with elect2 empty",
+  "best_of_note": "best_of_weights_2027 lists groups where only the best ONE subject of the group earns the weighting",
+  "source_files": [
+   "https://www.eduhk.hk/acadprog/downloads/EdUHK_admission_scores_2026.pdf",
+   "https://www.apply.eduhk.hk/ug/jupas_scores"
+  ]
+ },
+ "programme_count": 26
+}

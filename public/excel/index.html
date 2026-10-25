@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <title>Excel 版 | JUPASCal 收生計分器</title>
+  <meta name="description" content="JUPASCal Excel 版計分器：全港十間院校收生分數、比重及加分制，可直接輸入試算。" />
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+  <style>
+    :root {
+      --bg: #f8f0ea; --surface: #fffaf6; --ink: #2c211c;
+      --muted: #8a7a70; --accent: #c2452e; --line: #e7d7cb;
+    }
+    * { box-sizing: border-box; }
+    html, body { height: 100%; margin: 0; }
+    body {
+      display: flex; flex-direction: column;
+      background: var(--bg); color: var(--ink);
+      font-family: "Noto Sans TC","PingFang TC","Microsoft JhengHei",system-ui,-apple-system,sans-serif;
+      -webkit-font-smoothing: antialiased;
+    }
+    header {
+      flex: 0 0 auto; display: flex; align-items: center; justify-content: space-between;
+      gap: 12px; padding: 10px clamp(12px,3vw,24px);
+      background: var(--surface); border-bottom: 1px solid var(--line);
+    }
+    .brand { display: flex; align-items: center; gap: 9px; min-width: 0; color: var(--ink); }
+    .brand .logo-mark { height: 26px; width: auto; flex: 0 0 auto; }
+    .brand strong { font-size: 1.06rem; font-weight: 800; letter-spacing: -0.015em; }
+    .brand small {
+      color: var(--muted); font-size: 0.72rem; font-weight: 650; white-space: nowrap;
+      padding: 2px 8px; border: 1px solid var(--line); border-radius: 999px;
+    }
+    .back {
+      flex: 0 0 auto; display: inline-flex; align-items: center; gap: 6px;
+      padding: 7px 13px; border: 1px solid var(--line); border-radius: 999px;
+      background: var(--bg); color: var(--ink); font-size: 0.85rem; font-weight: 650;
+      text-decoration: none; transition: background .15s, border-color .15s, color .15s;
+    }
+    .back:hover { background: var(--surface); border-color: var(--accent); color: var(--accent); }
+    .notice {
+      flex: 0 0 auto; padding: 8px clamp(12px,3vw,24px);
+      background: #fdf3e7; border-bottom: 1px solid var(--line);
+      color: #7a5a3a; font-size: 0.8rem; line-height: 1.5;
+    }
+    .notice a { color: var(--accent); font-weight: 650; text-decoration: none; }
+    .notice a:hover { text-decoration: underline; }
+    main { flex: 1 1 auto; min-height: 0; position: relative; }
+    iframe { position: absolute; inset: 0; width: 100%; height: 100%; border: 0; background: var(--bg); }
+    .hint {
+      flex: 0 0 auto; padding: 7px clamp(12px,3vw,24px);
+      background: var(--surface); border-top: 1px solid var(--line);
+      color: var(--muted); font-size: 0.74rem; line-height: 1.6; text-align: center;
+    }
+    .hint a { color: var(--accent); font-weight: 650; text-decoration: none; }
+    .hint a:hover { text-decoration: underline; }
+    @media (max-width: 560px) { .brand small { display: none; } }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="brand">
+      <svg class="logo-mark" viewBox="0 0 360 289" aria-hidden="true" focusable="false">
+        <path fill="currentColor" d="M172,33 176,33 312,103 173,172 36,103 171,34Z"/>
+        <path fill="currentColor" d="M90,149 172,189 182,186 257,149 257,208 241,220 216,233 200,238 180,241 158,240 137,235 113,224 90,208 90,150Z"/>
+        <path fill="#c2922e" d="M291,198 299,198 303,204 309,223 311,240 279,241 283,215 290,199Z"/>
+        <path fill="#c2922e" d="M293,169 303,173 306,179 305,186 298,192 292,192 286,188 284,178 285,175 292,170Z"/>
+        <path fill="#c2922e" d="M293,123 299,126 299,162 291,164 292,124Z"/>
+      </svg>
+      <strong>JUPASCal</strong>
+      <small>Excel 版</small>
+    </div>
+    <a class="back" href="/">← 返回計算器</a>
+  </header>
+
+  <p class="notice">
+    此網上 Excel 使用 Microsoft + GitHub 的免費功能，設有同時瀏覽／使用人數上限。如未能顯示，可從下方
+    <a href="https://drive.google.com/drive/folders/1PmyDrmQ2CumbWrqY7NRqa0Ol-M9VnkFz" target="_blank" rel="noopener">Google Drive</a>
+    下載。
+  </p>
+
+  <main>
+    <iframe
+      title="JUPASCal 收生計分器 (Excel)"
+      frameborder="0"
+      scrolling="no"
+      allowfullscreen
+      src="https://1drv.ms/x/c/02874402b22fbb6c/IQQ7aOghxzUtT5g36ehixQ9CAfdUBJZa4k0vY6zpC-QSPXg?em=2&amp;AllowTyping=True&amp;wdHideGridlines=True&amp;wdHideHeaders=True&amp;wdDownloadButton=True&amp;wdInConfigurator=True&amp;wdInConfigurator=True&amp;edaebf=rslc0">
+    </iframe>
+  </main>
+
+  <p class="hint">
+    <strong>Ctrl + 滑鼠滾輪</strong> 可放大／縮小 · 請定期按 <strong>F5</strong> 刷新以取得最新版本 ·
+    ⚠️ 所有輸入的資料<strong>不會被保存</strong>，刷新頁面（F5）或關閉後將會清除。<br />
+    如未能顯示，請從
+    <a href="https://drive.google.com/drive/folders/1PmyDrmQ2CumbWrqY7NRqa0Ol-M9VnkFz" target="_blank" rel="noopener">Google Drive</a>
+    下載，或
+    <a href="https://1drv.ms/x/c/02874402b22fbb6c/IQQ7aOghxzUtT5g36ehixQ9CAfdUBJZa4k0vY6zpC-QSPXg" target="_blank" rel="noopener">在 OneDrive 開啟</a>。
+  </p>
+</body>
+</html>

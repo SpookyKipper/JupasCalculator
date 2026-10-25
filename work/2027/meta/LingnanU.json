@@ -1,0 +1,26 @@
+{
+ "_conversion": {
+  "category_a": "5**=7, 5*=6, 5=5, 4=4, 3=3, 2=2, 1=1 (Lingnan 7-point scale)",
+  "category_c": "Japanese N1=7/N2=6/N3=5; Korean L6=7/L5=6/L4=5/L3=4; French/German/Spanish C1,C2=7/B2=6/B1=5/A2=4; Urdu A++/A+/A=7, B++=6, B+=5, B=4, C=3, D=2, E=1",
+  "apl": "Category B subjects may be recognised as electives, bonus scores or tie-breakers by individual programmes",
+  "csd": "Citizenship and Social Development is not counted in the admission score",
+  "best_five": "ANY Best Five Subject mechanism; each subject's level points multiplied by the programme's 2027 weighting"
+ },
+ "_meta": {
+  "dataset": "JUPAS 2027 entry (admission cycle 2027)",
+  "generated": "2026-10-25",
+  "scores_basis": "2026 intake (main round) weighted admission scores, Lingnan '2026 JUPAS Admission Scores (Main Round)' PDF",
+  "weights_basis": "Lingnan 'JUPAS Admissions (2027 Entry)' PDF, section 5 Category A Subject Weighting for 2027 Entry",
+  "requirements_basis": "official JUPAS 2027 programme pages (fetched 25 Oct 2026); BSc Data Science needs Maths level 3",
+  "not_published": "Lingnan publishes Median and Lower Quartile only: no UQ, no mean -> uq/mean are null",
+  "score_grades_note": "score_grades_2026 holds the per-subject median/LQ weighted scores (chi/eng/math/e1/e2) exactly as printed; these are separate per-subject figures and must not be summed as one candidate",
+  "anomaly_note": "JS7305 Lower Quartile is printed as 21.5 against a Median of 28.5 - reproduced as published, worth re-checking against the 2027 cycle publication",
+  "subject_note": "'Technology and Living' as printed by Lingnan is mapped to the canonical 'Technology and Living (Food Science and Technology)' via data/raw/subjects.canonical.json aliases; the Fashion, Clothing and Textiles strand is not separately identified in the source",
+  "source_files": [
+   "https://www.ln.edu.hk/admissions/ug/f/upload/642/3418/2026_Admissions%20Scores.pdf",
+   "https://www.ln.edu.hk/admissions/ug/f/upload/629/3362/Admission%20Requirements_JUPAS%20(UG%20Website)%2026-27.pdf",
+   "https://www.ln.edu.hk/admissions/ug/page/detail/114"
+  ]
+ },
+ "programme_count": 23
+}

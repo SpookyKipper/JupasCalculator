@@ -1,0 +1,49 @@
+{
+  "_comment": "VLM-verified CUHK weight/score corrections (see docs/manuals/VLM_WEIGHT_EXTRACTION.md). CUHK's coded API `weight` feed is sometimes STALE, and a few programmes changed their 2026 scoring formula while CUHK published 2025 admission scores RECALCULATED with the new formula. Authoritative source = the 'Useful Information for JUPAS Applicants' booklets, transcribed by VLM from both the 2025 and 2026 editions. unify_2026_data.py applies these as overrides before year-changes detection. Edit this file (not the JSON) when a new cycle's VLM diff finds a correction.",
+  "_verified": "2026-07-06 from Useful-Information-for-JUPAS-Applicants-2025.pdf and -2026.pdf",
+
+  "JS4903": {
+    "_note": "Bachelor of Laws. Booklet 2026 REMOVED the English x2 weighting (now only 'English must be included'); CUHK's API still returns AENGL:2 (stale). 2025 (English x2 + Chi/Eng/Math must-include) is correct and unchanged, so scoring stays right; this only fixes the 2026 reference display.",
+    "subject_weights_2026": {}
+  },
+
+  "JS4428": {
+    "_note": "Financial Technology. Elective pool multiplier dropped x1.5 (2025) -> x1.25 (2026); the API/2025 value x1.5 leaked into 2026. Core weights (Eng/Chi x1.25, Maths x1.75, M1/M2 x1.75) unchanged.",
+    "subject_weights_2026": {
+      "English Language": 1.25,
+      "Chinese Language": 1.25,
+      "Mathematics (Compulsory Part)": 1.75,
+      "Biology": 1.25,
+      "Chemistry": 1.25,
+      "Physics": 1.25,
+      "Business, Accounting and Financial Studies": 1.25,
+      "Economics": 1.25,
+      "Information and Communication Technology": 1.25
+    }
+  },
+
+  "JS4725": {
+    "_note": "Biotechnology, Entrepreneurship and Healthcare Management. 2025 had NO weighting; 2026 introduced best-2-of-Eng/Bio/Chem x1.5 with Best-of-Bio/Chem forced in. CUHK published the 2025 admission scores RECALCULATED with the 2026 formula, footnote '(1)' on the Programme-specific Requirements and Score Calculator page (https://admission.cuhk.edu.hk/application/jupas/programme-specific-requirements-and-score-calculator/), which is what we compare a 2026-formula-scored student against. best_of_weights_2025 is deliberately kept = 2026 (x1.5 pool) so the score and this recalculated benchmark share the 2026 basis (same model as HKUST simulated scores). score_basis drives the DetailPanel explanation note. Elective-weighted, so we CANNOT self-simulate (electives are anonymised in the grade profiles) — hence we use CUHK's official published recalc.",
+    "score_basis": "cuhk_2026_recalculated",
+    "scores_2025": {
+      "uq": 33.75,
+      "median": 33,
+      "lq": 32.44,
+      "expected_score": 32
+    }
+  },
+
+  "_sim_comment": "The following 3 programmes gained a CORE-subject weighting (Chinese/English) for 2026 that CUHK did NOT republish a recalculated admission total for. REVERTED to strict-2025 (2026-07, user decision): the REAL 2025 formula was UNWEIGHTED, so that is the source of truth — the student is scored on the actual (unweighted) 2025 basis and compared against CUHK's REAL published 2025 admission scores (no simulated 2026-basis benchmark, no copying the 2026 weighting onto 2025). The genuine 2026 weighting still lives in subject_weights_2026 only and surfaces to users as an automatic 'weighting changed' year-change pill + 'what changed' panel — same treatment as JS4903/JS4428. We intentionally no longer set subject_weights_2025 or scores_2025 or score_basis here; the earlier self-simulation (score_basis='cuhk_2026_simulated', sw25=sw26, re-scored benchmarks) is retired. See docs/manuals/VLM_WEIGHT_EXTRACTION.md.",
+
+  "JS4070": {
+    "_note": "Linguistics. 2025 UNWEIGHTED (source of truth); 2026 adds English x1.2 (VLM-confirmed real change, in sw26 only, shown as a year-change pill). Real published 2025 uq/med/lq all 24.5. No override applied."
+  },
+
+  "JS4100": {
+    "_note": "Public Humanities. 2025 UNWEIGHTED (source of truth); 2026 adds Chinese x1.5 + English x1.5 (VLM-confirmed real change, in sw26 only, shown as a year-change pill). Real published 2025 uq 24.5 / median 23.5 / lq 23. No override applied."
+  },
+
+  "JS4109": {
+    "_note": "Religious Studies. 2025 UNWEIGHTED (source of truth); 2026 adds English x1.25 (VLM-confirmed real change, in sw26 only, shown as a year-change pill). Real published 2025 uq 22 / median 21.5 / lq 21. No override applied."
+  }
+}

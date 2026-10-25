@@ -1,0 +1,6138 @@
+[
+ {
+  "jupas_code": "JS4006",
+  "institution": "CUHK",
+  "name": "Anthropology",
+  "formula_2027": "Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {},
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   }
+  },
+  "scores_2026": {
+   "uq": 26.0,
+   "median": 25.0,
+   "lq": 24.5,
+   "mean": null
+  },
+  "score_grades_2026": {
+   "uq": {
+    "chi": "5*",
+    "eng": "4",
+    "math": "4",
+    "csd": "A",
+    "m1m2": null,
+    "electives": [
+     "5*",
+     "4",
+     "4"
+    ]
+   },
+   "median": {
+    "chi": "5*",
+    "eng": "5*",
+    "math": "4",
+    "csd": "A",
+    "m1m2": null,
+    "electives": [
+     "4",
+     "3"
+    ]
+   },
+   "lq": {
+    "chi": "5*",
+    "eng": "4",
+    "math": "4",
+    "csd": "A",
+    "m1m2": null,
+    "electives": [
+     "5",
+     "4",
+     "4"
+    ]
+   }
+  },
+  "sources": [
+   "https://admission.cuhk.edu.hk/application/jupas/programme-specific-requirements-and-score-calculator/",
+   "https://admission.cuhk.edu.hk/wp-content/uploads/data.json",
+   "https://admission.cuhk.edu.hk/wp-content/uploads/2026/10/Admission-Grades-2026.pdf",
+   "https://www.jupas.edu.hk/en/programme/cuhk/JS4006/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS4018",
+  "institution": "CUHK",
+  "name": "Chinese Language and Literature",
+  "formula_2027": "Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "Chinese Language": 1.2
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   }
+  },
+  "scores_2026": {
+   "uq": 31.9,
+   "median": 30.4,
+   "lq": 29.2,
+   "mean": null
+  },
+  "score_grades_2026": {
+   "uq": {
+    "chi": "5*",
+    "eng": "5",
+    "math": "4",
+    "csd": "A",
+    "m1m2": null,
+    "electives": [
+     "5*",
+     "5",
+     "5"
+    ]
+   },
+   "median": {
+    "chi": "5*",
+    "eng": "5",
+    "math": "4",
+    "csd": "A",
+    "m1m2": null,
+    "electives": [
+     "5*",
+     "5",
+     "4"
+    ]
+   },
+   "lq": {
+    "chi": "5**",
+    "eng": "5",
+    "math": "4",
+    "csd": "A",
+    "m1m2": null,
+    "electives": [
+     "5",
+     "4",
+     "4"
+    ]
+   }
+  },
+  "sources": [
+   "https://admission.cuhk.edu.hk/application/jupas/programme-specific-requirements-and-score-calculator/",
+   "https://admission.cuhk.edu.hk/wp-content/uploads/data.json",
+   "https://admission.cuhk.edu.hk/wp-content/uploads/2026/10/Admission-Grades-2026.pdf",
+   "https://www.jupas.edu.hk/en/programme/cuhk/JS4018/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS4032",
+  "institution": "CUHK",
+  "name": "English",
+  "formula_2027": "Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "English Language": 1.5
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   }
+  },
+  "scores_2026": {
+   "uq": 28.75,
+   "median": 28.0,
+   "lq": 27.75,
+   "mean": null
+  },
+  "score_grades_2026": {
+   "uq": {
+    "chi": "5*",
+    "eng": "5",
+    "math": "4",
+    "csd": "A",
+    "m1m2": null,
+    "electives": [
+     "5",
+     "4",
+     "4"
+    ]
+   },
+   "median": {
+    "chi": "5",
+    "eng": "5*",
+    "math": "4",
+    "csd": "A",
+    "m1m2": null,
+    "electives": [
+     "4",
+     "4",
+     "4"
+    ]
+   },
+   "lq": {
+    "chi": "4",
+    "eng": "5**",
+    "math": "2",
+    "csd": "A",
+    "m1m2": null,
+    "electives": [
+     "4",
+     "4",
+     "3"
+    ]
+   }
+  },
+  "sources": [
+   "https://admission.cuhk.edu.hk/application/jupas/programme-specific-requirements-and-score-calculator/",
+   "https://admission.cuhk.edu.hk/wp-content/uploads/data.json",
+   "https://admission.cuhk.edu.hk/wp-content/uploads/2026/10/Admission-Grades-2026.pdf",
+   "https://www.jupas.edu.hk/en/programme/cuhk/JS4032/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS4044",
+  "institution": "CUHK",
+  "name": "Fine Arts",
+  "formula_2027": "Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {},
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   }
+  },
+  "scores_2026": {
+   "uq": 27.5,
+   "median": 26.0,
+   "lq": 24.5,
+   "mean": null
+  },
+  "score_grades_2026": {
+   "uq": {
+    "chi": "4",
+    "eng": "3",
+    "math": "4",
+    "csd": "A",
+    "m1m2": null,
+    "electives": [
+     "5**",
+     "5*",
+     "4"
+    ]
+   },
+   "median": {
+    "chi": "3",
+    "eng": "4",
+    "math": "2",
+    "csd": "A",
+    "m1m2": null,
+    "electives": [
+     "5**",
+     "5**"
+    ]
+   },
+   "lq": {
+    "chi": "4",
+    "eng": "4",
+    "math": "5",
+    "csd": "A",
+    "m1m2": null,
+    "electives": [
+     "5*",
+     "4"
+    ]
+   }
+  },
+  "sources": [
+   "https://admission.cuhk.edu.hk/application/jupas/programme-specific-requirements-and-score-calculator/",
+   "https://admission.cuhk.edu.hk/wp-content/uploads/data.json",
+   "https://admission.cuhk.edu.hk/wp-content/uploads/2026/10/Admission-Grades-2026.pdf",
+   "https://www.jupas.edu.hk/en/programme/cuhk/JS4044/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS4056",
+  "institution": "CUHK",
+  "name": "History",
+  "formula_2027": "Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {},
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   }
+  },
+  "scores_2026": {
+   "uq": 29.0,
+   "median": 27.5,
+   "lq": 26.5,
+   "mean": null
+  },
+  "score_grades_2026": {
+   "uq": {
+    "chi": "5*",
+    "eng": "5",
+    "math": "4",
+    "csd": "A",
+    "m1m2": null,
+    "electives": [
+     "5**",
+     "4"
+    ]
+   },
+   "median": {
+    "chi": "5*",
+    "eng": "3",
+    "math": "4",
+    "csd": "A",
+    "m1m2": null,
+    "electives": [
+     "5*",
+     "5",
+     "4"
+    ]
+   },
+   "lq": {
+    "chi": "5**",
+    "eng": "3",
+    "math": "5",
+    "csd": "A",
+    "m1m2": null,
+    "electives": [
+     "5",
+     "4"
+    ]
+   }
+  },
+  "sources": [
+   "https://admission.cuhk.edu.hk/application/jupas/programme-specific-requirements-and-score-calculator/",
+   "https://admission.cuhk.edu.hk/wp-content/uploads/data.json",
+   "https://admission.cuhk.edu.hk/wp-content/uploads/2026/10/Admission-Grades-2026.pdf",
+   "https://www.jupas.edu.hk/en/programme/cuhk/JS4056/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS4068",
+  "institution": "CUHK",
+  "name": "Japanese Studies",
+  "formula_2027": "Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {},
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   }
+  },
+  "scores_2026": {
+   "uq": 26.0,
+   "median": 24.5,
+   "lq": 23.5,
+   "mean": null
+  },
+  "score_grades_2026": {
+   "uq": {
+    "chi": "4",
+    "eng": "4",
+    "math": "4",
+    "csd": "A",
+    "m1m2": null,
+    "electives": [
+     "5*",
+     "5*"
+    ]
+   },
+   "median": {
+    "chi": "5",
+    "eng": "5",
+    "math": "4",
+    "csd": "A",
+    "m1m2": null,
+    "electives": [
+     "5",
+     "4",
+     "4"
+    ]
+   },
+   "lq": {
+    "chi": "5",
+    "eng": "3",
+    "math": "4",
+    "csd": "A",
+    "m1m2": null,
+    "electives": [
+     "5",
+     "5",
+     "3"
+    ]
+   }
+  },
+  "sources": [
+   "https://admission.cuhk.edu.hk/application/jupas/programme-specific-requirements-and-score-calculator/",
+   "https://admission.cuhk.edu.hk/wp-content/uploads/data.json",
+   "https://admission.cuhk.edu.hk/wp-content/uploads/2026/10/Admission-Grades-2026.pdf",
+   "https://www.jupas.edu.hk/en/programme/cuhk/JS4068/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS4070",
+  "institution": "CUHK",
+  "name": "Linguistics",
+  "formula_2027": "Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "English Language": 1.2
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   }
+  },
+  "scores_2026": {
+   "uq": 27.1,
+   "median": 25.9,
+   "lq": 25.6,
+   "mean": null
+  },
+  "score_grades_2026": {
+   "uq": {
+    "chi": "5*",
+    "eng": "5",
+    "math": "5",
+    "csd": "A",
+    "m1m2": null,
+    "electives": [
+     "4",
+     "4"
+    ]
+   },
+   "median": {
+    "chi": "5",
+    "eng": "5*",
+    "math": "4",
+    "csd": "A",
+    "m1m2": "4",
+    "electives": [
+     "4",
+     "3"
+    ]
+   },
+   "lq": {
+    "chi": "5*",
+    "eng": "5",
+    "math": "4",
+    "csd": "A",
+    "m1m2": null,
+    "electives": [
+     "4",
+     "4",
+     "4"
+    ]
+   }
+  },
+  "sources": [
+   "https://admission.cuhk.edu.hk/application/jupas/programme-specific-requirements-and-score-calculator/",
+   "https://admission.cuhk.edu.hk/wp-content/uploads/data.json",
+   "https://admission.cuhk.edu.hk/wp-content/uploads/2026/10/Admission-Grades-2026.pdf",
+   "https://www.jupas.edu.hk/en/programme/cuhk/JS4070/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS4082",
+  "institution": "CUHK",
+  "name": "Music",
+  "formula_2027": "Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {},
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   }
+  },
+  "scores_2026": {
+   "uq": 26.0,
+   "median": 24.5,
+   "lq": 21.5,
+   "mean": null
+  },
+  "score_grades_2026": {
+   "uq": {
+    "chi": "3",
+    "eng": "5*",
+    "math": "4",
+    "csd": "A",
+    "m1m2": null,
+    "electives": [
+     "5",
+     "5",
+     "4"
+    ]
+   },
+   "median": {
+    "chi": "5",
+    "eng": "5",
+    "math": "4",
+    "csd": "A",
+    "m1m2": null,
+    "electives": [
+     "5",
+     "4",
+     "3"
+    ]
+   },
+   "lq": {
+    "chi": "4",
+    "eng": "5",
+    "math": "4",
+    "csd": "A",
+    "m1m2": null,
+    "electives": [
+     "4",
+     "4",
+     "3"
+    ]
+   }
+  },
+  "sources": [
+   "https://admission.cuhk.edu.hk/application/jupas/programme-specific-requirements-and-score-calculator/",
+   "https://admission.cuhk.edu.hk/wp-content/uploads/data.json",
+   "https://admission.cuhk.edu.hk/wp-content/uploads/2026/10/Admission-Grades-2026.pdf",
+   "https://www.jupas.edu.hk/en/programme/cuhk/JS4082/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS4094",
+  "institution": "CUHK",
+  "name": "Philosophy",
+  "formula_2027": "Best 5 Subjects (English Language and Chinese Language must be included)",
+  "formula_2027_id": "custom",
+  "subject_weights_2027": {},
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   }
+  },
+  "scores_2026": {
+   "uq": 26.0,
+   "median": 24.5,
+   "lq": 23.0,
+   "mean": null
+  },
+  "score_grades_2026": {
+   "uq": {
+    "chi": "5",
+    "eng": "5",
+    "math": "5",
+    "csd": "A",
+    "m1m2": null,
+    "electives": [
+     "5",
+     "4"
+    ]
+   },
+   "median": {
+    "chi": "5*",
+    "eng": "4",
+    "math": "5",
+    "csd": "A",
+    "m1m2": "4",
+    "electives": [
+     "4"
+    ]
+   },
+   "lq": {
+    "chi": "4",
+    "eng": "4",
+    "math": "5",
+    "csd": "A",
+    "m1m2": "5",
+    "electives": [
+     "4",
+     "4"
+    ]
+   }
+  },
+  "sources": [
+   "https://admission.cuhk.edu.hk/application/jupas/programme-specific-requirements-and-score-calculator/",
+   "https://admission.cuhk.edu.hk/wp-content/uploads/data.json",
+   "https://admission.cuhk.edu.hk/wp-content/uploads/2026/10/Admission-Grades-2026.pdf",
+   "https://www.jupas.edu.hk/en/programme/cuhk/JS4094/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS4100",
+  "institution": "CUHK",
+  "name": "Public Humanities",
+  "formula_2027": "Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "Chinese Language": 1.5,
+   "English Language": 1.5
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   }
+  },
+  "scores_2026": {
+   "uq": 30.5,
+   "median": 30.0,
+   "lq": 29.25,
+   "mean": null
+  },
+  "score_grades_2026": {
+   "uq": {
+    "chi": "4",
+    "eng": "5*",
+    "math": "3",
+    "csd": "A",
+    "m1m2": null,
+    "electives": [
+     "5*",
+     "4"
+    ]
+   },
+   "median": {
+    "chi": "5*",
+    "eng": "4",
+    "math": "3",
+    "csd": "A",
+    "m1m2": null,
+    "electives": [
+     "5",
+     "4",
+     "4"
+    ]
+   },
+   "lq": {
+    "chi": "5",
+    "eng": "4",
+    "math": "3",
+    "csd": "A",
+    "m1m2": null,
+    "electives": [
+     "5",
+     "5",
+     "4"
+    ]
+   }
+  },
+  "sources": [
+   "https://admission.cuhk.edu.hk/application/jupas/programme-specific-requirements-and-score-calculator/",
+   "https://admission.cuhk.edu.hk/wp-content/uploads/data.json",
+   "https://admission.cuhk.edu.hk/wp-content/uploads/2026/10/Admission-Grades-2026.pdf",
+   "https://www.jupas.edu.hk/en/programme/cuhk/JS4100/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS4109",
+  "institution": "CUHK",
+  "name": "Religious Studies",
+  "formula_2027": "Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "English Language": 1.25
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   }
+  },
+  "scores_2026": {
+   "uq": 24.75,
+   "median": 24.5,
+   "lq": 24.0,
+   "mean": null
+  },
+  "score_grades_2026": {
+   "uq": {
+    "chi": "4",
+    "eng": "5*",
+    "math": "4",
+    "csd": "A",
+    "m1m2": null,
+    "electives": [
+     "4",
+     "4",
+     "3"
+    ]
+   },
+   "median": {
+    "chi": "5*",
+    "eng": "4",
+    "math": "4",
+    "csd": "A",
+    "m1m2": null,
+    "electives": [
+     "5",
+     "3",
+     "3",
+     "2"
+    ]
+   },
+   "lq": {
+    "chi": "4",
+    "eng": "4",
+    "math": "5",
+    "csd": "A",
+    "m1m2": null,
+    "electives": [
+     "5",
+     "4"
+    ]
+   }
+  },
+  "sources": [
+   "https://admission.cuhk.edu.hk/application/jupas/programme-specific-requirements-and-score-calculator/",
+   "https://admission.cuhk.edu.hk/wp-content/uploads/data.json",
+   "https://admission.cuhk.edu.hk/wp-content/uploads/2026/10/Admission-Grades-2026.pdf",
+   "https://www.jupas.edu.hk/en/programme/cuhk/JS4109/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS4111",
+  "institution": "CUHK",
+  "name": "Theology",
+  "formula_2027": "Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {},
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   }
+  },
+  "scores_2026": null,
+  "score_grades_2026": null,
+  "sources": [
+   "https://admission.cuhk.edu.hk/application/jupas/programme-specific-requirements-and-score-calculator/",
+   "https://admission.cuhk.edu.hk/wp-content/uploads/data.json",
+   "https://admission.cuhk.edu.hk/wp-content/uploads/2026/10/Admission-Grades-2026.pdf",
+   "https://www.jupas.edu.hk/en/programme/cuhk/JS4111/"
+  ],
+  "confidence": "partial"
+ },
+ {
+  "jupas_code": "JS4123",
+  "institution": "CUHK",
+  "name": "Translation",
+  "formula_2027": "Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {},
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   }
+  },
+  "scores_2026": {
+   "uq": 24.5,
+   "median": 23.5,
+   "lq": 23.0,
+   "mean": null
+  },
+  "score_grades_2026": {
+   "uq": {
+    "chi": "5*",
+    "eng": "4",
+    "math": "5",
+    "csd": "A",
+    "m1m2": null,
+    "electives": [
+     "4",
+     "4",
+     "3"
+    ]
+   },
+   "median": {
+    "chi": "5*",
+    "eng": "4",
+    "math": "3",
+    "csd": "A",
+    "m1m2": null,
+    "electives": [
+     "5",
+     "4"
+    ]
+   },
+   "lq": {
+    "chi": "5",
+    "eng": "4",
+    "math": "5",
+    "csd": "A",
+    "m1m2": "4",
+    "electives": [
+     "4",
+     "4"
+    ]
+   }
+  },
+  "sources": [
+   "https://admission.cuhk.edu.hk/application/jupas/programme-specific-requirements-and-score-calculator/",
+   "https://admission.cuhk.edu.hk/wp-content/uploads/data.json",
+   "https://admission.cuhk.edu.hk/wp-content/uploads/2026/10/Admission-Grades-2026.pdf",
+   "https://www.jupas.edu.hk/en/programme/cuhk/JS4123/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS4136",
+  "institution": "CUHK",
+  "name": "Chinese Studies",
+  "formula_2027": "Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "English Language": 1.25
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   }
+  },
+  "scores_2026": {
+   "uq": 26.0,
+   "median": 25.75,
+   "lq": 25.5,
+   "mean": null
+  },
+  "score_grades_2026": {
+   "uq": {
+    "chi": "4",
+    "eng": "3",
+    "math": "5",
+    "csd": "A",
+    "m1m2": null,
+    "electives": [
+     "5*",
+     "5",
+     "4"
+    ]
+   },
+   "median": {
+    "chi": "5*",
+    "eng": "3",
+    "math": "3",
+    "csd": "A",
+    "m1m2": null,
+    "electives": [
+     "5",
+     "5",
+     "4"
+    ]
+   },
+   "lq": {
+    "chi": "5**",
+    "eng": "4",
+    "math": "4",
+    "csd": "A",
+    "m1m2": null,
+    "electives": [
+     "4",
+     "4",
+     "4"
+    ]
+   }
+  },
+  "sources": [
+   "https://admission.cuhk.edu.hk/application/jupas/programme-specific-requirements-and-score-calculator/",
+   "https://admission.cuhk.edu.hk/wp-content/uploads/data.json",
+   "https://admission.cuhk.edu.hk/wp-content/uploads/2026/10/Admission-Grades-2026.pdf",
+   "https://www.jupas.edu.hk/en/programme/cuhk/JS4136/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS4202",
+  "institution": "CUHK",
+  "name": "Integrated Bachelor of Business Administration Programme",
+  "formula_2027": "Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {},
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   }
+  },
+  "scores_2026": {
+   "uq": 29.0,
+   "median": 27.5,
+   "lq": 27.5,
+   "mean": null
+  },
+  "score_grades_2026": {
+   "uq": {
+    "chi": "5*",
+    "eng": "4",
+    "math": "4",
+    "csd": "A",
+    "m1m2": null,
+    "electives": [
+     "5*",
+     "5",
+     "5"
+    ]
+   },
+   "median": {
+    "chi": "4",
+    "eng": "4",
+    "math": "5",
+    "csd": "A",
+    "m1m2": "5",
+    "electives": [
+     "5*",
+     "5",
+     "3"
+    ]
+   },
+   "lq": {
+    "chi": "5*",
+    "eng": "5",
+    "math": "5",
+    "csd": "A",
+    "m1m2": "5",
+    "electives": [
+     "4",
+     "3"
+    ]
+   }
+  },
+  "sources": [
+   "https://admission.cuhk.edu.hk/application/jupas/programme-specific-requirements-and-score-calculator/",
+   "https://admission.cuhk.edu.hk/wp-content/uploads/data.json",
+   "https://admission.cuhk.edu.hk/wp-content/uploads/2026/10/Admission-Grades-2026.pdf",
+   "https://www.jupas.edu.hk/en/programme/cuhk/JS4202/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS4214",
+  "institution": "CUHK",
+  "name": "Global Business Studies",
+  "formula_2027": "Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {},
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "4",
+   "eng": "5",
+   "math": "3",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   }
+  },
+  "scores_2026": {
+   "uq": 39.5,
+   "median": 38.0,
+   "lq": 36.5,
+   "mean": null
+  },
+  "score_grades_2026": {
+   "uq": {
+    "chi": "4",
+    "eng": "5",
+    "math": "5**",
+    "csd": "A",
+    "m1m2": "5**",
+    "electives": [
+     "5**",
+     "5**"
+    ]
+   },
+   "median": {
+    "chi": "5**",
+    "eng": "5**",
+    "math": "5",
+    "csd": "A",
+    "m1m2": "5",
+    "electives": [
+     "5**",
+     "5*"
+    ]
+   },
+   "lq": {
+    "chi": "5",
+    "eng": "5**",
+    "math": "5",
+    "csd": "A",
+    "m1m2": null,
+    "electives": [
+     "5**",
+     "5**",
+     "4"
+    ]
+   }
+  },
+  "sources": [
+   "https://admission.cuhk.edu.hk/application/jupas/programme-specific-requirements-and-score-calculator/",
+   "https://admission.cuhk.edu.hk/wp-content/uploads/data.json",
+   "https://admission.cuhk.edu.hk/wp-content/uploads/2026/10/Admission-Grades-2026.pdf",
+   "https://www.jupas.edu.hk/en/programme/cuhk/JS4214/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS4226",
+  "institution": "CUHK",
+  "name": "Hospitality and Real Estate",
+  "formula_2027": "Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {},
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   }
+  },
+  "scores_2026": {
+   "uq": 26.0,
+   "median": 26.0,
+   "lq": 24.5,
+   "mean": null
+  },
+  "score_grades_2026": {
+   "uq": {
+    "chi": "5*",
+    "eng": "4",
+    "math": "3",
+    "csd": "A",
+    "m1m2": null,
+    "electives": [
+     "5*",
+     "4",
+     "4"
+    ]
+   },
+   "median": {
+    "chi": "5",
+    "eng": "4",
+    "math": "5*",
+    "csd": "A",
+    "m1m2": null,
+    "electives": [
+     "5",
+     "4"
+    ]
+   },
+   "lq": {
+    "chi": "5",
+    "eng": "4",
+    "math": "4",
+    "csd": "A",
+    "m1m2": null,
+    "electives": [
+     "5",
+     "5",
+     "4"
+    ]
+   }
+  },
+  "sources": [
+   "https://admission.cuhk.edu.hk/application/jupas/programme-specific-requirements-and-score-calculator/",
+   "https://admission.cuhk.edu.hk/wp-content/uploads/data.json",
+   "https://admission.cuhk.edu.hk/wp-content/uploads/2026/10/Admission-Grades-2026.pdf",
+   "https://www.jupas.edu.hk/en/programme/cuhk/JS4226/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS4238",
+  "institution": "CUHK",
+  "name": "Insurance, Financial and Actuarial Analysis",
+  "formula_2027": "Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "English Language": 1.25,
+   "Mathematics (Compulsory Part)": 1.5
+  },
+  "best_of_weights_2027": [
+   {
+    "count": 1,
+    "subjects": [
+     "Mathematics Extended Part (Module 1)",
+     "Mathematics Extended Part (Module 2)"
+    ],
+    "weight": 1.5
+   },
+   {
+    "count": 1,
+    "subjects": [
+     "Chemistry",
+     "Physics",
+     "Economics",
+     "Information and Communication Technology"
+    ],
+    "weight": 1.25
+   }
+  ],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "5",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   }
+  },
+  "scores_2026": {
+   "uq": 43.75,
+   "median": 42.5,
+   "lq": 41.125,
+   "mean": null
+  },
+  "score_grades_2026": {
+   "uq": {
+    "chi": "3",
+    "eng": "5",
+    "math": "5*",
+    "csd": "A",
+    "m1m2": "5*",
+    "electives": [
+     "5*",
+     "5*",
+     "5*"
+    ]
+   },
+   "median": {
+    "chi": "4",
+    "eng": "5",
+    "math": "5**",
+    "csd": "A",
+    "m1m2": "5*",
+    "electives": [
+     "5",
+     "5"
+    ]
+   },
+   "lq": {
+    "chi": "4",
+    "eng": "4",
+    "math": "5**",
+    "csd": "A",
+    "m1m2": "5*",
+    "electives": [
+     "5",
+     "5",
+     "5"
+    ]
+   }
+  },
+  "sources": [
+   "https://admission.cuhk.edu.hk/application/jupas/programme-specific-requirements-and-score-calculator/",
+   "https://admission.cuhk.edu.hk/wp-content/uploads/data.json",
+   "https://admission.cuhk.edu.hk/wp-content/uploads/2026/10/Admission-Grades-2026.pdf",
+   "https://www.jupas.edu.hk/en/programme/cuhk/JS4238/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS4240",
+  "institution": "CUHK",
+  "name": "Professional Accountancy",
+  "formula_2027": "Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {},
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "3",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   }
+  },
+  "scores_2026": {
+   "uq": 29.0,
+   "median": 27.5,
+   "lq": 26.0,
+   "mean": null
+  },
+  "score_grades_2026": {
+   "uq": {
+    "chi": "5",
+    "eng": "3",
+    "math": "5*",
+    "csd": "A",
+    "m1m2": "5*",
+    "electives": [
+     "5",
+     "4"
+    ]
+   },
+   "median": {
+    "chi": "4",
+    "eng": "5",
+    "math": "5",
+    "csd": "A",
+    "m1m2": null,
+    "electives": [
+     "5",
+     "5",
+     "5"
+    ]
+   },
+   "lq": {
+    "chi": "4",
+    "eng": "4",
+    "math": "5",
+    "csd": "A",
+    "m1m2": "5",
+    "electives": [
+     "5",
+     "5"
+    ]
+   }
+  },
+  "sources": [
+   "https://admission.cuhk.edu.hk/application/jupas/programme-specific-requirements-and-score-calculator/",
+   "https://admission.cuhk.edu.hk/wp-content/uploads/data.json",
+   "https://admission.cuhk.edu.hk/wp-content/uploads/2026/10/Admission-Grades-2026.pdf",
+   "https://www.jupas.edu.hk/en/programme/cuhk/JS4240/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS4252",
+  "institution": "CUHK",
+  "name": "Quantitative Finance",
+  "formula_2027": "Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "English Language": 2.0,
+   "Mathematics (Compulsory Part)": 2.0
+  },
+  "best_of_weights_2027": [
+   {
+    "count": 1,
+    "subjects": [
+     "Mathematics Extended Part (Module 1)",
+     "Mathematics Extended Part (Module 2)",
+     "Chemistry",
+     "Physics",
+     "Economics"
+    ],
+    "weight": 1.5
+   }
+  ],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "3",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   }
+  },
+  "scores_2026": {
+   "uq": 54.75,
+   "median": 53.25,
+   "lq": 52.5,
+   "mean": null
+  },
+  "score_grades_2026": {
+   "uq": {
+    "chi": "4",
+    "eng": "5*",
+    "math": "5*",
+    "csd": "A",
+    "m1m2": null,
+    "electives": [
+     "5**",
+     "5*",
+     "5*"
+    ]
+   },
+   "median": {
+    "chi": "5**",
+    "eng": "4",
+    "math": "5**",
+    "csd": "A",
+    "m1m2": "5**",
+    "electives": [
+     "5*",
+     "5*"
+    ]
+   },
+   "lq": {
+    "chi": "5",
+    "eng": "5",
+    "math": "5**",
+    "csd": "A",
+    "m1m2": "5*",
+    "electives": [
+     "5*",
+     "5*",
+     "5"
+    ]
+   }
+  },
+  "sources": [
+   "https://admission.cuhk.edu.hk/application/jupas/programme-specific-requirements-and-score-calculator/",
+   "https://admission.cuhk.edu.hk/wp-content/uploads/data.json",
+   "https://admission.cuhk.edu.hk/wp-content/uploads/2026/10/Admission-Grades-2026.pdf",
+   "https://www.jupas.edu.hk/en/programme/cuhk/JS4252/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS4254",
+  "institution": "CUHK",
+  "name": "Interdisciplinary Major Programme in Global Economics and Finance",
+  "formula_2027": "Best 5 Subjects (English Language must be included)",
+  "formula_2027_id": "custom",
+  "subject_weights_2027": {},
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "4",
+   "eng": "5",
+   "math": "4",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   }
+  },
+  "scores_2026": {
+   "uq": 35.0,
+   "median": 33.5,
+   "lq": 33.5,
+   "mean": null
+  },
+  "score_grades_2026": {
+   "uq": {
+    "chi": "5",
+    "eng": "5",
+    "math": "5",
+    "csd": "A",
+    "m1m2": null,
+    "electives": [
+     "5**",
+     "5**",
+     "5*"
+    ]
+   },
+   "median": {
+    "chi": "5**",
+    "eng": "5",
+    "math": "5",
+    "csd": "A",
+    "m1m2": "5*",
+    "electives": [
+     "5*",
+     "5"
+    ]
+   },
+   "lq": {
+    "chi": "5*",
+    "eng": "5",
+    "math": "5",
+    "csd": "A",
+    "m1m2": "5*",
+    "electives": [
+     "5**",
+     "5"
+    ]
+   }
+  },
+  "sources": [
+   "https://admission.cuhk.edu.hk/application/jupas/programme-specific-requirements-and-score-calculator/",
+   "https://admission.cuhk.edu.hk/wp-content/uploads/data.json",
+   "https://admission.cuhk.edu.hk/wp-content/uploads/2026/10/Admission-Grades-2026.pdf",
+   "https://www.jupas.edu.hk/en/programme/cuhk/JS4254/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS4264",
+  "institution": "CUHK",
+  "name": "BBA(IBBA)-JD Double Degree Programme",
+  "formula_2027": "Best 5 Subjects (English Language, Chinese Language and Mathematics (Compulsory Part) must be included)",
+  "formula_2027_id": "custom",
+  "subject_weights_2027": {
+   "English Language": 2.0
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "4",
+   "eng": "5",
+   "math": "3",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   }
+  },
+  "scores_2026": {
+   "uq": 39.0,
+   "median": 37.5,
+   "lq": 36.0,
+   "mean": null
+  },
+  "score_grades_2026": {
+   "uq": {
+    "chi": "4",
+    "eng": "5*",
+    "math": "5",
+    "csd": "A",
+    "m1m2": null,
+    "electives": [
+     "5**",
+     "5*",
+     "5"
+    ]
+   },
+   "median": {
+    "chi": "5**",
+    "eng": "5*",
+    "math": "4",
+    "csd": "A",
+    "m1m2": null,
+    "electives": [
+     "5",
+     "5",
+     "4"
+    ]
+   },
+   "lq": {
+    "chi": "5",
+    "eng": "5",
+    "math": "4",
+    "csd": "A",
+    "m1m2": null,
+    "electives": [
+     "5**",
+     "5*",
+     "5*"
+    ]
+   }
+  },
+  "sources": [
+   "https://admission.cuhk.edu.hk/application/jupas/programme-specific-requirements-and-score-calculator/",
+   "https://admission.cuhk.edu.hk/wp-content/uploads/data.json",
+   "https://admission.cuhk.edu.hk/wp-content/uploads/2026/10/Admission-Grades-2026.pdf",
+   "https://www.jupas.edu.hk/en/programme/cuhk/JS4264/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS4276",
+  "institution": "CUHK",
+  "name": "Quantitative Finance and Risk Management Science",
+  "formula_2027": "Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "English Language": 2.0,
+   "Mathematics (Compulsory Part)": 2.0
+  },
+  "best_of_weights_2027": [
+   {
+    "count": 1,
+    "subjects": [
+     "Mathematics Extended Part (Module 1)",
+     "Mathematics Extended Part (Module 2)",
+     "Chemistry",
+     "Physics",
+     "Economics"
+    ],
+    "weight": 1.5
+   }
+  ],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "3",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   }
+  },
+  "scores_2026": {
+   "uq": 59.25,
+   "median": 57.75,
+   "lq": 56.25,
+   "mean": null
+  },
+  "score_grades_2026": {
+   "uq": {
+    "chi": "5",
+    "eng": "5*",
+    "math": "5**",
+    "csd": "A",
+    "m1m2": "5*",
+    "electives": [
+     "5**",
+     "5**",
+     "4"
+    ]
+   },
+   "median": {
+    "chi": "5*",
+    "eng": "5",
+    "math": "5**",
+    "csd": "A",
+    "m1m2": "5*",
+    "electives": [
+     "5**",
+     "5**",
+     "5**"
+    ]
+   },
+   "lq": {
+    "chi": "4",
+    "eng": "5",
+    "math": "5**",
+    "csd": "A",
+    "m1m2": "5**",
+    "electives": [
+     "5**",
+     "5*",
+     "3"
+    ]
+   }
+  },
+  "sources": [
+   "https://admission.cuhk.edu.hk/application/jupas/programme-specific-requirements-and-score-calculator/",
+   "https://admission.cuhk.edu.hk/wp-content/uploads/data.json",
+   "https://admission.cuhk.edu.hk/wp-content/uploads/2026/10/Admission-Grades-2026.pdf",
+   "https://www.jupas.edu.hk/en/programme/cuhk/JS4276/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS4320",
+  "institution": "CUHK",
+  "name": "Human Movement Science and Health Studies",
+  "formula_2027": "Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {},
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   }
+  },
+  "scores_2026": {
+   "uq": 29.0,
+   "median": 26.0,
+   "lq": 25.0,
+   "mean": null
+  },
+  "score_grades_2026": {
+   "uq": {
+    "chi": "4",
+    "eng": "5",
+    "math": "5",
+    "csd": "A",
+    "m1m2": null,
+    "electives": [
+     "5**",
+     "5",
+     "4"
+    ]
+   },
+   "median": {
+    "chi": "4",
+    "eng": "3",
+    "math": "5",
+    "csd": "A",
+    "m1m2": "5*",
+    "electives": [
+     "5",
+     "4",
+     "3"
+    ]
+   },
+   "lq": {
+    "chi": "3",
+    "eng": "4",
+    "math": "5*",
+    "csd": "A",
+    "m1m2": "3",
+    "electives": [
+     "5",
+     "5"
+    ]
+   }
+  },
+  "sources": [
+   "https://admission.cuhk.edu.hk/application/jupas/programme-specific-requirements-and-score-calculator/",
+   "https://admission.cuhk.edu.hk/wp-content/uploads/data.json",
+   "https://admission.cuhk.edu.hk/wp-content/uploads/2026/10/Admission-Grades-2026.pdf",
+   "https://www.jupas.edu.hk/en/programme/cuhk/JS4320/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS4329",
+  "institution": "CUHK",
+  "name": "Physical Education, Exercise Science and Health",
+  "formula_2027": "Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {},
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   }
+  },
+  "scores_2026": {
+   "uq": 29.0,
+   "median": 27.5,
+   "lq": 27.5,
+   "mean": null
+  },
+  "score_grades_2026": {
+   "uq": {
+    "chi": "5",
+    "eng": "4",
+    "math": "5*",
+    "csd": "A",
+    "m1m2": null,
+    "electives": [
+     "5",
+     "5",
+     "5"
+    ]
+   },
+   "median": {
+    "chi": "4",
+    "eng": "5*",
+    "math": "5*",
+    "csd": "A",
+    "m1m2": null,
+    "electives": [
+     "5",
+     "4"
+    ]
+   },
+   "lq": {
+    "chi": "5*",
+    "eng": "4",
+    "math": "4",
+    "csd": "A",
+    "m1m2": null,
+    "electives": [
+     "5*",
+     "5"
+    ]
+   }
+  },
+  "sources": [
+   "https://admission.cuhk.edu.hk/application/jupas/programme-specific-requirements-and-score-calculator/",
+   "https://admission.cuhk.edu.hk/wp-content/uploads/data.json",
+   "https://admission.cuhk.edu.hk/wp-content/uploads/2026/10/Admission-Grades-2026.pdf",
+   "https://www.jupas.edu.hk/en/programme/cuhk/JS4329/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS4331",
+  "institution": "CUHK",
+  "name": "Chinese Language Studies (BA) and Chinese Language Education (BEd)",
+  "formula_2027": "Best 5 Subjects (Chinese Language must be included)",
+  "formula_2027_id": "custom",
+  "subject_weights_2027": {
+   "Chinese Language": 2.0
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "4",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   }
+  },
+  "scores_2026": {
+   "uq": 43.5,
+   "median": 42.0,
+   "lq": 39.0,
+   "mean": null
+  },
+  "score_grades_2026": {
+   "uq": {
+    "chi": "5*",
+    "eng": "5*",
+    "math": "5",
+    "csd": "A",
+    "m1m2": null,
+    "electives": [
+     "5**",
+     "5*",
+     "5*"
+    ]
+   },
+   "median": {
+    "chi": "5**",
+    "eng": "5*",
+    "math": "4",
+    "csd": "A",
+    "m1m2": null,
+    "electives": [
+     "5*",
+     "5*",
+     "4"
+    ]
+   },
+   "lq": {
+    "chi": "5*",
+    "eng": "5*",
+    "math": "5*",
+    "csd": "A",
+    "m1m2": "5",
+    "electives": [
+     "5",
+     "5",
+     "4"
+    ]
+   }
+  },
+  "sources": [
+   "https://admission.cuhk.edu.hk/application/jupas/programme-specific-requirements-and-score-calculator/",
+   "https://admission.cuhk.edu.hk/wp-content/uploads/data.json",
+   "https://admission.cuhk.edu.hk/wp-content/uploads/2026/10/Admission-Grades-2026.pdf",
+   "https://www.jupas.edu.hk/en/programme/cuhk/JS4331/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS4343",
+  "institution": "CUHK",
+  "name": "English Studies (BA) and English Language Education (BEd)",
+  "formula_2027": "Best 5 Subjects (English Language must be included)",
+  "formula_2027_id": "custom",
+  "subject_weights_2027": {
+   "English Language": 2.0
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "4",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   }
+  },
+  "scores_2026": {
+   "uq": 42.0,
+   "median": 42.0,
+   "lq": 39.0,
+   "mean": null
+  },
+  "score_grades_2026": {
+   "uq": {
+    "chi": "5*",
+    "eng": "5**",
+    "math": "5",
+    "csd": "A",
+    "m1m2": null,
+    "electives": [
+     "5*",
+     "5",
+     "5"
+    ]
+   },
+   "median": {
+    "chi": "3",
+    "eng": "5*",
+    "math": "5",
+    "csd": "A",
+    "m1m2": "4",
+    "electives": [
+     "5**",
+     "5*",
+     "5*"
+    ]
+   },
+   "lq": {
+    "chi": "4",
+    "eng": "5**",
+    "math": "4",
+    "csd": "A",
+    "m1m2": null,
+    "electives": [
+     "5*",
+     "5*",
+     "4"
+    ]
+   }
+  },
+  "sources": [
+   "https://admission.cuhk.edu.hk/application/jupas/programme-specific-requirements-and-score-calculator/",
+   "https://admission.cuhk.edu.hk/wp-content/uploads/data.json",
+   "https://admission.cuhk.edu.hk/wp-content/uploads/2026/10/Admission-Grades-2026.pdf",
+   "https://www.jupas.edu.hk/en/programme/cuhk/JS4343/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS4361",
+  "institution": "CUHK",
+  "name": "Mathematics and Mathematics Education",
+  "formula_2027": "Best 5 Subjects (Mathematics (Compulsory Part) must be included; one of Mathematics Extended Part (Module 1) or Mathematics Extended Part (Module 2) must be included)",
+  "formula_2027_id": "custom",
+  "subject_weights_2027": {
+   "Mathematics (Compulsory Part)": 2.0
+  },
+  "best_of_weights_2027": [
+   {
+    "count": 1,
+    "subjects": [
+     "Mathematics Extended Part (Module 1)",
+     "Mathematics Extended Part (Module 2)"
+    ],
+    "weight": 2.0
+   },
+   {
+    "count": 1,
+    "subjects": [
+     "Chinese Language",
+     "English Language"
+    ],
+    "weight": 1.5
+   },
+   {
+    "count": 1,
+    "subjects": [
+     "Physics",
+     "Economics",
+     "Information and Communication Technology"
+    ],
+    "weight": 1.5
+   }
+  ],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "4",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Mathematics Extended Part (Module 1)",
+     "Mathematics Extended Part (Module 2)"
+    ],
+    "grade": "3"
+   }
+  },
+  "scores_2026": {
+   "uq": 57.5,
+   "median": 57.5,
+   "lq": 54.5,
+   "mean": null
+  },
+  "score_grades_2026": {
+   "uq": {
+    "chi": "4",
+    "eng": "5*",
+    "math": "5**",
+    "csd": "A",
+    "m1m2": "5*",
+    "electives": [
+     "5*",
+     "5"
+    ]
+   },
+   "median": {
+    "chi": "4",
+    "eng": "5*",
+    "math": "5*",
+    "csd": "A",
+    "m1m2": "5*",
+    "electives": [
+     "5**",
+     "5*"
+    ]
+   },
+   "lq": {
+    "chi": "5*",
+    "eng": "4",
+    "math": "5**",
+    "csd": "A",
+    "m1m2": "5",
+    "electives": [
+     "5*",
+     "5",
+     "5"
+    ]
+   }
+  },
+  "sources": [
+   "https://admission.cuhk.edu.hk/application/jupas/programme-specific-requirements-and-score-calculator/",
+   "https://admission.cuhk.edu.hk/wp-content/uploads/data.json",
+   "https://admission.cuhk.edu.hk/wp-content/uploads/2026/10/Admission-Grades-2026.pdf",
+   "https://www.jupas.edu.hk/en/programme/cuhk/JS4361/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS4372",
+  "institution": "CUHK",
+  "name": "Early Childhood Education",
+  "formula_2027": "Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {},
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   }
+  },
+  "scores_2026": {
+   "uq": 24.5,
+   "median": 23.5,
+   "lq": 22.0,
+   "mean": null
+  },
+  "score_grades_2026": {
+   "uq": {
+    "chi": "5",
+    "eng": "4",
+    "math": "4",
+    "csd": "A",
+    "m1m2": null,
+    "electives": [
+     "5*",
+     "4",
+     "4"
+    ]
+   },
+   "median": {
+    "chi": "5",
+    "eng": "5",
+    "math": "5",
+    "csd": "A",
+    "m1m2": "3",
+    "electives": [
+     "4",
+     "2"
+    ]
+   },
+   "lq": {
+    "chi": "5*",
+    "eng": "4",
+    "math": "3",
+    "csd": "A",
+    "m1m2": "3",
+    "electives": [
+     "4",
+     "4",
+     "3"
+    ]
+   }
+  },
+  "sources": [
+   "https://admission.cuhk.edu.hk/application/jupas/programme-specific-requirements-and-score-calculator/",
+   "https://admission.cuhk.edu.hk/wp-content/uploads/data.json",
+   "https://admission.cuhk.edu.hk/wp-content/uploads/2026/10/Admission-Grades-2026.pdf",
+   "https://www.jupas.edu.hk/en/programme/cuhk/JS4372/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS4386",
+  "institution": "CUHK",
+  "name": "Learning Design and Technology",
+  "formula_2027": "Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "Mathematics (Compulsory Part)": 1.5,
+   "Biology": 1.5,
+   "Chemistry": 1.5,
+   "Physics": 1.5,
+   "Design and Applied Technology": 1.5,
+   "Information and Communication Technology": 1.5,
+   "Business, Accounting and Financial Studies": 1.5,
+   "Economics": 1.5,
+   "Geography": 1.5,
+   "Technology and Living (Food Science and Technology)": 1.5
+  },
+  "best_of_weights_2027": [
+   {
+    "count": 1,
+    "subjects": [
+     "Mathematics Extended Part (Module 1)",
+     "Mathematics Extended Part (Module 2)"
+    ],
+    "weight": 1.5
+   }
+  ],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "3",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   }
+  },
+  "scores_2026": {
+   "uq": 36.25,
+   "median": 34.0,
+   "lq": 33.25,
+   "mean": null
+  },
+  "score_grades_2026": {
+   "uq": {
+    "chi": "5",
+    "eng": "5",
+    "math": "5",
+    "csd": "A",
+    "m1m2": "5",
+    "electives": [
+     "5",
+     "4"
+    ]
+   },
+   "median": {
+    "chi": "5",
+    "eng": "4",
+    "math": "5",
+    "csd": "A",
+    "m1m2": "5",
+    "electives": [
+     "4",
+     "4"
+    ]
+   },
+   "lq": {
+    "chi": "4",
+    "eng": "5*",
+    "math": "4",
+    "csd": "A",
+    "m1m2": null,
+    "electives": [
+     "5",
+     "4",
+     "4"
+    ]
+   }
+  },
+  "sources": [
+   "https://admission.cuhk.edu.hk/application/jupas/programme-specific-requirements-and-score-calculator/",
+   "https://admission.cuhk.edu.hk/wp-content/uploads/data.json",
+   "https://admission.cuhk.edu.hk/wp-content/uploads/2026/10/Admission-Grades-2026.pdf",
+   "https://www.jupas.edu.hk/en/programme/cuhk/JS4386/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS4408",
+  "institution": "CUHK",
+  "name": "Mechanical and Automation Engineering",
+  "formula_2027": "Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "Mathematics (Compulsory Part)": 1.5,
+   "Biology": 1.25,
+   "Chemistry": 1.25,
+   "Physics": 1.5,
+   "Design and Applied Technology": 1.25,
+   "Information and Communication Technology": 1.25
+  },
+  "best_of_weights_2027": [
+   {
+    "count": 1,
+    "subjects": [
+     "Mathematics Extended Part (Module 1)",
+     "Mathematics Extended Part (Module 2)"
+    ],
+    "weight": 1.5
+   }
+  ],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "3",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Mathematics Extended Part (Module 1)",
+     "Mathematics Extended Part (Module 2)",
+     "Biology",
+     "Chemistry",
+     "Physics",
+     "Design and Applied Technology",
+     "Information and Communication Technology"
+    ],
+    "grade": "3"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   }
+  },
+  "scores_2026": {
+   "uq": 37.25,
+   "median": 36.625,
+   "lq": 35.75,
+   "mean": null
+  },
+  "score_grades_2026": {
+   "uq": {
+    "chi": "4",
+    "eng": "4",
+    "math": "5**",
+    "csd": "A",
+    "m1m2": "5",
+    "electives": [
+     "5",
+     "4"
+    ]
+   },
+   "median": {
+    "chi": "4",
+    "eng": "4",
+    "math": "5*",
+    "csd": "A",
+    "m1m2": "4",
+    "electives": [
+     "5",
+     "5",
+     "4"
+    ]
+   },
+   "lq": {
+    "chi": "3",
+    "eng": "5*",
+    "math": "5",
+    "csd": "A",
+    "m1m2": "5",
+    "electives": [
+     "5",
+     "4"
+    ]
+   }
+  },
+  "sources": [
+   "https://admission.cuhk.edu.hk/application/jupas/programme-specific-requirements-and-score-calculator/",
+   "https://admission.cuhk.edu.hk/wp-content/uploads/data.json",
+   "https://admission.cuhk.edu.hk/wp-content/uploads/2026/10/Admission-Grades-2026.pdf",
+   "https://www.jupas.edu.hk/en/programme/cuhk/JS4408/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS4412",
+  "institution": "CUHK",
+  "name": "Computer Science and Engineering",
+  "formula_2027": "Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "Mathematics (Compulsory Part)": 1.5,
+   "Biology": 1.5,
+   "Chemistry": 1.5,
+   "Physics": 1.5,
+   "Design and Applied Technology": 1.5,
+   "Information and Communication Technology": 1.5
+  },
+  "best_of_weights_2027": [
+   {
+    "count": 1,
+    "subjects": [
+     "Mathematics Extended Part (Module 1)",
+     "Mathematics Extended Part (Module 2)"
+    ],
+    "weight": 1.75
+   }
+  ],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "4",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Mathematics Extended Part (Module 1)",
+     "Mathematics Extended Part (Module 2)",
+     "Biology",
+     "Chemistry",
+     "Physics",
+     "Information and Communication Technology"
+    ],
+    "grade": "3"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   }
+  },
+  "scores_2026": {
+   "uq": 45.875,
+   "median": 43.25,
+   "lq": 42.25,
+   "mean": null
+  },
+  "score_grades_2026": {
+   "uq": {
+    "chi": "5*",
+    "eng": "4",
+    "math": "5*",
+    "csd": "A",
+    "m1m2": "5",
+    "electives": [
+     "5*",
+     "5"
+    ]
+   },
+   "median": {
+    "chi": "3",
+    "eng": "4",
+    "math": "5*",
+    "csd": "A",
+    "m1m2": "5*",
+    "electives": [
+     "5",
+     "5"
+    ]
+   },
+   "lq": {
+    "chi": "3",
+    "eng": "3",
+    "math": "5**",
+    "csd": "A",
+    "m1m2": "5*",
+    "electives": [
+     "5",
+     "4"
+    ]
+   }
+  },
+  "sources": [
+   "https://admission.cuhk.edu.hk/application/jupas/programme-specific-requirements-and-score-calculator/",
+   "https://admission.cuhk.edu.hk/wp-content/uploads/data.json",
+   "https://admission.cuhk.edu.hk/wp-content/uploads/2026/10/Admission-Grades-2026.pdf",
+   "https://www.jupas.edu.hk/en/programme/cuhk/JS4412/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS4416",
+  "institution": "CUHK",
+  "name": "Computational Data Science",
+  "formula_2027": "Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "Mathematics (Compulsory Part)": 2.0,
+   "Biology": 1.5,
+   "Chemistry": 1.5,
+   "Physics": 1.5,
+   "Economics": 1.5,
+   "Information and Communication Technology": 1.5
+  },
+  "best_of_weights_2027": [
+   {
+    "count": 1,
+    "subjects": [
+     "Mathematics Extended Part (Module 1)",
+     "Mathematics Extended Part (Module 2)"
+    ],
+    "weight": 2.0
+   }
+  ],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "4",
+   "math": "4",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   }
+  },
+  "scores_2026": {
+   "uq": 59.0,
+   "median": 57.5,
+   "lq": 55.25,
+   "mean": null
+  },
+  "score_grades_2026": {
+   "uq": {
+    "chi": "4",
+    "eng": "4",
+    "math": "5**",
+    "csd": "A",
+    "m1m2": "5**",
+    "electives": [
+     "5*",
+     "5*"
+    ]
+   },
+   "median": {
+    "chi": "4",
+    "eng": "5",
+    "math": "5*",
+    "csd": "A",
+    "m1m2": "5**",
+    "electives": [
+     "5**",
+     "5"
+    ]
+   },
+   "lq": {
+    "chi": "5*",
+    "eng": "4",
+    "math": "5*",
+    "csd": "A",
+    "m1m2": "5",
+    "electives": [
+     "5**",
+     "5*",
+     "4"
+    ]
+   }
+  },
+  "sources": [
+   "https://admission.cuhk.edu.hk/application/jupas/programme-specific-requirements-and-score-calculator/",
+   "https://admission.cuhk.edu.hk/wp-content/uploads/data.json",
+   "https://admission.cuhk.edu.hk/wp-content/uploads/2026/10/Admission-Grades-2026.pdf",
+   "https://www.jupas.edu.hk/en/programme/cuhk/JS4416/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS4428",
+  "institution": "CUHK",
+  "name": "Financial Technology",
+  "formula_2027": "Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "English Language": 1.25,
+   "Chinese Language": 1.25,
+   "Mathematics (Compulsory Part)": 1.75,
+   "Biology": 1.5,
+   "Chemistry": 1.5,
+   "Physics": 1.5,
+   "Business, Accounting and Financial Studies": 1.5,
+   "Economics": 1.5,
+   "Information and Communication Technology": 1.5
+  },
+  "best_of_weights_2027": [
+   {
+    "count": 1,
+    "subjects": [
+     "Mathematics Extended Part (Module 1)",
+     "Mathematics Extended Part (Module 2)"
+    ],
+    "weight": 1.75
+   }
+  ],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "4",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   }
+  },
+  "scores_2026": {
+   "uq": 52.5,
+   "median": 49.75,
+   "lq": 49.0,
+   "mean": null
+  },
+  "score_grades_2026": {
+   "uq": {
+    "chi": "5**",
+    "eng": "3",
+    "math": "5**",
+    "csd": "A",
+    "m1m2": null,
+    "electives": [
+     "5**",
+     "5*"
+    ]
+   },
+   "median": {
+    "chi": "5",
+    "eng": "3",
+    "math": "5*",
+    "csd": "A",
+    "m1m2": "5",
+    "electives": [
+     "5**",
+     "5"
+    ]
+   },
+   "lq": {
+    "chi": "4",
+    "eng": "5**",
+    "math": "5*",
+    "csd": "A",
+    "m1m2": "5",
+    "electives": [
+     "5",
+     "5"
+    ]
+   }
+  },
+  "sources": [
+   "https://admission.cuhk.edu.hk/application/jupas/programme-specific-requirements-and-score-calculator/",
+   "https://admission.cuhk.edu.hk/wp-content/uploads/data.json",
+   "https://admission.cuhk.edu.hk/wp-content/uploads/2026/10/Admission-Grades-2026.pdf",
+   "https://www.jupas.edu.hk/en/programme/cuhk/JS4428/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS4434",
+  "institution": "CUHK",
+  "name": "Electronic Engineering",
+  "formula_2027": "Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "Mathematics (Compulsory Part)": 1.5,
+   "Physics": 1.5
+  },
+  "best_of_weights_2027": [
+   {
+    "count": 1,
+    "subjects": [
+     "Mathematics Extended Part (Module 1)",
+     "Mathematics Extended Part (Module 2)"
+    ],
+    "weight": 1.5
+   }
+  ],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "3",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Mathematics Extended Part (Module 1)",
+     "Mathematics Extended Part (Module 2)",
+     "Biology",
+     "Chemistry",
+     "Physics",
+     "Information and Communication Technology"
+    ],
+    "grade": "3"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   }
+  },
+  "scores_2026": {
+   "uq": 35.75,
+   "median": 34.25,
+   "lq": 34.0,
+   "mean": null
+  },
+  "score_grades_2026": {
+   "uq": {
+    "chi": "5",
+    "eng": "4",
+    "math": "5",
+    "csd": "A",
+    "m1m2": "5",
+    "electives": [
+     "5",
+     "5"
+    ]
+   },
+   "median": {
+    "chi": "5*",
+    "eng": "4",
+    "math": "5*",
+    "csd": "A",
+    "m1m2": "3",
+    "electives": [
+     "5",
+     "4"
+    ]
+   },
+   "lq": {
+    "chi": "4",
+    "eng": "3",
+    "math": "5*",
+    "csd": "A",
+    "m1m2": "5",
+    "electives": [
+     "5"
+    ]
+   }
+  },
+  "sources": [
+   "https://admission.cuhk.edu.hk/application/jupas/programme-specific-requirements-and-score-calculator/",
+   "https://admission.cuhk.edu.hk/wp-content/uploads/data.json",
+   "https://admission.cuhk.edu.hk/wp-content/uploads/2026/10/Admission-Grades-2026.pdf",
+   "https://www.jupas.edu.hk/en/programme/cuhk/JS4434/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS4446",
+  "institution": "CUHK",
+  "name": "Information Engineering",
+  "formula_2027": "Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "Mathematics (Compulsory Part)": 2.0,
+   "Biology": 1.5,
+   "Chemistry": 1.5,
+   "Physics": 1.5,
+   "Design and Applied Technology": 1.5,
+   "Information and Communication Technology": 1.5
+  },
+  "best_of_weights_2027": [
+   {
+    "count": 1,
+    "subjects": [
+     "Mathematics Extended Part (Module 1)",
+     "Mathematics Extended Part (Module 2)"
+    ],
+    "weight": 1.75
+   }
+  ],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "4",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Mathematics Extended Part (Module 1)",
+     "Mathematics Extended Part (Module 2)",
+     "Biology",
+     "Chemistry",
+     "Physics"
+    ],
+    "grade": "3"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   }
+  },
+  "scores_2026": {
+   "uq": 44.25,
+   "median": 43.0,
+   "lq": 41.875,
+   "mean": null
+  },
+  "score_grades_2026": {
+   "uq": {
+    "chi": "3",
+    "eng": "3",
+    "math": "5**",
+    "csd": "A",
+    "m1m2": "5*",
+    "electives": [
+     "4",
+     "4"
+    ]
+   },
+   "median": {
+    "chi": "3",
+    "eng": "5",
+    "math": "5*",
+    "csd": "A",
+    "m1m2": "5*",
+    "electives": [
+     "5",
+     "3"
+    ]
+   },
+   "lq": {
+    "chi": "4",
+    "eng": "4",
+    "math": "5*",
+    "csd": "A",
+    "m1m2": "5",
+    "electives": [
+     "5",
+     "4"
+    ]
+   }
+  },
+  "sources": [
+   "https://admission.cuhk.edu.hk/application/jupas/programme-specific-requirements-and-score-calculator/",
+   "https://admission.cuhk.edu.hk/wp-content/uploads/data.json",
+   "https://admission.cuhk.edu.hk/wp-content/uploads/2026/10/Admission-Grades-2026.pdf",
+   "https://www.jupas.edu.hk/en/programme/cuhk/JS4446/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS4458",
+  "institution": "CUHK",
+  "name": "Systems Engineering and Engineering Management",
+  "formula_2027": "Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "Mathematics (Compulsory Part)": 1.5,
+   "Biology": 1.5,
+   "Chemistry": 1.5,
+   "Physics": 1.5,
+   "Business, Accounting and Financial Studies": 1.5,
+   "Economics": 1.5,
+   "Information and Communication Technology": 1.5
+  },
+  "best_of_weights_2027": [
+   {
+    "count": 1,
+    "subjects": [
+     "Mathematics Extended Part (Module 1)",
+     "Mathematics Extended Part (Module 2)"
+    ],
+    "weight": 1.5
+   }
+  ],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "3",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   }
+  },
+  "scores_2026": {
+   "uq": 37.0,
+   "median": 36.25,
+   "lq": 35.0,
+   "mean": null
+  },
+  "score_grades_2026": {
+   "uq": {
+    "chi": "4",
+    "eng": "3",
+    "math": "5*",
+    "csd": "A",
+    "m1m2": "5",
+    "electives": [
+     "5",
+     "4"
+    ]
+   },
+   "median": {
+    "chi": "4",
+    "eng": "3",
+    "math": "5*",
+    "csd": "A",
+    "m1m2": null,
+    "electives": [
+     "5*",
+     "5"
+    ]
+   },
+   "lq": {
+    "chi": "4",
+    "eng": "4",
+    "math": "4",
+    "csd": "A",
+    "m1m2": null,
+    "electives": [
+     "5*",
+     "5*",
+     "4"
+    ]
+   }
+  },
+  "sources": [
+   "https://admission.cuhk.edu.hk/application/jupas/programme-specific-requirements-and-score-calculator/",
+   "https://admission.cuhk.edu.hk/wp-content/uploads/data.json",
+   "https://admission.cuhk.edu.hk/wp-content/uploads/2026/10/Admission-Grades-2026.pdf",
+   "https://www.jupas.edu.hk/en/programme/cuhk/JS4458/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS4460",
+  "institution": "CUHK",
+  "name": "Biomedical Engineering",
+  "formula_2027": "Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "English Language": 1.5,
+   "Biology": 1.5,
+   "Chemistry": 1.5,
+   "Physics": 1.5
+  },
+  "best_of_weights_2027": [
+   {
+    "count": 1,
+    "subjects": [
+     "Mathematics (Compulsory Part)",
+     "Mathematics Extended Part (Module 1)",
+     "Mathematics Extended Part (Module 2)"
+    ],
+    "weight": 1.5
+   }
+  ],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "3",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Mathematics Extended Part (Module 1)",
+     "Mathematics Extended Part (Module 2)",
+     "Biology",
+     "Chemistry",
+     "Physics"
+    ],
+    "grade": "3"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   }
+  },
+  "scores_2026": {
+   "uq": 45.75,
+   "median": 43.5,
+   "lq": 42.5,
+   "mean": null
+  },
+  "score_grades_2026": {
+   "uq": {
+    "chi": "4",
+    "eng": "5",
+    "math": "5",
+    "csd": "A",
+    "m1m2": null,
+    "electives": [
+     "5*",
+     "5*",
+     "5"
+    ]
+   },
+   "median": {
+    "chi": "5",
+    "eng": "5*",
+    "math": "4",
+    "csd": "A",
+    "m1m2": null,
+    "electives": [
+     "5*",
+     "5",
+     "5"
+    ]
+   },
+   "lq": {
+    "chi": "4",
+    "eng": "5*",
+    "math": "5*",
+    "csd": "A",
+    "m1m2": "4",
+    "electives": [
+     "5*",
+     "5*"
+    ]
+   }
+  },
+  "sources": [
+   "https://admission.cuhk.edu.hk/application/jupas/programme-specific-requirements-and-score-calculator/",
+   "https://admission.cuhk.edu.hk/wp-content/uploads/data.json",
+   "https://admission.cuhk.edu.hk/wp-content/uploads/2026/10/Admission-Grades-2026.pdf",
+   "https://www.jupas.edu.hk/en/programme/cuhk/JS4460/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS4462",
+  "institution": "CUHK",
+  "name": "Energy and Environmental Engineering",
+  "formula_2027": "Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "Mathematics (Compulsory Part)": 1.5,
+   "Biology": 1.5,
+   "Chemistry": 1.5,
+   "Physics": 1.5,
+   "Design and Applied Technology": 1.5,
+   "Information and Communication Technology": 1.5,
+   "Economics": 1.2,
+   "Geography": 1.2
+  },
+  "best_of_weights_2027": [
+   {
+    "count": 1,
+    "subjects": [
+     "Mathematics Extended Part (Module 1)",
+     "Mathematics Extended Part (Module 2)"
+    ],
+    "weight": 1.5
+   }
+  ],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "3",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Mathematics Extended Part (Module 1)",
+     "Mathematics Extended Part (Module 2)",
+     "Biology",
+     "Chemistry",
+     "Physics",
+     "Design and Applied Technology",
+     "Information and Communication Technology"
+    ],
+    "grade": "3"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   }
+  },
+  "scores_2026": {
+   "uq": 38.5,
+   "median": 35.5,
+   "lq": 34.75,
+   "mean": null
+  },
+  "score_grades_2026": {
+   "uq": {
+    "chi": "5",
+    "eng": "3",
+    "math": "5",
+    "csd": "A",
+    "m1m2": "5",
+    "electives": [
+     "5",
+     "5"
+    ]
+   },
+   "median": {
+    "chi": "5*",
+    "eng": "3",
+    "math": "5",
+    "csd": "A",
+    "m1m2": "4",
+    "electives": [
+     "5",
+     "4"
+    ]
+   },
+   "lq": {
+    "chi": "5",
+    "eng": "3",
+    "math": "5*",
+    "csd": "A",
+    "m1m2": "3",
+    "electives": [
+     "5",
+     "4"
+    ]
+   }
+  },
+  "sources": [
+   "https://admission.cuhk.edu.hk/application/jupas/programme-specific-requirements-and-score-calculator/",
+   "https://admission.cuhk.edu.hk/wp-content/uploads/data.json",
+   "https://admission.cuhk.edu.hk/wp-content/uploads/2026/10/Admission-Grades-2026.pdf",
+   "https://www.jupas.edu.hk/en/programme/cuhk/JS4462/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS4468",
+  "institution": "CUHK",
+  "name": "Artificial Intelligence: Systems and Technologies",
+  "formula_2027": "Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "English Language": 1.25,
+   "Chinese Language": 1.25,
+   "Mathematics (Compulsory Part)": 1.75,
+   "Biology": 1.5,
+   "Chemistry": 1.5,
+   "Physics": 1.5,
+   "Information and Communication Technology": 1.5
+  },
+  "best_of_weights_2027": [
+   {
+    "count": 1,
+    "subjects": [
+     "Mathematics Extended Part (Module 1)",
+     "Mathematics Extended Part (Module 2)"
+    ],
+    "weight": 1.75
+   }
+  ],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "4",
+   "math": "5",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   }
+  },
+  "scores_2026": {
+   "uq": 56.75,
+   "median": 53.125,
+   "lq": 52.0,
+   "mean": null
+  },
+  "score_grades_2026": {
+   "uq": {
+    "chi": "4",
+    "eng": "4",
+    "math": "5**",
+    "csd": "A",
+    "m1m2": "5**",
+    "electives": [
+     "5*",
+     "5",
+     "5"
+    ]
+   },
+   "median": {
+    "chi": "4",
+    "eng": "4",
+    "math": "5**",
+    "csd": "A",
+    "m1m2": "5*",
+    "electives": [
+     "5**",
+     "5"
+    ]
+   },
+   "lq": {
+    "chi": "3",
+    "eng": "5*",
+    "math": "5*",
+    "csd": "A",
+    "m1m2": "5*",
+    "electives": [
+     "5*",
+     "5"
+    ]
+   }
+  },
+  "sources": [
+   "https://admission.cuhk.edu.hk/application/jupas/programme-specific-requirements-and-score-calculator/",
+   "https://admission.cuhk.edu.hk/wp-content/uploads/data.json",
+   "https://admission.cuhk.edu.hk/wp-content/uploads/2026/10/Admission-Grades-2026.pdf",
+   "https://www.jupas.edu.hk/en/programme/cuhk/JS4468/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS4470",
+  "institution": "CUHK",
+  "name": "Materials Science and Engineering",
+  "formula_2027": "Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "Mathematics (Compulsory Part)": 1.25,
+   "Physics": 1.25,
+   "Chemistry": 1.25
+  },
+  "best_of_weights_2027": [
+   {
+    "count": 1,
+    "subjects": [
+     "Mathematics Extended Part (Module 1)",
+     "Mathematics Extended Part (Module 2)"
+    ],
+    "weight": 1.25
+   }
+  ],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "3",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Mathematics Extended Part (Module 1)",
+     "Mathematics Extended Part (Module 2)",
+     "Biology",
+     "Chemistry",
+     "Physics",
+     "Information and Communication Technology"
+    ],
+    "grade": "3"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   }
+  },
+  "scores_2026": {
+   "uq": 29.875,
+   "median": 29.125,
+   "lq": 28.625,
+   "mean": null
+  },
+  "score_grades_2026": {
+   "uq": {
+    "chi": "5",
+    "eng": "3",
+    "math": "5*",
+    "csd": "A",
+    "m1m2": "3",
+    "electives": [
+     "5",
+     "4"
+    ]
+   },
+   "median": {
+    "chi": "5",
+    "eng": "3",
+    "math": "5",
+    "csd": "A",
+    "m1m2": null,
+    "electives": [
+     "5",
+     "5"
+    ]
+   },
+   "lq": {
+    "chi": "3",
+    "eng": "3",
+    "math": "5*",
+    "csd": "A",
+    "m1m2": "5",
+    "electives": [
+     "4",
+     "4"
+    ]
+   }
+  },
+  "sources": [
+   "https://admission.cuhk.edu.hk/application/jupas/programme-specific-requirements-and-score-calculator/",
+   "https://admission.cuhk.edu.hk/wp-content/uploads/data.json",
+   "https://admission.cuhk.edu.hk/wp-content/uploads/2026/10/Admission-Grades-2026.pdf",
+   "https://www.jupas.edu.hk/en/programme/cuhk/JS4470/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS4501",
+  "institution": "CUHK",
+  "name": "Bachelor of Medicine and Bachelor of Surgery (MBChB)",
+  "formula_2027": "6 Graded Subjects (English Language, Chinese Language and Mathematics (Compulsory Part) must be included; one of Biology or Chemistry must be included)",
+  "formula_2027_id": "custom",
+  "subject_weights_2027": {},
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "4",
+   "math": "3",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Biology",
+     "Chemistry"
+    ],
+    "grade": "3"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   }
+  },
+  "scores_2026": {
+   "uq": 38.0,
+   "median": 37.0,
+   "lq": 36.0,
+   "mean": null
+  },
+  "score_grades_2026": {
+   "uq": {
+    "chi": "5**",
+    "eng": "5**",
+    "math": "5**",
+    "csd": "A",
+    "m1m2": "4",
+    "electives": [
+     "5*",
+     "5*",
+     "5"
+    ]
+   },
+   "median": {
+    "chi": "5**",
+    "eng": "5*",
+    "math": "5*",
+    "csd": "A",
+    "m1m2": "5*",
+    "electives": [
+     "5*",
+     "5*",
+     "5*"
+    ]
+   },
+   "lq": {
+    "chi": "5**",
+    "eng": "5*",
+    "math": "5",
+    "csd": "A",
+    "m1m2": "4",
+    "electives": [
+     "5**",
+     "5*",
+     "5"
+    ]
+   }
+  },
+  "sources": [
+   "https://admission.cuhk.edu.hk/application/jupas/programme-specific-requirements-and-score-calculator/",
+   "https://admission.cuhk.edu.hk/wp-content/uploads/data.json",
+   "https://admission.cuhk.edu.hk/wp-content/uploads/2026/10/Admission-Grades-2026.pdf",
+   "https://www.jupas.edu.hk/en/programme/cuhk/JS4501/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS4502",
+  "institution": "CUHK",
+  "name": "Bachelor of Medicine and Bachelor of Surgery - Global Physician-Leadership Stream (MBChB-GPS)",
+  "formula_2027": "6 Graded Subjects (English Language, Chinese Language and Mathematics (Compulsory Part) must be included; one of Biology or Chemistry must be included)",
+  "formula_2027_id": "custom",
+  "subject_weights_2027": {},
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "4",
+   "math": "3",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Biology",
+     "Chemistry"
+    ],
+    "grade": "3"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   }
+  },
+  "scores_2026": {
+   "uq": 42.0,
+   "median": 41.0,
+   "lq": 40.0,
+   "mean": null
+  },
+  "score_grades_2026": {
+   "uq": {
+    "chi": "5**",
+    "eng": "5**",
+    "math": "5**",
+    "csd": "A",
+    "m1m2": "5*",
+    "electives": [
+     "5**",
+     "5**",
+     "5**"
+    ]
+   },
+   "median": {
+    "chi": "5**",
+    "eng": "5**",
+    "math": "5*",
+    "csd": "A",
+    "m1m2": "5*",
+    "electives": [
+     "5**",
+     "5**",
+     "5**"
+    ]
+   },
+   "lq": {
+    "chi": "5*",
+    "eng": "5*",
+    "math": "5**",
+    "csd": "A",
+    "m1m2": "5*",
+    "electives": [
+     "5**",
+     "5**",
+     "5**"
+    ]
+   }
+  },
+  "sources": [
+   "https://admission.cuhk.edu.hk/application/jupas/programme-specific-requirements-and-score-calculator/",
+   "https://admission.cuhk.edu.hk/wp-content/uploads/data.json",
+   "https://admission.cuhk.edu.hk/wp-content/uploads/2026/10/Admission-Grades-2026.pdf",
+   "https://www.jupas.edu.hk/en/programme/cuhk/JS4502/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS4513",
+  "institution": "CUHK",
+  "name": "Nursing",
+  "formula_2027": "Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {},
+  "best_of_weights_2027": [
+   {
+    "count": 1,
+    "subjects": [
+     "Biology",
+     "Chemistry",
+     "Physics"
+    ],
+    "weight": 1.2
+   }
+  ],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   }
+  },
+  "scores_2026": {
+   "uq": 30.4,
+   "median": 28.9,
+   "lq": 27.6,
+   "mean": null
+  },
+  "score_grades_2026": {
+   "uq": {
+    "chi": "5",
+    "eng": "5",
+    "math": "5",
+    "csd": "A",
+    "m1m2": null,
+    "electives": [
+     "5*",
+     "5",
+     "4"
+    ]
+   },
+   "median": {
+    "chi": "4",
+    "eng": "3",
+    "math": "5*",
+    "csd": "A",
+    "m1m2": null,
+    "electives": [
+     "5*",
+     "5",
+     "4"
+    ]
+   },
+   "lq": {
+    "chi": "5",
+    "eng": "3",
+    "math": "5",
+    "csd": "A",
+    "m1m2": null,
+    "electives": [
+     "5*",
+     "5",
+     "3"
+    ]
+   }
+  },
+  "sources": [
+   "https://admission.cuhk.edu.hk/application/jupas/programme-specific-requirements-and-score-calculator/",
+   "https://admission.cuhk.edu.hk/wp-content/uploads/data.json",
+   "https://admission.cuhk.edu.hk/wp-content/uploads/2026/10/Admission-Grades-2026.pdf",
+   "https://www.jupas.edu.hk/en/programme/cuhk/JS4513/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS4525",
+  "institution": "CUHK",
+  "name": "Pharmacy",
+  "formula_2027": "Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {},
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "3",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Chemistry"
+    ],
+    "grade": "3"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   }
+  },
+  "scores_2026": {
+   "uq": 35.0,
+   "median": 33.5,
+   "lq": 33.5,
+   "mean": null
+  },
+  "score_grades_2026": {
+   "uq": {
+    "chi": "5*",
+    "eng": "5",
+    "math": "5",
+    "csd": "A",
+    "m1m2": null,
+    "electives": [
+     "5**",
+     "5*",
+     "5*"
+    ]
+   },
+   "median": {
+    "chi": "4",
+    "eng": "5**",
+    "math": "5",
+    "csd": "A",
+    "m1m2": null,
+    "electives": [
+     "5*",
+     "5*",
+     "5",
+     "5"
+    ]
+   },
+   "lq": {
+    "chi": "5",
+    "eng": "5**",
+    "math": "5",
+    "csd": "A",
+    "m1m2": null,
+    "electives": [
+     "5*",
+     "5*",
+     "5"
+    ]
+   }
+  },
+  "sources": [
+   "https://admission.cuhk.edu.hk/application/jupas/programme-specific-requirements-and-score-calculator/",
+   "https://admission.cuhk.edu.hk/wp-content/uploads/data.json",
+   "https://admission.cuhk.edu.hk/wp-content/uploads/2026/10/Admission-Grades-2026.pdf",
+   "https://www.jupas.edu.hk/en/programme/cuhk/JS4525/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS4537",
+  "institution": "CUHK",
+  "name": "Public Health",
+  "formula_2027": "Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "English Language": 1.5,
+   "Mathematics (Compulsory Part)": 1.5
+  },
+  "best_of_weights_2027": [
+   {
+    "count": 1,
+    "subjects": [
+     "Biology",
+     "Chemistry",
+     "Economics",
+     "Health Management and Social Care"
+    ],
+    "weight": 1.5
+   }
+  ],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   }
+  },
+  "scores_2026": {
+   "uq": 35.75,
+   "median": 34.25,
+   "lq": 34.25,
+   "mean": null
+  },
+  "score_grades_2026": {
+   "uq": {
+    "chi": "5",
+    "eng": "5*",
+    "math": "4",
+    "csd": "A",
+    "m1m2": null,
+    "electives": [
+     "5",
+     "5"
+    ]
+   },
+   "median": {
+    "chi": "4",
+    "eng": "5*",
+    "math": "3",
+    "csd": "A",
+    "m1m2": null,
+    "electives": [
+     "5*",
+     "5",
+     "4",
+     "3"
+    ]
+   },
+   "lq": {
+    "chi": "5",
+    "eng": "5",
+    "math": "5",
+    "csd": "A",
+    "m1m2": null,
+    "electives": [
+     "5",
+     "4",
+     "4"
+    ]
+   }
+  },
+  "sources": [
+   "https://admission.cuhk.edu.hk/application/jupas/programme-specific-requirements-and-score-calculator/",
+   "https://admission.cuhk.edu.hk/wp-content/uploads/data.json",
+   "https://admission.cuhk.edu.hk/wp-content/uploads/2026/10/Admission-Grades-2026.pdf",
+   "https://www.jupas.edu.hk/en/programme/cuhk/JS4537/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS4542",
+  "institution": "CUHK",
+  "name": "Chinese Medicine",
+  "formula_2027": "Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {},
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   }
+  },
+  "scores_2026": {
+   "uq": 32.0,
+   "median": 32.0,
+   "lq": 32.0,
+   "mean": null
+  },
+  "score_grades_2026": {
+   "uq": {
+    "chi": "5",
+    "eng": "5",
+    "math": "5*",
+    "csd": "A",
+    "m1m2": "5*",
+    "electives": [
+     "5*",
+     "5",
+     "5"
+    ]
+   },
+   "median": {
+    "chi": "5*",
+    "eng": "5",
+    "math": "5*",
+    "csd": "A",
+    "m1m2": "5",
+    "electives": [
+     "5*",
+     "5"
+    ]
+   },
+   "lq": {
+    "chi": "5**",
+    "eng": "4",
+    "math": "4",
+    "csd": "A",
+    "m1m2": null,
+    "electives": [
+     "5**",
+     "5*",
+     "4"
+    ]
+   }
+  },
+  "sources": [
+   "https://admission.cuhk.edu.hk/application/jupas/programme-specific-requirements-and-score-calculator/",
+   "https://admission.cuhk.edu.hk/wp-content/uploads/data.json",
+   "https://admission.cuhk.edu.hk/wp-content/uploads/2026/10/Admission-Grades-2026.pdf",
+   "https://www.jupas.edu.hk/en/programme/cuhk/JS4542/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS4550",
+  "institution": "CUHK",
+  "name": "Biomedical Sciences",
+  "formula_2027": "Best 5 Subjects (English Language, Chinese Language and Mathematics (Compulsory Part) must be included; one of Biology or Chemistry must be included)",
+  "formula_2027_id": "custom",
+  "subject_weights_2027": {
+   "English Language": 1.5,
+   "Biology": 1.5,
+   "Chemistry": 1.5
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "3",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Biology",
+     "Chemistry"
+    ],
+    "grade": "3"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   }
+  },
+  "scores_2026": {
+   "uq": 43.25,
+   "median": 42.5,
+   "lq": 41.0,
+   "mean": null
+  },
+  "score_grades_2026": {
+   "uq": {
+    "chi": "5*",
+    "eng": "4",
+    "math": "5*",
+    "csd": "A",
+    "m1m2": "5",
+    "electives": [
+     "5**",
+     "5*",
+     "5*"
+    ]
+   },
+   "median": {
+    "chi": "5",
+    "eng": "5",
+    "math": "5",
+    "csd": "A",
+    "m1m2": "5",
+    "electives": [
+     "5**",
+     "5*",
+     "5"
+    ]
+   },
+   "lq": {
+    "chi": "5*",
+    "eng": "5",
+    "math": "5*",
+    "csd": "A",
+    "m1m2": "5",
+    "electives": [
+     "5*",
+     "5*",
+     "5",
+     "N2P"
+    ]
+   }
+  },
+  "sources": [
+   "https://admission.cuhk.edu.hk/application/jupas/programme-specific-requirements-and-score-calculator/",
+   "https://admission.cuhk.edu.hk/wp-content/uploads/data.json",
+   "https://admission.cuhk.edu.hk/wp-content/uploads/2026/10/Admission-Grades-2026.pdf",
+   "https://www.jupas.edu.hk/en/programme/cuhk/JS4550/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS4601",
+  "institution": "CUHK",
+  "name": "Science",
+  "formula_2027": "Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "Biology": 2.0,
+   "Chemistry": 2.0,
+   "Physics": 2.0,
+   "Economics": 1.5,
+   "Geography": 1.5,
+   "Information and Communication Technology": 1.5,
+   "Technology and Living (Food Science and Technology)": 1.5
+  },
+  "best_of_weights_2027": [
+   {
+    "count": 1,
+    "subjects": [
+     "English Language",
+     "Mathematics (Compulsory Part)"
+    ],
+    "weight": 1.5
+   },
+   {
+    "count": 1,
+    "subjects": [
+     "Mathematics Extended Part (Module 1)",
+     "Mathematics Extended Part (Module 2)"
+    ],
+    "weight": 2.0
+   }
+  ],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Mathematics Extended Part (Module 1)",
+     "Mathematics Extended Part (Module 2)",
+     "Biology",
+     "Chemistry",
+     "Physics"
+    ],
+    "grade": "3"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   }
+  },
+  "scores_2026": {
+   "uq": 43.75,
+   "median": 41.5,
+   "lq": 39.75,
+   "mean": null
+  },
+  "score_grades_2026": {
+   "uq": {
+    "chi": "4",
+    "eng": "4",
+    "math": "5",
+    "csd": "A",
+    "m1m2": "5**",
+    "electives": [
+     "5*",
+     "4"
+    ]
+   },
+   "median": {
+    "chi": "3",
+    "eng": "3",
+    "math": "5",
+    "csd": "A",
+    "m1m2": "5",
+    "electives": [
+     "5",
+     "5"
+    ]
+   },
+   "lq": {
+    "chi": "5",
+    "eng": "4",
+    "math": "5",
+    "csd": "A",
+    "m1m2": "5*",
+    "electives": [
+     "4",
+     "4"
+    ]
+   }
+  },
+  "sources": [
+   "https://admission.cuhk.edu.hk/application/jupas/programme-specific-requirements-and-score-calculator/",
+   "https://admission.cuhk.edu.hk/wp-content/uploads/data.json",
+   "https://admission.cuhk.edu.hk/wp-content/uploads/2026/10/Admission-Grades-2026.pdf",
+   "https://www.jupas.edu.hk/en/programme/cuhk/JS4601/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS4648",
+  "institution": "CUHK",
+  "name": "Earth and Environmental Sciences",
+  "formula_2027": "Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "English Language": 2.0,
+   "Mathematics (Compulsory Part)": 2.0,
+   "Biology": 2.0,
+   "Chemistry": 2.0,
+   "Physics": 2.0,
+   "Geography": 1.5
+  },
+  "best_of_weights_2027": [
+   {
+    "count": 1,
+    "subjects": [
+     "Mathematics Extended Part (Module 1)",
+     "Mathematics Extended Part (Module 2)"
+    ],
+    "weight": 2.0
+   }
+  ],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "3",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Mathematics Extended Part (Module 1)",
+     "Mathematics Extended Part (Module 2)",
+     "Biology",
+     "Chemistry",
+     "Physics",
+     "Geography"
+    ],
+    "grade": "4"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   }
+  },
+  "scores_2026": {
+   "uq": 53.75,
+   "median": 49.25,
+   "lq": 47.0,
+   "mean": null
+  },
+  "score_grades_2026": {
+   "uq": {
+    "chi": "5",
+    "eng": "4",
+    "math": "5",
+    "csd": "A",
+    "m1m2": "5",
+    "electives": [
+     "5**",
+     "5",
+     "5"
+    ]
+   },
+   "median": {
+    "chi": "4",
+    "eng": "4",
+    "math": "5",
+    "csd": "A",
+    "m1m2": null,
+    "electives": [
+     "5",
+     "5",
+     "5"
+    ]
+   },
+   "lq": {
+    "chi": "4",
+    "eng": "4",
+    "math": "5",
+    "csd": "A",
+    "m1m2": "5",
+    "electives": [
+     "5",
+     "4"
+    ]
+   }
+  },
+  "sources": [
+   "https://admission.cuhk.edu.hk/application/jupas/programme-specific-requirements-and-score-calculator/",
+   "https://admission.cuhk.edu.hk/wp-content/uploads/data.json",
+   "https://admission.cuhk.edu.hk/wp-content/uploads/2026/10/Admission-Grades-2026.pdf",
+   "https://www.jupas.edu.hk/en/programme/cuhk/JS4648/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS4682",
+  "institution": "CUHK",
+  "name": "Enrichment Mathematics",
+  "formula_2027": "Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {},
+  "best_of_weights_2027": [
+   {
+    "count": 1,
+    "subjects": [
+     "Mathematics Extended Part (Module 1)",
+     "Mathematics Extended Part (Module 2)"
+    ],
+    "weight": 3.5
+   }
+  ],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "4",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Biology",
+     "Chemistry",
+     "Physics",
+     "Economics",
+     "Geography",
+     "Information and Communication Technology",
+     "Technology and Living (Food Science and Technology)"
+    ],
+    "grade": "3"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Mathematics Extended Part (Module 1)",
+     "Mathematics Extended Part (Module 2)"
+    ],
+    "grade": "4"
+   }
+  },
+  "scores_2026": {
+   "uq": 60.75,
+   "median": 57.75,
+   "lq": 56.25,
+   "mean": null
+  },
+  "score_grades_2026": {
+   "uq": {
+    "chi": "5*",
+    "eng": "4",
+    "math": "5**",
+    "csd": "A",
+    "m1m2": "5**",
+    "electives": [
+     "5**",
+     "5*"
+    ]
+   },
+   "median": {
+    "chi": "4",
+    "eng": "5",
+    "math": "5*",
+    "csd": "A",
+    "m1m2": "5**",
+    "electives": [
+     "5*",
+     "5*",
+     "5*"
+    ]
+   },
+   "lq": {
+    "chi": "4",
+    "eng": "4",
+    "math": "5**",
+    "csd": "A",
+    "m1m2": "5**",
+    "electives": [
+     "5**",
+     "5"
+    ]
+   }
+  },
+  "sources": [
+   "https://admission.cuhk.edu.hk/application/jupas/programme-specific-requirements-and-score-calculator/",
+   "https://admission.cuhk.edu.hk/wp-content/uploads/data.json",
+   "https://admission.cuhk.edu.hk/wp-content/uploads/2026/10/Admission-Grades-2026.pdf",
+   "https://www.jupas.edu.hk/en/programme/cuhk/JS4682/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS4690",
+  "institution": "CUHK",
+  "name": "Enrichment Stream in Theoretical Physics",
+  "formula_2027": "Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "Mathematics (Compulsory Part)": 1.5,
+   "Physics": 2.0
+  },
+  "best_of_weights_2027": [
+   {
+    "count": 1,
+    "subjects": [
+     "Mathematics Extended Part (Module 1)",
+     "Mathematics Extended Part (Module 2)"
+    ],
+    "weight": 1.5
+   }
+  ],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "4",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Physics"
+    ],
+    "grade": "4"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Mathematics Extended Part (Module 1)",
+     "Mathematics Extended Part (Module 2)",
+     "Biology",
+     "Chemistry",
+     "Economics",
+     "Geography",
+     "Information and Communication Technology",
+     "Technology and Living (Food Science and Technology)"
+    ],
+    "grade": "3"
+   }
+  },
+  "scores_2026": {
+   "uq": 52.0,
+   "median": 46.75,
+   "lq": 45.25,
+   "mean": null
+  },
+  "score_grades_2026": {
+   "uq": {
+    "chi": "4",
+    "eng": "4",
+    "math": "5**",
+    "csd": "A",
+    "m1m2": "5**",
+    "electives": [
+     "5**",
+     "5",
+     "4"
+    ]
+   },
+   "median": {
+    "chi": "4",
+    "eng": "5",
+    "math": "5",
+    "csd": "A",
+    "m1m2": "4",
+    "electives": [
+     "5**",
+     "5**",
+     "5*"
+    ]
+   },
+   "lq": {
+    "chi": "5",
+    "eng": "4",
+    "math": "5*",
+    "csd": "A",
+    "m1m2": "5",
+    "electives": [
+     "5*",
+     "5*",
+     "3"
+    ]
+   }
+  },
+  "sources": [
+   "https://admission.cuhk.edu.hk/application/jupas/programme-specific-requirements-and-score-calculator/",
+   "https://admission.cuhk.edu.hk/wp-content/uploads/data.json",
+   "https://admission.cuhk.edu.hk/wp-content/uploads/2026/10/Admission-Grades-2026.pdf",
+   "https://www.jupas.edu.hk/en/programme/cuhk/JS4690/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS4719",
+  "institution": "CUHK",
+  "name": "Risk Management Science",
+  "formula_2027": "Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "Mathematics (Compulsory Part)": 2.0
+  },
+  "best_of_weights_2027": [
+   {
+    "count": 1,
+    "subjects": [
+     "Mathematics Extended Part (Module 1)",
+     "Mathematics Extended Part (Module 2)"
+    ],
+    "weight": 2.0
+   }
+  ],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "3",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Mathematics Extended Part (Module 1)",
+     "Mathematics Extended Part (Module 2)"
+    ],
+    "grade": "3"
+   }
+  },
+  "scores_2026": {
+   "uq": 47.5,
+   "median": 46.0,
+   "lq": 44.5,
+   "mean": null
+  },
+  "score_grades_2026": {
+   "uq": {
+    "chi": "3",
+    "eng": "5",
+    "math": "5**",
+    "csd": "A",
+    "m1m2": "5*",
+    "electives": [
+     "5",
+     "5"
+    ]
+   },
+   "median": {
+    "chi": "5*",
+    "eng": "5",
+    "math": "5*",
+    "csd": "A",
+    "m1m2": "5*",
+    "electives": [
+     "5"
+    ]
+   },
+   "lq": {
+    "chi": "5",
+    "eng": "3",
+    "math": "5*",
+    "csd": "A",
+    "m1m2": "5**",
+    "electives": [
+     "4",
+     "4"
+    ]
+   }
+  },
+  "sources": [
+   "https://admission.cuhk.edu.hk/application/jupas/programme-specific-requirements-and-score-calculator/",
+   "https://admission.cuhk.edu.hk/wp-content/uploads/data.json",
+   "https://admission.cuhk.edu.hk/wp-content/uploads/2026/10/Admission-Grades-2026.pdf",
+   "https://www.jupas.edu.hk/en/programme/cuhk/JS4719/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS4725",
+  "institution": "CUHK",
+  "name": "Biotechnology, Entrepreneurship and Healthcare Management",
+  "formula_2027": "Best 5 Subjects (one of Biology or Chemistry must be included)",
+  "formula_2027_id": "custom",
+  "subject_weights_2027": {},
+  "best_of_weights_2027": [
+   {
+    "count": 2,
+    "subjects": [
+     "English Language",
+     "Biology",
+     "Chemistry"
+    ],
+    "weight": 1.5
+   }
+  ],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "3",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Biology",
+     "Chemistry"
+    ],
+    "grade": "3"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   }
+  },
+  "scores_2026": {
+   "uq": 35.25,
+   "median": 35.25,
+   "lq": 35.0,
+   "mean": null
+  },
+  "score_grades_2026": {
+   "uq": {
+    "chi": "4",
+    "eng": "5*",
+    "math": "5",
+    "csd": "A",
+    "m1m2": null,
+    "electives": [
+     "5",
+     "5",
+     "5"
+    ]
+   },
+   "median": {
+    "chi": "5",
+    "eng": "5*",
+    "math": "5",
+    "csd": "A",
+    "m1m2": null,
+    "electives": [
+     "5",
+     "5",
+     "4"
+    ]
+   },
+   "lq": {
+    "chi": "3",
+    "eng": "5",
+    "math": "5",
+    "csd": "A",
+    "m1m2": null,
+    "electives": [
+     "5*",
+     "5*"
+    ]
+   }
+  },
+  "sources": [
+   "https://admission.cuhk.edu.hk/application/jupas/programme-specific-requirements-and-score-calculator/",
+   "https://admission.cuhk.edu.hk/wp-content/uploads/data.json",
+   "https://admission.cuhk.edu.hk/wp-content/uploads/2026/10/Admission-Grades-2026.pdf",
+   "https://www.jupas.edu.hk/en/programme/cuhk/JS4725/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS4733",
+  "institution": "CUHK",
+  "name": "Mathematics and Information Engineering",
+  "formula_2027": "Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "Mathematics (Compulsory Part)": 2.0,
+   "Biology": 1.5,
+   "Chemistry": 1.5,
+   "Physics": 1.5,
+   "Information and Communication Technology": 1.5
+  },
+  "best_of_weights_2027": [
+   {
+    "count": 1,
+    "subjects": [
+     "Mathematics Extended Part (Module 1)",
+     "Mathematics Extended Part (Module 2)"
+    ],
+    "weight": 2.0
+   }
+  ],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "4",
+   "math": "5",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "4"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Mathematics Extended Part (Module 1)",
+     "Mathematics Extended Part (Module 2)"
+    ],
+    "grade": "5"
+   }
+  },
+  "scores_2026": {
+   "uq": 65.5,
+   "median": 60.5,
+   "lq": 59.75,
+   "mean": null
+  },
+  "score_grades_2026": {
+   "uq": {
+    "chi": "3",
+    "eng": "5*",
+    "math": "5**",
+    "csd": "A",
+    "m1m2": "5**",
+    "electives": [
+     "5**",
+     "5*",
+     "5"
+    ]
+   },
+   "median": {
+    "chi": "4",
+    "eng": "5*",
+    "math": "5*",
+    "csd": "A",
+    "m1m2": "5*",
+    "electives": [
+     "5**",
+     "5**",
+     "5*"
+    ]
+   },
+   "lq": {
+    "chi": "4",
+    "eng": "5",
+    "math": "5**",
+    "csd": "A",
+    "m1m2": "5*",
+    "electives": [
+     "5**",
+     "5*"
+    ]
+   }
+  },
+  "sources": [
+   "https://admission.cuhk.edu.hk/application/jupas/programme-specific-requirements-and-score-calculator/",
+   "https://admission.cuhk.edu.hk/wp-content/uploads/data.json",
+   "https://admission.cuhk.edu.hk/wp-content/uploads/2026/10/Admission-Grades-2026.pdf",
+   "https://www.jupas.edu.hk/en/programme/cuhk/JS4733/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS4750",
+  "institution": "CUHK",
+  "name": "Aerospace Science and Earth Informatics & X Double Major Programme",
+  "formula_2027": "Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "Mathematics (Compulsory Part)": 1.5,
+   "Physics": 2.0,
+   "Geography": 2.0
+  },
+  "best_of_weights_2027": [
+   {
+    "count": 1,
+    "subjects": [
+     "Mathematics Extended Part (Module 1)",
+     "Mathematics Extended Part (Module 2)"
+    ],
+    "weight": 2.0
+   }
+  ],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   }
+  },
+  "scores_2026": {
+   "uq": 47.5,
+   "median": 42.75,
+   "lq": 41.75,
+   "mean": null
+  },
+  "score_grades_2026": {
+   "uq": {
+    "chi": "5*",
+    "eng": "4",
+    "math": "5*",
+    "csd": "A",
+    "m1m2": "5",
+    "electives": [
+     "5",
+     "4",
+     "4",
+     "2"
+    ]
+   },
+   "median": {
+    "chi": "5",
+    "eng": "5*",
+    "math": "5",
+    "csd": "A",
+    "m1m2": "5",
+    "electives": [
+     "5",
+     "5"
+    ]
+   },
+   "lq": {
+    "chi": "5",
+    "eng": "3",
+    "math": "5",
+    "csd": "A",
+    "m1m2": "5",
+    "electives": [
+     "5*"
+    ]
+   }
+  },
+  "sources": [
+   "https://admission.cuhk.edu.hk/application/jupas/programme-specific-requirements-and-score-calculator/",
+   "https://admission.cuhk.edu.hk/wp-content/uploads/data.json",
+   "https://admission.cuhk.edu.hk/wp-content/uploads/2026/10/Admission-Grades-2026.pdf",
+   "https://www.jupas.edu.hk/en/programme/cuhk/JS4750/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS4760",
+  "institution": "CUHK",
+  "name": "Interdisciplinary Data Analytics & X Double Major Programme",
+  "formula_2027": "Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "Mathematics (Compulsory Part)": 1.5
+  },
+  "best_of_weights_2027": [
+   {
+    "count": 1,
+    "subjects": [
+     "Mathematics Extended Part (Module 1)",
+     "Mathematics Extended Part (Module 2)"
+    ],
+    "weight": 2.0
+   },
+   {
+    "count": 1,
+    "subjects": [
+     "Economics",
+     "Information and Communication Technology"
+    ],
+    "weight": 1.5
+   }
+  ],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "3",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   }
+  },
+  "scores_2026": {
+   "uq": 40.0,
+   "median": 38.5,
+   "lq": 38.0,
+   "mean": null
+  },
+  "score_grades_2026": {
+   "uq": {
+    "chi": "4",
+    "eng": "4",
+    "math": "5*",
+    "csd": "A",
+    "m1m2": "5",
+    "electives": [
+     "5*"
+    ]
+   },
+   "median": {
+    "chi": "3",
+    "eng": "4",
+    "math": "5*",
+    "csd": "A",
+    "m1m2": "5*",
+    "electives": [
+     "4",
+     "4"
+    ]
+   },
+   "lq": {
+    "chi": "5*",
+    "eng": "4",
+    "math": "5*",
+    "csd": "A",
+    "m1m2": "5",
+    "electives": [
+     "5",
+     "4"
+    ]
+   }
+  },
+  "sources": [
+   "https://admission.cuhk.edu.hk/application/jupas/programme-specific-requirements-and-score-calculator/",
+   "https://admission.cuhk.edu.hk/wp-content/uploads/data.json",
+   "https://admission.cuhk.edu.hk/wp-content/uploads/2026/10/Admission-Grades-2026.pdf",
+   "https://www.jupas.edu.hk/en/programme/cuhk/JS4760/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS4801",
+  "institution": "CUHK",
+  "name": "Social Science",
+  "formula_2027": "Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "English Language": 1.3
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   }
+  },
+  "scores_2026": {
+   "uq": 29.15,
+   "median": 28.1,
+   "lq": 27.65,
+   "mean": null
+  },
+  "score_grades_2026": {
+   "uq": {
+    "chi": "5",
+    "eng": "5",
+    "math": "4",
+    "csd": "A",
+    "m1m2": null,
+    "electives": [
+     "5*",
+     "5",
+     "4"
+    ]
+   },
+   "median": {
+    "chi": "5",
+    "eng": "5*",
+    "math": "5",
+    "csd": "A",
+    "m1m2": null,
+    "electives": [
+     "4",
+     "4",
+     "4"
+    ]
+   },
+   "lq": {
+    "chi": "4",
+    "eng": "5",
+    "math": "5",
+    "csd": "A",
+    "m1m2": null,
+    "electives": [
+     "5*",
+     "4",
+     "3"
+    ]
+   }
+  },
+  "sources": [
+   "https://admission.cuhk.edu.hk/application/jupas/programme-specific-requirements-and-score-calculator/",
+   "https://admission.cuhk.edu.hk/wp-content/uploads/data.json",
+   "https://admission.cuhk.edu.hk/wp-content/uploads/2026/10/Admission-Grades-2026.pdf",
+   "https://www.jupas.edu.hk/en/programme/cuhk/JS4801/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS4812",
+  "institution": "CUHK",
+  "name": "Architectural Studies",
+  "formula_2027": "Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "English Language": 1.5
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "3",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   }
+  },
+  "scores_2026": {
+   "uq": 29.5,
+   "median": 28.0,
+   "lq": 26.5,
+   "mean": null
+  },
+  "score_grades_2026": {
+   "uq": {
+    "chi": "5*",
+    "eng": "4",
+    "math": "5",
+    "csd": "A",
+    "m1m2": "5*",
+    "electives": [
+     "4",
+     "3"
+    ]
+   },
+   "median": {
+    "chi": "4",
+    "eng": "4",
+    "math": "4",
+    "csd": "A",
+    "m1m2": "3",
+    "electives": [
+     "5*",
+     "5*",
+     "4"
+    ]
+   },
+   "lq": {
+    "chi": "5*",
+    "eng": "4",
+    "math": "4",
+    "csd": "A",
+    "m1m2": null,
+    "electives": [
+     "5",
+     "4",
+     "4"
+    ]
+   }
+  },
+  "sources": [
+   "https://admission.cuhk.edu.hk/application/jupas/programme-specific-requirements-and-score-calculator/",
+   "https://admission.cuhk.edu.hk/wp-content/uploads/data.json",
+   "https://admission.cuhk.edu.hk/wp-content/uploads/2026/10/Admission-Grades-2026.pdf",
+   "https://www.jupas.edu.hk/en/programme/cuhk/JS4812/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS4824",
+  "institution": "CUHK",
+  "name": "Economics",
+  "formula_2027": "Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "Mathematics (Compulsory Part)": 1.5
+  },
+  "best_of_weights_2027": [
+   {
+    "count": 1,
+    "subjects": [
+     "Mathematics Extended Part (Module 1)",
+     "Mathematics Extended Part (Module 2)",
+     "Chemistry",
+     "Physics",
+     "Economics"
+    ],
+    "weight": 1.5
+   }
+  ],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "3",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   }
+  },
+  "scores_2026": {
+   "uq": 33.75,
+   "median": 32.75,
+   "lq": 31.5,
+   "mean": null
+  },
+  "score_grades_2026": {
+   "uq": {
+    "chi": "5",
+    "eng": "4",
+    "math": "5",
+    "csd": "A",
+    "m1m2": null,
+    "electives": [
+     "5*",
+     "5",
+     "3"
+    ]
+   },
+   "median": {
+    "chi": "5*",
+    "eng": "3",
+    "math": "5",
+    "csd": "A",
+    "m1m2": "2",
+    "electives": [
+     "5*",
+     "4"
+    ]
+   },
+   "lq": {
+    "chi": "5*",
+    "eng": "4",
+    "math": "4",
+    "csd": "A",
+    "m1m2": "3",
+    "electives": [
+     "5**",
+     "4",
+     "4"
+    ]
+   }
+  },
+  "sources": [
+   "https://admission.cuhk.edu.hk/application/jupas/programme-specific-requirements-and-score-calculator/",
+   "https://admission.cuhk.edu.hk/wp-content/uploads/data.json",
+   "https://admission.cuhk.edu.hk/wp-content/uploads/2026/10/Admission-Grades-2026.pdf",
+   "https://www.jupas.edu.hk/en/programme/cuhk/JS4824/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS4836",
+  "institution": "CUHK",
+  "name": "Geography and Resource Management",
+  "formula_2027": "Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "English Language": 1.5,
+   "Geography": 1.5
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   }
+  },
+  "scores_2026": {
+   "uq": 36.75,
+   "median": 33.75,
+   "lq": 32.25,
+   "mean": null
+  },
+  "score_grades_2026": {
+   "uq": {
+    "chi": "5*",
+    "eng": "5",
+    "math": "5",
+    "csd": "A",
+    "m1m2": null,
+    "electives": [
+     "5*",
+     "5",
+     "4"
+    ]
+   },
+   "median": {
+    "chi": "5*",
+    "eng": "4",
+    "math": "4",
+    "csd": "A",
+    "m1m2": null,
+    "electives": [
+     "5*",
+     "5",
+     "5"
+    ]
+   },
+   "lq": {
+    "chi": "4",
+    "eng": "4",
+    "math": "4",
+    "csd": "A",
+    "m1m2": null,
+    "electives": [
+     "5**",
+     "5",
+     "5"
+    ]
+   }
+  },
+  "sources": [
+   "https://admission.cuhk.edu.hk/application/jupas/programme-specific-requirements-and-score-calculator/",
+   "https://admission.cuhk.edu.hk/wp-content/uploads/data.json",
+   "https://admission.cuhk.edu.hk/wp-content/uploads/2026/10/Admission-Grades-2026.pdf",
+   "https://www.jupas.edu.hk/en/programme/cuhk/JS4836/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS4838",
+  "institution": "CUHK",
+  "name": "Urban Studies",
+  "formula_2027": "Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {},
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   }
+  },
+  "scores_2026": {
+   "uq": 26.5,
+   "median": 26.0,
+   "lq": 26.0,
+   "mean": null
+  },
+  "score_grades_2026": {
+   "uq": {
+    "chi": "4",
+    "eng": "3",
+    "math": "5",
+    "csd": "A",
+    "m1m2": null,
+    "electives": [
+     "5*",
+     "5*"
+    ]
+   },
+   "median": {
+    "chi": "5",
+    "eng": "4",
+    "math": "5",
+    "csd": "A",
+    "m1m2": null,
+    "electives": [
+     "5",
+     "5",
+     "4"
+    ]
+   },
+   "lq": {
+    "chi": "5",
+    "eng": "5",
+    "math": "5",
+    "csd": "A",
+    "m1m2": null,
+    "electives": [
+     "5",
+     "4"
+    ]
+   }
+  },
+  "sources": [
+   "https://admission.cuhk.edu.hk/application/jupas/programme-specific-requirements-and-score-calculator/",
+   "https://admission.cuhk.edu.hk/wp-content/uploads/data.json",
+   "https://admission.cuhk.edu.hk/wp-content/uploads/2026/10/Admission-Grades-2026.pdf",
+   "https://www.jupas.edu.hk/en/programme/cuhk/JS4838/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS4848",
+  "institution": "CUHK",
+  "name": "Government and Public Administration",
+  "formula_2027": "Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "English Language": 1.5,
+   "Chinese Language": 1.25
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   }
+  },
+  "scores_2026": {
+   "uq": 29.375,
+   "median": 28.25,
+   "lq": 28.25,
+   "mean": null
+  },
+  "score_grades_2026": {
+   "uq": {
+    "chi": "5",
+    "eng": "4",
+    "math": "5*",
+    "csd": "A",
+    "m1m2": "5",
+    "electives": [
+     "4",
+     "4"
+    ]
+   },
+   "median": {
+    "chi": "5*",
+    "eng": "4",
+    "math": "4",
+    "csd": "A",
+    "m1m2": null,
+    "electives": [
+     "5",
+     "4",
+     "4"
+    ]
+   },
+   "lq": {
+    "chi": "5*",
+    "eng": "4",
+    "math": "4",
+    "csd": "A",
+    "m1m2": "2",
+    "electives": [
+     "5",
+     "4"
+    ]
+   }
+  },
+  "sources": [
+   "https://admission.cuhk.edu.hk/application/jupas/programme-specific-requirements-and-score-calculator/",
+   "https://admission.cuhk.edu.hk/wp-content/uploads/data.json",
+   "https://admission.cuhk.edu.hk/wp-content/uploads/2026/10/Admission-Grades-2026.pdf",
+   "https://www.jupas.edu.hk/en/programme/cuhk/JS4848/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS4850",
+  "institution": "CUHK",
+  "name": "Journalism and Communication",
+  "formula_2027": "Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "English Language": 1.3,
+   "Chinese Language": 1.3
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   }
+  },
+  "scores_2026": {
+   "uq": 31.25,
+   "median": 29.75,
+   "lq": 29.3,
+   "mean": null
+  },
+  "score_grades_2026": {
+   "uq": {
+    "chi": "5",
+    "eng": "5*",
+    "math": "4",
+    "csd": "A",
+    "m1m2": null,
+    "electives": [
+     "5",
+     "5",
+     "3"
+    ]
+   },
+   "median": {
+    "chi": "5*",
+    "eng": "5",
+    "math": "4",
+    "csd": "A",
+    "m1m2": null,
+    "electives": [
+     "5",
+     "4"
+    ]
+   },
+   "lq": {
+    "chi": "5",
+    "eng": "5",
+    "math": "4",
+    "csd": "A",
+    "m1m2": null,
+    "electives": [
+     "5",
+     "5",
+     "4"
+    ]
+   }
+  },
+  "sources": [
+   "https://admission.cuhk.edu.hk/application/jupas/programme-specific-requirements-and-score-calculator/",
+   "https://admission.cuhk.edu.hk/wp-content/uploads/data.json",
+   "https://admission.cuhk.edu.hk/wp-content/uploads/2026/10/Admission-Grades-2026.pdf",
+   "https://www.jupas.edu.hk/en/programme/cuhk/JS4850/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS4858",
+  "institution": "CUHK",
+  "name": "Global Communication",
+  "formula_2027": "Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "English Language": 1.3
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "4",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   }
+  },
+  "scores_2026": null,
+  "score_grades_2026": null,
+  "sources": [
+   "https://admission.cuhk.edu.hk/application/jupas/programme-specific-requirements-and-score-calculator/",
+   "https://admission.cuhk.edu.hk/wp-content/uploads/data.json",
+   "https://admission.cuhk.edu.hk/wp-content/uploads/2026/10/Admission-Grades-2026.pdf",
+   "https://www.jupas.edu.hk/en/programme/cuhk/JS4858/"
+  ],
+  "confidence": "partial"
+ },
+ {
+  "jupas_code": "JS4862",
+  "institution": "CUHK",
+  "name": "Psychology",
+  "formula_2027": "Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "English Language": 1.5,
+   "Mathematics (Compulsory Part)": 1.5
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   }
+  },
+  "scores_2026": {
+   "uq": 37.5,
+   "median": 34.0,
+   "lq": 33.0,
+   "mean": null
+  },
+  "score_grades_2026": {
+   "uq": {
+    "chi": "4",
+    "eng": "5**",
+    "math": "5",
+    "csd": "A",
+    "m1m2": null,
+    "electives": [
+     "5*",
+     "5",
+     "4"
+    ]
+   },
+   "median": {
+    "chi": "5*",
+    "eng": "3",
+    "math": "5*",
+    "csd": "A",
+    "m1m2": "5",
+    "electives": [
+     "5",
+     "5",
+     "5"
+    ]
+   },
+   "lq": {
+    "chi": "5",
+    "eng": "4",
+    "math": "5*",
+    "csd": "A",
+    "m1m2": "5",
+    "electives": [
+     "5",
+     "5"
+    ]
+   }
+  },
+  "sources": [
+   "https://admission.cuhk.edu.hk/application/jupas/programme-specific-requirements-and-score-calculator/",
+   "https://admission.cuhk.edu.hk/wp-content/uploads/data.json",
+   "https://admission.cuhk.edu.hk/wp-content/uploads/2026/10/Admission-Grades-2026.pdf",
+   "https://www.jupas.edu.hk/en/programme/cuhk/JS4862/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS4874",
+  "institution": "CUHK",
+  "name": "Social Work",
+  "formula_2027": "Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {},
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   }
+  },
+  "scores_2026": {
+   "uq": 30.5,
+   "median": 29.0,
+   "lq": 27.5,
+   "mean": null
+  },
+  "score_grades_2026": {
+   "uq": {
+    "chi": "5",
+    "eng": "5",
+    "math": "5",
+    "csd": "A",
+    "m1m2": "4",
+    "electives": [
+     "5*",
+     "5*",
+     "4"
+    ]
+   },
+   "median": {
+    "chi": "5*",
+    "eng": "4",
+    "math": "4",
+    "csd": "A",
+    "m1m2": null,
+    "electives": [
+     "5**",
+     "5",
+     "4"
+    ]
+   },
+   "lq": {
+    "chi": "5*",
+    "eng": "4",
+    "math": "5*",
+    "csd": "A",
+    "m1m2": null,
+    "electives": [
+     "5",
+     "4",
+     "4"
+    ]
+   }
+  },
+  "sources": [
+   "https://admission.cuhk.edu.hk/application/jupas/programme-specific-requirements-and-score-calculator/",
+   "https://admission.cuhk.edu.hk/wp-content/uploads/data.json",
+   "https://admission.cuhk.edu.hk/wp-content/uploads/2026/10/Admission-Grades-2026.pdf",
+   "https://www.jupas.edu.hk/en/programme/cuhk/JS4874/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS4886",
+  "institution": "CUHK",
+  "name": "Sociology",
+  "formula_2027": "Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "English Language": 1.5
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   }
+  },
+  "scores_2026": {
+   "uq": 28.0,
+   "median": 27.25,
+   "lq": 26.5,
+   "mean": null
+  },
+  "score_grades_2026": {
+   "uq": {
+    "chi": "5",
+    "eng": "4",
+    "math": "4",
+    "csd": "A",
+    "m1m2": null,
+    "electives": [
+     "5*",
+     "5",
+     "3"
+    ]
+   },
+   "median": {
+    "chi": "5*",
+    "eng": "5",
+    "math": "3",
+    "csd": "A",
+    "m1m2": null,
+    "electives": [
+     "4",
+     "4",
+     "4"
+    ]
+   },
+   "lq": {
+    "chi": "4",
+    "eng": "4",
+    "math": "4",
+    "csd": "A",
+    "m1m2": null,
+    "electives": [
+     "5",
+     "5",
+     "5"
+    ]
+   }
+  },
+  "sources": [
+   "https://admission.cuhk.edu.hk/application/jupas/programme-specific-requirements-and-score-calculator/",
+   "https://admission.cuhk.edu.hk/wp-content/uploads/data.json",
+   "https://admission.cuhk.edu.hk/wp-content/uploads/2026/10/Admission-Grades-2026.pdf",
+   "https://www.jupas.edu.hk/en/programme/cuhk/JS4886/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS4892",
+  "institution": "CUHK",
+  "name": "Global Studies",
+  "formula_2027": "Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "English Language": 1.5
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   }
+  },
+  "scores_2026": {
+   "uq": 29.5,
+   "median": 28.5,
+   "lq": 27.25,
+   "mean": null
+  },
+  "score_grades_2026": {
+   "uq": {
+    "chi": "5*",
+    "eng": "4",
+    "math": "4",
+    "csd": "A",
+    "m1m2": "3",
+    "electives": [
+     "5*",
+     "5"
+    ]
+   },
+   "median": {
+    "chi": "5*",
+    "eng": "4",
+    "math": "3",
+    "csd": "A",
+    "m1m2": null,
+    "electives": [
+     "5*",
+     "5"
+    ]
+   },
+   "lq": {
+    "chi": "5*",
+    "eng": "5",
+    "math": "4",
+    "csd": "A",
+    "m1m2": null,
+    "electives": [
+     "4",
+     "4",
+     "3"
+    ]
+   }
+  },
+  "sources": [
+   "https://admission.cuhk.edu.hk/application/jupas/programme-specific-requirements-and-score-calculator/",
+   "https://admission.cuhk.edu.hk/wp-content/uploads/data.json",
+   "https://admission.cuhk.edu.hk/wp-content/uploads/2026/10/Admission-Grades-2026.pdf",
+   "https://www.jupas.edu.hk/en/programme/cuhk/JS4892/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS4893",
+  "institution": "CUHK",
+  "name": "Data Science and Policy Studies",
+  "formula_2027": "Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {},
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "3",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   }
+  },
+  "scores_2026": {
+   "uq": 27.5,
+   "median": 26.0,
+   "lq": 25.0,
+   "mean": null
+  },
+  "score_grades_2026": {
+   "uq": {
+    "chi": "3",
+    "eng": "4",
+    "math": "5*",
+    "csd": "A",
+    "m1m2": "5",
+    "electives": [
+     "5",
+     "5"
+    ]
+   },
+   "median": {
+    "chi": "5*",
+    "eng": "4",
+    "math": "5*",
+    "csd": "A",
+    "m1m2": "4",
+    "electives": [
+     "4",
+     "3"
+    ]
+   },
+   "lq": {
+    "chi": "5**",
+    "eng": "3",
+    "math": "5",
+    "csd": "A",
+    "m1m2": "2",
+    "electives": [
+     "4",
+     "4"
+    ]
+   }
+  },
+  "sources": [
+   "https://admission.cuhk.edu.hk/application/jupas/programme-specific-requirements-and-score-calculator/",
+   "https://admission.cuhk.edu.hk/wp-content/uploads/data.json",
+   "https://admission.cuhk.edu.hk/wp-content/uploads/2026/10/Admission-Grades-2026.pdf",
+   "https://www.jupas.edu.hk/en/programme/cuhk/JS4893/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS4898",
+  "institution": "CUHK",
+  "name": "Diplomacy and International Studies",
+  "formula_2027": "Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {},
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   }
+  },
+  "scores_2026": {
+   "uq": 32.0,
+   "median": 27.5,
+   "lq": 26.0,
+   "mean": null
+  },
+  "score_grades_2026": {
+   "uq": {
+    "chi": "5**",
+    "eng": "4",
+    "math": "5",
+    "csd": "A",
+    "m1m2": null,
+    "electives": [
+     "5*",
+     "5*"
+    ]
+   },
+   "median": {
+    "chi": "5",
+    "eng": "5*",
+    "math": "4",
+    "csd": "A",
+    "m1m2": null,
+    "electives": [
+     "5*",
+     "4",
+     "4"
+    ]
+   },
+   "lq": {
+    "chi": "5**",
+    "eng": "5",
+    "math": "4",
+    "csd": "A",
+    "m1m2": null,
+    "electives": [
+     "4",
+     "4"
+    ]
+   }
+  },
+  "sources": [
+   "https://admission.cuhk.edu.hk/application/jupas/programme-specific-requirements-and-score-calculator/",
+   "https://admission.cuhk.edu.hk/wp-content/uploads/data.json",
+   "https://admission.cuhk.edu.hk/wp-content/uploads/2026/10/Admission-Grades-2026.pdf",
+   "https://www.jupas.edu.hk/en/programme/cuhk/JS4898/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS4903",
+  "institution": "CUHK",
+  "name": "Laws",
+  "formula_2027": "Best 5 Subjects (English Language must be included)",
+  "formula_2027_id": "custom",
+  "subject_weights_2027": {},
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "4",
+   "eng": "5",
+   "math": "3",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3"
+   }
+  },
+  "scores_2026": {
+   "uq": 32.0,
+   "median": 29.0,
+   "lq": 27.5,
+   "mean": null
+  },
+  "score_grades_2026": {
+   "uq": {
+    "chi": "5*",
+    "eng": "5*",
+    "math": "3",
+    "csd": "A",
+    "m1m2": null,
+    "electives": [
+     "5**",
+     "5",
+     "4"
+    ]
+   },
+   "median": {
+    "chi": "4",
+    "eng": "5*",
+    "math": "5",
+    "csd": "A",
+    "m1m2": "3",
+    "electives": [
+     "5*",
+     "5",
+     "4"
+    ]
+   },
+   "lq": {
+    "chi": "5*",
+    "eng": "5*",
+    "math": "4",
+    "csd": "A",
+    "m1m2": null,
+    "electives": [
+     "5",
+     "4",
+     "4"
+    ]
+   }
+  },
+  "sources": [
+   "https://admission.cuhk.edu.hk/application/jupas/programme-specific-requirements-and-score-calculator/",
+   "https://admission.cuhk.edu.hk/wp-content/uploads/data.json",
+   "https://admission.cuhk.edu.hk/wp-content/uploads/2026/10/Admission-Grades-2026.pdf",
+   "https://www.jupas.edu.hk/en/programme/cuhk/JS4903/"
+  ],
+  "confidence": "official"
+ }
+]

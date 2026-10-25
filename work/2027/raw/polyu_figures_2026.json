@@ -1,0 +1,278 @@
+{
+ "JS3060": {
+  "average": 200.6,
+  "median": 200.0,
+  "lq": 195.5,
+  "mechanism": "Any Best 5 Subjects"
+ },
+ "JS3220": {
+  "average": 264.7,
+  "median": 265.0,
+  "lq": 245.0,
+  "mechanism": "Any Best 5 Subjects"
+ },
+ "JS3250": {
+  "average": 173.1,
+  "median": 171.5,
+  "lq": 164.5,
+  "mechanism": "Any Best 5 Subjects"
+ },
+ "JS3214": {
+  "average": 169.0,
+  "median": 169.1,
+  "lq": 164.6,
+  "mechanism": "bonus score for the"
+ },
+ "JS3140": {
+  "average": 246.9,
+  "median": 241.0,
+  "lq": 235.0,
+  "mechanism": "Any Best 5 Subjects"
+ },
+ "JS3150": {
+  "average": 243.1,
+  "median": 239.0,
+  "lq": 233.0,
+  "mechanism": "Any Best 5 Subjects"
+ },
+ "JS3011": {
+  "average": 226.9,
+  "median": 224.5,
+  "lq": 218.5,
+  "mechanism": "Any Best 5 Subjects"
+ },
+ "JS3791": {
+  "average": 207.4,
+  "median": 207.2,
+  "lq": 205.3,
+  "mechanism": "bonus score for the"
+ },
+ "JS3211": {
+  "average": 202.9,
+  "median": 201.8,
+  "lq": 200.0,
+  "mechanism": "Any Best 5 Subjects"
+ },
+ "JS3003": {
+  "average": 202.4,
+  "median": 195.5,
+  "lq": 194.0,
+  "mechanism": "Any Best 5 Subjects"
+ },
+ "JS3320": {
+  "average": 238.3,
+  "median": 231.0,
+  "lq": 214.8,
+  "mechanism": "bonus score for the"
+ },
+ "JS3739": {
+  "average": 235.2,
+  "median": 231.3,
+  "lq": 226.8,
+  "mechanism": "Any Best 5 Subjects"
+ },
+ "JS3006": {
+  "average": 256.2,
+  "median": 247.5,
+  "lq": 245.0,
+  "mechanism": "Any Best 5 Subjects"
+ },
+ "JS3868": {
+  "average": 247.1,
+  "median": 245.0,
+  "lq": 235.0,
+  "mechanism": "Any Best 5 Subjects"
+ },
+ "JS3004": {
+  "average": 216.1,
+  "median": 214.0,
+  "lq": 211.4,
+  "mechanism": "bonus score for the 6th subject with"
+ },
+ "JS3223": {
+  "average": 247.0,
+  "median": 245.0,
+  "lq": 235.0,
+  "mechanism": "Any Best 5 Subjects"
+ },
+ "JS3569": {
+  "average": 204.3,
+  "median": 199.3,
+  "lq": 184.3,
+  "mechanism": "Any Best 5 Subjects"
+ },
+ "JS3170": {
+  "average": 254.8,
+  "median": 245.0,
+  "lq": 245.0,
+  "mechanism": "Any Best 5 Subjects"
+ },
+ "JS3005": {
+  "average": 242.2,
+  "median": 235.0,
+  "lq": 235.0,
+  "mechanism": "Any Best 5 Subjects"
+ },
+ "JS3240": {
+  "average": 187.9,
+  "median": 184.0,
+  "lq": 182.0,
+  "mechanism": "bonus score for the"
+ },
+ "JS3375": {
+  "average": 241.7,
+  "median": 237.5,
+  "lq": 235.0,
+  "mechanism": "Any Best 5 Subjects (plus an additional bonus score for the 6th subject with Level 3 or above)"
+ },
+ "JS3050": {
+  "average": 183.0,
+  "median": 179.3,
+  "lq": 175.0,
+  "mechanism": "Any Best 5 Subjects (plus an additional bonus score for the 6th subject with Level 3 or above)"
+ },
+ "JS3255": {
+  "average": 218.7,
+  "median": 216.5,
+  "lq": 213.5,
+  "mechanism": "Any Best 5 Subjects"
+ },
+ "JS3070": {
+  "average": 200.5,
+  "median": 195.5,
+  "lq": 194.0,
+  "mechanism": "Any Best 5 Subjects"
+ },
+ "JS3310": {
+  "average": 163.5,
+  "median": 161.0,
+  "lq": 157.5,
+  "mechanism": "Any Best 5 Subjects"
+ },
+ "JS3007": {
+  "average": 201.9,
+  "median": 200.9,
+  "lq": 198.1,
+  "mechanism": "Any Best 5 Subjects (plus an additional bonus score for the 6th subject with Level 3 or above)"
+ },
+ "JS3180": {
+  "average": 236.4,
+  "median": 233.0,
+  "lq": 230.0,
+  "mechanism": "Any Best 5 Subjects"
+ },
+ "JS3237": {
+  "average": 215.0,
+  "median": 215.0,
+  "lq": 210.3,
+  "mechanism": "Any Best 5 Subjects"
+ },
+ "JS3000": {
+  "average": null,
+  "median": null,
+  "lq": null,
+  "mechanism": "Any Best 5 Subjects (plus an additional bonus score for the 6th subject with Level 3 or above)"
+ },
+ "JS3243": {
+  "average": 208.3,
+  "median": 208.6,
+  "lq": 205.8,
+  "mechanism": "Any Best 5 Subjects (plus an additional bonus score for the 6th subject with Level 3 or above)"
+ },
+ "JS3080": {
+  "average": 191.4,
+  "median": 189.5,
+  "lq": 187.3,
+  "mechanism": "Any Best 5 Subjects"
+ },
+ "JS3741": {
+  "average": 237.5,
+  "median": 235.0,
+  "lq": 230.0,
+  "mechanism": "Any Best 5 Subjects"
+ },
+ "JS3478": {
+  "average": 310.6,
+  "median": 308.9,
+  "lq": 295.1,
+  "mechanism": "Any Best 5 Subjects (plus an additional bonus score for the 6th subject with Level 3 or above)"
+ },
+ "JS3337": {
+  "average": 214.7,
+  "median": 211.0,
+  "lq": 208.0,
+  "mechanism": "Any Best 5 Subjects"
+ },
+ "JS3648": {
+  "average": 222.8,
+  "median": 218.0,
+  "lq": 216.5,
+  "mechanism": "Any Best 5 Subjects"
+ },
+ "JS3624": {
+  "average": 287.4,
+  "median": 284.0,
+  "lq": 275.0,
+  "mechanism": "Any Best 5 Subjects"
+ },
+ "JS3290": {
+  "average": 280.0,
+  "median": 277.9,
+  "lq": 264.0,
+  "mechanism": "Any Best 5 Subjects (plus an additional bonus score for the 6th subject with Level 3 or above)"
+ },
+ "JS3030": {
+  "average": 240.7,
+  "median": 240.0,
+  "lq": 233.8,
+  "mechanism": "Any Best 5 Subjects"
+ },
+ "JS3636": {
+  "average": 303.6,
+  "median": 320.0,
+  "lq": 290.0,
+  "mechanism": "Any Best 5 Subjects"
+ },
+ "JS3236": {
+  "average": 220.3,
+  "median": 220.0,
+  "lq": 215.0,
+  "mechanism": "Any Best 5 Subjects"
+ },
+ "JS3612": {
+  "average": 341.7,
+  "median": 339.0,
+  "lq": 328.5,
+  "mechanism": "Any Best 5 Subjects (plus an additional bonus score for the 6th subject with Level 3 or above)"
+ },
+ "JS3008": {
+  "average": 239.1,
+  "median": 235.0,
+  "lq": 235.0,
+  "mechanism": "Any Best 5 Subjects"
+ },
+ "JS3130": {
+  "average": 221.8,
+  "median": 216.5,
+  "lq": 213.5,
+  "mechanism": "Any Best 5 Subjects"
+ },
+ "JS3242": {
+  "average": 252.8,
+  "median": 259.8,
+  "lq": 244.8,
+  "mechanism": "Any Best 5 Subjects (plus an additional bonus score for the 6th subject with Level 3 or above)"
+ },
+ "JS3160": {
+  "average": 223.4,
+  "median": 226.0,
+  "lq": 216.5,
+  "mechanism": "Any Best 5 Subjects"
+ },
+ "JS3789": {
+  "average": 190.3,
+  "median": 186.3,
+  "lq": 180.3,
+  "mechanism": "Any Best 5 Subjects (plus an additional bonus score for the 6th subject with Level 3 or above)"
+ }
+}

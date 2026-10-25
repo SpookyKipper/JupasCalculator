@@ -1,0 +1,2206 @@
+[
+ {
+  "jupas_code": "JSSA01",
+  "institution": "SFU",
+  "name": "Bachelor of Nursing (Honours)",
+  "formula_2027": "Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {},
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": null,
+   "lq": null,
+   "mean": 16.0
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://www.sfu.edu.hk/en/admission/admission/sssdp-undergraduate-programmes-year-1-entry-/index.html",
+   "https://www.jupas.edu.hk/en/programme/sssdp/JSSA01/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JSSA02",
+  "institution": "SFU",
+  "name": "Bachelor of Science (Honours) in Artificial Intelligence and Digital Entertainment",
+  "formula_2027": "Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {},
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": null,
+   "lq": null,
+   "mean": 16.0
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://www.sfu.edu.hk/en/admission/admission/sssdp-undergraduate-programmes-year-1-entry-/index.html",
+   "https://www.jupas.edu.hk/en/programme/sssdp/JSSA02/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JSSA03",
+  "institution": "SFU",
+  "name": "Bachelor of Science (Honours) in Physiotherapy",
+  "formula_2027": "Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {},
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": null,
+   "lq": null,
+   "mean": 20.0
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://www.sfu.edu.hk/en/admission/admission/sssdp-undergraduate-programmes-year-1-entry-/index.html",
+   "https://www.jupas.edu.hk/en/programme/sssdp/JSSA03/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JSSA04",
+  "institution": "SFU",
+  "name": "Bachelor of Science (Honours) in Artificial Intelligence",
+  "formula_2027": "Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {},
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": null,
+   "lq": null,
+   "mean": 17.0
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://www.sfu.edu.hk/en/admission/admission/sssdp-undergraduate-programmes-year-1-entry-/index.html",
+   "https://www.jupas.edu.hk/en/programme/sssdp/JSSA04/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JSSA05",
+  "institution": "SFU",
+  "name": "Bachelor of Arts (Honours) in Translation Technology",
+  "formula_2027": "Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {},
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": null,
+   "lq": null,
+   "mean": 15.0
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://www.sfu.edu.hk/en/admission/admission/sssdp-undergraduate-programmes-year-1-entry-/index.html",
+   "https://www.jupas.edu.hk/en/programme/sssdp/JSSA05/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JSSA06",
+  "institution": "SFU",
+  "name": "Bachelor of Business Administration (Honours) in Applied Hotel and Tourism Management",
+  "formula_2027": "Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {},
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": null,
+   "lq": null,
+   "mean": 15.0
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://www.sfu.edu.hk/en/admission/admission/sssdp-undergraduate-programmes-year-1-entry-/index.html",
+   "https://www.jupas.edu.hk/en/programme/sssdp/JSSA06/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JSSC02",
+  "institution": "HKCHC",
+  "name": "Bachelor of Science (Honours) in Architecture",
+  "formula_2027": "Not published (believed Best 5)",
+  "formula_2027_id": "custom",
+  "subject_weights_2027": {},
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": null,
+   "lq": null,
+   "mean": null
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://www.chuhai.edu.hk/",
+   "https://www.jupas.edu.hk/en/programme/sssdp/JSSC02/"
+  ],
+  "confidence": "estimated",
+  "notes": "No official 2026 admission score located for this programme on the operator's site (or JUPAS SSSDP scores hub, which still shows 2025). Left null rather than estimated."
+ },
+ {
+  "jupas_code": "JSSH01",
+  "institution": "HSUHK",
+  "name": "Bachelor of Business Administration (Honours) in Supply Chain Management",
+  "formula_2027": "Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {},
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": null,
+   "lq": null,
+   "mean": 16.8
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://admission.hsu.edu.hk/wp-content/uploads/2026/10/2026-JUPAS-Admission-Scores.pdf",
+   "https://www.jupas.edu.hk/en/programme/sssdp/JSSH01/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JSSH02",
+  "institution": "HSUHK",
+  "name": "Bachelor of Science (Honours) in Actuarial Studies and Insurance",
+  "formula_2027": "Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {},
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "3",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": null,
+   "lq": null,
+   "mean": 18.06
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://admission.hsu.edu.hk/wp-content/uploads/2026/10/2026-JUPAS-Admission-Scores.pdf",
+   "https://www.jupas.edu.hk/en/programme/sssdp/JSSH02/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JSSH03",
+  "institution": "HSUHK",
+  "name": "Bachelor of Science (Honours) in Applied Computing",
+  "formula_2027": "Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {},
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": null,
+   "lq": null,
+   "mean": 16.65
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://admission.hsu.edu.hk/wp-content/uploads/2026/10/2026-JUPAS-Admission-Scores.pdf",
+   "https://www.jupas.edu.hk/en/programme/sssdp/JSSH03/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JSSH04",
+  "institution": "HSUHK",
+  "name": "Bachelor of Science (Honours) in Data Science and Business Intelligence",
+  "formula_2027": "Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {},
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": null,
+   "lq": null,
+   "mean": 17.82
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://admission.hsu.edu.hk/wp-content/uploads/2026/10/2026-JUPAS-Admission-Scores.pdf",
+   "https://www.jupas.edu.hk/en/programme/sssdp/JSSH04/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JSSH05",
+  "institution": "HSUHK",
+  "name": "Bachelor of Science (Honours) in Business Analytics and Information Management",
+  "formula_2027": "Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {},
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": null,
+   "lq": null,
+   "mean": 16.58
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://admission.hsu.edu.hk/wp-content/uploads/2026/10/2026-JUPAS-Admission-Scores.pdf",
+   "https://www.jupas.edu.hk/en/programme/sssdp/JSSH05/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JSSH06",
+  "institution": "HSUHK",
+  "name": "Bachelor of Arts (Honours) in Art and Design",
+  "formula_2027": "Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {},
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": null,
+   "lq": null,
+   "mean": 15.75
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://admission.hsu.edu.hk/wp-content/uploads/2026/10/2026-JUPAS-Admission-Scores.pdf",
+   "https://www.jupas.edu.hk/en/programme/sssdp/JSSH06/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JSST01",
+  "institution": "TWC",
+  "name": "Bachelor of Health Science (Honours) in Nursing",
+  "formula_2027": "Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {},
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": null,
+   "lq": null,
+   "mean": 17.6
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://www.twc.edu.hk/uploads/files/TWC_2026_JUPAS_admission_scores.pdf",
+   "https://www.jupas.edu.hk/en/programme/sssdp/JSST01/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JSST02",
+  "institution": "TWC",
+  "name": "Bachelor of Science (Honours) in Medical Laboratory Science",
+  "formula_2027": "Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {},
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": null,
+   "lq": null,
+   "mean": 20.5
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://www.twc.edu.hk/uploads/files/TWC_2026_JUPAS_admission_scores.pdf",
+   "https://www.jupas.edu.hk/en/programme/sssdp/JSST02/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JSST03",
+  "institution": "TWC",
+  "name": "Bachelor of Science (Honours) in Radiation Therapy",
+  "formula_2027": "Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {},
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Biology"
+    ],
+    "grade": "2"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Physics"
+    ],
+    "grade": "2"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": null,
+   "lq": null,
+   "mean": 22.4
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://www.twc.edu.hk/uploads/files/TWC_2026_JUPAS_admission_scores.pdf",
+   "https://www.jupas.edu.hk/en/programme/sssdp/JSST03/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JSST04",
+  "institution": "TWC",
+  "name": "Bachelor of Science (Honours) in Occupational Therapy",
+  "formula_2027": "Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {},
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": null,
+   "lq": null,
+   "mean": 18.9
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://www.twc.edu.hk/uploads/files/TWC_2026_JUPAS_admission_scores.pdf",
+   "https://www.jupas.edu.hk/en/programme/sssdp/JSST04/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JSST05",
+  "institution": "TWC",
+  "name": "Bachelor of Science (Honours) in Physiotherapy",
+  "formula_2027": "Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {},
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": null,
+   "lq": null,
+   "mean": 20.0
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://www.twc.edu.hk/uploads/files/TWC_2026_JUPAS_admission_scores.pdf",
+   "https://www.jupas.edu.hk/en/programme/sssdp/JSST05/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JSST06",
+  "institution": "TWC",
+  "name": "Bachelor of Science (Honours) in Applied Gerontology",
+  "formula_2027": "Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {},
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": null,
+   "lq": null,
+   "mean": 15.9
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://www.twc.edu.hk/uploads/files/TWC_2026_JUPAS_admission_scores.pdf",
+   "https://www.jupas.edu.hk/en/programme/sssdp/JSST06/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JSST07",
+  "institution": "TWC",
+  "name": "Bachelor of Health Information and Services Management (Honours)",
+  "formula_2027": "Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {},
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": null,
+   "lq": null,
+   "mean": 15.5
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://www.twc.edu.hk/uploads/files/TWC_2026_JUPAS_admission_scores.pdf",
+   "https://www.jupas.edu.hk/en/programme/sssdp/JSST07/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JSST08",
+  "institution": "TWC",
+  "name": "Bachelor of Science (Honours) in Medical Imaging",
+  "formula_2027": "Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {},
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Biology"
+    ],
+    "grade": "2"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Physics"
+    ],
+    "grade": "2"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": null,
+   "lq": null,
+   "mean": 19.9
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://www.twc.edu.hk/uploads/files/TWC_2026_JUPAS_admission_scores.pdf",
+   "https://www.jupas.edu.hk/en/programme/sssdp/JSST08/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JSSU12",
+  "institution": "HKMU",
+  "name": "Bachelor of Arts with Honours in Creative Writing and Film Arts",
+  "formula_2027": "Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "Chinese Language": 1.5,
+   "English Language": 1.5
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 20.0,
+   "lq": 19.0,
+   "mean": null
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://www.hkmu.edu.hk/REG/reg_ftae/Admission/Scores_JUPAS.pdf",
+   "https://www.jupas.edu.hk/en/programme/sssdp/JSSU12/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JSSU14",
+  "institution": "HKMU",
+  "name": "Bachelor of Fine Arts with Honours in Animation and Visual Effects",
+  "formula_2027": "Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {},
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 16.0,
+   "lq": 15.0,
+   "mean": null
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://www.hkmu.edu.hk/REG/reg_ftae/Admission/Scores_JUPAS.pdf",
+   "https://www.jupas.edu.hk/en/programme/sssdp/JSSU14/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JSSU15",
+  "institution": "HKMU",
+  "name": "Bachelor of Fine Arts with Honours in Imaging Design and Digital Art",
+  "formula_2027": "Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {},
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 16.0,
+   "lq": 15.0,
+   "mean": null
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://www.hkmu.edu.hk/REG/reg_ftae/Admission/Scores_JUPAS.pdf",
+   "https://www.jupas.edu.hk/en/programme/sssdp/JSSU15/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JSSU18",
+  "institution": "HKMU",
+  "name": "Bachelor of Arts with Honours in New Music and Interactive Entertainment",
+  "formula_2027": "Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {},
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 16.0,
+   "lq": 14.0,
+   "mean": null
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://www.hkmu.edu.hk/REG/reg_ftae/Admission/Scores_JUPAS.pdf",
+   "https://www.jupas.edu.hk/en/programme/sssdp/JSSU18/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JSSU40",
+  "institution": "HKMU",
+  "name": "Bachelor of Nursing with Honours in General Health Care",
+  "formula_2027": "Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "Biology": 1.2,
+   "Chemistry": 1.2,
+   "Physics": 1.2,
+   "Health Management and Social Care": 1.2
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2",
+    "note": "Excluding Applied Learning and Other Language subjects"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 21.0,
+   "lq": 20.0,
+   "mean": null
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://www.hkmu.edu.hk/REG/reg_ftae/Admission/Scores_JUPAS.pdf",
+   "https://www.jupas.edu.hk/en/programme/sssdp/JSSU40/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JSSU50",
+  "institution": "HKMU",
+  "name": "Bachelor of Nursing with Honours in Mental Health Care",
+  "formula_2027": "Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "Biology": 1.2,
+   "Chemistry": 1.2,
+   "Physics": 1.2,
+   "Health Management and Social Care": 1.2
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2",
+    "note": "Excluding Applied Learning and Other Language subjects"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 19.0,
+   "lq": 18.0,
+   "mean": null
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://www.hkmu.edu.hk/REG/reg_ftae/Admission/Scores_JUPAS.pdf",
+   "https://www.jupas.edu.hk/en/programme/sssdp/JSSU50/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JSSU55",
+  "institution": "HKMU",
+  "name": "Bachelor of Science with Honours in Physiotherapy",
+  "formula_2027": "Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {},
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 20.0,
+   "lq": 19.0,
+   "mean": null
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://www.hkmu.edu.hk/REG/reg_ftae/Admission/Scores_JUPAS.pdf",
+   "https://www.jupas.edu.hk/en/programme/sssdp/JSSU55/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JSSU61",
+  "institution": "HKMU",
+  "name": "Bachelor of Applied Science with Honours in Integrated Testing, Inspection and Certification",
+  "formula_2027": "Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {},
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 17.0,
+   "lq": 17.0,
+   "mean": null
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://www.hkmu.edu.hk/REG/reg_ftae/Admission/Scores_JUPAS.pdf",
+   "https://www.jupas.edu.hk/en/programme/sssdp/JSSU61/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JSSU66",
+  "institution": "HKMU",
+  "name": "Bachelor of Science with Honours in Diagnostic Radiography",
+  "formula_2027": "Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {},
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 22.0,
+   "lq": 20.0,
+   "mean": null
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://www.hkmu.edu.hk/REG/reg_ftae/Admission/Scores_JUPAS.pdf",
+   "https://www.jupas.edu.hk/en/programme/sssdp/JSSU66/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JSSU67",
+  "institution": "HKMU",
+  "name": "Bachelor of Science with Honours in Medical Laboratory Science",
+  "formula_2027": "Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {},
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 19.0,
+   "lq": 18.0,
+   "mean": null
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://www.hkmu.edu.hk/REG/reg_ftae/Admission/Scores_JUPAS.pdf",
+   "https://www.jupas.edu.hk/en/programme/sssdp/JSSU67/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JSSU69",
+  "institution": "HKMU",
+  "name": "Bachelor of Science with Honours in Food Testing Science",
+  "formula_2027": "Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {},
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 18.0,
+   "lq": 17.0,
+   "mean": null
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://www.hkmu.edu.hk/REG/reg_ftae/Admission/Scores_JUPAS.pdf",
+   "https://www.jupas.edu.hk/en/programme/sssdp/JSSU69/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JSSU70",
+  "institution": "HKMU",
+  "name": "Bachelor of Science with Honours in Data Science and Artificial Intelligence",
+  "formula_2027": "Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {},
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 18.0,
+   "lq": 17.0,
+   "mean": null
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://www.hkmu.edu.hk/REG/reg_ftae/Admission/Scores_JUPAS.pdf",
+   "https://www.jupas.edu.hk/en/programme/sssdp/JSSU70/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JSSU72",
+  "institution": "HKMU",
+  "name": "Bachelor of Science with Honours in Computer Science",
+  "formula_2027": "Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {},
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 17.0,
+   "lq": 16.0,
+   "mean": null
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://www.hkmu.edu.hk/REG/reg_ftae/Admission/Scores_JUPAS.pdf",
+   "https://www.jupas.edu.hk/en/programme/sssdp/JSSU72/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JSSU75",
+  "institution": "HKMU",
+  "name": "Bachelor of Applied Science with Honours in Robotics and Automation Engineering",
+  "formula_2027": "Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {},
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": null,
+   "lq": null,
+   "mean": null
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://www.hkmu.edu.hk/REG/reg_ftae/Admission/Scores_JUPAS.pdf",
+   "https://www.jupas.edu.hk/en/programme/sssdp/JSSU75/"
+  ],
+  "confidence": "partial",
+  "notes": "No 2026 admission figures published by HKMU for this programme (new)."
+ },
+ {
+  "jupas_code": "JSSU77",
+  "institution": "HKMU",
+  "name": "Bachelor of Science with Honours in Construction Management and Quantity Surveying",
+  "formula_2027": "Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {},
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 16.0,
+   "lq": 15.0,
+   "mean": null
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://www.hkmu.edu.hk/REG/reg_ftae/Admission/Scores_JUPAS.pdf",
+   "https://www.jupas.edu.hk/en/programme/sssdp/JSSU77/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JSSU78",
+  "institution": "HKMU",
+  "name": "Bachelor of Engineering with Honours in Building Services Engineering and Sustainable Development",
+  "formula_2027": "Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {},
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 17.0,
+   "lq": 16.0,
+   "mean": null
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://www.hkmu.edu.hk/REG/reg_ftae/Admission/Scores_JUPAS.pdf",
+   "https://www.jupas.edu.hk/en/programme/sssdp/JSSU78/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JSSU79",
+  "institution": "HKMU",
+  "name": "Bachelor of Engineering with Honours in Civil Engineering",
+  "formula_2027": "Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {},
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 18.0,
+   "lq": 18.0,
+   "mean": null
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://www.hkmu.edu.hk/REG/reg_ftae/Admission/Scores_JUPAS.pdf",
+   "https://www.jupas.edu.hk/en/programme/sssdp/JSSU79/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JSSU90",
+  "institution": "HKMU",
+  "name": "Bachelor of Business Administration with Honours in International Hospitality and Attractions Management",
+  "formula_2027": "Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {},
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 17.0,
+   "lq": 16.0,
+   "mean": null
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://www.hkmu.edu.hk/REG/reg_ftae/Admission/Scores_JUPAS.pdf",
+   "https://www.jupas.edu.hk/en/programme/sssdp/JSSU90/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JSSU93",
+  "institution": "HKMU",
+  "name": "Bachelor of Business Administration with Honours in Aviation Services Management",
+  "formula_2027": "Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {},
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 19.0,
+   "lq": 18.0,
+   "mean": null
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://www.hkmu.edu.hk/REG/reg_ftae/Admission/Scores_JUPAS.pdf",
+   "https://www.jupas.edu.hk/en/programme/sssdp/JSSU93/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JSSU95",
+  "institution": "HKMU",
+  "name": "Bachelor of Business Administration with Honours in Sports and Recreation Management",
+  "formula_2027": "Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {},
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 17.0,
+   "lq": 16.0,
+   "mean": null
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://www.hkmu.edu.hk/REG/reg_ftae/Admission/Scores_JUPAS.pdf",
+   "https://www.jupas.edu.hk/en/programme/sssdp/JSSU95/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JSSU96",
+  "institution": "HKMU",
+  "name": "Bachelor of Business Administration with Honours in Finance and Financial Technology",
+  "formula_2027": "Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {},
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 18.0,
+   "lq": 18.0,
+   "mean": null
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://www.hkmu.edu.hk/REG/reg_ftae/Admission/Scores_JUPAS.pdf",
+   "https://www.jupas.edu.hk/en/programme/sssdp/JSSU96/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JSSU97",
+  "institution": "HKMU",
+  "name": "Bachelor of Business Administration with Honours in Global Marketing and Supply Chain Management",
+  "formula_2027": "Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {},
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 18.0,
+   "lq": 17.0,
+   "mean": null
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://www.hkmu.edu.hk/REG/reg_ftae/Admission/Scores_JUPAS.pdf",
+   "https://www.jupas.edu.hk/en/programme/sssdp/JSSU97/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JSSV01",
+  "institution": "THEi",
+  "name": "Bachelor of Arts (Honours) in Fashion Design",
+  "formula_2027": "Best 5 Subjects (English, Chinese, Mathematics, CSD + 1 elective)",
+  "formula_2027_id": "custom",
+  "subject_weights_2027": {},
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": null,
+   "lq": null,
+   "mean": 15.0
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://thei.edu.hk/admission/sssdp/",
+   "https://www.jupas.edu.hk/en/programme/sssdp/JSSV01/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JSSV02",
+  "institution": "THEi",
+  "name": "Bachelor of Arts (Honours) in Product Design",
+  "formula_2027": "Best 5 Subjects (English, Chinese, Mathematics, CSD + 1 elective)",
+  "formula_2027_id": "custom",
+  "subject_weights_2027": {},
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": null,
+   "lq": null,
+   "mean": 15.0
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://thei.edu.hk/admission/sssdp/",
+   "https://www.jupas.edu.hk/en/programme/sssdp/JSSV02/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JSSV03",
+  "institution": "THEi",
+  "name": "Bachelor of Arts (Honours) in Landscape Architecture",
+  "formula_2027": "Best 5 Subjects (English, Chinese, Mathematics, CSD + 1 elective)",
+  "formula_2027_id": "custom",
+  "subject_weights_2027": {},
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": null,
+   "lq": null,
+   "mean": 16.0
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://thei.edu.hk/admission/sssdp/",
+   "https://www.jupas.edu.hk/en/programme/sssdp/JSSV03/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JSSV04",
+  "institution": "THEi",
+  "name": "Bachelor of Arts (Honours) in Culinary Arts and Management",
+  "formula_2027": "Best 5 Subjects (English, Chinese, Mathematics, CSD + 1 elective)",
+  "formula_2027_id": "custom",
+  "subject_weights_2027": {},
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": null,
+   "lq": null,
+   "mean": 14.0
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://thei.edu.hk/admission/sssdp/",
+   "https://www.jupas.edu.hk/en/programme/sssdp/JSSV04/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JSSV05",
+  "institution": "THEi",
+  "name": "Bachelor of Engineering (Honours) in Civil Engineering",
+  "formula_2027": "Best 5 Subjects (English, Chinese, Mathematics, CSD + 1 elective)",
+  "formula_2027_id": "custom",
+  "subject_weights_2027": {},
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Biology",
+     "2"
+    ],
+    "grade": "2"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": null,
+   "lq": null,
+   "mean": 16.0
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://thei.edu.hk/admission/sssdp/",
+   "https://www.jupas.edu.hk/en/programme/sssdp/JSSV05/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JSSV07",
+  "institution": "THEi",
+  "name": "Bachelor of Science (Honours) in Horticulture, Arboriculture and Landscape Management",
+  "formula_2027": "Best 5 Subjects (English, Chinese, Mathematics, CSD + 1 elective)",
+  "formula_2027_id": "custom",
+  "subject_weights_2027": {},
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": null,
+   "lq": null,
+   "mean": 17.0
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://thei.edu.hk/admission/sssdp/",
+   "https://www.jupas.edu.hk/en/programme/sssdp/JSSV07/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JSSV08",
+  "institution": "THEi",
+  "name": "Bachelor of Science (Honours) in Surveying",
+  "formula_2027": "Best 5 Subjects (English, Chinese, Mathematics, CSD + 1 elective)",
+  "formula_2027_id": "custom",
+  "subject_weights_2027": {},
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": null,
+   "lq": null,
+   "mean": 15.0
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://thei.edu.hk/admission/sssdp/",
+   "https://www.jupas.edu.hk/en/programme/sssdp/JSSV08/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JSSV09",
+  "institution": "THEi",
+  "name": "Bachelor of Social Sciences (Honours) in Sports and Recreation Management",
+  "formula_2027": "Best 5 Subjects (English, Chinese, Mathematics, CSD + 1 elective)",
+  "formula_2027_id": "custom",
+  "subject_weights_2027": {
+   "Physical Education": 2.0
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": null,
+   "lq": null,
+   "mean": 15.0
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://thei.edu.hk/admission/sssdp/",
+   "https://www.jupas.edu.hk/en/programme/sssdp/JSSV09/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JSSV10",
+  "institution": "THEi",
+  "name": "Bachelor of Engineering (Honours) in Building Services Engineering",
+  "formula_2027": "Best 5 Subjects (English, Chinese, Mathematics, CSD + 1 elective)",
+  "formula_2027_id": "custom",
+  "subject_weights_2027": {},
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Biology",
+     "2"
+    ],
+    "grade": "2"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": null,
+   "lq": null,
+   "mean": 15.0
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://thei.edu.hk/admission/sssdp/",
+   "https://www.jupas.edu.hk/en/programme/sssdp/JSSV10/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JSSV13",
+  "institution": "THEi",
+  "name": "Bachelor of Social Sciences (Honours) in Sports Coaching",
+  "formula_2027": "Best 5 Subjects (English, Chinese, Mathematics, CSD + 1 elective)",
+  "formula_2027_id": "custom",
+  "subject_weights_2027": {
+   "Physical Education": 2.0
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": null,
+   "lq": null,
+   "mean": 14.0
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://thei.edu.hk/admission/sssdp/",
+   "https://www.jupas.edu.hk/en/programme/sssdp/JSSV13/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JSSV14",
+  "institution": "THEi",
+  "name": "Bachelor of Social Sciences (Honours) in Sports Therapy",
+  "formula_2027": "Best 5 Subjects (English, Chinese, Mathematics, CSD + 1 elective)",
+  "formula_2027_id": "custom",
+  "subject_weights_2027": {
+   "Physical Education": 2.0
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": null,
+   "lq": null,
+   "mean": 15.0
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://thei.edu.hk/admission/sssdp/",
+   "https://www.jupas.edu.hk/en/programme/sssdp/JSSV14/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JSSW01",
+  "institution": "UOWCHK",
+  "name": "Bachelor of Aviation (Honours) in Operations and Management",
+  "formula_2027": "Not published (believed Best 5)",
+  "formula_2027_id": "custom",
+  "subject_weights_2027": {},
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": null,
+   "lq": null,
+   "mean": null
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://www.uowchk.edu.hk/",
+   "https://www.jupas.edu.hk/en/programme/sssdp/JSSW01/"
+  ],
+  "confidence": "estimated",
+  "notes": "No official 2026 admission score located for this programme on the operator's site (or JUPAS SSSDP scores hub, which still shows 2025). Left null rather than estimated."
+ },
+ {
+  "jupas_code": "JSSW02",
+  "institution": "UOWCHK",
+  "name": "Bachelor of Maritime Services and Operations Management (Honours)",
+  "formula_2027": "Not published (believed Best 5)",
+  "formula_2027_id": "custom",
+  "subject_weights_2027": {},
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": null,
+   "lq": null,
+   "mean": null
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://www.uowchk.edu.hk/",
+   "https://www.jupas.edu.hk/en/programme/sssdp/JSSW02/"
+  ],
+  "confidence": "estimated",
+  "notes": "No official 2026 admission score located for this programme on the operator's site (or JUPAS SSSDP scores hub, which still shows 2025). Left null rather than estimated."
+ },
+ {
+  "jupas_code": "JSSY01",
+  "institution": "HKSYU",
+  "name": "Bachelor of Commerce (Honours) in Financial Technology",
+  "formula_2027": "Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {},
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": null,
+   "lq": null,
+   "mean": null
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://uao.hksyu.edu/en/qualifications/dse",
+   "https://www.jupas.edu.hk/en/programme/sssdp/JSSY01/"
+  ],
+  "confidence": "estimated",
+  "notes": "No official 2026 admission score located for this programme on the operator's site (or JUPAS SSSDP scores hub, which still shows 2025). Left null rather than estimated."
+ },
+ {
+  "jupas_code": "JSSY02",
+  "institution": "HKSYU",
+  "name": "Bachelor of Science with Honours in Applied Data Science",
+  "formula_2027": "Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {},
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": null,
+   "lq": null,
+   "mean": null
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://uao.hksyu.edu/en/qualifications/dse",
+   "https://www.jupas.edu.hk/en/programme/sssdp/JSSY02/"
+  ],
+  "confidence": "estimated",
+  "notes": "No official 2026 admission score located for this programme on the operator's site (or JUPAS SSSDP scores hub, which still shows 2025). Left null rather than estimated."
+ },
+ {
+  "jupas_code": "JSSY03",
+  "institution": "HKSYU",
+  "name": "Bachelor of Science with Honours in Digital Solutions for Entertainment and Game Applications",
+  "formula_2027": "Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {},
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": null,
+   "lq": null,
+   "mean": null
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://uao.hksyu.edu/en/qualifications/dse",
+   "https://www.jupas.edu.hk/en/programme/sssdp/JSSY03/"
+  ],
+  "confidence": "estimated",
+  "notes": "No official 2026 admission score located for this programme on the operator's site (or JUPAS SSSDP scores hub, which still shows 2025). Left null rather than estimated."
+ }
+]

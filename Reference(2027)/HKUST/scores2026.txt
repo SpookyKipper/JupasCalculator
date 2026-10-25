@@ -1,0 +1,96 @@
+2026 HKUST JUPAS ADMISSIONS SCORES
+POINTS TO NOTE:
+1. HKUST calculates weighted scores based on 2026 program-specific formulae, of which certain subjects are given heavier weighting.
+                                                                                                                                                                                                                                                                                            WEIGHTED SCORE
+2. All admissions scores are applicable to eligible local students applying through JUPAS (excluding CATII students) and are provided for reference only.
+   The public examination results of students admitted to each program vary from year to year. HKUST considers an applicant's whole profile, on top of                                                                                                                                                                  LOWER QUARTILE PER-SUBJECT-
+                                                                                                                                                                                                                PROGRAM
+   the HKDSE score. For information on JUPAS eligibility, please visit https://www.jupas.edu.hk/en/eligibility/.                                                                                                                                                                HIGHEST                       LOWER           AVERAGE SCORE
+                                                                                                                                                                                                                                                                                               MEDIAN
+3. All scores presented in this publication are based on the conversion scale of subject levels/grades provided on pages 14 and 15.                                                                                                                                            ATTAINABLE                    QUARTILE
+
+
+                                                                                                   WEIGHTED SCORE                                                                                               School of Business and Management
+                                                                                         (Best 5 subjects + 6th subject bonus)
+                                                                                                                                                   AVERAGE LEVEL OF                                             JS5300      Business and Management                              62.48          37.00         36.90                5.04
+    PROGRAM
+                                                                                 HIGHEST                                       LOWER               PREFERRED HKDSE SUBJECTS ^
+                                                                                                         MEDIAN                                                                                                 JS5311      BBA in Economics                                     62.48          38.23         36.90                5.06
+                                                                                ATTAINABLE                                    QUARTILE
+
+                                                                                                                                                                                                                JS5312      BBA in Finance                                       66.94          44.16         43.31                5.52
+    School of Science
+                                                                                                                                                                                                                JS5313      BBA in Global Business                               62.48          53.23         50.79                6.91
+    JS5101       International Research Enrichment                                  44.63                 38.44                 35.25              Science subjects / M1 / M2                 Level 5*
+                                                                                                                                                                                                                JS5314      BBA in Information Systems                           62.48          38.23         37.04                5.08
+    JS5102       Science (Group A)                                                  66.94                 37.50                 35.63              Science subjects / M1 / M2                 Level 5
+
+    JS5103       Science (Group B)                                                  66.94                 36.75                 34.50              Science subjects / M1 / M2                 Level 5           JS5315      BBA in Management                                    62.48          35.05         35.05                4.82
+
+
+    JS5118       BSc in Biomedical and Health Sciences                              66.94                 45.00                 43.88              Bio / Chem                                 Level 5*          JS5316      BBA in Marketing                                     62.48          35.50         35.40                4.87
+
+                 Science (Group A) with Extended Major in                                                                                                                                                       JS5317      BBA in Operations Management                         62.48          35.05         35.05                4.77
+    JS5181                                                                          66.94                 40.13                 38.28              Phy / M1 / M2                              Level 5*
+                 Artificial Intelligence
+                                                                                                                                                                                                                JS5318      BBA in Professional Accounting                       62.48          37.23         35.82                4.92
+    School of Engineering
+                                                                                                                                                                                                                JS5331      BSc in Economics and Finance                         66.94          47.25         45.75                5.81
+                                                                                                                                                   Phy / ICT                                  Level 5
+    JS5212       BEng in Computer Engineering                                       80.33                  49.30                 48.30
+                                                                                                                                                   Math / M1 / M2                             Level 5
+                                                                                                                                                                                                                JS5332      BSc in Quantitative Finance                          66.94          58.50         57.38                7.29
+                                                                                                                                                   Science subjects / ICT                     Level 5
+    JS5220       Department of Chemical & Biological Engineering                    89.25                  49.00                 48.00                                                                          Joint Programs
+                                                                                                                                                   Math / M1 / M2                             Level 5
+
+                                                                                                                                                   Chem / Phy / ICT                           Level 5           JS5814      BSc in Risk Management and Business Intelligence     66.94          47.25         46.69                5.93
+    JS5230       Department of Civil & Environmental Engineering                    80.33                  46.80                 45.88
+                                                                                                                                                   Math / M1 / M2                             Level 5
+                                                                                                                                                                                                                JS5822      BSc in Sustainable and Green Finance                 66.94          41.25         40.03                5.08
+                                                                                                                                                   Phy / ICT                                  Level 5*
+    JS5240       Department of Computer Science & Engineering                       80.33                  55.65                 53.94
+                                                                                                                                                   Math / M1 / M2                             Level 5*
+
+                                                                                                                                                   Phy / ICT                                  Level 5
+    JS5250       Department of Electronic & Computer Engineering                    80.33                  50.64                 48.88
+                                                                                                                                                   Math / M1 / M2                             Level 5*
+
+                 Department of Industrial Engineering & Decision                                                                                   Phy / ICT                                  Level 5
+    JS5260                                                                          80.33                  45.00                 43.80
+                 Analytics                                                                                                                         Math / M1 / M2                             Level 5
+
+                 Department of Mechanical & Aerospace                                                                                              Science subjects / ICT                     Level 5*
+    JS5270                                                                          75.86                  49.53                 47.35
+                 Engineering                                                                                                                       Math / M1 / M2                             Level 5*
+
+                 Engineering with Extended Major in Artificial                                                                                     Science subjects / ICT                     Level 5*
+    JS5282                                                                          75.86                  54.24                 50.84
+                 Intelligence                                                                                                                      Math / M1 / M2                             Level 5*
+
+    School of Humanities and Social Science
+
+    JS5411       BSc in Global China Studies                                        58.01                  30.99                 30.30             Eng / Chin / Best Elective                 Level 5*
+
+    JS5412       BSc in Quantitative Social Analysis                                66.94                  36.00                 35.50             Eng / Math / Best Elective                 Level 5
+
+    Academy of Interdisciplinary Studies
+
+    JS5711       BSc in Innovation, Design and Technology                           75.86                  36.00                 35.28             Eng / Math / Best Elective                 Level 5
+
+                 BSc in Environmental Management and
+    JS5812                                                                          62.48                  33.53                 32.05             Eng / Math / Best Elective                 Level 5
+                 Technology
+
+                 BEng / BSc & BBA Dual Degree Program in                                                                                           Science subjects / ICT                     Level 5*
+    JS5901                                                                          75.86                  59.59                 57.77
+                 Technology and Management                                                                                                         Math / M1 / M2                             Level 5*
+
+    Joint Programs
+
+    JS5811       BSc in Biotechnology and Business                                  66.94                  39.28                 37.13             Bio / Chem                                 Level 5
+
+    JS5813       BSc in Mathematics and Economics                                   71.40                  47.05                 44.85             Science subjects / M1 / M2 /Econ           Level 5*
+
+^    Average level of preferred HKDSE exam subjects demonstrates the level of competence of admitted students in those subject area. Science subjects refer to HKDSE subjects Biology, Chemistry and Physics.
+

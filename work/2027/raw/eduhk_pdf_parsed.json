@@ -1,0 +1,262 @@
+{
+ "JS8001": {
+  "jupas_code": "JS8001",
+  "title": "BA in Creative and Digital Arts and BEd (Music)",
+  "weights_2026_raw": "Music (x1.5)\nSpecified ApL subject(s) (x1.5)",
+  "weights_2027_raw": "Music (x1.5)\nSpecified ApL subject(s) (x1.5)",
+  "lq": 20.0,
+  "median": 20.0,
+  "mean_specific": null,
+  "remarks": "Satisfactory performance in an audition is\nrequired. Applicants who obtain Level 4 or\nabove in HKDSE Music will be exempted\nfrom the audition."
+ },
+ "JS8002": {
+  "jupas_code": "JS8002",
+  "title": "BA in Creative and Digital Arts and BEd (Visual Arts)",
+  "weights_2026_raw": "Visual Arts (x1.5)\nSpecified ApL subject(s) (x1.5)",
+  "weights_2027_raw": "Visual Arts (x1.5)\nSpecified ApL subject(s) (x1.5)",
+  "lq": 22.5,
+  "median": 23.0,
+  "mean_specific": null,
+  "remarks": "Satisfactory performance in a practical test is\nrequired. Applicants who obtain Level 4 or\nabove in HKDSE Visual Arts will be exempted\nfrom the practical test."
+ },
+ "JS8003": {
+  "jupas_code": "JS8003",
+  "title": "BA in Digital Chinese Culture and Communication and BEd (Chinese Language)",
+  "weights_2026_raw": "Chinese Language (x1.5)\nEnglish Language (x1.5)\nChinese Literature (x1.5)\nICT (x1.5)",
+  "weights_2027_raw": "Chinese Language (x1.5)\nEnglish Language (x1.5)\nChinese Literature (x1.5)\nICT (x1.5)",
+  "lq": 27.0,
+  "median": 28.0,
+  "mean_specific": "Chinese: 6",
+  "remarks": "This programme requires high Chinese\nlanguage proficiency. The HKDSE Chinese\nLanguage requirement cannot be substituted."
+ },
+ "JS8004": {
+  "jupas_code": "JS8004",
+  "title": "BA in English Studies and Digital Communication and BEd (English Language)",
+  "weights_2026_raw": "English Language (x1.5)\nICT (x1.5)\nLiterature in English (x1.5)",
+  "weights_2027_raw": "English Language (x1.5)\nICT (x1.5)\nLiterature in English (x1.5)",
+  "lq": 23.5,
+  "median": 24.5,
+  "mean_specific": "English: 5",
+  "remarks": "This programme requires high English\nlanguage proficiency. The HKDSE English\nLanguage requirement cannot be substituted."
+ },
+ "JS8005": {
+  "jupas_code": "JS8005",
+  "title": "BA in Heritage Education and Arts Management and BEd (Chinese History)",
+  "weights_2026_raw": "Chinese History (x1.5)\nHistory (x1.5)",
+  "weights_2027_raw": "Chinese History (x1.5)\nHistory (x1.5)",
+  "lq": 27.0,
+  "median": 27.0,
+  "mean_specific": null,
+  "remarks": "This programme requires high Chinese\nlanguage proficiency. The HKDSE Chinese\nLanguage requirement cannot be substituted."
+ },
+ "JS8006": {
+  "jupas_code": "JS8006",
+  "title": "BSocSc in Psychology and BEd (Early Childhood Education)",
+  "weights_2026_raw": "Chinese Language (x1.5)\nEnglish Language (x1.5)\nSpecified ApL subject(s) (x1.5)",
+  "weights_2027_raw": "Chinese Language (x1.5)\nEnglish Language (x1.5)\nSpecified ApL subject(s) (x1.5)",
+  "lq": 24.0,
+  "median": 24.5,
+  "mean_specific": null,
+  "remarks": ""
+ },
+ "JS8007": {
+  "jupas_code": "JS8007",
+  "title": "BA in Personal Finance and BEd (Business, Accounting and Financial Studies)",
+  "weights_2026_raw": "The best one subject of\nBAFS (Accounting/ Business\nManagement), Economics or\nSpecified ApL subject(s) (x1.5)",
+  "weights_2027_raw": "The best one subject of\nBAFS (Accounting/ Business\nManagement), Economics or\nSpecified ApL subject(s) (x1.5)",
+  "lq": 23.0,
+  "median": 23.5,
+  "mean_specific": null,
+  "remarks": ""
+ },
+ "JS8008": {
+  "jupas_code": "JS8008",
+  "title": "BSc in Artificial Intelligence and Educational Technology and BEd (Information and Communication Technology and Primary Science)",
+  "weights_2026_raw": "Math, M1/M2 (x1.5)\nICT (x1.5)\nBiology, Chemistry, Physics (x1.5)\nCombined Science (x1.5)\nIntegrated Science (x1.5)\nSpecified ApL subject(s) (x1.5)",
+  "weights_2027_raw": "Math, M1/M2 (x1.5)\nICT (x1.5)\nBiology, Chemistry, Physics (x1.5)\nCombined Science (x1.5)\nIntegrated Science (x1.5)\nSpecified ApL subject(s) (x1.5)",
+  "lq": 27.8,
+  "median": 28.0,
+  "mean_specific": null,
+  "remarks": ""
+ },
+ "JS8009": {
+  "jupas_code": "JS8009",
+  "title": "BSc in Artificial Intelligence and Educational Technology and BEd (Primary Mathematics)",
+  "weights_2026_raw": "Math, M1/M2 (x1.5)\nPhysics (x1.5)\nSpecified ApL subject(s) (x1.5)",
+  "weights_2027_raw": "Math, M1/M2 (x1.5)\nPhysics (x1.5)\nSpecified ApL subject(s) (x1.5)",
+  "lq": 26.5,
+  "median": 27.3,
+  "mean_specific": null,
+  "remarks": ""
+ },
+ "JS8010": {
+  "jupas_code": "JS8010",
+  "title": "BSc in Sports Science and Coaching and BEd (Physical Education)",
+  "weights_2026_raw": "Physical Education (x1.5)",
+  "weights_2027_raw": "Physical Education (x1.5)",
+  "lq": 21.0,
+  "median": 23.0,
+  "mean_specific": null,
+  "remarks": "Satisfactory performance in the written\nexamination, physical fitness test and aquatic\ntest is also required. Priority consideration will\nbe given to applicants who have taken HKDSE\nPhysical Education."
+ },
+ "JS8011": {
+  "jupas_code": "JS8011",
+  "title": "BSc in Integrated Environmental Management and BEd (Science)",
+  "weights_2026_raw": "Chemistry (x1.5)\nBiology (x1.5)\nPhysics (x1.2)\nMath, M1/M2 (x1.1)\nGeography (x1.1)",
+  "weights_2027_raw": "Chemistry (x1.5)\nBiology (x1.5)\nPhysics (x1.2)\nMath, M1/M2 (x1.1)\nGeography (x1.1)",
+  "lq": 24.7,
+  "median": 24.9,
+  "mean_specific": null,
+  "remarks": ""
+ },
+ "JS8012": {
+  "jupas_code": "JS8012",
+  "title": "BSocSc in Sociology and Community Studies and BEd (Geography)",
+  "weights_2026_raw": "English (x1.5)\nGeography (x1.5)",
+  "weights_2027_raw": "English (x1.5)\nGeography (x1.75*)",
+  "lq": 25.0,
+  "median": 26.0,
+  "mean_specific": null,
+  "remarks": "Reference scores calculated with the revised\nweightings for the 2027 entry\nLower Quartile: 26.5\nMedian: 27.5"
+ },
+ "JS8013": {
+  "jupas_code": "JS8013",
+  "title": "BSocSc in Sociology and Community Studies and BEd (Primary Humanities)",
+  "weights_2026_raw": "The best one subject of\nChinese History, Economics,\nGeography, History or\nSpecified ApL subject(s) (x1.5)",
+  "weights_2027_raw": "The best one subject of\nChinese History, Economics,\nGeography, History or\nSpecified ApL subject(s) (x1.5)",
+  "lq": 22.5,
+  "median": 23.0,
+  "mean_specific": null,
+  "remarks": ""
+ },
+ "JS8651": {
+  "jupas_code": "JS8651",
+  "title": "BSocSc in Psychology",
+  "weights_2026_raw": "(No subject weighting)",
+  "weights_2027_raw": "(No subject weighting)",
+  "lq": 21.0,
+  "median": 21.0,
+  "mean_specific": null,
+  "remarks": ""
+ },
+ "JS8663": {
+  "jupas_code": "JS8663",
+  "title": "BA in Special Education",
+  "weights_2026_raw": "Chinese Language (x1.5)\nEnglish Language (x1.5)",
+  "weights_2027_raw": "Chinese Language (x1.5)\nEnglish Language (x1.5)",
+  "lq": 23.5,
+  "median": 24.0,
+  "mean_specific": null,
+  "remarks": ""
+ },
+ "JS8674": {
+  "jupas_code": "JS8674",
+  "title": "BA in Digital Chinese Culture and Communication",
+  "weights_2026_raw": "Chinese Language (x1.5)\nChinese Literature (x1.5)\nICT (x1.5)",
+  "weights_2027_raw": "Chinese Language (x1.5)\nChinese Literature (x1.5)\nICT (x1.5)",
+  "lq": 24.5,
+  "median": 25.0,
+  "mean_specific": "Chinese: 6",
+  "remarks": "Applicants who have obtained Level 2 or\nabove in HKDSE Chinese Literature will have\nan advantage. This programme requires high\nChinese language proficiency. The HKDSE\nChinese Language requirement cannot be\nsubstituted."
+ },
+ "JS8675": {
+  "jupas_code": "JS8675",
+  "title": "BA in English Studies and Digital Communication",
+  "weights_2026_raw": "English Language (x1.5)\nICT (x1.5)\nLiterature in English (x1.5)",
+  "weights_2027_raw": "English Language (x1.5)\nICT (x1.5)\nLiterature in English (x1.5)",
+  "lq": 22.5,
+  "median": 22.5,
+  "mean_specific": "English: 5",
+  "remarks": ""
+ },
+ "JS8685": {
+  "jupas_code": "JS8685",
+  "title": "BA in Creative and Digital Arts (Music)",
+  "weights_2026_raw": "Music (x1.5)\nSpecified ApL subject(s) (x1.5)",
+  "weights_2027_raw": "Music (x1.5)\nSpecified ApL subject(s) (x1.5)",
+  "lq": 21.5,
+  "median": 21.5,
+  "mean_specific": null,
+  "remarks": "Satisfactory performance in an audition is\nrequired. Applicants who obtain Level 4 or\nabove in HKDSE Music will be exempted\nfrom the audition."
+ },
+ "JS8686": {
+  "jupas_code": "JS8686",
+  "title": "BA in Creative and Digital Arts (Visual Arts)",
+  "weights_2026_raw": "Visual Arts (x1.5)\nSpecified ApL subject(s) (x1.5)",
+  "weights_2027_raw": "Visual Arts (x1.5)\nSpecified ApL subject(s) (x1.5)",
+  "lq": 22.4,
+  "median": 22.5,
+  "mean_specific": null,
+  "remarks": "Satisfactory performance in a practical test is\nrequired. Applicants who obtain Level 4 or\nabove in HKDSE Visual Arts will be exempted\nfrom the practical test."
+ },
+ "JS8687": {
+  "jupas_code": "JS8687",
+  "title": "BA in Heritage Education and Arts Management",
+  "weights_2026_raw": "Chinese Language (x1.5)\nEnglish Language (x1.5)\nChinese History (x1.5)\nDAT (x1.5)\nHistory (x1.5)\nVisual Arts (x1.5)\nSpecified ApL subject(s) (x1.5)",
+  "weights_2027_raw": "Chinese Language (x1.5)\nEnglish Language (x1.5)\nChinese History (x1.5)\nDAT (x1.5)\nHistory (x1.5)\nVisual Arts (x1.5)\nSpecified ApL subject(s) (x1.5)",
+  "lq": 28.0,
+  "median": 28.0,
+  "mean_specific": null,
+  "remarks": "Priority consideration will be given to\napplicants who have taken HKDSE History,\nChinese History, Visual Arts, or Design and\nApplied Technology."
+ },
+ "JS8688": {
+  "jupas_code": "JS8688",
+  "title": "BA in Personal Finance",
+  "weights_2026_raw": "(No subject weighting)",
+  "weights_2027_raw": "(No subject weighting)",
+  "lq": 20.0,
+  "median": 20.0,
+  "mean_specific": null,
+  "remarks": ""
+ },
+ "JS8702": {
+  "jupas_code": "JS8702",
+  "title": "BSc in Integrated Environmental Management",
+  "weights_2026_raw": "Biology, Chemistry (x1.6)\nGeography (x1.2)\nMath, M1/M2 (x1.2)\nPhysics (x1.2)",
+  "weights_2027_raw": "Biology, Chemistry (x1.6)\nPhysics (x1.6*)\nMath, M1/M2 (x1.4*)\nGeography (x1.2)",
+  "lq": 25.2,
+  "median": 25.6,
+  "mean_specific": null,
+  "remarks": "Reference scores calculated with the revised\nweightings for the 2027 entry\nLower Quartile: 26.4\nMedian: 26.6"
+ },
+ "JS8714": {
+  "jupas_code": "JS8714",
+  "title": "BSc in Artificial Intelligence and Educational Technology",
+  "weights_2026_raw": "Math, M1/M2 (x1.5)\nBiology, Chemistry, Physics (x1.5)\nDAT, ICT (x1.5)\nCombined Science (x1.5)\nIntegrated Science (x1.5)\nSpecified ApL subject(s) (x1.5)",
+  "weights_2027_raw": "Math, M1/M2 (x1.5)\nBiology, Chemistry, Physics (x1.5)\nDAT, ICT (x1.5)\nCombined Science (x1.5)\nIntegrated Science (x1.5)\nSpecified ApL subject(s) (x1.5)",
+  "lq": 26.5,
+  "median": 27.0,
+  "mean_specific": null,
+  "remarks": "Priority consideration will be given to\napplicants who have taken more than one of\nthe HKDSE subjects listed in Elective 1."
+ },
+ "JS8726": {
+  "jupas_code": "JS8726",
+  "title": "BSc in Sports Science and Coaching",
+  "weights_2026_raw": "Biology (x2)\nPhysical Education (x2)\nEnglish Language (x1.5)\nMath, M1/M2 (x1.5)\nDAT, ICT (x1.5)\nSpecified ApL subject(s) (x1.5)",
+  "weights_2027_raw": "Biology (x2)\nPhysical Education (x2)\nEnglish Language (x1.5)\nMath, M1/M2 (x1.5)\nDAT, ICT (x1.5)\nSpecified ApL subject(s) (x1.5)",
+  "lq": 28.5,
+  "median": 29.5,
+  "mean_specific": null,
+  "remarks": ""
+ },
+ "JS8727": {
+  "jupas_code": "JS8727",
+  "title": "BSc in Speech Pathology and Rehabilitation",
+  "weights_2026_raw": "Chinese Language (x1.5)\nEnglish Language (x1.5)",
+  "weights_2027_raw": "Chinese Language (x1.5)\nEnglish Language (x1.5)",
+  "lq": 27.0,
+  "median": 28.0,
+  "mean_specific": null,
+  "remarks": "Applicants must be able to communicate\neffectively and fluently in both Cantonese and\nEnglish."
+ },
+ "JS8507": {
+  "jupas_code": "JS8507",
+  "title": "HD in Early Childhood Education",
+  "weights_2026_raw": "Chinese Language (x1.5)\nEnglish Language (x1.5)\nSpecified ApL subject(s) (x1.5)",
+  "weights_2027_raw": "Chinese Language (x1.5)\nEnglish Language (x1.5)\nSpecified ApL subject(s) (x1.5)",
+  "lq": 17.0,
+  "median": 18.0,
+  "mean_specific": null,
+  "remarks": "The “Attained” level for Citizenship and Social\nDevelopment is accepted as satisfying level 2\nof one of the three other subjects, but is\nexcluded in the admissions score calculation."
+ }
+}

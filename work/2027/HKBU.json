@@ -1,0 +1,1475 @@
+[
+ {
+  "jupas_code": "JS2020",
+  "institution": "HKBU",
+  "name": "Bachelor of Arts (Hons) (Chinese Language and Literature / Creative and Professional Writing / English Language and Literature / Humanities / Translation)",
+  "formula_2027": "Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {},
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": ""
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": ""
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": null,
+   "lq": null,
+   "mean": 21.82
+  },
+  "score_grades_2026": {
+   "median": {
+    "Chinese Language": "5",
+    "English Language": "3",
+    "Mathematics (Compulsory Part)": "4",
+    "Citizenship and Social Development": "Attained",
+    "Elective 1": "5*",
+    "Elective 2": "4"
+   },
+   "lq": {
+    "Chinese Language": "5",
+    "English Language": "3",
+    "Mathematics (Compulsory Part)": "4",
+    "Citizenship and Social Development": "Attained",
+    "Elective 1": "4",
+    "Elective 2": "4",
+    "Elective 3": "4"
+   }
+  },
+  "sources": [
+   "https://admissions.hkbu.edu.hk/content/dam/ao-assets/document/news/JUPAS_GER_PER.pdf",
+   "https://admissions.hkbu.edu.hk/ug/jupas_weighting"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS2025",
+  "institution": "HKBU",
+  "name": "Bachelor of Arts (Hons) in Religion, Philosophy and Ethics",
+  "formula_2027": "Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {},
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": ""
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": ""
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": null,
+   "lq": null,
+   "mean": 21.45
+  },
+  "score_grades_2026": {
+   "median": {
+    "Chinese Language": "4",
+    "English Language": "3",
+    "Mathematics (Compulsory Part)": "4",
+    "Citizenship and Social Development": "Attained",
+    "Elective 1": "5",
+    "Elective 2": "4",
+    "Elective 3": "4"
+   },
+   "lq": {
+    "Chinese Language": "4",
+    "English Language": "4",
+    "Mathematics (Compulsory Part)": "4",
+    "Citizenship and Social Development": "Attained",
+    "Elective 1": "5",
+    "Elective 2": "3"
+   }
+  },
+  "sources": [
+   "https://admissions.hkbu.edu.hk/content/dam/ao-assets/document/news/JUPAS_GER_PER.pdf",
+   "https://admissions.hkbu.edu.hk/ug/jupas_weighting"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS2030",
+  "institution": "HKBU",
+  "name": "Bachelor of Arts (Hons) in Music",
+  "formula_2027": "Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {},
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": ""
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": ""
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": null,
+   "lq": null,
+   "mean": 20.75
+  },
+  "score_grades_2026": {
+   "median": {
+    "Chinese Language": "3",
+    "English Language": "5",
+    "Mathematics (Compulsory Part)": "4",
+    "Citizenship and Social Development": "Attained",
+    "Elective 1": "5",
+    "Elective 2": "3"
+   },
+   "lq": {
+    "Chinese Language": "4",
+    "English Language": "5",
+    "Mathematics (Compulsory Part)": "5",
+    "Citizenship and Social Development": "Attained",
+    "Elective 1": "4",
+    "Elective 2": "4",
+    "Elective 3": "3"
+   }
+  },
+  "sources": [
+   "https://admissions.hkbu.edu.hk/content/dam/ao-assets/document/news/JUPAS_GER_PER.pdf",
+   "https://admissions.hkbu.edu.hk/ug/jupas_weighting"
+  ],
+  "confidence": "partial"
+ },
+ {
+  "jupas_code": "JS2050",
+  "institution": "HKBU",
+  "name": "Bachelor of Music (Hons) in Creative Industries",
+  "formula_2027": "Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {},
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": ""
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": ""
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": null,
+   "lq": null,
+   "mean": 20.75
+  },
+  "score_grades_2026": {
+   "median": {
+    "Chinese Language": "3",
+    "English Language": "5",
+    "Mathematics (Compulsory Part)": "4",
+    "Citizenship and Social Development": "Attained",
+    "Elective 1": "5",
+    "Elective 2": "3"
+   },
+   "lq": {
+    "Chinese Language": "4",
+    "English Language": "5",
+    "Mathematics (Compulsory Part)": "5",
+    "Citizenship and Social Development": "Attained",
+    "Elective 1": "4",
+    "Elective 2": "4",
+    "Elective 3": "3"
+   }
+  },
+  "sources": [
+   "https://admissions.hkbu.edu.hk/content/dam/ao-assets/document/news/JUPAS_GER_PER.pdf",
+   "https://admissions.hkbu.edu.hk/ug/jupas_weighting"
+  ],
+  "confidence": "partial"
+ },
+ {
+  "jupas_code": "JS2110",
+  "institution": "HKBU",
+  "name": "Bachelor of Business Administration (Hons) - Accounting Concentration",
+  "formula_2027": "Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "English Language": 1.5
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": ""
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": ""
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": null,
+   "lq": null,
+   "mean": 23.24
+  },
+  "score_grades_2026": {
+   "median": {
+    "Chinese Language": "4",
+    "English Language": "4",
+    "Mathematics (Compulsory Part)": "4",
+    "Citizenship and Social Development": "Attained",
+    "Elective 1": "5",
+    "Elective 2": "4",
+    "Elective 3": "2"
+   },
+   "lq": {
+    "Chinese Language": "3",
+    "English Language": "4",
+    "Mathematics (Compulsory Part)": "4",
+    "Citizenship and Social Development": "Attained",
+    "Elective 1": "5",
+    "Elective 2": "4",
+    "Elective 3": "4"
+   }
+  },
+  "sources": [
+   "https://admissions.hkbu.edu.hk/content/dam/ao-assets/document/news/JUPAS_GER_PER.pdf",
+   "https://admissions.hkbu.edu.hk/ug/jupas_weighting"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS2120",
+  "institution": "HKBU",
+  "name": "Bachelor of Business Administration (Hons)",
+  "formula_2027": "Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "English Language": 1.5
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": ""
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": ""
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": null,
+   "lq": null,
+   "mean": 23.19
+  },
+  "score_grades_2026": {
+   "median": {
+    "Chinese Language": "4",
+    "English Language": "4",
+    "Mathematics (Compulsory Part)": "4",
+    "Citizenship and Social Development": "Attained",
+    "Elective 1": "5",
+    "Elective 2": "4",
+    "Elective 3": "3"
+   },
+   "lq": {
+    "Chinese Language": "4",
+    "English Language": "4",
+    "Mathematics (Compulsory Part)": "3",
+    "Citizenship and Social Development": "Attained",
+    "Elective 1": "5",
+    "Elective 2": "4",
+    "Elective 3": "4"
+   }
+  },
+  "sources": [
+   "https://admissions.hkbu.edu.hk/content/dam/ao-assets/document/news/JUPAS_GER_PER.pdf",
+   "https://admissions.hkbu.edu.hk/ug/jupas_weighting"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS2310",
+  "institution": "HKBU",
+  "name": "Bachelor of Communication (Hons) (Journalism and Digital Media / Public Relations and Advertising)",
+  "formula_2027": "Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "Chinese Language": 1.25,
+   "English Language": 1.25
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": ""
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": ""
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": null,
+   "lq": null,
+   "mean": 24.06
+  },
+  "score_grades_2026": {
+   "median": {
+    "Chinese Language": "4",
+    "English Language": "4",
+    "Mathematics (Compulsory Part)": "4",
+    "Citizenship and Social Development": "Attained",
+    "Elective 1": "5",
+    "Elective 2": "5",
+    "Elective 3": "4"
+   },
+   "lq": {
+    "Chinese Language": "5*",
+    "English Language": "3",
+    "Mathematics (Compulsory Part)": "3",
+    "Citizenship and Social Development": "Attained",
+    "Elective 1": "5",
+    "Elective 2": "4"
+   }
+  },
+  "sources": [
+   "https://admissions.hkbu.edu.hk/content/dam/ao-assets/document/news/JUPAS_GER_PER.pdf",
+   "https://admissions.hkbu.edu.hk/ug/jupas_weighting"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS2330",
+  "institution": "HKBU",
+  "name": "Bachelor of Arts (Hons) in Film and Television",
+  "formula_2027": "Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "Chinese Language": 1.25,
+   "English Language": 1.25
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": ""
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": ""
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": null,
+   "lq": null,
+   "mean": 22.95
+  },
+  "score_grades_2026": {
+   "median": {
+    "Chinese Language": "4",
+    "English Language": "5",
+    "Mathematics (Compulsory Part)": "3",
+    "Citizenship and Social Development": "Attained",
+    "Elective 1": "5",
+    "Elective 2": "4",
+    "Elective 3": "4"
+   },
+   "lq": {
+    "Chinese Language": "5",
+    "English Language": "4",
+    "Mathematics (Compulsory Part)": "4",
+    "Citizenship and Social Development": "Attained",
+    "Elective 1": "4",
+    "Elective 2": "4",
+    "Elective 3": "4"
+   }
+  },
+  "sources": [
+   "https://admissions.hkbu.edu.hk/content/dam/ao-assets/document/news/JUPAS_GER_PER.pdf",
+   "https://admissions.hkbu.edu.hk/ug/jupas_weighting"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS2340",
+  "institution": "HKBU",
+  "name": "Bachelor of Fine Arts (Hons) in Acting for Global Screen",
+  "formula_2027": "Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "English Language": 1.5,
+   "Music": 1.2,
+   "Visual Arts": 1.2
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": ""
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": ""
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": null,
+   "lq": null,
+   "mean": 20.84
+  },
+  "score_grades_2026": {
+   "median": {
+    "Chinese Language": "3",
+    "English Language": "3",
+    "Mathematics (Compulsory Part)": "2",
+    "Citizenship and Social Development": "Attained",
+    "Elective 1": "3",
+    "Elective 2": "3"
+   },
+   "lq": {
+    "Chinese Language": "3",
+    "English Language": "3",
+    "Mathematics (Compulsory Part)": "3",
+    "Citizenship and Social Development": "Attained",
+    "Elective 1": "5*",
+    "Elective 2": "4"
+   }
+  },
+  "sources": [
+   "https://admissions.hkbu.edu.hk/content/dam/ao-assets/document/news/JUPAS_GER_PER.pdf",
+   "https://admissions.hkbu.edu.hk/ug/jupas_weighting"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS2370",
+  "institution": "HKBU",
+  "name": "Bachelor of Communication (Hons) in Game Design and Animation",
+  "formula_2027": "Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "English Language": 1.25,
+   "Mathematics (Compulsory Part)": 1.1,
+   "Visual Arts": 1.15
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": ""
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": ""
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": null,
+   "lq": null,
+   "mean": 21.65
+  },
+  "score_grades_2026": {
+   "median": {
+    "Chinese Language": "3",
+    "English Language": "5",
+    "Mathematics (Compulsory Part)": "4",
+    "Citizenship and Social Development": "Attained",
+    "Elective 1": "4",
+    "Elective 2": "3"
+   },
+   "lq": {
+    "Chinese Language": "3",
+    "English Language": "3",
+    "Mathematics (Compulsory Part)": "4",
+    "Citizenship and Social Development": "Attained",
+    "Elective 1": "4",
+    "Elective 2": "3",
+    "Elective 3": "3",
+    "Elective 4": "2"
+   }
+  },
+  "sources": [
+   "https://admissions.hkbu.edu.hk/content/dam/ao-assets/document/news/JUPAS_GER_PER.pdf",
+   "https://admissions.hkbu.edu.hk/ug/jupas_weighting"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS2410",
+  "institution": "HKBU",
+  "name": "Bachelor of Chinese Medicine and Bachelor of Science (Hons) in Biomedical Science",
+  "formula_2027": "Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "Biology": 1.5,
+   "Chemistry": 1.25,
+   "Chinese Language": 1.5,
+   "English Language": 1.5
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Biology",
+     "Chemistry"
+    ],
+    "grade": "3",
+    "note": "One elective subject must be Biology or Chemistry"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": ""
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": null,
+   "lq": null,
+   "mean": 33.63
+  },
+  "score_grades_2026": {
+   "median": {
+    "Chinese Language": "4",
+    "English Language": "5",
+    "Mathematics (Compulsory Part)": "5",
+    "Citizenship and Social Development": "Attained",
+    "Elective 1": "5*",
+    "Elective 2": "5",
+    "Elective 3": "5",
+    "Elective 4": "3"
+   },
+   "lq": {
+    "Chinese Language": "5*",
+    "English Language": "5",
+    "Mathematics (Compulsory Part)": "4",
+    "Citizenship and Social Development": "Attained",
+    "Elective 1": "5",
+    "Elective 2": "4",
+    "Elective 3": "4"
+   }
+  },
+  "sources": [
+   "https://admissions.hkbu.edu.hk/content/dam/ao-assets/document/news/JUPAS_GER_PER.pdf",
+   "https://admissions.hkbu.edu.hk/ug/jupas_weighting"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS2420",
+  "institution": "HKBU",
+  "name": "Bachelor of Pharmacy (Hons) in Chinese Medicine and Pharmaceutical Sciences",
+  "formula_2027": "Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "Biology": 1.25,
+   "Chemistry": 1.5,
+   "English Language": 1.5,
+   "Mathematics (Compulsory Part)": 1.25
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Chemistry"
+    ],
+    "grade": "3",
+    "note": "One elective subject must be Chemistry"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": ""
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": null,
+   "lq": null,
+   "mean": 27.36
+  },
+  "score_grades_2026": {
+   "median": {
+    "Chinese Language": "5",
+    "English Language": "4",
+    "Mathematics (Compulsory Part)": "4",
+    "Citizenship and Social Development": "Attained",
+    "Elective 1": "4",
+    "Elective 2": "4",
+    "Elective 3": "4"
+   },
+   "lq": {
+    "Chinese Language": "5",
+    "English Language": "4",
+    "Mathematics (Compulsory Part)": "4",
+    "Citizenship and Social Development": "Attained",
+    "Elective 1": "4",
+    "Elective 2": "4",
+    "Elective 3": "4",
+    "Elective 4": "3"
+   }
+  },
+  "sources": [
+   "https://admissions.hkbu.edu.hk/content/dam/ao-assets/document/news/JUPAS_GER_PER.pdf",
+   "https://admissions.hkbu.edu.hk/ug/jupas_weighting"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS2510",
+  "institution": "HKBU",
+  "name": "Bachelor of Science (Hons)",
+  "formula_2027": "Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {},
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": ""
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": ""
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": null,
+   "lq": null,
+   "mean": 21.31
+  },
+  "score_grades_2026": {
+   "median": {
+    "Chinese Language": "4",
+    "English Language": "3",
+    "Mathematics (Compulsory Part)": "5",
+    "Citizenship and Social Development": "Attained",
+    "Elective 1": "4",
+    "Elective 2": "4",
+    "Elective 3": "4"
+   },
+   "lq": {
+    "Chinese Language": "4",
+    "English Language": "3",
+    "Mathematics (Compulsory Part)": "5",
+    "Citizenship and Social Development": "Attained",
+    "Elective 1": "5",
+    "Elective 2": "4"
+   }
+  },
+  "sources": [
+   "https://admissions.hkbu.edu.hk/content/dam/ao-assets/document/news/JUPAS_GER_PER.pdf",
+   "https://admissions.hkbu.edu.hk/ug/jupas_weighting"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS2610",
+  "institution": "HKBU",
+  "name": "Bachelor of Arts (Hons) / Bachelor of Social Sciences (Hons) (Applied Psychological Science / European Studies [French/German Stream] / Geography / Global and China Studies / Government and International Studies / History / Sociology)",
+  "formula_2027": "Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "English Language": 2.0
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": ""
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": ""
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": null,
+   "lq": null,
+   "mean": 25.45
+  },
+  "score_grades_2026": {
+   "median": {
+    "Chinese Language": "5",
+    "English Language": "4",
+    "Mathematics (Compulsory Part)": "3",
+    "Citizenship and Social Development": "Attained",
+    "Elective 1": "5*",
+    "Elective 2": "4",
+    "Elective 3": "3"
+   },
+   "lq": {
+    "Chinese Language": "4",
+    "English Language": "4",
+    "Mathematics (Compulsory Part)": "3",
+    "Citizenship and Social Development": "Attained",
+    "Elective 1": "5",
+    "Elective 2": "4",
+    "Elective 3": "4"
+   }
+  },
+  "sources": [
+   "https://admissions.hkbu.edu.hk/content/dam/ao-assets/document/news/JUPAS_GER_PER.pdf",
+   "https://admissions.hkbu.edu.hk/ug/jupas_weighting"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS2620",
+  "institution": "HKBU",
+  "name": "Bachelor of Arts (Hons) in Physical Education and Recreation Management",
+  "formula_2027": "Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {},
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": ""
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": ""
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": null,
+   "lq": null,
+   "mean": 21.12
+  },
+  "score_grades_2026": {
+   "median": {
+    "Chinese Language": "4",
+    "English Language": "3",
+    "Mathematics (Compulsory Part)": "5*",
+    "Citizenship and Social Development": "Attained",
+    "Elective 1": "4",
+    "Elective 2": "4",
+    "Elective 3": "3",
+    "Elective 4": "3"
+   },
+   "lq": {
+    "Chinese Language": "3",
+    "English Language": "4",
+    "Mathematics (Compulsory Part)": "4",
+    "Citizenship and Social Development": "Attained",
+    "Elective 1": "5*",
+    "Elective 2": "4"
+   }
+  },
+  "sources": [
+   "https://admissions.hkbu.edu.hk/content/dam/ao-assets/document/news/JUPAS_GER_PER.pdf",
+   "https://admissions.hkbu.edu.hk/ug/jupas_weighting"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS2660",
+  "institution": "HKBU",
+  "name": "Bachelor of Social Work (Hons)",
+  "formula_2027": "Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "English Language": 2.0,
+   "Health Management and Social Care": 1.5
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": ""
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": ""
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": null,
+   "lq": null,
+   "mean": 25.41
+  },
+  "score_grades_2026": {
+   "median": {
+    "Chinese Language": "5",
+    "English Language": "4",
+    "Mathematics (Compulsory Part)": "3",
+    "Citizenship and Social Development": "Attained",
+    "Elective 1": "4",
+    "Elective 2": "4",
+    "Elective 3": "4"
+   },
+   "lq": {
+    "Chinese Language": "4",
+    "English Language": "4",
+    "Mathematics (Compulsory Part)": "5",
+    "Citizenship and Social Development": "Attained",
+    "Elective 1": "5",
+    "Elective 2": "4",
+    "Elective 3": "3"
+   }
+  },
+  "sources": [
+   "https://admissions.hkbu.edu.hk/content/dam/ao-assets/document/news/JUPAS_GER_PER.pdf",
+   "https://admissions.hkbu.edu.hk/ug/jupas_weighting"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS2810",
+  "institution": "HKBU",
+  "name": "Bachelor of Arts (Hons) in Visual Arts",
+  "formula_2027": "Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {},
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": ""
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": ""
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": null,
+   "lq": null,
+   "mean": 19.41
+  },
+  "score_grades_2026": {
+   "median": {
+    "Chinese Language": "3",
+    "English Language": "3",
+    "Mathematics (Compulsory Part)": "4",
+    "Citizenship and Social Development": "Attained",
+    "Elective 1": "4",
+    "Elective 2": "4"
+   },
+   "lq": {
+    "Chinese Language": "4",
+    "English Language": "3",
+    "Mathematics (Compulsory Part)": "3",
+    "Citizenship and Social Development": "Attained",
+    "Elective 1": "4",
+    "Elective 2": "4",
+    "Elective 3": "3"
+   }
+  },
+  "sources": [
+   "https://admissions.hkbu.edu.hk/content/dam/ao-assets/document/news/JUPAS_GER_PER.pdf",
+   "https://admissions.hkbu.edu.hk/ug/jupas_weighting"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS2910",
+  "institution": "HKBU",
+  "name": "Bachelor of Science (Hons) in Business Analytics and Artificial Intelligence",
+  "formula_2027": "Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {},
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": ""
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": ""
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": null,
+   "lq": null,
+   "mean": 21.73
+  },
+  "score_grades_2026": {
+   "median": {
+    "Chinese Language": "4",
+    "English Language": "3",
+    "Mathematics (Compulsory Part)": "4",
+    "Citizenship and Social Development": "Attained",
+    "Elective 1": "5",
+    "Elective 2": "5",
+    "Elective 3": "4"
+   },
+   "lq": {
+    "Chinese Language": "3",
+    "English Language": "3",
+    "Mathematics (Compulsory Part)": "4",
+    "Citizenship and Social Development": "Attained",
+    "Elective 1": "7",
+    "Elective 2": "4",
+    "Elective 3": "3"
+   }
+  },
+  "sources": [
+   "https://admissions.hkbu.edu.hk/content/dam/ao-assets/document/news/JUPAS_GER_PER.pdf",
+   "https://admissions.hkbu.edu.hk/ug/jupas_weighting"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS2920",
+  "institution": "HKBU",
+  "name": "Bachelor of Arts and Science (Hons) in Arts and Technology",
+  "formula_2027": "Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "Mathematics (Compulsory Part)": 1.2
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": ""
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": ""
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": null,
+   "lq": null,
+   "mean": 19.92
+  },
+  "score_grades_2026": {
+   "median": {
+    "Chinese Language": "3",
+    "English Language": "3",
+    "Mathematics (Compulsory Part)": "5",
+    "Citizenship and Social Development": "Attained",
+    "Elective 1": "4",
+    "Elective 2": "4",
+    "Elective 3": "4"
+   },
+   "lq": {
+    "Chinese Language": "4",
+    "English Language": "4",
+    "Mathematics (Compulsory Part)": "3",
+    "Citizenship and Social Development": "Attained",
+    "Elective 1": "4",
+    "Elective 2": "4",
+    "Elective 3": "1"
+   }
+  },
+  "sources": [
+   "https://admissions.hkbu.edu.hk/content/dam/ao-assets/document/news/JUPAS_GER_PER.pdf",
+   "https://admissions.hkbu.edu.hk/ug/jupas_weighting"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS2930",
+  "institution": "HKBU",
+  "name": "Bachelor of Arts (Hons) in Business Administration (Global Entertainment)",
+  "formula_2027": "Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {},
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": ""
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": ""
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": null,
+   "lq": null,
+   "mean": 20.82
+  },
+  "score_grades_2026": {
+   "median": {
+    "Chinese Language": "4",
+    "English Language": "3",
+    "Mathematics (Compulsory Part)": "4",
+    "Citizenship and Social Development": "Attained",
+    "Elective 1": "5",
+    "Elective 2": "4",
+    "Elective 3": "4"
+   },
+   "lq": {
+    "Chinese Language": "3",
+    "English Language": "4",
+    "Mathematics (Compulsory Part)": "3",
+    "Citizenship and Social Development": "Attained",
+    "Elective 1": "7",
+    "Elective 2": "4",
+    "Elective 3": "3",
+    "Elective 4": "3"
+   }
+  },
+  "sources": [
+   "https://admissions.hkbu.edu.hk/content/dam/ao-assets/document/news/JUPAS_GER_PER.pdf",
+   "https://admissions.hkbu.edu.hk/ug/jupas_weighting"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS2940",
+  "institution": "HKBU",
+  "name": "Bachelor of Social Sciences (Hons) / Bachelor of Science (Hons) in Innovation in Health and Social Well-Being",
+  "formula_2027": "Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "English Language": 2.0,
+   "Health Management and Social Care": 1.5,
+   "Mathematics (Compulsory Part)": 1.5,
+   "Mathematics Extended Part (Module 1)": 1.5,
+   "Mathematics Extended Part (Module 2)": 1.5
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": ""
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": ""
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": null,
+   "lq": null,
+   "mean": 28.26
+  },
+  "score_grades_2026": {
+   "median": {
+    "Chinese Language": "4",
+    "English Language": "4",
+    "Mathematics (Compulsory Part)": "4",
+    "Citizenship and Social Development": "Attained",
+    "Elective 1": "4",
+    "Elective 2": "4",
+    "Elective 3": "4"
+   },
+   "lq": {
+    "Chinese Language": "3",
+    "English Language": "3",
+    "Mathematics (Compulsory Part)": "5",
+    "Citizenship and Social Development": "Attained",
+    "Elective 1": "5",
+    "Elective 2": "4"
+   }
+  },
+  "sources": [
+   "https://admissions.hkbu.edu.hk/content/dam/ao-assets/document/news/JUPAS_GER_PER.pdf",
+   "https://admissions.hkbu.edu.hk/ug/jupas_weighting"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS2950",
+  "institution": "HKBU",
+  "name": "Bachelor of Arts, Science and Technology (Hons) in Individualised Major",
+  "formula_2027": "Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "English Language": 1.25
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": ""
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": ""
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": null,
+   "lq": null,
+   "mean": 21.1
+  },
+  "score_grades_2026": {
+   "median": {
+    "Chinese Language": "3",
+    "English Language": "4",
+    "Mathematics (Compulsory Part)": "5",
+    "Citizenship and Social Development": "Attained",
+    "Elective 1": "4",
+    "Elective 2": "3"
+   },
+   "lq": {
+    "Chinese Language": "4",
+    "English Language": "3",
+    "Mathematics (Compulsory Part)": "4",
+    "Citizenship and Social Development": "Attained",
+    "Elective 1": "4",
+    "Elective 2": "4"
+   }
+  },
+  "sources": [
+   "https://admissions.hkbu.edu.hk/content/dam/ao-assets/document/news/JUPAS_GER_PER.pdf",
+   "https://admissions.hkbu.edu.hk/ug/jupas_weighting"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS2960",
+  "institution": "HKBU",
+  "name": "Bachelor of Arts and Science (Hons) in Digital Futures and Humanities",
+  "formula_2027": "Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "Chinese History": 1.1,
+   "Chinese Literature": 1.1,
+   "Design and Applied Technology": 1.1,
+   "English Language": 1.5,
+   "Ethics and Religious Studies": 1.1,
+   "Geography": 1.1,
+   "History": 1.1,
+   "Information and Communication Technology": 1.1,
+   "Literature in English": 1.1,
+   "Mathematics (Compulsory Part)": 1.2,
+   "Mathematics Extended Part (Module 1)": 1.1,
+   "Mathematics Extended Part (Module 2)": 1.1,
+   "Technology and Living (Fashion, Clothing and Textiles)": 1.1
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": ""
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": ""
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": null,
+   "lq": null,
+   "mean": 22.91
+  },
+  "score_grades_2026": {
+   "median": {
+    "Chinese Language": "5",
+    "English Language": "4",
+    "Mathematics (Compulsory Part)": "4",
+    "Citizenship and Social Development": "Attained",
+    "Elective 1": "4",
+    "Elective 2": "3"
+   },
+   "lq": {
+    "Chinese Language": "4",
+    "English Language": "4",
+    "Mathematics (Compulsory Part)": "4",
+    "Citizenship and Social Development": "Attained",
+    "Elective 1": "4",
+    "Elective 2": "4"
+   }
+  },
+  "sources": [
+   "https://admissions.hkbu.edu.hk/content/dam/ao-assets/document/news/JUPAS_GER_PER.pdf",
+   "https://admissions.hkbu.edu.hk/ug/jupas_weighting"
+  ],
+  "confidence": "official"
+ }
+]

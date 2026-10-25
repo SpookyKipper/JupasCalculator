@@ -1,0 +1,1242 @@
+[
+ {
+  "jupas_code": "JS8001",
+  "institution": "EdUHK",
+  "name": "Bachelor of Arts (Honours) in Creative and Digital Arts and Bachelor of Education (Honours) (Music)",
+  "formula_2027": "Best 5: sum of the five highest-scoring HKDSE subjects (core or elective; Citizenship and Social Development excluded), each subject's level value multiplied by its 2027 subject weighting. Category A conversion: 5**=7, 5*=6, 5=5, 4=4, 3=3, 2=2, 1=1 (EdUHK scale, not 8.5).",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "Music": 1.5,
+   "Specified ApL subject(s)": 1.5
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 20.0,
+   "lq": 20.0,
+   "mean": null
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://www.eduhk.hk/acadprog/downloads/EdUHK_admission_scores_2026.pdf",
+   "https://www.apply.eduhk.hk/ug/jupas_scores",
+   "https://www.jupas.edu.hk/en/programme/eduhk/JS8001/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS8002",
+  "institution": "EdUHK",
+  "name": "Bachelor of Arts (Honours) in Creative and Digital Arts and Bachelor of Education (Honours) (Visual Arts)",
+  "formula_2027": "Best 5: sum of the five highest-scoring HKDSE subjects (core or elective; Citizenship and Social Development excluded), each subject's level value multiplied by its 2027 subject weighting. Category A conversion: 5**=7, 5*=6, 5=5, 4=4, 3=3, 2=2, 1=1 (EdUHK scale, not 8.5).",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "Visual Arts": 1.5,
+   "Specified ApL subject(s)": 1.5
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 23.0,
+   "lq": 22.5,
+   "mean": null
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://www.eduhk.hk/acadprog/downloads/EdUHK_admission_scores_2026.pdf",
+   "https://www.apply.eduhk.hk/ug/jupas_scores",
+   "https://www.jupas.edu.hk/en/programme/eduhk/JS8002/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS8003",
+  "institution": "EdUHK",
+  "name": "Bachelor of Arts (Honours) in Digital Chinese Culture and Communication and Bachelor of Education (Honours) (Chinese Language)",
+  "formula_2027": "Best 5: sum of the five highest-scoring HKDSE subjects (core or elective; Citizenship and Social Development excluded), each subject's level value multiplied by its 2027 subject weighting. Category A conversion: 5**=7, 5*=6, 5=5, 4=4, 3=3, 2=2, 1=1 (EdUHK scale, not 8.5).",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "Chinese Language": 1.5,
+   "English Language": 1.5,
+   "Chinese Literature": 1.5,
+   "Information and Communication Technology": 1.5
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 28.0,
+   "lq": 27.0,
+   "mean": null
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://www.eduhk.hk/acadprog/downloads/EdUHK_admission_scores_2026.pdf",
+   "https://www.apply.eduhk.hk/ug/jupas_scores",
+   "https://www.jupas.edu.hk/en/programme/eduhk/JS8003/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS8004",
+  "institution": "EdUHK",
+  "name": "Bachelor of Arts (Honours) in English Studies and Digital Communication and Bachelor of Education (Honours) (English Language)",
+  "formula_2027": "Best 5: sum of the five highest-scoring HKDSE subjects (core or elective; Citizenship and Social Development excluded), each subject's level value multiplied by its 2027 subject weighting. Category A conversion: 5**=7, 5*=6, 5=5, 4=4, 3=3, 2=2, 1=1 (EdUHK scale, not 8.5).",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "English Language": 1.5,
+   "Information and Communication Technology": 1.5,
+   "Literature in English": 1.5
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 24.5,
+   "lq": 23.5,
+   "mean": null
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://www.eduhk.hk/acadprog/downloads/EdUHK_admission_scores_2026.pdf",
+   "https://www.apply.eduhk.hk/ug/jupas_scores",
+   "https://www.jupas.edu.hk/en/programme/eduhk/JS8004/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS8005",
+  "institution": "EdUHK",
+  "name": "Bachelor of Arts (Honours) in Heritage Education and Arts Management and Bachelor of Education (Honours) (Chinese History)",
+  "formula_2027": "Best 5: sum of the five highest-scoring HKDSE subjects (core or elective; Citizenship and Social Development excluded), each subject's level value multiplied by its 2027 subject weighting. Category A conversion: 5**=7, 5*=6, 5=5, 4=4, 3=3, 2=2, 1=1 (EdUHK scale, not 8.5).",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "Chinese History": 1.5,
+   "History": 1.5
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 27.0,
+   "lq": 27.0,
+   "mean": null
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://www.eduhk.hk/acadprog/downloads/EdUHK_admission_scores_2026.pdf",
+   "https://www.apply.eduhk.hk/ug/jupas_scores",
+   "https://www.jupas.edu.hk/en/programme/eduhk/JS8005/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS8006",
+  "institution": "EdUHK",
+  "name": "Bachelor of Social Sciences (Honours) in Psychology and Bachelor of Education (Honours) (Early Childhood Education)",
+  "formula_2027": "Best 5: sum of the five highest-scoring HKDSE subjects (core or elective; Citizenship and Social Development excluded), each subject's level value multiplied by its 2027 subject weighting. Category A conversion: 5**=7, 5*=6, 5=5, 4=4, 3=3, 2=2, 1=1 (EdUHK scale, not 8.5).",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "Chinese Language": 1.5,
+   "English Language": 1.5,
+   "Specified ApL subject(s)": 1.5
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 24.5,
+   "lq": 24.0,
+   "mean": null
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://www.eduhk.hk/acadprog/downloads/EdUHK_admission_scores_2026.pdf",
+   "https://www.apply.eduhk.hk/ug/jupas_scores",
+   "https://www.jupas.edu.hk/en/programme/eduhk/JS8006/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS8007",
+  "institution": "EdUHK",
+  "name": "Bachelor of Arts (Honours) in Personal Finance and Bachelor of Education (Honours) (Business, Accounting and Financial Studies)",
+  "formula_2027": "Best 5: sum of the five highest-scoring HKDSE subjects (core or elective; Citizenship and Social Development excluded), each subject's level value multiplied by its 2027 subject weighting. Category A conversion: 5**=7, 5*=6, 5=5, 4=4, 3=3, 2=2, 1=1 (EdUHK scale, not 8.5).",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "Business, Accounting and Financial Studies": 1.5,
+   "Economics": 1.5,
+   "Specified ApL subject(s)": 1.5
+  },
+  "best_of_weights_2027": [
+   [
+    "Business, Accounting and Financial Studies",
+    "Economics",
+    "Specified ApL subject(s)"
+   ]
+  ],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Business, Accounting and Financial Studies",
+     "Economics"
+    ],
+    "grade": "3"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 23.5,
+   "lq": 23.0,
+   "mean": null
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://www.eduhk.hk/acadprog/downloads/EdUHK_admission_scores_2026.pdf",
+   "https://www.apply.eduhk.hk/ug/jupas_scores",
+   "https://www.jupas.edu.hk/en/programme/eduhk/JS8007/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS8008",
+  "institution": "EdUHK",
+  "name": "Bachelor of Science (Honours) in Artificial Intelligence and Educational Technology and Bachelor of Education (Honours) (Information and Communication Technology and Primary Science)",
+  "formula_2027": "Best 5: sum of the five highest-scoring HKDSE subjects (core or elective; Citizenship and Social Development excluded), each subject's level value multiplied by its 2027 subject weighting. Category A conversion: 5**=7, 5*=6, 5=5, 4=4, 3=3, 2=2, 1=1 (EdUHK scale, not 8.5).",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "Mathematics (Compulsory Part)": 1.5,
+   "Mathematics Extended Part (Module 1 or 2)": 1.5,
+   "Information and Communication Technology": 1.5,
+   "Biology": 1.5,
+   "Chemistry": 1.5,
+   "Physics": 1.5,
+   "Combined Science": 1.5,
+   "Integrated Science": 1.5,
+   "Specified ApL subject(s)": 1.5
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "3",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Biology",
+     "Chemistry",
+     "Physics",
+     "Information and Communication Technology"
+    ],
+    "grade": "3"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 28.0,
+   "lq": 27.8,
+   "mean": null
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://www.eduhk.hk/acadprog/downloads/EdUHK_admission_scores_2026.pdf",
+   "https://www.apply.eduhk.hk/ug/jupas_scores",
+   "https://www.jupas.edu.hk/en/programme/eduhk/JS8008/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS8009",
+  "institution": "EdUHK",
+  "name": "Bachelor of Science (Honours) in Artificial Intelligence and Educational Technology and Bachelor of Education (Honours) (Primary Mathematics)",
+  "formula_2027": "Best 5: sum of the five highest-scoring HKDSE subjects (core or elective; Citizenship and Social Development excluded), each subject's level value multiplied by its 2027 subject weighting. Category A conversion: 5**=7, 5*=6, 5=5, 4=4, 3=3, 2=2, 1=1 (EdUHK scale, not 8.5).",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "Mathematics (Compulsory Part)": 1.5,
+   "Mathematics Extended Part (Module 1 or 2)": 1.5,
+   "Physics": 1.5,
+   "Specified ApL subject(s)": 1.5
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "3",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Information and Communication Technology",
+     "Biology",
+     "Chemistry",
+     "Physics",
+     "Mathematics Extended Part (Module 1 or 2)"
+    ],
+    "grade": "2"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 27.3,
+   "lq": 26.5,
+   "mean": null
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://www.eduhk.hk/acadprog/downloads/EdUHK_admission_scores_2026.pdf",
+   "https://www.apply.eduhk.hk/ug/jupas_scores",
+   "https://www.jupas.edu.hk/en/programme/eduhk/JS8009/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS8010",
+  "institution": "EdUHK",
+  "name": "Bachelor of Science (Honours) in Sports Science and Coaching and Bachelor of Education (Honours) (Physical Education)",
+  "formula_2027": "Best 5: sum of the five highest-scoring HKDSE subjects (core or elective; Citizenship and Social Development excluded), each subject's level value multiplied by its 2027 subject weighting. Category A conversion: 5**=7, 5*=6, 5=5, 4=4, 3=3, 2=2, 1=1 (EdUHK scale, not 8.5).",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "Physical Education": 1.5
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 23.0,
+   "lq": 21.0,
+   "mean": null
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://www.eduhk.hk/acadprog/downloads/EdUHK_admission_scores_2026.pdf",
+   "https://www.apply.eduhk.hk/ug/jupas_scores",
+   "https://www.jupas.edu.hk/en/programme/eduhk/JS8010/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS8011",
+  "institution": "EdUHK",
+  "name": "Bachelor of Science (Honours) in Integrated Environmental Management and Bachelor of Education (Honours) (Science)",
+  "formula_2027": "Best 5: sum of the five highest-scoring HKDSE subjects (core or elective; Citizenship and Social Development excluded), each subject's level value multiplied by its 2027 subject weighting. Category A conversion: 5**=7, 5*=6, 5=5, 4=4, 3=3, 2=2, 1=1 (EdUHK scale, not 8.5).",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "Chemistry": 1.5,
+   "Biology": 1.5,
+   "Physics": 1.2,
+   "Mathematics (Compulsory Part)": 1.1,
+   "Mathematics Extended Part (Module 1 or 2)": 1.1,
+   "Geography": 1.1
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Biology",
+     "Chemistry",
+     "Physics"
+    ],
+    "grade": "3"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 24.9,
+   "lq": 24.7,
+   "mean": null
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://www.eduhk.hk/acadprog/downloads/EdUHK_admission_scores_2026.pdf",
+   "https://www.apply.eduhk.hk/ug/jupas_scores",
+   "https://www.jupas.edu.hk/en/programme/eduhk/JS8011/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS8012",
+  "institution": "EdUHK",
+  "name": "Bachelor of Social Sciences (Honours) in Sociology and Community Studies and Bachelor of Education (Honours) (Geography)",
+  "formula_2027": "Best 5: sum of the five highest-scoring HKDSE subjects (core or elective; Citizenship and Social Development excluded), each subject's level value multiplied by its 2027 subject weighting. Category A conversion: 5**=7, 5*=6, 5=5, 4=4, 3=3, 2=2, 1=1 (EdUHK scale, not 8.5).",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "English Language": 1.5,
+   "Geography": 1.75
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Tourism and Hospitality Studies",
+     "Geography"
+    ],
+    "grade": "3"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 26.0,
+   "lq": 25.0,
+   "mean": null
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://www.eduhk.hk/acadprog/downloads/EdUHK_admission_scores_2026.pdf",
+   "https://www.apply.eduhk.hk/ug/jupas_scores",
+   "https://www.jupas.edu.hk/en/programme/eduhk/JS8012/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS8013",
+  "institution": "EdUHK",
+  "name": "Bachelor of Social Sciences (Honours) in Sociology and Community Studies and Bachelor of Education (Honours) (Primary Humanities)",
+  "formula_2027": "Best 5: sum of the five highest-scoring HKDSE subjects (core or elective; Citizenship and Social Development excluded), each subject's level value multiplied by its 2027 subject weighting. Category A conversion: 5**=7, 5*=6, 5=5, 4=4, 3=3, 2=2, 1=1 (EdUHK scale, not 8.5).",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "Chinese History": 1.5,
+   "Economics": 1.5,
+   "Geography": 1.5,
+   "History": 1.5,
+   "Specified ApL subject(s)": 1.5
+  },
+  "best_of_weights_2027": [
+   [
+    "Chinese History",
+    "Economics",
+    "Geography",
+    "History",
+    "Specified ApL subject(s)"
+   ]
+  ],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 23.0,
+   "lq": 22.5,
+   "mean": null
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://www.eduhk.hk/acadprog/downloads/EdUHK_admission_scores_2026.pdf",
+   "https://www.apply.eduhk.hk/ug/jupas_scores",
+   "https://www.jupas.edu.hk/en/programme/eduhk/JS8013/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS8507",
+  "institution": "EdUHK",
+  "name": "Higher Diploma in Early Childhood Education",
+  "formula_2027": "Best 5: sum of the five highest-scoring HKDSE subjects (core or elective; Citizenship and Social Development excluded), each subject's level value multiplied by its 2027 subject weighting. Category A conversion: 5**=7, 5*=6, 5=5, 4=4, 3=3, 2=2, 1=1 (EdUHK scale, not 8.5).",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "Chinese Language": 1.5,
+   "English Language": 1.5,
+   "Specified ApL subject(s)": 1.5
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "2",
+   "eng": "2",
+   "math": null,
+   "csd": null,
+   "elect1": {
+    "count": 3,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   },
+   "elect2": {
+    "count": 0,
+    "subjects": [],
+    "grade": ""
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 18.0,
+   "lq": 17.0,
+   "mean": null
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://www.eduhk.hk/acadprog/downloads/EdUHK_admission_scores_2026.pdf",
+   "https://www.apply.eduhk.hk/ug/jupas_scores",
+   "https://www.jupas.edu.hk/en/programme/eduhk/JS8507/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS8651",
+  "institution": "EdUHK",
+  "name": "Bachelor of Social Sciences (Honours) in Psychology",
+  "formula_2027": "Best 5: sum of the five highest-scoring HKDSE subjects (core or elective; Citizenship and Social Development excluded), each subject's level value multiplied by its 2027 subject weighting. Category A conversion: 5**=7, 5*=6, 5=5, 4=4, 3=3, 2=2, 1=1 (EdUHK scale, not 8.5).",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {},
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 21.0,
+   "lq": 21.0,
+   "mean": null
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://www.eduhk.hk/acadprog/downloads/EdUHK_admission_scores_2026.pdf",
+   "https://www.apply.eduhk.hk/ug/jupas_scores",
+   "https://www.jupas.edu.hk/en/programme/eduhk/JS8651/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS8663",
+  "institution": "EdUHK",
+  "name": "Bachelor of Arts (Honours) in Special Education",
+  "formula_2027": "Best 5: sum of the five highest-scoring HKDSE subjects (core or elective; Citizenship and Social Development excluded), each subject's level value multiplied by its 2027 subject weighting. Category A conversion: 5**=7, 5*=6, 5=5, 4=4, 3=3, 2=2, 1=1 (EdUHK scale, not 8.5).",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "Chinese Language": 1.5,
+   "English Language": 1.5
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 24.0,
+   "lq": 23.5,
+   "mean": null
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://www.eduhk.hk/acadprog/downloads/EdUHK_admission_scores_2026.pdf",
+   "https://www.apply.eduhk.hk/ug/jupas_scores",
+   "https://www.jupas.edu.hk/en/programme/eduhk/JS8663/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS8674",
+  "institution": "EdUHK",
+  "name": "Bachelor of Arts (Honours) in Digital Chinese Culture and Communication",
+  "formula_2027": "Best 5: sum of the five highest-scoring HKDSE subjects (core or elective; Citizenship and Social Development excluded), each subject's level value multiplied by its 2027 subject weighting. Category A conversion: 5**=7, 5*=6, 5=5, 4=4, 3=3, 2=2, 1=1 (EdUHK scale, not 8.5).",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "Chinese Language": 1.5,
+   "Chinese Literature": 1.5,
+   "Information and Communication Technology": 1.5
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 25.0,
+   "lq": 24.5,
+   "mean": null
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://www.eduhk.hk/acadprog/downloads/EdUHK_admission_scores_2026.pdf",
+   "https://www.apply.eduhk.hk/ug/jupas_scores",
+   "https://www.jupas.edu.hk/en/programme/eduhk/JS8674/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS8675",
+  "institution": "EdUHK",
+  "name": "Bachelor of Arts (Honours) in English Studies and Digital Communication",
+  "formula_2027": "Best 5: sum of the five highest-scoring HKDSE subjects (core or elective; Citizenship and Social Development excluded), each subject's level value multiplied by its 2027 subject weighting. Category A conversion: 5**=7, 5*=6, 5=5, 4=4, 3=3, 2=2, 1=1 (EdUHK scale, not 8.5).",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "English Language": 1.5,
+   "Information and Communication Technology": 1.5,
+   "Literature in English": 1.5
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 22.5,
+   "lq": 22.5,
+   "mean": null
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://www.eduhk.hk/acadprog/downloads/EdUHK_admission_scores_2026.pdf",
+   "https://www.apply.eduhk.hk/ug/jupas_scores",
+   "https://www.jupas.edu.hk/en/programme/eduhk/JS8675/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS8685",
+  "institution": "EdUHK",
+  "name": "Bachelor of Arts (Honours) in Creative and Digital Arts (Music)",
+  "formula_2027": "Best 5: sum of the five highest-scoring HKDSE subjects (core or elective; Citizenship and Social Development excluded), each subject's level value multiplied by its 2027 subject weighting. Category A conversion: 5**=7, 5*=6, 5=5, 4=4, 3=3, 2=2, 1=1 (EdUHK scale, not 8.5).",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "Music": 1.5,
+   "Specified ApL subject(s)": 1.5
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 21.5,
+   "lq": 21.5,
+   "mean": null
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://www.eduhk.hk/acadprog/downloads/EdUHK_admission_scores_2026.pdf",
+   "https://www.apply.eduhk.hk/ug/jupas_scores",
+   "https://www.jupas.edu.hk/en/programme/eduhk/JS8685/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS8686",
+  "institution": "EdUHK",
+  "name": "Bachelor of Arts (Honours) in Creative and Digital Arts (Visual Arts)",
+  "formula_2027": "Best 5: sum of the five highest-scoring HKDSE subjects (core or elective; Citizenship and Social Development excluded), each subject's level value multiplied by its 2027 subject weighting. Category A conversion: 5**=7, 5*=6, 5=5, 4=4, 3=3, 2=2, 1=1 (EdUHK scale, not 8.5).",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "Visual Arts": 1.5,
+   "Specified ApL subject(s)": 1.5
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 22.5,
+   "lq": 22.4,
+   "mean": null
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://www.eduhk.hk/acadprog/downloads/EdUHK_admission_scores_2026.pdf",
+   "https://www.apply.eduhk.hk/ug/jupas_scores",
+   "https://www.jupas.edu.hk/en/programme/eduhk/JS8686/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS8687",
+  "institution": "EdUHK",
+  "name": "Bachelor of Arts (Honours) in Heritage Education and Arts Management",
+  "formula_2027": "Best 5: sum of the five highest-scoring HKDSE subjects (core or elective; Citizenship and Social Development excluded), each subject's level value multiplied by its 2027 subject weighting. Category A conversion: 5**=7, 5*=6, 5=5, 4=4, 3=3, 2=2, 1=1 (EdUHK scale, not 8.5).",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "Chinese Language": 1.5,
+   "English Language": 1.5,
+   "Chinese History": 1.5,
+   "Design and Applied Technology": 1.5,
+   "History": 1.5,
+   "Visual Arts": 1.5,
+   "Specified ApL subject(s)": 1.5
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 28.0,
+   "lq": 28.0,
+   "mean": null
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://www.eduhk.hk/acadprog/downloads/EdUHK_admission_scores_2026.pdf",
+   "https://www.apply.eduhk.hk/ug/jupas_scores",
+   "https://www.jupas.edu.hk/en/programme/eduhk/JS8687/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS8688",
+  "institution": "EdUHK",
+  "name": "Bachelor of Arts (Honours) in Personal Finance",
+  "formula_2027": "Best 5: sum of the five highest-scoring HKDSE subjects (core or elective; Citizenship and Social Development excluded), each subject's level value multiplied by its 2027 subject weighting. Category A conversion: 5**=7, 5*=6, 5=5, 4=4, 3=3, 2=2, 1=1 (EdUHK scale, not 8.5).",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {},
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 20.0,
+   "lq": 20.0,
+   "mean": null
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://www.eduhk.hk/acadprog/downloads/EdUHK_admission_scores_2026.pdf",
+   "https://www.apply.eduhk.hk/ug/jupas_scores",
+   "https://www.jupas.edu.hk/en/programme/eduhk/JS8688/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS8702",
+  "institution": "EdUHK",
+  "name": "Bachelor of Science (Honours) in Integrated Environmental Management",
+  "formula_2027": "Best 5: sum of the five highest-scoring HKDSE subjects (core or elective; Citizenship and Social Development excluded), each subject's level value multiplied by its 2027 subject weighting. Category A conversion: 5**=7, 5*=6, 5=5, 4=4, 3=3, 2=2, 1=1 (EdUHK scale, not 8.5).",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "Biology": 1.6,
+   "Chemistry": 1.6,
+   "Physics": 1.6,
+   "Mathematics (Compulsory Part)": 1.4,
+   "Mathematics Extended Part (Module 1 or 2)": 1.4,
+   "Geography": 1.2
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Geography",
+     "Biology",
+     "Chemistry",
+     "Physics"
+    ],
+    "grade": "2"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 25.6,
+   "lq": 25.2,
+   "mean": null
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://www.eduhk.hk/acadprog/downloads/EdUHK_admission_scores_2026.pdf",
+   "https://www.apply.eduhk.hk/ug/jupas_scores",
+   "https://www.jupas.edu.hk/en/programme/eduhk/JS8702/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS8714",
+  "institution": "EdUHK",
+  "name": "Bachelor of Science (Honours) in Artificial Intelligence and Educational Technology",
+  "formula_2027": "Best 5: sum of the five highest-scoring HKDSE subjects (core or elective; Citizenship and Social Development excluded), each subject's level value multiplied by its 2027 subject weighting. Category A conversion: 5**=7, 5*=6, 5=5, 4=4, 3=3, 2=2, 1=1 (EdUHK scale, not 8.5).",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "Mathematics (Compulsory Part)": 1.5,
+   "Mathematics Extended Part (Module 1 or 2)": 1.5,
+   "Biology": 1.5,
+   "Chemistry": 1.5,
+   "Physics": 1.5,
+   "Design and Applied Technology": 1.5,
+   "Information and Communication Technology": 1.5,
+   "Combined Science": 1.5,
+   "Integrated Science": 1.5,
+   "Specified ApL subject(s)": 1.5
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "3",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Information and Communication Technology",
+     "Biology",
+     "Chemistry",
+     "Physics",
+     "Mathematics Extended Part (Module 1 or 2)"
+    ],
+    "grade": "2"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 27.0,
+   "lq": 26.5,
+   "mean": null
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://www.eduhk.hk/acadprog/downloads/EdUHK_admission_scores_2026.pdf",
+   "https://www.apply.eduhk.hk/ug/jupas_scores",
+   "https://www.jupas.edu.hk/en/programme/eduhk/JS8714/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS8726",
+  "institution": "EdUHK",
+  "name": "Bachelor of Science (Honours) in Sports Science and Coaching",
+  "formula_2027": "Best 5: sum of the five highest-scoring HKDSE subjects (core or elective; Citizenship and Social Development excluded), each subject's level value multiplied by its 2027 subject weighting. Category A conversion: 5**=7, 5*=6, 5=5, 4=4, 3=3, 2=2, 1=1 (EdUHK scale, not 8.5).",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "Biology": 2.0,
+   "Physical Education": 2.0,
+   "English Language": 1.5,
+   "Mathematics (Compulsory Part)": 1.5,
+   "Mathematics Extended Part (Module 1 or 2)": 1.5,
+   "Design and Applied Technology": 1.5,
+   "Information and Communication Technology": 1.5,
+   "Specified ApL subject(s)": 1.5
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 29.5,
+   "lq": 28.5,
+   "mean": null
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://www.eduhk.hk/acadprog/downloads/EdUHK_admission_scores_2026.pdf",
+   "https://www.apply.eduhk.hk/ug/jupas_scores",
+   "https://www.jupas.edu.hk/en/programme/eduhk/JS8726/"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS8727",
+  "institution": "EdUHK",
+  "name": "Bachelor of Science (Honours) in Speech Pathology and Rehabilitation",
+  "formula_2027": "Best 5: sum of the five highest-scoring HKDSE subjects (core or elective; Citizenship and Social Development excluded), each subject's level value multiplied by its 2027 subject weighting. Category A conversion: 5**=7, 5*=6, 5=5, 4=4, 3=3, 2=2, 1=1 (EdUHK scale, not 8.5).",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "Chinese Language": 1.5,
+   "English Language": 1.5
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "2"
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 28.0,
+   "lq": 27.0,
+   "mean": null
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://www.eduhk.hk/acadprog/downloads/EdUHK_admission_scores_2026.pdf",
+   "https://www.apply.eduhk.hk/ug/jupas_scores",
+   "https://www.jupas.edu.hk/en/programme/eduhk/JS8727/"
+  ],
+  "confidence": "official"
+ }
+]

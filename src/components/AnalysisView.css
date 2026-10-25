@@ -1,0 +1,738 @@
+/* Analysis page – chance-list styles.
+   Kept in a component stylesheet (not the shared styles.css) so this work
+   doesn't collide with concurrent edits there. The verdict banner,
+   findings list, slot chips and detail CTA are styled in styles.css under
+   the "Analysis (portfolio strategy read)" block; only the per-pick
+   chance list lives here. Tokens (--good/--warn/--bad/--muted/--line/
+   --space-* …) are the global vars from styles.css :root. */
+
+/* Floating bottom action bar (Back + Share) — reuses .stepper-footer's look.
+   The analysis-view has a transform (entrance/exit animation), which makes a
+   `position:fixed` child resolve against it (and scroll with content) instead
+   of the viewport. So we use `position: sticky; bottom` — it pins to the
+   bottom of the scroll container regardless of the ancestor transform, and
+   rests in-flow at the end so it never hides the last content. */
+.analysis-footer {
+  position: sticky;
+  left: auto;
+  right: auto;
+  bottom: var(--space-3);
+  width: min(760px, calc(100% - var(--space-4)));
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* The big bottom padding on .app-shell exists to clear a FIXED footer; our
+   sticky footer is in-flow, so drop it (its own margin gives the gap) and the
+   bar sits near the bottom edge like the Step 1-3 bar. Element+class beats the
+   .app-shell rule at all widths. */
+main.analysis-view {
+  padding-bottom: 0;
+}
+
+/* In the integrated "Step 4" layout the STEPPER BAR is the sticky top element
+   (exactly like Steps 1-3), so the header scrolls away with the page. Override
+   the share/analysis sticky-header rule from styles.css for this view.
+   Element+class > the styles.css `.analysis-view > .app-topbar` selector. */
+main.analysis-view > .app-topbar {
+  position: static;
+  border-bottom: none;
+  padding-bottom: 0;
+}
+
+/* Inline (Step-3 pane) Analysis: the heading must NOT inherit the
+   calculator's sticky step-title chrome from `.stepper-panel .panel-heading`
+   (position:sticky; top:45px; negative margins + padding sized for the
+   Grades/Programme/Compare panels). Inside the analysis card that left a
+   big empty gap above the heading and stuck it down over the verdict. Render
+   it as the plain, in-flow share heading, exactly like the standalone page. */
+.stepper-panel .analysis-panel .panel-heading.share-panel-heading {
+  position: static;
+  top: auto;
+  z-index: auto;
+  margin: 0;
+  padding: 0;
+  background: none;
+  border-bottom: none;
+  border-radius: 0;
+  box-shadow: none;
+}
+
+.analysis-chances {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-4);
+  padding: var(--space-4);
+  border: 1px solid var(--line);
+  border-radius: 16px;
+  background: var(--surface-strong);
+}
+
+.chance-group {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-2);
+}
+
+/* Band B and below are real but rarely reached – visually subordinate to
+   Band A so the eye lands on what matters. */
+.chance-group.is-muted {
+  opacity: 0.9;
+}
+
+.chance-group-head {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: var(--space-2);
+}
+
+.chance-group-eyebrow {
+  font-size: 0.7rem;
+  font-weight: 800;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--ink);
+}
+
+.chance-group.is-muted .chance-group-eyebrow {
+  color: var(--muted);
+}
+
+.chance-group-note {
+  font-size: 0.72rem;
+  color: var(--muted);
+}
+
+.chance-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-2);
+}
+
+.chance-row {
+  --chance-tone: var(--line);
+  --chance-fill: var(--surface);
+  position: relative;
+  display: grid;
+  grid-template-columns: 32px minmax(0, 1fr) auto auto;
+  align-items: center;
+  gap: var(--space-3);
+  padding: var(--space-2) var(--space-3);
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  background: color-mix(in srgb, var(--chance-fill) 48%, transparent);
+  overflow: hidden;
+}
+
+.chance-row::before {
+  display: none;
+}
+
+.chance-row.tone-good {
+  --chance-tone: var(--good);
+  --chance-fill: var(--soft-good);
+}
+.chance-row.tone-warn {
+  --chance-tone: var(--warn);
+  --chance-fill: var(--soft-warn);
+}
+.chance-row.tone-alert {
+  --chance-tone: var(--alert);
+  --chance-fill: var(--soft-alert);
+}
+.chance-row.tone-bad {
+  --chance-tone: var(--bad);
+  --chance-fill: var(--soft-bad);
+}
+.chance-row.tone-neutral {
+  --chance-tone: var(--muted);
+  --chance-fill: var(--soft-neutral);
+}
+
+.chance-group.is-muted .chance-row {
+  background: color-mix(in srgb, var(--chance-fill) 48%, transparent);
+}
+
+/* Clickable variant – resets the <button> defaults and adds affordance. */
+.chance-row-button {
+  width: 100%;
+  text-align: left;
+  font: inherit;
+  color: inherit;
+  cursor: pointer;
+  transition: border-color 0.15s ease, background 0.15s ease;
+}
+
+.chance-row-button:hover,
+.chance-row-button:focus-visible {
+  border-color: var(--accent);
+  background: color-mix(in srgb, var(--chance-fill) 74%, var(--hover));
+  outline: none;
+}
+
+.chance-chevron {
+  color: var(--muted);
+  flex: 0 0 auto;
+}
+
+.chance-row-button:hover .chance-chevron,
+.chance-row-button:focus-visible .chance-chevron {
+  color: var(--accent);
+}
+
+/* Collapsed Band B and below. */
+.chance-lower {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-2);
+}
+
+.chance-lower-toggle {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  align-self: flex-start;
+  padding: 6px 10px;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  background: var(--surface);
+  color: var(--muted);
+  font-size: 0.78rem;
+  font-weight: 800;
+  cursor: pointer;
+}
+
+.chance-lower-toggle:hover {
+  border-color: var(--accent);
+  color: var(--ink);
+}
+
+.chance-lower-toggle svg {
+  transition: transform 0.18s ease;
+}
+
+.chance-lower-toggle.open svg {
+  transform: rotate(180deg);
+}
+
+/* Solid band-coloured slot badge (green / gold / red by chance), mirroring the
+   share card — carries the row's status now that the left stripe is gone. */
+.chance-slot {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 34px;
+  height: 23px;
+  padding: 0 9px;
+  border-radius: 999px;
+  font-weight: 900;
+  font-size: 0.76rem;
+  letter-spacing: 0.03em;
+  font-variant-numeric: tabular-nums;
+  background: var(--chance-tone);
+  color: var(--surface-strong);
+  flex: 0 0 auto;
+}
+
+.chance-prog {
+  display: flex;
+  flex-direction: column;
+  gap: 1px;
+  min-width: 0;
+  overflow: hidden;
+}
+
+.chance-prog-top {
+  display: flex;
+  align-items: baseline;
+  gap: var(--space-2);
+}
+
+.chance-prog-top strong {
+  font-size: 0.9rem;
+  font-weight: 900;
+}
+
+.chance-prog-top small {
+  font-size: 0.68rem;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: var(--muted);
+}
+
+.chance-prog em {
+  font-style: normal;
+  font-size: 0.8rem;
+  color: var(--ink);
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+/* Soft-factor context (interview, few places) – neutral, not an alarm.
+   Risk is signalled by the chance tag colour + the advisor findings. */
+.chance-note {
+  font-size: 0.72rem;
+  font-weight: 600;
+  color: var(--muted);
+}
+
+.chance-tag {
+  display: inline-flex;
+  align-items: center;
+  width: fit-content;
+  border-radius: 999px;
+  padding: var(--space-1) var(--space-2);
+  font-size: 0.74rem;
+  font-weight: 900;
+  white-space: nowrap;
+}
+
+.chance-tag.tone-good {
+  background: var(--soft-good);
+  color: var(--good);
+}
+.chance-tag.tone-warn {
+  background: var(--soft-warn);
+  color: color-mix(in srgb, var(--warn) 72%, var(--ink));
+}
+.chance-tag.tone-alert {
+  background: var(--soft-alert);
+  color: var(--alert);
+}
+.chance-tag.tone-bad {
+  background: var(--soft-bad);
+  color: var(--bad);
+}
+.chance-tag.tone-neutral {
+  background: var(--soft-neutral);
+  color: var(--muted);
+}
+
+.chance-empty {
+  margin: 0;
+  padding: var(--space-2) 0;
+  font-size: 0.84rem;
+  color: var(--muted);
+}
+
+/* Shared section header (Advisor read). Mirrors the snapshot head that
+   used to live in styles.css for the old reach/target/safe block. */
+.analysis-section-head {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: var(--space-2);
+  margin-bottom: var(--space-3);
+}
+
+.analysis-section-head .eyebrow {
+  margin: 0;
+}
+
+.analysis-section-head .muted {
+  font-size: 0.78rem;
+}
+
+/* "Viewing a shared plan" badge — shown at the top of a received analysis so
+   it's clear you're looking at someone else's plan, not your own. */
+.analysis-viewmode-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  align-self: flex-start;
+  padding: 5px 11px;
+  border-radius: 999px;
+  border: 1px solid color-mix(in srgb, var(--accent) 35%, var(--line));
+  background: color-mix(in srgb, var(--accent) 8%, var(--surface-strong));
+  color: var(--accent);
+  font-size: 0.78rem;
+  font-weight: 700;
+}
+
+/* Candidate's raw DSE grades, shown before the verdict so the advisor can read
+   the profile behind the scores. Reuses the .grade-title-summary pill grid. */
+.analysis-grades {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-1);
+}
+
+.analysis-grades .grade-title-summary {
+  margin-top: 0;
+}
+
+
+/* ── Extracted from styles.css ─── */
+
+/* AnalysisView styles */
+
+
+
+.strategy-summary {
+  padding: var(--space-4);
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-3);
+}
+
+
+.strategy-summary .strategy-heading h2 {
+  font-size: 1rem;
+  margin: 2px 0 0;
+}
+
+
+.strategy-grid {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 6px;
+}
+
+
+.strategy-cell {
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  padding: 10px 12px;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  background: var(--surface-strong);
+}
+
+
+.strategy-label {
+  font-size: 0.7rem;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--muted);
+}
+
+
+.strategy-value {
+  font-size: 0.88rem;
+  color: var(--ink);
+  line-height: 1.35;
+}
+
+
+.strategy-cell.tone-good {
+  border-color: #bbf7d0;
+  background: #f0fdf4;
+}
+
+
+:root[data-theme="dark"] .strategy-cell.tone-good {
+  border-color: #14532d;
+  background: rgba(34, 197, 94, 0.10);
+}
+
+
+.strategy-cell.tone-warn {
+  border-color: #fed7aa;
+  background: #fff7ed;
+}
+
+
+:root[data-theme="dark"] .strategy-cell.tone-warn {
+  border-color: #7c2d12;
+  background: rgba(249, 115, 22, 0.10);
+}
+
+
+.strategy-footnote {
+  margin: 0;
+  font-size: 0.78rem;
+  color: var(--muted);
+}
+
+
+/* ── Analysis (portfolio strategy read) ───────────────────────────────
+   Its own page, routed from the Step-3 "Analysis" button. Reuses the
+   share-view shell + heading chrome; everything below is analysis-only.
+   Tone language matches the rest of the app: good=green, warn=amber,
+   critical=red, info=ink-blue. */
+.analysis-view {
+  max-width: 760px;
+}
+
+
+.analysis-verdict {
+  display: flex;
+  align-items: center;
+  gap: var(--space-3);
+  padding: var(--space-4);
+  border: 1px solid var(--line);
+  border-radius: 16px;
+  background: var(--surface-strong);
+}
+
+
+.analysis-verdict-icon {
+  display: grid;
+  place-items: center;
+  width: 40px;
+  height: 40px;
+  flex: 0 0 auto;
+  border-radius: 12px;
+  color: #fff;
+}
+
+
+.analysis-verdict-text {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  min-width: 0;
+}
+
+
+.analysis-verdict-text strong {
+  font-size: 1.1rem;
+  letter-spacing: -0.01em;
+}
+
+
+.analysis-verdict-text span {
+  color: var(--muted);
+  font-size: 0.9rem;
+}
+
+
+.analysis-verdict.tone-good {
+  border-color: color-mix(in srgb, var(--good) 40%, var(--line));
+  background: var(--soft-good);
+}
+
+
+.analysis-verdict.tone-warning {
+  border-color: color-mix(in srgb, var(--warn) 45%, var(--line));
+  background: var(--soft-warn);
+}
+
+
+.analysis-verdict.tone-critical {
+  border-color: color-mix(in srgb, var(--bad) 45%, var(--line));
+  background: var(--soft-bad);
+}
+
+
+.analysis-verdict.tone-good .analysis-verdict-icon { background: var(--good); }
+
+.analysis-verdict.tone-warning .analysis-verdict-icon { background: var(--warn); }
+
+.analysis-verdict.tone-critical .analysis-verdict-icon { background: var(--bad); }
+
+.analysis-verdict.tone-info .analysis-verdict-icon { background: var(--accent-2); }
+
+
+.analysis-snapshot {
+  border: 1px solid var(--line);
+  border-radius: 16px;
+  background: var(--surface-strong);
+  padding: var(--space-4);
+}
+
+
+.analysis-snapshot-head {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: var(--space-2);
+  margin-bottom: var(--space-3);
+}
+
+
+.analysis-snapshot-head .eyebrow { margin: 0; }
+
+.analysis-snapshot-head .muted { font-size: 0.78rem; }
+
+
+.analysis-bars {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-3);
+}
+
+
+.analysis-snapshot-foot {
+  margin: var(--space-3) 0 0;
+  font-size: 0.78rem;
+  color: var(--muted);
+}
+
+
+.analysis-finding-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-2);
+}
+
+
+.analysis-finding {
+  display: flex;
+  gap: var(--space-3);
+  padding: var(--space-3);
+  border: 1px solid var(--line);
+  border-radius: 14px;
+  background: var(--surface);
+}
+
+
+.analysis-finding-mark {
+  display: grid;
+  place-items: center;
+  width: 28px;
+  height: 28px;
+  flex: 0 0 auto;
+  border-radius: 8px;
+  color: #fff;
+}
+
+
+.analysis-finding-body {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  min-width: 0;
+}
+
+
+.analysis-finding-body strong {
+  font-size: 0.95rem;
+  letter-spacing: -0.01em;
+}
+
+
+.analysis-finding-body p {
+  margin: 0;
+  color: var(--muted);
+  font-size: 0.86rem;
+  line-height: 1.5;
+}
+
+
+.analysis-finding-slots {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px;
+  margin-top: 2px;
+}
+
+
+.analysis-slot-chip {
+  font-family: inherit;
+  font-size: 0.7rem;
+  font-weight: 800;
+  padding: 2px 7px;
+  border-radius: 999px;
+  background: var(--surface-strong);
+  border: 1px solid var(--line);
+  color: var(--muted);
+}
+
+/* Slot label (A1) is the reference the finding text uses → make it prominent;
+   the JUPAS code stays muted as the lookup target. */
+.analysis-slot-chip b { color: var(--ink); font-weight: 800; }
+
+
+/* Clickable chip (carries a JUPAS code → opens that programme's detail). */
+.analysis-slot-chip.is-link {
+  cursor: pointer;
+  transition: color 140ms ease, border-color 140ms ease, background 140ms ease;
+}
+
+
+.analysis-slot-chip.is-link:hover {
+  color: var(--accent);
+  border-color: color-mix(in srgb, var(--accent) 45%, var(--line));
+  background: color-mix(in srgb, var(--accent) 8%, var(--surface-strong));
+  outline: none;
+}
+
+
+.analysis-slot-chip.is-link:focus-visible {
+  color: var(--accent);
+  border-color: color-mix(in srgb, var(--accent) 45%, var(--line));
+  background: color-mix(in srgb, var(--accent) 8%, var(--surface-strong));
+  outline: none;
+}
+
+
+.analysis-finding.tone-critical .analysis-finding-mark { background: var(--bad); }
+
+.analysis-finding.tone-warning .analysis-finding-mark { background: var(--warn); }
+
+.analysis-finding.tone-info .analysis-finding-mark { background: var(--accent-2); }
+
+.analysis-finding.tone-good .analysis-finding-mark { background: var(--good); }
+
+
+.analysis-detail-cta {
+  display: grid;
+  grid-template-columns: 1fr auto;
+  align-items: center;
+  gap: 2px var(--space-3);
+  width: 100%;
+  text-align: left;
+  padding: var(--space-3) var(--space-4);
+  border: 1px solid var(--line);
+  border-radius: 14px;
+  background: var(--surface-strong);
+  color: var(--ink);
+  cursor: pointer;
+  transition: border-color 0.15s ease, background 0.15s ease;
+}
+
+
+.analysis-detail-cta:hover {
+  border-color: var(--accent);
+  background: var(--hover);
+}
+
+
+.analysis-detail-cta span {
+  grid-column: 1;
+  font-weight: 800;
+}
+
+
+.analysis-detail-cta small {
+  grid-column: 1;
+  color: var(--muted);
+  font-size: 0.78rem;
+}
+
+
+.analysis-detail-cta svg {
+  grid-column: 2;
+  grid-row: 1 / span 2;
+  color: var(--accent);
+}
+
+@media (max-width: 920px) {
+  .analysis-view {
+      display: block;
+    }
+
+
+    .analysis-view > * + * {
+      margin-top: var(--space-4);
+    }
+}
+

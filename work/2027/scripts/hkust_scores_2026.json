@@ -1,0 +1,233 @@
+[
+ {
+  "code": "JS5300",
+  "name": "Business Management and",
+  "highest": 62.48,
+  "median": 37.0,
+  "lq": 36.9
+ },
+ {
+  "code": "JS5311",
+  "name": "BBA Economics in",
+  "highest": 62.48,
+  "median": 38.23,
+  "lq": 36.9
+ },
+ {
+  "code": "JS5312",
+  "name": "BBA Finance in",
+  "highest": 66.94,
+  "median": 44.16,
+  "lq": 43.31
+ },
+ {
+  "code": "JS5313",
+  "name": "BBA Business Global in",
+  "highest": 62.48,
+  "median": 53.23,
+  "lq": 50.79
+ },
+ {
+  "code": "JS5101",
+  "name": "Enrichment International Research",
+  "highest": 44.63,
+  "median": 38.44,
+  "lq": 35.25
+ },
+ {
+  "code": "JS5314",
+  "name": "BBA Information Systems in",
+  "highest": 62.48,
+  "median": 38.23,
+  "lq": 37.04
+ },
+ {
+  "code": "JS5102",
+  "name": "(Group A) Science",
+  "highest": 66.94,
+  "median": 37.5,
+  "lq": 35.63
+ },
+ {
+  "code": "JS5103",
+  "name": "(Group B) Science",
+  "highest": 66.94,
+  "median": 36.75,
+  "lq": 34.5
+ },
+ {
+  "code": "JS5315",
+  "name": "BBA Management in",
+  "highest": 62.48,
+  "median": 35.05,
+  "lq": 35.05
+ },
+ {
+  "code": "JS5118",
+  "name": "BSc Biomedical Health Sciences and in",
+  "highest": 66.94,
+  "median": 45.0,
+  "lq": 43.88
+ },
+ {
+  "code": "JS5316",
+  "name": "BBA Marketing in",
+  "highest": 62.48,
+  "median": 35.5,
+  "lq": 35.4
+ },
+ {
+  "code": "JS5317",
+  "name": "BBA Management Operations in",
+  "highest": 62.48,
+  "median": 35.05,
+  "lq": 35.05
+ },
+ {
+  "code": "JS5181",
+  "name": "(Group A) Artificial Extended Intelligence Major Science in with",
+  "highest": 66.94,
+  "median": 40.13,
+  "lq": 38.28
+ },
+ {
+  "code": "JS5318",
+  "name": "Accounting BBA Professional in",
+  "highest": 62.48,
+  "median": 37.23,
+  "lq": 35.82
+ },
+ {
+  "code": "JS5331",
+  "name": "BSc Economics Finance and in",
+  "highest": 66.94,
+  "median": 47.25,
+  "lq": 45.75
+ },
+ {
+  "code": "JS5212",
+  "name": "BEng Computer Engineering in",
+  "highest": 80.33,
+  "median": 49.3,
+  "lq": 48.3
+ },
+ {
+  "code": "JS5332",
+  "name": "BSc Finance Quantitative in",
+  "highest": 66.94,
+  "median": 58.5,
+  "lq": 57.38
+ },
+ {
+  "code": "JS5220",
+  "name": "& Biological Chemical Department Engineering of",
+  "highest": 89.25,
+  "median": 49.0,
+  "lq": 48.0
+ },
+ {
+  "code": "JS5814",
+  "name": "BSc Business Intelligence Management Risk and in",
+  "highest": 66.94,
+  "median": 47.25,
+  "lq": 46.69
+ },
+ {
+  "code": "JS5230",
+  "name": "& Civil Department Engineering Environmental of",
+  "highest": 80.33,
+  "median": 46.8,
+  "lq": 45.88
+ },
+ {
+  "code": "JS5822",
+  "name": "BSc Finance Green Sustainable and in",
+  "highest": 66.94,
+  "median": 41.25,
+  "lq": 40.03
+ },
+ {
+  "code": "JS5240",
+  "name": "& Computer Department Engineering Science of",
+  "highest": 80.33,
+  "median": 55.65,
+  "lq": 53.94
+ },
+ {
+  "code": "JS5250",
+  "name": "& Computer Department Electronic Engineering of",
+  "highest": 80.33,
+  "median": 50.64,
+  "lq": 48.88
+ },
+ {
+  "code": "JS5260",
+  "name": "& Analytics Decision Department Engineering Industrial of",
+  "highest": 80.33,
+  "median": 45.0,
+  "lq": 43.8
+ },
+ {
+  "code": "JS5270",
+  "name": "& Aerospace Department Engineering Mechanical of",
+  "highest": 75.86,
+  "median": 49.53,
+  "lq": 47.35
+ },
+ {
+  "code": "JS5282",
+  "name": "Artificial Engineering Extended Intelligence Major in with",
+  "highest": 75.86,
+  "median": 54.24,
+  "lq": 50.84
+ },
+ {
+  "code": "JS5411",
+  "name": "BSc China Global Studies in",
+  "highest": 58.01,
+  "median": 30.99,
+  "lq": 30.3
+ },
+ {
+  "code": "JS5412",
+  "name": "Analysis BSc Quantitative Social in",
+  "highest": 66.94,
+  "median": 36.0,
+  "lq": 35.5
+ },
+ {
+  "code": "JS5711",
+  "name": "BSc Design Innovation, Technology and in",
+  "highest": 75.86,
+  "median": 36.0,
+  "lq": 35.28
+ },
+ {
+  "code": "JS5812",
+  "name": "BSc Environmental Management Technology and in",
+  "highest": 62.48,
+  "median": 33.53,
+  "lq": 32.05
+ },
+ {
+  "code": "JS5901",
+  "name": "& / BBA BEng BSc Degree Dual Management Program Technology and in",
+  "highest": 75.86,
+  "median": 59.59,
+  "lq": 57.77
+ },
+ {
+  "code": "JS5811",
+  "name": "BSc Biotechnology Business and in",
+  "highest": 66.94,
+  "median": 39.28,
+  "lq": 37.13
+ },
+ {
+  "code": "JS5813",
+  "name": "BSc Economics Mathematics and in",
+  "highest": 71.4,
+  "median": 47.05,
+  "lq": 44.85
+ }
+]

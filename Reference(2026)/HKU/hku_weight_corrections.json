@@ -1,0 +1,223 @@
+{
+ "_comment": "HKU WEIGHTING-n footnote pools that the formula-text scrape references (\"with WEIGHTING n\") but does not DEFINE — the pool composition lives in a separate PDF footnote box, VLM-read 2026-07 from Reference(2025)/HKU/\"HKU 2025 Requirements & 2024 Weighting & Admission Score.pdf\" (content header: \"HKU 2025 Admissions Information for Programmes with Subject Weightings\"). parse_hku_formula_weights sees the reference but had no pool -> best_of empty / weights incomplete. Applied by unify after the HKU block. HKU formula is stable across the cycle unless the source formula_2025/2026 differ, so 2025 pools mirror to 2026 only when 2026 keeps the weighting.",
+ "_verified": "2026-07-09 VLM (5-page HKU 2025 subject-weightings booklet)",
+ "JS6224": {
+  "_note": "Applied AI. formula_2025 \"2xEng+2xMath+2xM1/M2+Best 2 with WEIGHTING 7\"; WEIGHTING7 = x1.5 best-2 of {Bio,Chem,ICT,Phys}. NOTE formula_2026 is \"Eng+Math+Best 3\" (HKU DROPPED the weighting for 2026) so the pool is 2025-only.",
+  "best_of_weights_2025": [
+   {
+    "count": 2,
+    "subjects": [
+     "Biology",
+     "Chemistry",
+     "Information and Communication Technology",
+     "Physics"
+    ],
+    "weight": 1.5
+   }
+  ]
+ },
+ "JS6999": {
+  "_note": "Computing and Data Science. formula_2025 \"Eng+1.5xMath+Best 2 with WEIGHTING 8+Best Subject\"; WEIGHTING8 = x1.5 best-2 of {Bio,Chem,Econ,ICT,M1,M2,Phys}. 2026 formula \"Eng+Math+Best 3\" dropped it -> 2025-only.",
+  "best_of_weights_2025": [
+   {
+    "count": 2,
+    "subjects": [
+     "Biology",
+     "Chemistry",
+     "Economics",
+     "Information and Communication Technology",
+     "Mathematics Extended Part (Module 1)",
+     "Mathematics Extended Part (Module 2)",
+     "Physics"
+    ],
+    "weight": 1.5
+   }
+  ]
+ },
+ "JS6602": {
+  "_note": "Innovation and Technology. formula_2025 \"2xEng+2xMath+Best 4 with WEIGHTING 10\"; WEIGHTING10 = x2 {Bio,Chem,CombSci,DAT,ICT,IntSci,Phys,Tech&Living} and x1.5 {ALL other subjects}. The scrape captured the x2 pool but not the x1.5 floor (and left M1/M2 at x2 though they are NOT in the x2 pool). Full explicit map below (x2 heavy pool + Eng/Math; x1.5 on every other Cat-A/M1/M2/Chinese/Cat-C).",
+  "subject_weights_2025": {
+   "English Language": 2.0,
+   "Mathematics (Compulsory Part)": 2.0,
+   "Biology": 2.0,
+   "Chemistry": 2.0,
+   "Physics": 2.0,
+   "Combined Science: Biology + Chemistry": 2.0,
+   "Combined Science: Biology + Physics": 2.0,
+   "Combined Science: Physics + Chemistry": 2.0,
+   "Integrated Science": 2.0,
+   "Design and Applied Technology": 2.0,
+   "Information and Communication Technology": 2.0,
+   "Technology and Living (Food Science and Technology)": 2.0,
+   "Technology and Living (Fashion, Clothing and Textiles)": 2.0,
+   "Business, Accounting and Financial Studies": 1.5,
+   "Chinese History": 1.5,
+   "Chinese Language": 1.5,
+   "Chinese Literature": 1.5,
+   "Economics": 1.5,
+   "Ethics and Religious Studies": 1.5,
+   "French: Advanced Diploma of French Language Studies / Diploma of French Language Studies": 1.5,
+   "Geography": 1.5,
+   "German: Goethe-Certificate": 1.5,
+   "Health Management and Social Care": 1.5,
+   "History": 1.5,
+   "Japanese: Japanese-Language Proficiency Test": 1.5,
+   "Korean: Test of Proficiency in Korean II": 1.5,
+   "Literature in English": 1.5,
+   "Mathematics Extended Part (Module 1)": 1.5,
+   "Mathematics Extended Part (Module 2)": 1.5,
+   "Music": 1.5,
+   "Physical Education": 1.5,
+   "Spanish: Diploma of Spanish as a Foreign Language": 1.5,
+   "Tourism and Hospitality Studies": 1.5,
+   "Urdu: Urdu (International)": 1.5,
+   "Visual Arts": 1.5
+  }
+ },
+ "JS6274": {
+  "_note": "BA Global Creative Industries (new for 2025). Booklet p1 (visually verified 2026-07-13): plain '2 x Eng + Best 4 Subjects' with NO weighting badge, and the WEIGHTING 1 box names only 6054 BA & 6286 BA(HDT). HKU added Chinese x1.5 FOR 2026 ('with Weighting1', subject_weight 'X 1.5: Chinese Language'); the scrape leaked it back onto 2025. The 33/32 median/LQ were scored without it.",
+  "subject_weights_2025": {
+   "English Language": 2.0
+  },
+  "subject_weights_2025_raw": null
+ },
+ "JS6298": {
+  "_note": "BA & BEng in AI and Data Science. Booklet p1: WEIGHTING 2 (x1.5 {Bio, Chem, Econ, ICT, M1 or 2, Phys}) badges the 'Best 2 Subjects' term ONLY — the trailing 'Best Subject' slot is unweighted, so at most TWO set-subjects carry x1.5. The API's flat subject_weight list over-weighted a third set-subject (up to ~+2.75). Same shape as JS6999's W8 -> count-2 pool. The 2026 formula is identical ('with weighting1'), so both years get the pool.",
+  "subject_weights_2025": {
+   "English Language": 2.0,
+   "Mathematics (Compulsory Part)": 1.5
+  },
+  "best_of_weights_2025": [
+   {
+    "count": 2,
+    "weight": 1.5,
+    "subjects": ["Biology", "Chemistry", "Economics", "Information and Communication Technology", "Mathematics Extended Part (Module 1)", "Mathematics Extended Part (Module 2)", "Physics"]
+   }
+  ],
+  "subject_weights_2026": {
+   "English Language": 2.0,
+   "Mathematics (Compulsory Part)": 1.5
+  },
+  "best_of_weights_2026": [
+   {
+    "count": 2,
+    "weight": 1.5,
+    "subjects": ["Biology", "Chemistry", "Economics", "Information and Communication Technology", "Mathematics Extended Part (Module 1)", "Mathematics Extended Part (Module 2)", "Physics"]
+   }
+  ]
+ },
+ "JS6107": {
+  "_note": "Bachelor of Dental Surgery. Booklet p2: WEIGHTING 3 = x1.3 badging 'Best of Biology or Chemistry' — the ONE reserved slot; a student holding BOTH Bio and Chem gets x1.3 on the better one only (the flat map double-weighted both, ~+2.1 for a 5**/5* pair). The formula is 6 subjects (reserved slot + Best 5) — target count comes from the formula-text parse. Pool count-1 x1.3 + a compulsory pool forcing the reserved slot. 2026 formula identical ('with Weighting1', 'X 1.3: Biology / Chemistry').",
+  "subject_weights_2025": {},
+  "best_of_weights_2025": [
+   {
+    "count": 1,
+    "weight": 1.3,
+    "subjects": ["Biology", "Chemistry"]
+   }
+  ],
+  "subject_weights_2026": {},
+  "best_of_weights_2026": [
+   {
+    "count": 1,
+    "weight": 1.3,
+    "subjects": ["Biology", "Chemistry"]
+   }
+  ],
+  "add_calculation_constraints": [
+   {
+    "type": "compulsory_subject_pool",
+    "count": 1,
+    "subjects": ["Biology", "Chemistry"],
+    "description": "Formula reserves one slot for the better of Biology / Chemistry"
+   }
+  ]
+ },
+ "JS6688": {
+  "_note": "Science Master Class. CORRECTED 2026-07-14 (user-reported, same class as JS6901): HKU's own calculator applies WEIGHTING 5 (x1.2 {Bio, Chem, M1 or 2, Phys}) to EVERY counted science subject, NOT just the trailing 'Best Subject'. The 2025 booklet badge visually sits on 'Best Subject', but HKU scores all these sciences x1.2 — consistent with the 2026 formula being flat x1.3 on the same set. The prior model (count-2 x1.0 + count-1 x1.2 pools) under-weighted a student's top two sciences. Encoded FLAT like JS6901/JS6119. Math (Compulsory Part) stays UNWEIGHTED in 2025 — it is NOT in the W5 set; the 2026 formula separately ADDED '1.3 x Math'. The compulsory pool forces the two reserved sciences into the Best-5.",
+  "subject_weights_2025": {
+   "Biology": 1.2,
+   "Chemistry": 1.2,
+   "Mathematics Extended Part (Module 1)": 1.2,
+   "Mathematics Extended Part (Module 2)": 1.2,
+   "Physics": 1.2
+  },
+  "best_of_weights_2025": [],
+  "subject_weights_2025_raw": "X 1.2: Biology / Chemistry / Mathematics Extended Part (Module 1 or 2) / Physics",
+  "subject_weights_2026": {
+   "Mathematics (Compulsory Part)": 1.3,
+   "Biology": 1.3,
+   "Chemistry": 1.3,
+   "Mathematics Extended Part (Module 1)": 1.3,
+   "Mathematics Extended Part (Module 2)": 1.3,
+   "Physics": 1.3
+  },
+  "best_of_weights_2026": [],
+  "add_calculation_constraints": [
+   {
+    "type": "compulsory_subject_pool",
+    "count": 2,
+    "subjects": ["Biology", "Chemistry", "Mathematics Extended Part (Module 1 or 2)", "Physics"],
+    "description": "Formula reserves two slots for the best two of: Biology, Chemistry, M1/M2, Physics"
+   }
+  ]
+ },
+ "JS6901": {
+  "_note": "Bachelor of Science. formula (both years) 'Eng + 1.5 x Math + 1.5 x Best Sci Subject(b) + Best 2 Subjects with WEIGHTING 6'. WEIGHTING 6 (2025 booklet p4) = x1.5 {Bio, Chem, M1 or 2, Phys} and applies to the BEST 2 slots, on top of the reserved Best-Sci slot — i.e. EVERY counted science subject gets x1.5, not just one (user-reported: Phys+Chem+M2 all x1.5 on HKU's own calculator; our single count-1 pool weighted only one, under-scoring ~5.5 pts). Encoded FLAT like JS6298's WEIGHTING 2, replacing the count-1 pool. Footnote b: the reserved slot itself is Bio/Chem/Phys only (not M1/M2) -> compulsory_subject_pool. 2026 formula identical ('with Weighting1', subject_weight 'X 1.5: Biology / Chemistry / Mathematics Extended Part (Module 1 or 2) / Physics').",
+  "subject_weights_2025": {
+   "Mathematics (Compulsory Part)": 1.5,
+   "Biology": 1.5,
+   "Chemistry": 1.5,
+   "Mathematics Extended Part (Module 1)": 1.5,
+   "Mathematics Extended Part (Module 2)": 1.5,
+   "Physics": 1.5
+  },
+  "best_of_weights_2025": [],
+  "subject_weights_2026": {
+   "Mathematics (Compulsory Part)": 1.5,
+   "Biology": 1.5,
+   "Chemistry": 1.5,
+   "Mathematics Extended Part (Module 1)": 1.5,
+   "Mathematics Extended Part (Module 2)": 1.5,
+   "Physics": 1.5
+  },
+  "best_of_weights_2026": [],
+  "add_calculation_constraints": [
+   {
+    "type": "compulsory_subject_pool",
+    "count": 1,
+    "subjects": ["Biology", "Chemistry", "Physics"],
+    "description": "Formula reserves one slot for the best science subject (Biology / Chemistry / Physics)"
+   }
+  ]
+ },
+ "JS6119": {
+  "_note": "BEd & BSc. Same structure as JS6901 with WEIGHTING 4 (2025 booklet p3) = x1.5 {Bio, Chem, M1 or 2, Phys} on the Best 2 slots; 2026 formula identical ('with Weighting1'). See JS6901 _note.",
+  "subject_weights_2025": {
+   "Mathematics (Compulsory Part)": 1.5,
+   "Biology": 1.5,
+   "Chemistry": 1.5,
+   "Mathematics Extended Part (Module 1)": 1.5,
+   "Mathematics Extended Part (Module 2)": 1.5,
+   "Physics": 1.5
+  },
+  "best_of_weights_2025": [],
+  "subject_weights_2026": {
+   "Mathematics (Compulsory Part)": 1.5,
+   "Biology": 1.5,
+   "Chemistry": 1.5,
+   "Mathematics Extended Part (Module 1)": 1.5,
+   "Mathematics Extended Part (Module 2)": 1.5,
+   "Physics": 1.5
+  },
+  "best_of_weights_2026": [],
+  "add_calculation_constraints": [
+   {
+    "type": "compulsory_subject_pool",
+    "count": 1,
+    "subjects": ["Biology", "Chemistry", "Physics"],
+    "description": "Formula reserves one slot for the best science subject (Biology / Chemistry / Physics)"
+   }
+  ]
+ }
+}

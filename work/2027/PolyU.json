@@ -1,0 +1,3682 @@
+[
+ {
+  "jupas_code": "JS3000",
+  "institution": "PolyU",
+  "name": "Bachelor’s Degree Scheme in Interdisciplinary Studies",
+  "formula_2027": "Any Best 5 Subjects (plus an additional bonus score for the 6th subject with Level 3 or above)",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "Biology": 7.0,
+   "Business, Accounting and Financial Studies": 7.0,
+   "Chemistry": 7.0,
+   "Chinese History": 7.0,
+   "Chinese Language": 7.0,
+   "Chinese Literature": 7.0,
+   "Combined Science: Biology + Chemistry": 7.0,
+   "Combined Science: Biology + Physics": 7.0,
+   "Combined Science: Physics + Chemistry": 7.0,
+   "Design and Applied Technology": 7.0,
+   "Economics": 7.0,
+   "English Language": 10.0,
+   "Ethics and Religious Studies": 7.0,
+   "French: Advanced Diploma of French Language Studies / Diploma of French Language Studies": 7.0,
+   "Geography": 7.0,
+   "German: Goethe-Certificate": 7.0,
+   "Health Management and Social Care": 7.0,
+   "History": 7.0,
+   "Information and Communication Technology": 7.0,
+   "Integrated Science": 7.0,
+   "Japanese: Japanese-Language Proficiency Test": 7.0,
+   "Korean: Test of Proficiency in Korean II": 7.0,
+   "Literature in English": 7.0,
+   "Mathematics (Compulsory Part)": 10.0,
+   "Mathematics Extended Part (Module 1)": 7.0,
+   "Mathematics Extended Part (Module 2)": 7.0,
+   "Music": 7.0,
+   "Physical Education": 7.0,
+   "Physics": 7.0,
+   "Spanish: Diploma of Spanish as a Foreign Language": 7.0,
+   "Technology and Living (Fashion, Clothing and Textiles)": 7.0,
+   "Technology and Living (Food Science and Technology)": 7.0,
+   "Tourism and Hospitality Studies": 7.0,
+   "Urdu: Urdu (International)": 7.0,
+   "Visual Arts": 7.0
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": ""
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": ""
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": null,
+   "lq": null,
+   "mean": null
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://www.polyu.edu.hk/saso/docdrive/jupas/admission_figures.pdf",
+   "https://www.polyu.edu.hk/saso/docdrive/jupas/2027_JS3000_SW.pdf",
+   "https://www.polyu.edu.hk/study/ug/jupas/2027/js3000"
+  ],
+  "confidence": "partial"
+ },
+ {
+  "jupas_code": "JS3003",
+  "institution": "PolyU",
+  "name": "Bachelor’s Degree Scheme in Business Administration",
+  "formula_2027": "Any Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "Biology": 7.0,
+   "Business, Accounting and Financial Studies": 7.0,
+   "Chemistry": 7.0,
+   "Chinese History": 7.0,
+   "Chinese Language": 7.0,
+   "Chinese Literature": 7.0,
+   "Combined Science: Biology + Chemistry": 7.0,
+   "Combined Science: Biology + Physics": 7.0,
+   "Combined Science: Physics + Chemistry": 7.0,
+   "Design and Applied Technology": 5.0,
+   "Economics": 7.0,
+   "English Language": 10.0,
+   "Ethics and Religious Studies": 5.0,
+   "French: Advanced Diploma of French Language Studies / Diploma of French Language Studies": 5.0,
+   "Geography": 7.0,
+   "German: Goethe-Certificate": 5.0,
+   "Health Management and Social Care": 5.0,
+   "History": 7.0,
+   "Information and Communication Technology": 5.0,
+   "Integrated Science": 7.0,
+   "Japanese: Japanese-Language Proficiency Test": 5.0,
+   "Korean: Test of Proficiency in Korean II": 5.0,
+   "Literature in English": 7.0,
+   "Mathematics (Compulsory Part)": 10.0,
+   "Mathematics Extended Part (Module 1)": 7.0,
+   "Mathematics Extended Part (Module 2)": 7.0,
+   "Music": 5.0,
+   "Physical Education": 5.0,
+   "Physics": 7.0,
+   "Spanish: Diploma of Spanish as a Foreign Language": 5.0,
+   "Technology and Living (Fashion, Clothing and Textiles)": 5.0,
+   "Technology and Living (Food Science and Technology)": 5.0,
+   "Tourism and Hospitality Studies": 5.0,
+   "Urdu: Urdu (International)": 5.0,
+   "Visual Arts": 5.0
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": ""
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": ""
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 195.5,
+   "lq": 194.0,
+   "mean": 202.4
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://www.polyu.edu.hk/saso/docdrive/jupas/admission_figures.pdf",
+   "https://www.polyu.edu.hk/saso/docdrive/jupas/2027_JS3003_SW.pdf",
+   "https://www.polyu.edu.hk/study/ug/jupas/2027/js3003"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS3004",
+  "institution": "PolyU",
+  "name": "Bachelor’s Degree Scheme in Construction and Environment",
+  "formula_2027": "Any Best 5 Subjects (plus an additional bonus score for the 6th subject with Level 3 or above)",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "Biology": 7.0,
+   "Business, Accounting and Financial Studies": 7.0,
+   "Chemistry": 7.0,
+   "Chinese History": 5.0,
+   "Chinese Language": 7.0,
+   "Chinese Literature": 5.0,
+   "Combined Science: Biology + Chemistry": 7.0,
+   "Combined Science: Biology + Physics": 10.0,
+   "Combined Science: Physics + Chemistry": 10.0,
+   "Design and Applied Technology": 7.0,
+   "Economics": 7.0,
+   "English Language": 10.0,
+   "Ethics and Religious Studies": 5.0,
+   "French: Advanced Diploma of French Language Studies / Diploma of French Language Studies": 5.0,
+   "Geography": 10.0,
+   "German: Goethe-Certificate": 5.0,
+   "Health Management and Social Care": 5.0,
+   "History": 5.0,
+   "Information and Communication Technology": 7.0,
+   "Integrated Science": 10.0,
+   "Japanese: Japanese-Language Proficiency Test": 5.0,
+   "Korean: Test of Proficiency in Korean II": 5.0,
+   "Literature in English": 5.0,
+   "Mathematics (Compulsory Part)": 10.0,
+   "Mathematics Extended Part (Module 1)": 10.0,
+   "Mathematics Extended Part (Module 2)": 10.0,
+   "Music": 5.0,
+   "Physical Education": 5.0,
+   "Physics": 10.0,
+   "Spanish: Diploma of Spanish as a Foreign Language": 5.0,
+   "Technology and Living (Fashion, Clothing and Textiles)": 5.0,
+   "Technology and Living (Food Science and Technology)": 5.0,
+   "Tourism and Hospitality Studies": 5.0,
+   "Urdu: Urdu (International)": 5.0,
+   "Visual Arts": 5.0
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": ""
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": ""
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 214.0,
+   "lq": 211.4,
+   "mean": 216.1
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://www.polyu.edu.hk/saso/docdrive/jupas/admission_figures.pdf",
+   "https://www.polyu.edu.hk/saso/docdrive/jupas/2027_JS3004_SW.pdf",
+   "https://www.polyu.edu.hk/study/ug/jupas/2027/js3004"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS3005",
+  "institution": "PolyU",
+  "name": "Bachelor’s Degree Scheme in Engineering",
+  "formula_2027": "Any Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "Biology": 10.0,
+   "Business, Accounting and Financial Studies": 10.0,
+   "Chemistry": 10.0,
+   "Chinese History": 5.0,
+   "Chinese Language": 7.0,
+   "Chinese Literature": 7.0,
+   "Combined Science: Biology + Chemistry": 10.0,
+   "Combined Science: Biology + Physics": 10.0,
+   "Combined Science: Physics + Chemistry": 10.0,
+   "Design and Applied Technology": 10.0,
+   "Economics": 10.0,
+   "English Language": 10.0,
+   "Ethics and Religious Studies": 5.0,
+   "French: Advanced Diploma of French Language Studies / Diploma of French Language Studies": 5.0,
+   "Geography": 7.0,
+   "German: Goethe-Certificate": 5.0,
+   "Health Management and Social Care": 5.0,
+   "History": 5.0,
+   "Information and Communication Technology": 10.0,
+   "Integrated Science": 7.0,
+   "Japanese: Japanese-Language Proficiency Test": 5.0,
+   "Korean: Test of Proficiency in Korean II": 5.0,
+   "Literature in English": 7.0,
+   "Mathematics (Compulsory Part)": 10.0,
+   "Mathematics Extended Part (Module 1)": 10.0,
+   "Mathematics Extended Part (Module 2)": 10.0,
+   "Music": 5.0,
+   "Physical Education": 7.0,
+   "Physics": 10.0,
+   "Spanish: Diploma of Spanish as a Foreign Language": 5.0,
+   "Technology and Living (Fashion, Clothing and Textiles)": 5.0,
+   "Technology and Living (Food Science and Technology)": 5.0,
+   "Tourism and Hospitality Studies": 5.0,
+   "Urdu: Urdu (International)": 5.0,
+   "Visual Arts": 5.0
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": ""
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": ""
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 235.0,
+   "lq": 235.0,
+   "mean": 242.2
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://www.polyu.edu.hk/saso/docdrive/jupas/admission_figures.pdf",
+   "https://www.polyu.edu.hk/saso/docdrive/jupas/2027_JS3005_SW.pdf",
+   "https://www.polyu.edu.hk/study/ug/jupas/2027/js3005"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS3006",
+  "institution": "PolyU",
+  "name": "Bachelor’s Degree Scheme in Computer and Mathematical Sciences",
+  "formula_2027": "Any Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "Biology": 10.0,
+   "Business, Accounting and Financial Studies": 10.0,
+   "Chemistry": 10.0,
+   "Chinese History": 7.0,
+   "Chinese Language": 7.0,
+   "Chinese Literature": 7.0,
+   "Combined Science: Biology + Chemistry": 10.0,
+   "Combined Science: Biology + Physics": 10.0,
+   "Combined Science: Physics + Chemistry": 10.0,
+   "Design and Applied Technology": 7.0,
+   "Economics": 10.0,
+   "English Language": 10.0,
+   "Ethics and Religious Studies": 7.0,
+   "French: Advanced Diploma of French Language Studies / Diploma of French Language Studies": 7.0,
+   "Geography": 7.0,
+   "German: Goethe-Certificate": 7.0,
+   "Health Management and Social Care": 7.0,
+   "History": 7.0,
+   "Information and Communication Technology": 10.0,
+   "Integrated Science": 7.0,
+   "Japanese: Japanese-Language Proficiency Test": 7.0,
+   "Korean: Test of Proficiency in Korean II": 7.0,
+   "Literature in English": 7.0,
+   "Mathematics (Compulsory Part)": 10.0,
+   "Mathematics Extended Part (Module 1)": 10.0,
+   "Mathematics Extended Part (Module 2)": 10.0,
+   "Music": 7.0,
+   "Physical Education": 7.0,
+   "Physics": 10.0,
+   "Spanish: Diploma of Spanish as a Foreign Language": 7.0,
+   "Technology and Living (Fashion, Clothing and Textiles)": 7.0,
+   "Technology and Living (Food Science and Technology)": 7.0,
+   "Tourism and Hospitality Studies": 7.0,
+   "Urdu: Urdu (International)": 7.0,
+   "Visual Arts": 7.0
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": ""
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": ""
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 247.5,
+   "lq": 245.0,
+   "mean": 256.2
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://www.polyu.edu.hk/saso/docdrive/jupas/admission_figures.pdf",
+   "https://www.polyu.edu.hk/saso/docdrive/jupas/2027_JS3006_SW.pdf",
+   "https://www.polyu.edu.hk/study/ug/jupas/2027/js3006"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS3007",
+  "institution": "PolyU",
+  "name": "Bachelor’s Degree Scheme in Humanities",
+  "formula_2027": "Any Best 5 Subjects (plus an additional bonus score for the 6th subject with Level 3 or above)",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "Biology": 7.0,
+   "Business, Accounting and Financial Studies": 7.0,
+   "Chemistry": 7.0,
+   "Chinese History": 7.0,
+   "Chinese Language": 10.0,
+   "Chinese Literature": 7.0,
+   "Combined Science: Biology + Chemistry": 7.0,
+   "Combined Science: Biology + Physics": 7.0,
+   "Combined Science: Physics + Chemistry": 7.0,
+   "Design and Applied Technology": 7.0,
+   "Economics": 7.0,
+   "English Language": 10.0,
+   "Ethics and Religious Studies": 7.0,
+   "French: Advanced Diploma of French Language Studies / Diploma of French Language Studies": 7.0,
+   "Geography": 7.0,
+   "German: Goethe-Certificate": 7.0,
+   "Health Management and Social Care": 7.0,
+   "History": 7.0,
+   "Information and Communication Technology": 7.0,
+   "Integrated Science": 7.0,
+   "Japanese: Japanese-Language Proficiency Test": 7.0,
+   "Korean: Test of Proficiency in Korean II": 7.0,
+   "Literature in English": 7.0,
+   "Mathematics (Compulsory Part)": 7.0,
+   "Mathematics Extended Part (Module 1)": 7.0,
+   "Mathematics Extended Part (Module 2)": 7.0,
+   "Music": 5.0,
+   "Physical Education": 5.0,
+   "Physics": 7.0,
+   "Spanish: Diploma of Spanish as a Foreign Language": 7.0,
+   "Technology and Living (Fashion, Clothing and Textiles)": 7.0,
+   "Technology and Living (Food Science and Technology)": 7.0,
+   "Tourism and Hospitality Studies": 7.0,
+   "Urdu: Urdu (International)": 7.0,
+   "Visual Arts": 5.0
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": ""
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": ""
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 200.9,
+   "lq": 198.1,
+   "mean": 201.9
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://www.polyu.edu.hk/saso/docdrive/jupas/admission_figures.pdf",
+   "https://www.polyu.edu.hk/saso/docdrive/jupas/2027_JS3007_SW.pdf",
+   "https://www.polyu.edu.hk/study/ug/jupas/2027/js3007"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS3008",
+  "institution": "PolyU",
+  "name": "Bachelor’s Degree Scheme in Science",
+  "formula_2027": "Any Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "Biology": 10.0,
+   "Business, Accounting and Financial Studies": 10.0,
+   "Chemistry": 10.0,
+   "Chinese History": 5.0,
+   "Chinese Language": 7.0,
+   "Chinese Literature": 5.0,
+   "Combined Science: Biology + Chemistry": 10.0,
+   "Combined Science: Biology + Physics": 10.0,
+   "Combined Science: Physics + Chemistry": 10.0,
+   "Design and Applied Technology": 5.0,
+   "Economics": 10.0,
+   "English Language": 10.0,
+   "Ethics and Religious Studies": 5.0,
+   "French: Advanced Diploma of French Language Studies / Diploma of French Language Studies": 5.0,
+   "Geography": 5.0,
+   "German: Goethe-Certificate": 5.0,
+   "Health Management and Social Care": 5.0,
+   "History": 5.0,
+   "Information and Communication Technology": 10.0,
+   "Integrated Science": 10.0,
+   "Japanese: Japanese-Language Proficiency Test": 5.0,
+   "Korean: Test of Proficiency in Korean II": 5.0,
+   "Literature in English": 5.0,
+   "Mathematics (Compulsory Part)": 10.0,
+   "Mathematics Extended Part (Module 1)": 10.0,
+   "Mathematics Extended Part (Module 2)": 10.0,
+   "Music": 5.0,
+   "Physical Education": 5.0,
+   "Physics": 10.0,
+   "Spanish: Diploma of Spanish as a Foreign Language": 5.0,
+   "Technology and Living (Fashion, Clothing and Textiles)": 5.0,
+   "Technology and Living (Food Science and Technology)": 5.0,
+   "Tourism and Hospitality Studies": 5.0,
+   "Urdu: Urdu (International)": 5.0,
+   "Visual Arts": 5.0
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": ""
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": ""
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 235.0,
+   "lq": 235.0,
+   "mean": 239.1
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://www.polyu.edu.hk/saso/docdrive/jupas/admission_figures.pdf",
+   "https://www.polyu.edu.hk/saso/docdrive/jupas/2027_JS3008_SW.pdf",
+   "https://www.polyu.edu.hk/study/ug/jupas/2027/js3008"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS3030",
+  "institution": "PolyU",
+  "name": "BSc (Hons) in Physics with a Secondary Major in Artificial Intelligence & Data Analytics (AIDA) / Innovation and Entrepreneurship (IE)",
+  "formula_2027": "Any Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "Biology": 10.0,
+   "Business, Accounting and Financial Studies": 10.0,
+   "Chemistry": 10.0,
+   "Chinese History": 5.0,
+   "Chinese Language": 7.0,
+   "Chinese Literature": 5.0,
+   "Combined Science: Biology + Chemistry": 10.0,
+   "Combined Science: Biology + Physics": 10.0,
+   "Combined Science: Physics + Chemistry": 10.0,
+   "Design and Applied Technology": 5.0,
+   "Economics": 10.0,
+   "English Language": 10.0,
+   "Ethics and Religious Studies": 5.0,
+   "French: Advanced Diploma of French Language Studies / Diploma of French Language Studies": 5.0,
+   "Geography": 5.0,
+   "German: Goethe-Certificate": 5.0,
+   "Health Management and Social Care": 5.0,
+   "History": 5.0,
+   "Information and Communication Technology": 10.0,
+   "Integrated Science": 10.0,
+   "Japanese: Japanese-Language Proficiency Test": 5.0,
+   "Korean: Test of Proficiency in Korean II": 5.0,
+   "Literature in English": 5.0,
+   "Mathematics (Compulsory Part)": 10.0,
+   "Mathematics Extended Part (Module 1)": 10.0,
+   "Mathematics Extended Part (Module 2)": 10.0,
+   "Music": 5.0,
+   "Physical Education": 5.0,
+   "Physics": 10.0,
+   "Spanish: Diploma of Spanish as a Foreign Language": 5.0,
+   "Technology and Living (Fashion, Clothing and Textiles)": 5.0,
+   "Technology and Living (Food Science and Technology)": 5.0,
+   "Tourism and Hospitality Studies": 5.0,
+   "Urdu: Urdu (International)": 5.0,
+   "Visual Arts": 5.0
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": ""
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": ""
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 240.0,
+   "lq": 233.8,
+   "mean": 240.7
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://www.polyu.edu.hk/saso/docdrive/jupas/admission_figures.pdf",
+   "https://www.polyu.edu.hk/saso/docdrive/jupas/2027_JS3030_SW.pdf",
+   "https://www.polyu.edu.hk/study/ug/jupas/2027/js3030"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS3050",
+  "institution": "PolyU",
+  "name": "BA (Hons) Scheme in Fashion (Fashion Design / Knitwear Design / Contour Fashion and Activewear / Fashion Business / Fashion Innovation and Technology)",
+  "formula_2027": "Any Best 5 Subjects (plus an additional bonus score for the 6th subject with Level 3 or above)",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "Biology": 10.0,
+   "Business, Accounting and Financial Studies": 10.0,
+   "Chemistry": 10.0,
+   "Chinese History": 10.0,
+   "Chinese Language": 7.0,
+   "Chinese Literature": 5.0,
+   "Combined Science: Biology + Chemistry": 10.0,
+   "Combined Science: Biology + Physics": 7.0,
+   "Combined Science: Physics + Chemistry": 7.0,
+   "Design and Applied Technology": 7.0,
+   "Economics": 10.0,
+   "English Language": 7.0,
+   "Ethics and Religious Studies": 5.0,
+   "French: Advanced Diploma of French Language Studies / Diploma of French Language Studies": 5.0,
+   "Geography": 10.0,
+   "German: Goethe-Certificate": 5.0,
+   "Health Management and Social Care": 5.0,
+   "History": 10.0,
+   "Information and Communication Technology": 7.0,
+   "Integrated Science": 7.0,
+   "Japanese: Japanese-Language Proficiency Test": 5.0,
+   "Korean: Test of Proficiency in Korean II": 5.0,
+   "Literature in English": 5.0,
+   "Mathematics (Compulsory Part)": 7.0,
+   "Mathematics Extended Part (Module 1)": 7.0,
+   "Mathematics Extended Part (Module 2)": 7.0,
+   "Music": 5.0,
+   "Physical Education": 5.0,
+   "Physics": 7.0,
+   "Spanish: Diploma of Spanish as a Foreign Language": 5.0,
+   "Technology and Living (Fashion, Clothing and Textiles)": 10.0,
+   "Technology and Living (Food Science and Technology)": 7.0,
+   "Tourism and Hospitality Studies": 5.0,
+   "Urdu: Urdu (International)": 5.0,
+   "Visual Arts": 10.0
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": ""
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": ""
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 179.3,
+   "lq": 175.0,
+   "mean": 183.0
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://www.polyu.edu.hk/saso/docdrive/jupas/admission_figures.pdf",
+   "https://www.polyu.edu.hk/saso/docdrive/jupas/2027_JS3050_SW.pdf",
+   "https://www.polyu.edu.hk/study/ug/jupas/2027/js3050"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS3060",
+  "institution": "PolyU",
+  "name": "BBA (Hons) Scheme in Accounting and Finance (Accountancy / Accounting and Finance / Digital Finance and Investment)",
+  "formula_2027": "Any Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "Biology": 7.0,
+   "Business, Accounting and Financial Studies": 7.0,
+   "Chemistry": 7.0,
+   "Chinese History": 7.0,
+   "Chinese Language": 7.0,
+   "Chinese Literature": 7.0,
+   "Combined Science: Biology + Chemistry": 7.0,
+   "Combined Science: Biology + Physics": 7.0,
+   "Combined Science: Physics + Chemistry": 7.0,
+   "Design and Applied Technology": 5.0,
+   "Economics": 7.0,
+   "English Language": 10.0,
+   "Ethics and Religious Studies": 5.0,
+   "French: Advanced Diploma of French Language Studies / Diploma of French Language Studies": 5.0,
+   "Geography": 7.0,
+   "German: Goethe-Certificate": 5.0,
+   "Health Management and Social Care": 5.0,
+   "History": 7.0,
+   "Information and Communication Technology": 5.0,
+   "Integrated Science": 7.0,
+   "Japanese: Japanese-Language Proficiency Test": 5.0,
+   "Korean: Test of Proficiency in Korean II": 5.0,
+   "Literature in English": 7.0,
+   "Mathematics (Compulsory Part)": 10.0,
+   "Mathematics Extended Part (Module 1)": 7.0,
+   "Mathematics Extended Part (Module 2)": 7.0,
+   "Music": 5.0,
+   "Physical Education": 5.0,
+   "Physics": 7.0,
+   "Spanish: Diploma of Spanish as a Foreign Language": 5.0,
+   "Technology and Living (Fashion, Clothing and Textiles)": 5.0,
+   "Technology and Living (Food Science and Technology)": 5.0,
+   "Tourism and Hospitality Studies": 5.0,
+   "Urdu: Urdu (International)": 5.0,
+   "Visual Arts": 5.0
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": ""
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": ""
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 200.0,
+   "lq": 195.5,
+   "mean": 200.6
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://www.polyu.edu.hk/saso/docdrive/jupas/admission_figures.pdf",
+   "https://www.polyu.edu.hk/saso/docdrive/jupas/2027_JS3060_SW.pdf",
+   "https://www.polyu.edu.hk/study/ug/jupas/2027/js3060"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS3070",
+  "institution": "PolyU",
+  "name": "BBA (Hons) Scheme in Global Business and Logistics, Aviation, Maritime, and Supply Chain Management",
+  "formula_2027": "Any Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "Biology": 7.0,
+   "Business, Accounting and Financial Studies": 7.0,
+   "Chemistry": 7.0,
+   "Chinese History": 7.0,
+   "Chinese Language": 7.0,
+   "Chinese Literature": 7.0,
+   "Combined Science: Biology + Chemistry": 7.0,
+   "Combined Science: Biology + Physics": 7.0,
+   "Combined Science: Physics + Chemistry": 7.0,
+   "Design and Applied Technology": 5.0,
+   "Economics": 7.0,
+   "English Language": 10.0,
+   "Ethics and Religious Studies": 5.0,
+   "French: Advanced Diploma of French Language Studies / Diploma of French Language Studies": 5.0,
+   "Geography": 7.0,
+   "German: Goethe-Certificate": 5.0,
+   "Health Management and Social Care": 5.0,
+   "History": 7.0,
+   "Information and Communication Technology": 5.0,
+   "Integrated Science": 7.0,
+   "Japanese: Japanese-Language Proficiency Test": 5.0,
+   "Korean: Test of Proficiency in Korean II": 5.0,
+   "Literature in English": 7.0,
+   "Mathematics (Compulsory Part)": 10.0,
+   "Mathematics Extended Part (Module 1)": 7.0,
+   "Mathematics Extended Part (Module 2)": 7.0,
+   "Music": 5.0,
+   "Physical Education": 5.0,
+   "Physics": 7.0,
+   "Spanish: Diploma of Spanish as a Foreign Language": 5.0,
+   "Technology and Living (Fashion, Clothing and Textiles)": 5.0,
+   "Technology and Living (Food Science and Technology)": 5.0,
+   "Tourism and Hospitality Studies": 5.0,
+   "Urdu: Urdu (International)": 5.0,
+   "Visual Arts": 5.0
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": ""
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": ""
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 195.5,
+   "lq": 194.0,
+   "mean": 200.5
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://www.polyu.edu.hk/saso/docdrive/jupas/admission_figures.pdf",
+   "https://www.polyu.edu.hk/saso/docdrive/jupas/2027_JS3070_SW.pdf",
+   "https://www.polyu.edu.hk/study/ug/jupas/2027/js3070"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS3080",
+  "institution": "PolyU",
+  "name": "BBA (Hons) Scheme in Management and Marketing (Management / Marketing)",
+  "formula_2027": "Any Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "Biology": 7.0,
+   "Business, Accounting and Financial Studies": 7.0,
+   "Chemistry": 7.0,
+   "Chinese History": 7.0,
+   "Chinese Language": 7.0,
+   "Chinese Literature": 7.0,
+   "Combined Science: Biology + Chemistry": 7.0,
+   "Combined Science: Biology + Physics": 7.0,
+   "Combined Science: Physics + Chemistry": 7.0,
+   "Design and Applied Technology": 5.0,
+   "Economics": 7.0,
+   "English Language": 10.0,
+   "Ethics and Religious Studies": 5.0,
+   "French: Advanced Diploma of French Language Studies / Diploma of French Language Studies": 5.0,
+   "Geography": 7.0,
+   "German: Goethe-Certificate": 5.0,
+   "Health Management and Social Care": 5.0,
+   "History": 7.0,
+   "Information and Communication Technology": 5.0,
+   "Integrated Science": 7.0,
+   "Japanese: Japanese-Language Proficiency Test": 5.0,
+   "Korean: Test of Proficiency in Korean II": 5.0,
+   "Literature in English": 7.0,
+   "Mathematics (Compulsory Part)": 10.0,
+   "Mathematics Extended Part (Module 1)": 7.0,
+   "Mathematics Extended Part (Module 2)": 7.0,
+   "Music": 5.0,
+   "Physical Education": 5.0,
+   "Physics": 7.0,
+   "Spanish: Diploma of Spanish as a Foreign Language": 5.0,
+   "Technology and Living (Fashion, Clothing and Textiles)": 5.0,
+   "Technology and Living (Food Science and Technology)": 5.0,
+   "Tourism and Hospitality Studies": 5.0,
+   "Urdu: Urdu (International)": 5.0,
+   "Visual Arts": 5.0
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": ""
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": ""
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 189.5,
+   "lq": 187.3,
+   "mean": 191.4
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://www.polyu.edu.hk/saso/docdrive/jupas/admission_figures.pdf",
+   "https://www.polyu.edu.hk/saso/docdrive/jupas/2027_JS3080_SW.pdf",
+   "https://www.polyu.edu.hk/study/ug/jupas/2027/js3080"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS3130",
+  "institution": "PolyU",
+  "name": "BSc (Hons) Scheme in Spatial Data Science and Smart Cities (Land Surveying and Geo-Informatics / Urban Informatics and Smart Cities)",
+  "formula_2027": "Any Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "Biology": 7.0,
+   "Business, Accounting and Financial Studies": 7.0,
+   "Chemistry": 7.0,
+   "Chinese History": 7.0,
+   "Chinese Language": 7.0,
+   "Chinese Literature": 7.0,
+   "Combined Science: Biology + Chemistry": 7.0,
+   "Combined Science: Biology + Physics": 10.0,
+   "Combined Science: Physics + Chemistry": 10.0,
+   "Design and Applied Technology": 7.0,
+   "Economics": 7.0,
+   "English Language": 10.0,
+   "Ethics and Religious Studies": 7.0,
+   "French: Advanced Diploma of French Language Studies / Diploma of French Language Studies": 5.0,
+   "Geography": 10.0,
+   "German: Goethe-Certificate": 5.0,
+   "Health Management and Social Care": 7.0,
+   "History": 7.0,
+   "Information and Communication Technology": 10.0,
+   "Integrated Science": 10.0,
+   "Japanese: Japanese-Language Proficiency Test": 5.0,
+   "Korean: Test of Proficiency in Korean II": 5.0,
+   "Literature in English": 7.0,
+   "Mathematics (Compulsory Part)": 10.0,
+   "Mathematics Extended Part (Module 1)": 10.0,
+   "Mathematics Extended Part (Module 2)": 10.0,
+   "Music": 7.0,
+   "Physical Education": 7.0,
+   "Physics": 10.0,
+   "Spanish: Diploma of Spanish as a Foreign Language": 5.0,
+   "Technology and Living (Fashion, Clothing and Textiles)": 7.0,
+   "Technology and Living (Food Science and Technology)": 7.0,
+   "Tourism and Hospitality Studies": 7.0,
+   "Urdu: Urdu (International)": 5.0,
+   "Visual Arts": 7.0
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": ""
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": ""
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 216.5,
+   "lq": 213.5,
+   "mean": 221.8
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://www.polyu.edu.hk/saso/docdrive/jupas/admission_figures.pdf",
+   "https://www.polyu.edu.hk/saso/docdrive/jupas/2027_JS3130_SW.pdf",
+   "https://www.polyu.edu.hk/study/ug/jupas/2027/js3130"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS3140",
+  "institution": "PolyU",
+  "name": "BEng (Hons) Scheme in Aviation Engineering (Aeronautical Engineering / Air Transport Engineering)",
+  "formula_2027": "Any Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "Biology": 7.0,
+   "Business, Accounting and Financial Studies": 5.0,
+   "Chemistry": 10.0,
+   "Chinese History": 5.0,
+   "Chinese Language": 7.0,
+   "Chinese Literature": 5.0,
+   "Combined Science: Biology + Chemistry": 7.0,
+   "Combined Science: Biology + Physics": 7.0,
+   "Combined Science: Physics + Chemistry": 10.0,
+   "Design and Applied Technology": 5.0,
+   "Economics": 5.0,
+   "English Language": 10.0,
+   "Ethics and Religious Studies": 5.0,
+   "French: Advanced Diploma of French Language Studies / Diploma of French Language Studies": 5.0,
+   "Geography": 5.0,
+   "German: Goethe-Certificate": 5.0,
+   "Health Management and Social Care": 5.0,
+   "History": 5.0,
+   "Information and Communication Technology": 10.0,
+   "Integrated Science": 7.0,
+   "Japanese: Japanese-Language Proficiency Test": 5.0,
+   "Korean: Test of Proficiency in Korean II": 5.0,
+   "Literature in English": 5.0,
+   "Mathematics (Compulsory Part)": 10.0,
+   "Mathematics Extended Part (Module 1)": 10.0,
+   "Mathematics Extended Part (Module 2)": 10.0,
+   "Music": 5.0,
+   "Physical Education": 5.0,
+   "Physics": 10.0,
+   "Spanish: Diploma of Spanish as a Foreign Language": 5.0,
+   "Technology and Living (Fashion, Clothing and Textiles)": 5.0,
+   "Technology and Living (Food Science and Technology)": 5.0,
+   "Tourism and Hospitality Studies": 5.0,
+   "Urdu: Urdu (International)": 5.0,
+   "Visual Arts": 5.0
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": ""
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": ""
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 241.0,
+   "lq": 235.0,
+   "mean": 246.9
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://www.polyu.edu.hk/saso/docdrive/jupas/admission_figures.pdf",
+   "https://www.polyu.edu.hk/saso/docdrive/jupas/2027_JS3140_SW.pdf",
+   "https://www.polyu.edu.hk/study/ug/jupas/2027/js3140"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS3150",
+  "institution": "PolyU",
+  "name": "BSc (Hons) in Biomedical Engineering",
+  "formula_2027": "Any Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "Biology": 10.0,
+   "Business, Accounting and Financial Studies": 5.0,
+   "Chemistry": 10.0,
+   "Chinese History": 5.0,
+   "Chinese Language": 7.0,
+   "Chinese Literature": 5.0,
+   "Combined Science: Biology + Chemistry": 10.0,
+   "Combined Science: Biology + Physics": 10.0,
+   "Combined Science: Physics + Chemistry": 10.0,
+   "Design and Applied Technology": 10.0,
+   "Economics": 5.0,
+   "English Language": 7.0,
+   "Ethics and Religious Studies": 5.0,
+   "French: Advanced Diploma of French Language Studies / Diploma of French Language Studies": 5.0,
+   "Geography": 5.0,
+   "German: Goethe-Certificate": 5.0,
+   "Health Management and Social Care": 5.0,
+   "History": 5.0,
+   "Information and Communication Technology": 10.0,
+   "Integrated Science": 5.0,
+   "Japanese: Japanese-Language Proficiency Test": 5.0,
+   "Korean: Test of Proficiency in Korean II": 5.0,
+   "Literature in English": 5.0,
+   "Mathematics (Compulsory Part)": 10.0,
+   "Mathematics Extended Part (Module 1)": 10.0,
+   "Mathematics Extended Part (Module 2)": 10.0,
+   "Music": 5.0,
+   "Physical Education": 5.0,
+   "Physics": 10.0,
+   "Spanish: Diploma of Spanish as a Foreign Language": 5.0,
+   "Technology and Living (Fashion, Clothing and Textiles)": 5.0,
+   "Technology and Living (Food Science and Technology)": 5.0,
+   "Tourism and Hospitality Studies": 5.0,
+   "Urdu: Urdu (International)": 5.0,
+   "Visual Arts": 5.0
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": ""
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": ""
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 239.0,
+   "lq": 233.0,
+   "mean": 243.1
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://www.polyu.edu.hk/saso/docdrive/jupas/admission_figures.pdf",
+   "https://www.polyu.edu.hk/saso/docdrive/jupas/2027_JS3150_SW.pdf",
+   "https://www.polyu.edu.hk/study/ug/jupas/2027/js3150"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS3160",
+  "institution": "PolyU",
+  "name": "BSc (Hons) in Sports Science and Technology",
+  "formula_2027": "Any Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "Biology": 10.0,
+   "Business, Accounting and Financial Studies": 5.0,
+   "Chemistry": 10.0,
+   "Chinese History": 5.0,
+   "Chinese Language": 7.0,
+   "Chinese Literature": 5.0,
+   "Combined Science: Biology + Chemistry": 10.0,
+   "Combined Science: Biology + Physics": 10.0,
+   "Combined Science: Physics + Chemistry": 10.0,
+   "Design and Applied Technology": 10.0,
+   "Economics": 5.0,
+   "English Language": 7.0,
+   "Ethics and Religious Studies": 5.0,
+   "French: Advanced Diploma of French Language Studies / Diploma of French Language Studies": 5.0,
+   "Geography": 5.0,
+   "German: Goethe-Certificate": 5.0,
+   "Health Management and Social Care": 5.0,
+   "History": 5.0,
+   "Information and Communication Technology": 10.0,
+   "Integrated Science": 5.0,
+   "Japanese: Japanese-Language Proficiency Test": 5.0,
+   "Korean: Test of Proficiency in Korean II": 5.0,
+   "Literature in English": 5.0,
+   "Mathematics (Compulsory Part)": 10.0,
+   "Mathematics Extended Part (Module 1)": 10.0,
+   "Mathematics Extended Part (Module 2)": 10.0,
+   "Music": 5.0,
+   "Physical Education": 7.0,
+   "Physics": 10.0,
+   "Spanish: Diploma of Spanish as a Foreign Language": 5.0,
+   "Technology and Living (Fashion, Clothing and Textiles)": 5.0,
+   "Technology and Living (Food Science and Technology)": 5.0,
+   "Tourism and Hospitality Studies": 5.0,
+   "Urdu: Urdu (International)": 5.0,
+   "Visual Arts": 5.0
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": ""
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": ""
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 226.0,
+   "lq": 216.5,
+   "mean": 223.4
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://www.polyu.edu.hk/saso/docdrive/jupas/admission_figures.pdf",
+   "https://www.polyu.edu.hk/saso/docdrive/jupas/2027_JS3160_SW.pdf",
+   "https://www.polyu.edu.hk/study/ug/jupas/2027/js3160"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS3170",
+  "institution": "PolyU",
+  "name": "BEng (Hons) Scheme in Electrical Engineering (Electrical Engineering / Transportation Systems Engineering)",
+  "formula_2027": "Any Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "Biology": 10.0,
+   "Business, Accounting and Financial Studies": 7.0,
+   "Chemistry": 10.0,
+   "Chinese History": 5.0,
+   "Chinese Language": 7.0,
+   "Chinese Literature": 7.0,
+   "Combined Science: Biology + Chemistry": 10.0,
+   "Combined Science: Biology + Physics": 10.0,
+   "Combined Science: Physics + Chemistry": 10.0,
+   "Design and Applied Technology": 7.0,
+   "Economics": 7.0,
+   "English Language": 10.0,
+   "Ethics and Religious Studies": 5.0,
+   "French: Advanced Diploma of French Language Studies / Diploma of French Language Studies": 5.0,
+   "Geography": 5.0,
+   "German: Goethe-Certificate": 5.0,
+   "Health Management and Social Care": 5.0,
+   "History": 5.0,
+   "Information and Communication Technology": 10.0,
+   "Integrated Science": 5.0,
+   "Japanese: Japanese-Language Proficiency Test": 5.0,
+   "Korean: Test of Proficiency in Korean II": 5.0,
+   "Literature in English": 7.0,
+   "Mathematics (Compulsory Part)": 10.0,
+   "Mathematics Extended Part (Module 1)": 10.0,
+   "Mathematics Extended Part (Module 2)": 10.0,
+   "Music": 5.0,
+   "Physical Education": 5.0,
+   "Physics": 10.0,
+   "Spanish: Diploma of Spanish as a Foreign Language": 5.0,
+   "Technology and Living (Fashion, Clothing and Textiles)": 5.0,
+   "Technology and Living (Food Science and Technology)": 5.0,
+   "Tourism and Hospitality Studies": 5.0,
+   "Urdu: Urdu (International)": 5.0,
+   "Visual Arts": 5.0
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": ""
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": ""
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 245.0,
+   "lq": 245.0,
+   "mean": 254.8
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://www.polyu.edu.hk/saso/docdrive/jupas/admission_figures.pdf",
+   "https://www.polyu.edu.hk/saso/docdrive/jupas/2027_JS3170_SW.pdf",
+   "https://www.polyu.edu.hk/study/ug/jupas/2027/js3170"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS3180",
+  "institution": "PolyU",
+  "name": "BEng (Hons)/BSc (Hons) Scheme in Information and Artificial Intelligence Engineering (Internet-of-Things / Artificial Intelligence / Information Security)",
+  "formula_2027": "Any Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "Biology": 10.0,
+   "Business, Accounting and Financial Studies": 5.0,
+   "Chemistry": 10.0,
+   "Chinese History": 5.0,
+   "Chinese Language": 7.0,
+   "Chinese Literature": 5.0,
+   "Combined Science: Biology + Chemistry": 10.0,
+   "Combined Science: Biology + Physics": 10.0,
+   "Combined Science: Physics + Chemistry": 10.0,
+   "Design and Applied Technology": 7.0,
+   "Economics": 5.0,
+   "English Language": 10.0,
+   "Ethics and Religious Studies": 5.0,
+   "French: Advanced Diploma of French Language Studies / Diploma of French Language Studies": 5.0,
+   "Geography": 5.0,
+   "German: Goethe-Certificate": 5.0,
+   "Health Management and Social Care": 5.0,
+   "History": 5.0,
+   "Information and Communication Technology": 10.0,
+   "Integrated Science": 7.0,
+   "Japanese: Japanese-Language Proficiency Test": 5.0,
+   "Korean: Test of Proficiency in Korean II": 5.0,
+   "Literature in English": 5.0,
+   "Mathematics (Compulsory Part)": 10.0,
+   "Mathematics Extended Part (Module 1)": 10.0,
+   "Mathematics Extended Part (Module 2)": 10.0,
+   "Music": 5.0,
+   "Physical Education": 5.0,
+   "Physics": 10.0,
+   "Spanish: Diploma of Spanish as a Foreign Language": 5.0,
+   "Technology and Living (Fashion, Clothing and Textiles)": 5.0,
+   "Technology and Living (Food Science and Technology)": 5.0,
+   "Tourism and Hospitality Studies": 5.0,
+   "Urdu: Urdu (International)": 5.0,
+   "Visual Arts": 5.0
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": ""
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": ""
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 233.0,
+   "lq": 230.0,
+   "mean": 236.4
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://www.polyu.edu.hk/saso/docdrive/jupas/admission_figures.pdf",
+   "https://www.polyu.edu.hk/saso/docdrive/jupas/2027_JS3180_SW.pdf",
+   "https://www.polyu.edu.hk/study/ug/jupas/2027/js3180"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS3211",
+  "institution": "PolyU",
+  "name": "BEng (Hons) in Building Sciences and Engineering",
+  "formula_2027": "Any Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "Biology": 7.0,
+   "Business, Accounting and Financial Studies": 7.0,
+   "Chemistry": 7.0,
+   "Chinese History": 5.0,
+   "Chinese Language": 7.0,
+   "Chinese Literature": 5.0,
+   "Combined Science: Biology + Chemistry": 7.0,
+   "Combined Science: Biology + Physics": 10.0,
+   "Combined Science: Physics + Chemistry": 10.0,
+   "Design and Applied Technology": 7.0,
+   "Economics": 7.0,
+   "English Language": 10.0,
+   "Ethics and Religious Studies": 5.0,
+   "French: Advanced Diploma of French Language Studies / Diploma of French Language Studies": 5.0,
+   "Geography": 7.0,
+   "German: Goethe-Certificate": 5.0,
+   "Health Management and Social Care": 7.0,
+   "History": 5.0,
+   "Information and Communication Technology": 7.0,
+   "Integrated Science": 7.0,
+   "Japanese: Japanese-Language Proficiency Test": 5.0,
+   "Korean: Test of Proficiency in Korean II": 5.0,
+   "Literature in English": 5.0,
+   "Mathematics (Compulsory Part)": 10.0,
+   "Mathematics Extended Part (Module 1)": 7.0,
+   "Mathematics Extended Part (Module 2)": 7.0,
+   "Music": 5.0,
+   "Physical Education": 5.0,
+   "Physics": 10.0,
+   "Spanish: Diploma of Spanish as a Foreign Language": 5.0,
+   "Technology and Living (Fashion, Clothing and Textiles)": 5.0,
+   "Technology and Living (Food Science and Technology)": 5.0,
+   "Tourism and Hospitality Studies": 5.0,
+   "Urdu: Urdu (International)": 5.0,
+   "Visual Arts": 5.0
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": ""
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": ""
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 201.8,
+   "lq": 200.0,
+   "mean": 202.9
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://www.polyu.edu.hk/saso/docdrive/jupas/admission_figures.pdf",
+   "https://www.polyu.edu.hk/saso/docdrive/jupas/2027_JS3211_SW.pdf",
+   "https://www.polyu.edu.hk/study/ug/jupas/2027/js3211"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS3214",
+  "institution": "PolyU",
+  "name": "BSc (Hons) in Architectural Studies",
+  "formula_2027": "Any Best 5 Subjects (plus an additional bonus score for the 6th subject with Level 3 or above)",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "Biology": 7.0,
+   "Business, Accounting and Financial Studies": 7.0,
+   "Chemistry": 7.0,
+   "Chinese History": 7.0,
+   "Chinese Language": 7.0,
+   "Chinese Literature": 7.0,
+   "Combined Science: Biology + Chemistry": 7.0,
+   "Combined Science: Biology + Physics": 7.0,
+   "Combined Science: Physics + Chemistry": 7.0,
+   "Design and Applied Technology": 7.0,
+   "Economics": 7.0,
+   "English Language": 10.0,
+   "Ethics and Religious Studies": 7.0,
+   "French: Advanced Diploma of French Language Studies / Diploma of French Language Studies": 5.0,
+   "Geography": 7.0,
+   "German: Goethe-Certificate": 5.0,
+   "Health Management and Social Care": 5.0,
+   "History": 7.0,
+   "Information and Communication Technology": 5.0,
+   "Integrated Science": 7.0,
+   "Japanese: Japanese-Language Proficiency Test": 5.0,
+   "Korean: Test of Proficiency in Korean II": 5.0,
+   "Literature in English": 7.0,
+   "Mathematics (Compulsory Part)": 7.0,
+   "Mathematics Extended Part (Module 1)": 7.0,
+   "Mathematics Extended Part (Module 2)": 7.0,
+   "Music": 7.0,
+   "Physical Education": 5.0,
+   "Physics": 7.0,
+   "Spanish: Diploma of Spanish as a Foreign Language": 5.0,
+   "Technology and Living (Fashion, Clothing and Textiles)": 5.0,
+   "Technology and Living (Food Science and Technology)": 5.0,
+   "Tourism and Hospitality Studies": 7.0,
+   "Urdu: Urdu (International)": 5.0,
+   "Visual Arts": 7.0
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": ""
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": ""
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 169.1,
+   "lq": 164.6,
+   "mean": 169.0
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://www.polyu.edu.hk/saso/docdrive/jupas/admission_figures.pdf",
+   "https://www.polyu.edu.hk/saso/docdrive/jupas/2027_JS3214_SW.pdf",
+   "https://www.polyu.edu.hk/study/ug/jupas/2027/js3214"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS3220",
+  "institution": "PolyU",
+  "name": "BSc (Hons) Scheme in Applied Mathematics and Finance Analytics (Applied Mathematics / Investment Science and Finance Analytics / Quantitative Finance and FinTech)",
+  "formula_2027": "Any Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "Biology": 10.0,
+   "Business, Accounting and Financial Studies": 10.0,
+   "Chemistry": 10.0,
+   "Chinese History": 7.0,
+   "Chinese Language": 7.0,
+   "Chinese Literature": 7.0,
+   "Combined Science: Biology + Chemistry": 10.0,
+   "Combined Science: Biology + Physics": 10.0,
+   "Combined Science: Physics + Chemistry": 10.0,
+   "Design and Applied Technology": 7.0,
+   "Economics": 10.0,
+   "English Language": 10.0,
+   "Ethics and Religious Studies": 7.0,
+   "French: Advanced Diploma of French Language Studies / Diploma of French Language Studies": 7.0,
+   "Geography": 7.0,
+   "German: Goethe-Certificate": 7.0,
+   "Health Management and Social Care": 7.0,
+   "History": 7.0,
+   "Information and Communication Technology": 10.0,
+   "Integrated Science": 7.0,
+   "Japanese: Japanese-Language Proficiency Test": 7.0,
+   "Korean: Test of Proficiency in Korean II": 7.0,
+   "Literature in English": 7.0,
+   "Mathematics (Compulsory Part)": 10.0,
+   "Mathematics Extended Part (Module 1)": 10.0,
+   "Mathematics Extended Part (Module 2)": 10.0,
+   "Music": 7.0,
+   "Physical Education": 7.0,
+   "Physics": 10.0,
+   "Spanish: Diploma of Spanish as a Foreign Language": 7.0,
+   "Technology and Living (Fashion, Clothing and Textiles)": 7.0,
+   "Technology and Living (Food Science and Technology)": 7.0,
+   "Tourism and Hospitality Studies": 7.0,
+   "Urdu: Urdu (International)": 7.0,
+   "Visual Arts": 7.0
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": ""
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": ""
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 265.0,
+   "lq": 245.0,
+   "mean": 264.7
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://www.polyu.edu.hk/saso/docdrive/jupas/admission_figures.pdf",
+   "https://www.polyu.edu.hk/saso/docdrive/jupas/2027_JS3220_SW.pdf",
+   "https://www.polyu.edu.hk/study/ug/jupas/2027/js3220"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS3223",
+  "institution": "PolyU",
+  "name": "BSc (Hons) Scheme in Data Science and Artificial Intelligence (Data Science and Analytics / Financial Technology and Artificial Intelligence)",
+  "formula_2027": "Any Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "Biology": 10.0,
+   "Business, Accounting and Financial Studies": 10.0,
+   "Chemistry": 10.0,
+   "Chinese History": 7.0,
+   "Chinese Language": 7.0,
+   "Chinese Literature": 7.0,
+   "Combined Science: Biology + Chemistry": 10.0,
+   "Combined Science: Biology + Physics": 10.0,
+   "Combined Science: Physics + Chemistry": 10.0,
+   "Design and Applied Technology": 7.0,
+   "Economics": 10.0,
+   "English Language": 10.0,
+   "Ethics and Religious Studies": 7.0,
+   "French: Advanced Diploma of French Language Studies / Diploma of French Language Studies": 7.0,
+   "Geography": 7.0,
+   "German: Goethe-Certificate": 7.0,
+   "Health Management and Social Care": 7.0,
+   "History": 7.0,
+   "Information and Communication Technology": 10.0,
+   "Integrated Science": 7.0,
+   "Japanese: Japanese-Language Proficiency Test": 7.0,
+   "Korean: Test of Proficiency in Korean II": 7.0,
+   "Literature in English": 7.0,
+   "Mathematics (Compulsory Part)": 10.0,
+   "Mathematics Extended Part (Module 1)": 10.0,
+   "Mathematics Extended Part (Module 2)": 10.0,
+   "Music": 7.0,
+   "Physical Education": 7.0,
+   "Physics": 10.0,
+   "Spanish: Diploma of Spanish as a Foreign Language": 7.0,
+   "Technology and Living (Fashion, Clothing and Textiles)": 7.0,
+   "Technology and Living (Food Science and Technology)": 7.0,
+   "Tourism and Hospitality Studies": 7.0,
+   "Urdu: Urdu (International)": 7.0,
+   "Visual Arts": 7.0
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": ""
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": ""
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 245.0,
+   "lq": 235.0,
+   "mean": 247.0
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://www.polyu.edu.hk/saso/docdrive/jupas/admission_figures.pdf",
+   "https://www.polyu.edu.hk/saso/docdrive/jupas/2027_JS3223_SW.pdf",
+   "https://www.polyu.edu.hk/study/ug/jupas/2027/js3223"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS3236",
+  "institution": "PolyU",
+  "name": "BEng (Hons) Scheme in Product Innovation and Smart Manufacturing (Product Innovation with Marketing / Smart Manufacturing)",
+  "formula_2027": "Any Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "Biology": 10.0,
+   "Business, Accounting and Financial Studies": 7.0,
+   "Chemistry": 10.0,
+   "Chinese History": 5.0,
+   "Chinese Language": 7.0,
+   "Chinese Literature": 5.0,
+   "Combined Science: Biology + Chemistry": 10.0,
+   "Combined Science: Biology + Physics": 10.0,
+   "Combined Science: Physics + Chemistry": 10.0,
+   "Design and Applied Technology": 7.0,
+   "Economics": 7.0,
+   "English Language": 10.0,
+   "Ethics and Religious Studies": 5.0,
+   "French: Advanced Diploma of French Language Studies / Diploma of French Language Studies": 7.0,
+   "Geography": 5.0,
+   "German: Goethe-Certificate": 7.0,
+   "Health Management and Social Care": 5.0,
+   "History": 5.0,
+   "Information and Communication Technology": 10.0,
+   "Integrated Science": 7.0,
+   "Japanese: Japanese-Language Proficiency Test": 7.0,
+   "Korean: Test of Proficiency in Korean II": 7.0,
+   "Literature in English": 5.0,
+   "Mathematics (Compulsory Part)": 10.0,
+   "Mathematics Extended Part (Module 1)": 10.0,
+   "Mathematics Extended Part (Module 2)": 10.0,
+   "Music": 5.0,
+   "Physical Education": 5.0,
+   "Physics": 10.0,
+   "Spanish: Diploma of Spanish as a Foreign Language": 7.0,
+   "Technology and Living (Fashion, Clothing and Textiles)": 5.0,
+   "Technology and Living (Food Science and Technology)": 5.0,
+   "Tourism and Hospitality Studies": 5.0,
+   "Urdu: Urdu (International)": 7.0,
+   "Visual Arts": 5.0
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": ""
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": ""
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 220.0,
+   "lq": 215.0,
+   "mean": 220.3
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://www.polyu.edu.hk/saso/docdrive/jupas/admission_figures.pdf",
+   "https://www.polyu.edu.hk/saso/docdrive/jupas/2027_JS3236_SW.pdf",
+   "https://www.polyu.edu.hk/study/ug/jupas/2027/js3236"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS3237",
+  "institution": "PolyU",
+  "name": "BSc (Hons) Scheme in Intelligent Supply Chain and Engineering Management (Intelligent Supply Chain / Engineering Management with Data Analytics / Aviation Operations and Systems)",
+  "formula_2027": "Any Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "Biology": 7.0,
+   "Business, Accounting and Financial Studies": 10.0,
+   "Chemistry": 7.0,
+   "Chinese History": 5.0,
+   "Chinese Language": 7.0,
+   "Chinese Literature": 5.0,
+   "Combined Science: Biology + Chemistry": 7.0,
+   "Combined Science: Biology + Physics": 7.0,
+   "Combined Science: Physics + Chemistry": 7.0,
+   "Design and Applied Technology": 7.0,
+   "Economics": 10.0,
+   "English Language": 10.0,
+   "Ethics and Religious Studies": 5.0,
+   "French: Advanced Diploma of French Language Studies / Diploma of French Language Studies": 5.0,
+   "Geography": 7.0,
+   "German: Goethe-Certificate": 5.0,
+   "Health Management and Social Care": 5.0,
+   "History": 5.0,
+   "Information and Communication Technology": 10.0,
+   "Integrated Science": 7.0,
+   "Japanese: Japanese-Language Proficiency Test": 5.0,
+   "Korean: Test of Proficiency in Korean II": 5.0,
+   "Literature in English": 5.0,
+   "Mathematics (Compulsory Part)": 10.0,
+   "Mathematics Extended Part (Module 1)": 10.0,
+   "Mathematics Extended Part (Module 2)": 10.0,
+   "Music": 5.0,
+   "Physical Education": 5.0,
+   "Physics": 7.0,
+   "Spanish: Diploma of Spanish as a Foreign Language": 5.0,
+   "Technology and Living (Fashion, Clothing and Textiles)": 5.0,
+   "Technology and Living (Food Science and Technology)": 5.0,
+   "Tourism and Hospitality Studies": 5.0,
+   "Urdu: Urdu (International)": 5.0,
+   "Visual Arts": 5.0
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": ""
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": ""
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 215.0,
+   "lq": 210.3,
+   "mean": 215.0
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://www.polyu.edu.hk/saso/docdrive/jupas/admission_figures.pdf",
+   "https://www.polyu.edu.hk/saso/docdrive/jupas/2027_JS3237_SW.pdf",
+   "https://www.polyu.edu.hk/study/ug/jupas/2027/js3237"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS3240",
+  "institution": "PolyU",
+  "name": "BA (Hons) in English and Applied Linguistics",
+  "formula_2027": "Any Best 5 Subjects (plus an additional bonus score for the 6th subject with Level 3 or above)",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "Biology": 5.0,
+   "Business, Accounting and Financial Studies": 7.0,
+   "Chemistry": 5.0,
+   "Chinese History": 7.0,
+   "Chinese Language": 7.0,
+   "Chinese Literature": 7.0,
+   "Combined Science: Biology + Chemistry": 5.0,
+   "Combined Science: Biology + Physics": 5.0,
+   "Combined Science: Physics + Chemistry": 5.0,
+   "Design and Applied Technology": 7.0,
+   "Economics": 5.0,
+   "English Language": 10.0,
+   "Ethics and Religious Studies": 7.0,
+   "French: Advanced Diploma of French Language Studies / Diploma of French Language Studies": 7.0,
+   "Geography": 7.0,
+   "German: Goethe-Certificate": 7.0,
+   "Health Management and Social Care": 7.0,
+   "History": 7.0,
+   "Information and Communication Technology": 7.0,
+   "Integrated Science": 5.0,
+   "Japanese: Japanese-Language Proficiency Test": 7.0,
+   "Korean: Test of Proficiency in Korean II": 7.0,
+   "Literature in English": 7.0,
+   "Mathematics (Compulsory Part)": 7.0,
+   "Mathematics Extended Part (Module 1)": 5.0,
+   "Mathematics Extended Part (Module 2)": 5.0,
+   "Music": 7.0,
+   "Physical Education": 5.0,
+   "Physics": 5.0,
+   "Spanish: Diploma of Spanish as a Foreign Language": 7.0,
+   "Technology and Living (Fashion, Clothing and Textiles)": 5.0,
+   "Technology and Living (Food Science and Technology)": 5.0,
+   "Tourism and Hospitality Studies": 7.0,
+   "Urdu: Urdu (International)": 7.0,
+   "Visual Arts": 7.0
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": ""
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": ""
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 184.0,
+   "lq": 182.0,
+   "mean": 187.9
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://www.polyu.edu.hk/saso/docdrive/jupas/admission_figures.pdf",
+   "https://www.polyu.edu.hk/saso/docdrive/jupas/2027_JS3240_SW.pdf",
+   "https://www.polyu.edu.hk/study/ug/jupas/2027/js3240"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS3242",
+  "institution": "PolyU",
+  "name": "BSc (Hons) in Speech Therapy",
+  "formula_2027": "Any Best 5 Subjects (plus an additional bonus score for the 6th subject with Level 3 or above)",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "Biology": 7.0,
+   "Business, Accounting and Financial Studies": 7.0,
+   "Chemistry": 7.0,
+   "Chinese History": 7.0,
+   "Chinese Language": 10.0,
+   "Chinese Literature": 7.0,
+   "Combined Science: Biology + Chemistry": 7.0,
+   "Combined Science: Biology + Physics": 7.0,
+   "Combined Science: Physics + Chemistry": 7.0,
+   "Design and Applied Technology": 5.0,
+   "Economics": 7.0,
+   "English Language": 10.0,
+   "Ethics and Religious Studies": 7.0,
+   "French: Advanced Diploma of French Language Studies / Diploma of French Language Studies": 7.0,
+   "Geography": 7.0,
+   "German: Goethe-Certificate": 7.0,
+   "Health Management and Social Care": 7.0,
+   "History": 7.0,
+   "Information and Communication Technology": 7.0,
+   "Integrated Science": 7.0,
+   "Japanese: Japanese-Language Proficiency Test": 7.0,
+   "Korean: Test of Proficiency in Korean II": 7.0,
+   "Literature in English": 7.0,
+   "Mathematics (Compulsory Part)": 10.0,
+   "Mathematics Extended Part (Module 1)": 7.0,
+   "Mathematics Extended Part (Module 2)": 7.0,
+   "Music": 5.0,
+   "Physical Education": 5.0,
+   "Physics": 7.0,
+   "Spanish: Diploma of Spanish as a Foreign Language": 7.0,
+   "Technology and Living (Fashion, Clothing and Textiles)": 5.0,
+   "Technology and Living (Food Science and Technology)": 5.0,
+   "Tourism and Hospitality Studies": 7.0,
+   "Urdu: Urdu (International)": 7.0,
+   "Visual Arts": 5.0
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": ""
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": ""
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 259.8,
+   "lq": 244.8,
+   "mean": 252.8
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://www.polyu.edu.hk/saso/docdrive/jupas/admission_figures.pdf",
+   "https://www.polyu.edu.hk/saso/docdrive/jupas/2027_JS3242_SW.pdf",
+   "https://www.polyu.edu.hk/study/ug/jupas/2027/js3242"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS3243",
+  "institution": "PolyU",
+  "name": "BSc (Hons) in Language Science and Technology (Subject to approval)",
+  "formula_2027": "Any Best 5 Subjects (plus an additional bonus score for the 6th subject with Level 3 or above)",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "Biology": 7.0,
+   "Business, Accounting and Financial Studies": 7.0,
+   "Chemistry": 7.0,
+   "Chinese History": 7.0,
+   "Chinese Language": 10.0,
+   "Chinese Literature": 7.0,
+   "Combined Science: Biology + Chemistry": 7.0,
+   "Combined Science: Biology + Physics": 7.0,
+   "Combined Science: Physics + Chemistry": 7.0,
+   "Design and Applied Technology": 5.0,
+   "Economics": 7.0,
+   "English Language": 10.0,
+   "Ethics and Religious Studies": 7.0,
+   "French: Advanced Diploma of French Language Studies / Diploma of French Language Studies": 7.0,
+   "Geography": 7.0,
+   "German: Goethe-Certificate": 7.0,
+   "Health Management and Social Care": 7.0,
+   "History": 7.0,
+   "Information and Communication Technology": 7.0,
+   "Integrated Science": 7.0,
+   "Japanese: Japanese-Language Proficiency Test": 7.0,
+   "Korean: Test of Proficiency in Korean II": 7.0,
+   "Literature in English": 7.0,
+   "Mathematics (Compulsory Part)": 10.0,
+   "Mathematics Extended Part (Module 1)": 7.0,
+   "Mathematics Extended Part (Module 2)": 7.0,
+   "Music": 5.0,
+   "Physical Education": 5.0,
+   "Physics": 7.0,
+   "Spanish: Diploma of Spanish as a Foreign Language": 7.0,
+   "Technology and Living (Fashion, Clothing and Textiles)": 5.0,
+   "Technology and Living (Food Science and Technology)": 5.0,
+   "Tourism and Hospitality Studies": 7.0,
+   "Urdu: Urdu (International)": 7.0,
+   "Visual Arts": 5.0
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": ""
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": ""
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 208.6,
+   "lq": 205.8,
+   "mean": 208.3
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://www.polyu.edu.hk/saso/docdrive/jupas/admission_figures.pdf",
+   "https://www.polyu.edu.hk/saso/docdrive/jupas/2027_JS3243_SW.pdf",
+   "https://www.polyu.edu.hk/study/ug/jupas/2027/js3243"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS3250",
+  "institution": "PolyU",
+  "name": "BA (Hons) Scheme in Applied Social Sciences (Social Work / Social Policy and Social Entrepreneurship)",
+  "formula_2027": "Any Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "Biology": 7.0,
+   "Business, Accounting and Financial Studies": 7.0,
+   "Chemistry": 7.0,
+   "Chinese History": 7.0,
+   "Chinese Language": 7.0,
+   "Chinese Literature": 7.0,
+   "Combined Science: Biology + Chemistry": 7.0,
+   "Combined Science: Biology + Physics": 7.0,
+   "Combined Science: Physics + Chemistry": 7.0,
+   "Design and Applied Technology": 7.0,
+   "Economics": 7.0,
+   "English Language": 7.0,
+   "Ethics and Religious Studies": 7.0,
+   "French: Advanced Diploma of French Language Studies / Diploma of French Language Studies": 7.0,
+   "Geography": 7.0,
+   "German: Goethe-Certificate": 7.0,
+   "Health Management and Social Care": 7.0,
+   "History": 7.0,
+   "Information and Communication Technology": 7.0,
+   "Integrated Science": 7.0,
+   "Japanese: Japanese-Language Proficiency Test": 7.0,
+   "Korean: Test of Proficiency in Korean II": 7.0,
+   "Literature in English": 7.0,
+   "Mathematics (Compulsory Part)": 7.0,
+   "Mathematics Extended Part (Module 1)": 7.0,
+   "Mathematics Extended Part (Module 2)": 7.0,
+   "Music": 7.0,
+   "Physical Education": 7.0,
+   "Physics": 7.0,
+   "Spanish: Diploma of Spanish as a Foreign Language": 7.0,
+   "Technology and Living (Fashion, Clothing and Textiles)": 7.0,
+   "Technology and Living (Food Science and Technology)": 7.0,
+   "Tourism and Hospitality Studies": 7.0,
+   "Urdu: Urdu (International)": 7.0,
+   "Visual Arts": 7.0
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": ""
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": ""
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 171.5,
+   "lq": 164.5,
+   "mean": 173.1
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://www.polyu.edu.hk/saso/docdrive/jupas/admission_figures.pdf",
+   "https://www.polyu.edu.hk/saso/docdrive/jupas/2027_JS3250_SW.pdf",
+   "https://www.polyu.edu.hk/study/ug/jupas/2027/js3250"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS3255",
+  "institution": "PolyU",
+  "name": "BSc (Hons) Scheme in Food Science and Nutrition (Food Safety and Technology / Human Nutrition and Health)",
+  "formula_2027": "Any Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "Biology": 10.0,
+   "Business, Accounting and Financial Studies": 5.0,
+   "Chemistry": 10.0,
+   "Chinese History": 5.0,
+   "Chinese Language": 7.0,
+   "Chinese Literature": 5.0,
+   "Combined Science: Biology + Chemistry": 10.0,
+   "Combined Science: Biology + Physics": 10.0,
+   "Combined Science: Physics + Chemistry": 10.0,
+   "Design and Applied Technology": 5.0,
+   "Economics": 5.0,
+   "English Language": 10.0,
+   "Ethics and Religious Studies": 5.0,
+   "French: Advanced Diploma of French Language Studies / Diploma of French Language Studies": 5.0,
+   "Geography": 5.0,
+   "German: Goethe-Certificate": 5.0,
+   "Health Management and Social Care": 5.0,
+   "History": 5.0,
+   "Information and Communication Technology": 5.0,
+   "Integrated Science": 7.0,
+   "Japanese: Japanese-Language Proficiency Test": 5.0,
+   "Korean: Test of Proficiency in Korean II": 5.0,
+   "Literature in English": 5.0,
+   "Mathematics (Compulsory Part)": 10.0,
+   "Mathematics Extended Part (Module 1)": 7.0,
+   "Mathematics Extended Part (Module 2)": 7.0,
+   "Music": 5.0,
+   "Physical Education": 5.0,
+   "Physics": 7.0,
+   "Spanish: Diploma of Spanish as a Foreign Language": 5.0,
+   "Technology and Living (Fashion, Clothing and Textiles)": 5.0,
+   "Technology and Living (Food Science and Technology)": 5.0,
+   "Tourism and Hospitality Studies": 5.0,
+   "Urdu: Urdu (International)": 5.0,
+   "Visual Arts": 5.0
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": ""
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": ""
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 216.5,
+   "lq": 213.5,
+   "mean": 218.7
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://www.polyu.edu.hk/saso/docdrive/jupas/admission_figures.pdf",
+   "https://www.polyu.edu.hk/saso/docdrive/jupas/2027_JS3255_SW.pdf",
+   "https://www.polyu.edu.hk/study/ug/jupas/2027/js3255"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS3290",
+  "institution": "PolyU",
+  "name": "BSc (Hons) in Optometry",
+  "formula_2027": "Any Best 5 Subjects (plus an additional bonus score for the 6th subject with Level 3 or above)",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "Biology": 10.0,
+   "Business, Accounting and Financial Studies": 5.0,
+   "Chemistry": 10.0,
+   "Chinese History": 5.0,
+   "Chinese Language": 10.0,
+   "Chinese Literature": 5.0,
+   "Combined Science: Biology + Chemistry": 10.0,
+   "Combined Science: Biology + Physics": 10.0,
+   "Combined Science: Physics + Chemistry": 10.0,
+   "Design and Applied Technology": 5.0,
+   "Economics": 5.0,
+   "English Language": 10.0,
+   "Ethics and Religious Studies": 5.0,
+   "French: Advanced Diploma of French Language Studies / Diploma of French Language Studies": 5.0,
+   "Geography": 5.0,
+   "German: Goethe-Certificate": 5.0,
+   "Health Management and Social Care": 5.0,
+   "History": 5.0,
+   "Information and Communication Technology": 5.0,
+   "Integrated Science": 5.0,
+   "Japanese: Japanese-Language Proficiency Test": 5.0,
+   "Korean: Test of Proficiency in Korean II": 5.0,
+   "Literature in English": 5.0,
+   "Mathematics (Compulsory Part)": 10.0,
+   "Mathematics Extended Part (Module 1)": 10.0,
+   "Mathematics Extended Part (Module 2)": 10.0,
+   "Music": 5.0,
+   "Physical Education": 5.0,
+   "Physics": 10.0,
+   "Spanish: Diploma of Spanish as a Foreign Language": 5.0,
+   "Technology and Living (Fashion, Clothing and Textiles)": 5.0,
+   "Technology and Living (Food Science and Technology)": 5.0,
+   "Tourism and Hospitality Studies": 5.0,
+   "Urdu: Urdu (International)": 5.0,
+   "Visual Arts": 5.0
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": ""
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": ""
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 277.9,
+   "lq": 264.0,
+   "mean": 280.0
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://www.polyu.edu.hk/saso/docdrive/jupas/admission_figures.pdf",
+   "https://www.polyu.edu.hk/saso/docdrive/jupas/2027_JS3290_SW.pdf",
+   "https://www.polyu.edu.hk/study/ug/jupas/2027/js3290"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS3310",
+  "institution": "PolyU",
+  "name": "BSc (Hons) Scheme in Hotel and Tourism Management (Hotel Management / Smart Tourism and Hospitality / Event and Experience Management)",
+  "formula_2027": "Any Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "Biology": 7.0,
+   "Business, Accounting and Financial Studies": 7.0,
+   "Chemistry": 7.0,
+   "Chinese History": 7.0,
+   "Chinese Language": 7.0,
+   "Chinese Literature": 7.0,
+   "Combined Science: Biology + Chemistry": 7.0,
+   "Combined Science: Biology + Physics": 7.0,
+   "Combined Science: Physics + Chemistry": 7.0,
+   "Design and Applied Technology": 7.0,
+   "Economics": 7.0,
+   "English Language": 7.0,
+   "Ethics and Religious Studies": 7.0,
+   "French: Advanced Diploma of French Language Studies / Diploma of French Language Studies": 7.0,
+   "Geography": 7.0,
+   "German: Goethe-Certificate": 7.0,
+   "Health Management and Social Care": 7.0,
+   "History": 7.0,
+   "Information and Communication Technology": 7.0,
+   "Integrated Science": 7.0,
+   "Japanese: Japanese-Language Proficiency Test": 7.0,
+   "Korean: Test of Proficiency in Korean II": 7.0,
+   "Literature in English": 7.0,
+   "Mathematics (Compulsory Part)": 7.0,
+   "Mathematics Extended Part (Module 1)": 7.0,
+   "Mathematics Extended Part (Module 2)": 7.0,
+   "Music": 7.0,
+   "Physical Education": 7.0,
+   "Physics": 7.0,
+   "Spanish: Diploma of Spanish as a Foreign Language": 7.0,
+   "Technology and Living (Fashion, Clothing and Textiles)": 7.0,
+   "Technology and Living (Food Science and Technology)": 7.0,
+   "Tourism and Hospitality Studies": 7.0,
+   "Urdu: Urdu (International)": 7.0,
+   "Visual Arts": 7.0
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": ""
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": ""
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 161.0,
+   "lq": 157.5,
+   "mean": 163.5
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://www.polyu.edu.hk/saso/docdrive/jupas/admission_figures.pdf",
+   "https://www.polyu.edu.hk/saso/docdrive/jupas/2027_JS3310_SW.pdf",
+   "https://www.polyu.edu.hk/study/ug/jupas/2027/js3310"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS3320",
+  "institution": "PolyU",
+  "name": "BA (Hons) in Chinese History and Culture",
+  "formula_2027": "Any Best 5 Subjects (plus an additional bonus score for the 6th subject with Level 3 or above)",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "Biology": 5.0,
+   "Business, Accounting and Financial Studies": 5.0,
+   "Chemistry": 5.0,
+   "Chinese History": 10.0,
+   "Chinese Language": 10.0,
+   "Chinese Literature": 10.0,
+   "Combined Science: Biology + Chemistry": 5.0,
+   "Combined Science: Biology + Physics": 5.0,
+   "Combined Science: Physics + Chemistry": 5.0,
+   "Design and Applied Technology": 5.0,
+   "Economics": 5.0,
+   "English Language": 10.0,
+   "Ethics and Religious Studies": 5.0,
+   "French: Advanced Diploma of French Language Studies / Diploma of French Language Studies": 5.0,
+   "Geography": 5.0,
+   "German: Goethe-Certificate": 5.0,
+   "Health Management and Social Care": 5.0,
+   "History": 10.0,
+   "Information and Communication Technology": 5.0,
+   "Integrated Science": 5.0,
+   "Japanese: Japanese-Language Proficiency Test": 5.0,
+   "Korean: Test of Proficiency in Korean II": 5.0,
+   "Literature in English": 5.0,
+   "Mathematics (Compulsory Part)": 7.0,
+   "Mathematics Extended Part (Module 1)": 5.0,
+   "Mathematics Extended Part (Module 2)": 5.0,
+   "Music": 5.0,
+   "Physical Education": 5.0,
+   "Physics": 5.0,
+   "Spanish: Diploma of Spanish as a Foreign Language": 5.0,
+   "Technology and Living (Fashion, Clothing and Textiles)": 5.0,
+   "Technology and Living (Food Science and Technology)": 5.0,
+   "Tourism and Hospitality Studies": 5.0,
+   "Urdu: Urdu (International)": 5.0,
+   "Visual Arts": 5.0
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": ""
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": ""
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 231.0,
+   "lq": 214.8,
+   "mean": 238.3
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://www.polyu.edu.hk/saso/docdrive/jupas/admission_figures.pdf",
+   "https://www.polyu.edu.hk/saso/docdrive/jupas/2027_JS3320_SW.pdf",
+   "https://www.polyu.edu.hk/study/ug/jupas/2027/js3320"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS3337",
+  "institution": "PolyU",
+  "name": "BSc (Hons) in Mental Health Nursing",
+  "formula_2027": "Any Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "Biology": 10.0,
+   "Business, Accounting and Financial Studies": 7.0,
+   "Chemistry": 7.0,
+   "Chinese History": 7.0,
+   "Chinese Language": 10.0,
+   "Chinese Literature": 7.0,
+   "Combined Science: Biology + Chemistry": 10.0,
+   "Combined Science: Biology + Physics": 10.0,
+   "Combined Science: Physics + Chemistry": 7.0,
+   "Design and Applied Technology": 7.0,
+   "Economics": 7.0,
+   "English Language": 10.0,
+   "Ethics and Religious Studies": 7.0,
+   "French: Advanced Diploma of French Language Studies / Diploma of French Language Studies": 5.0,
+   "Geography": 7.0,
+   "German: Goethe-Certificate": 5.0,
+   "Health Management and Social Care": 7.0,
+   "History": 7.0,
+   "Information and Communication Technology": 7.0,
+   "Integrated Science": 7.0,
+   "Japanese: Japanese-Language Proficiency Test": 5.0,
+   "Korean: Test of Proficiency in Korean II": 5.0,
+   "Literature in English": 7.0,
+   "Mathematics (Compulsory Part)": 10.0,
+   "Mathematics Extended Part (Module 1)": 7.0,
+   "Mathematics Extended Part (Module 2)": 7.0,
+   "Music": 7.0,
+   "Physical Education": 7.0,
+   "Physics": 7.0,
+   "Spanish: Diploma of Spanish as a Foreign Language": 5.0,
+   "Technology and Living (Fashion, Clothing and Textiles)": 7.0,
+   "Technology and Living (Food Science and Technology)": 7.0,
+   "Tourism and Hospitality Studies": 7.0,
+   "Urdu: Urdu (International)": 5.0,
+   "Visual Arts": 7.0
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": ""
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": ""
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 211.0,
+   "lq": 208.0,
+   "mean": 214.7
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://www.polyu.edu.hk/saso/docdrive/jupas/admission_figures.pdf",
+   "https://www.polyu.edu.hk/saso/docdrive/jupas/2027_JS3337_SW.pdf",
+   "https://www.polyu.edu.hk/study/ug/jupas/2027/js3337"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS3375",
+  "institution": "PolyU",
+  "name": "BEng (Hons) in Environmental Engineering and Sustainable Development",
+  "formula_2027": "Any Best 5 Subjects (plus an additional bonus score for the 6th subject with Level 3 or above)",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "Biology": 10.0,
+   "Business, Accounting and Financial Studies": 5.0,
+   "Chemistry": 10.0,
+   "Chinese History": 5.0,
+   "Chinese Language": 10.0,
+   "Chinese Literature": 5.0,
+   "Combined Science: Biology + Chemistry": 10.0,
+   "Combined Science: Biology + Physics": 10.0,
+   "Combined Science: Physics + Chemistry": 10.0,
+   "Design and Applied Technology": 7.0,
+   "Economics": 10.0,
+   "English Language": 10.0,
+   "Ethics and Religious Studies": 5.0,
+   "French: Advanced Diploma of French Language Studies / Diploma of French Language Studies": 5.0,
+   "Geography": 10.0,
+   "German: Goethe-Certificate": 5.0,
+   "Health Management and Social Care": 5.0,
+   "History": 5.0,
+   "Information and Communication Technology": 7.0,
+   "Integrated Science": 10.0,
+   "Japanese: Japanese-Language Proficiency Test": 5.0,
+   "Korean: Test of Proficiency in Korean II": 5.0,
+   "Literature in English": 5.0,
+   "Mathematics (Compulsory Part)": 10.0,
+   "Mathematics Extended Part (Module 1)": 10.0,
+   "Mathematics Extended Part (Module 2)": 10.0,
+   "Music": 5.0,
+   "Physical Education": 5.0,
+   "Physics": 10.0,
+   "Spanish: Diploma of Spanish as a Foreign Language": 5.0,
+   "Technology and Living (Fashion, Clothing and Textiles)": 5.0,
+   "Technology and Living (Food Science and Technology)": 5.0,
+   "Tourism and Hospitality Studies": 5.0,
+   "Urdu: Urdu (International)": 5.0,
+   "Visual Arts": 5.0
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": ""
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": ""
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 237.5,
+   "lq": 235.0,
+   "mean": 241.7
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://www.polyu.edu.hk/saso/docdrive/jupas/admission_figures.pdf",
+   "https://www.polyu.edu.hk/saso/docdrive/jupas/2027_JS3375_SW.pdf",
+   "https://www.polyu.edu.hk/study/ug/jupas/2027/js3375"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS3478",
+  "institution": "PolyU",
+  "name": "BSc (Hons) in Medical Laboratory Science",
+  "formula_2027": "Any Best 5 Subjects (plus an additional bonus score for the 6th subject with Level 3 or above)",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "Biology": 10.0,
+   "Business, Accounting and Financial Studies": 5.0,
+   "Chemistry": 10.0,
+   "Chinese History": 5.0,
+   "Chinese Language": 10.0,
+   "Chinese Literature": 5.0,
+   "Combined Science: Biology + Chemistry": 10.0,
+   "Combined Science: Biology + Physics": 7.0,
+   "Combined Science: Physics + Chemistry": 7.0,
+   "Design and Applied Technology": 5.0,
+   "Economics": 5.0,
+   "English Language": 10.0,
+   "Ethics and Religious Studies": 5.0,
+   "French: Advanced Diploma of French Language Studies / Diploma of French Language Studies": 5.0,
+   "Geography": 5.0,
+   "German: Goethe-Certificate": 5.0,
+   "Health Management and Social Care": 5.0,
+   "History": 5.0,
+   "Information and Communication Technology": 5.0,
+   "Integrated Science": 5.0,
+   "Japanese: Japanese-Language Proficiency Test": 5.0,
+   "Korean: Test of Proficiency in Korean II": 5.0,
+   "Literature in English": 5.0,
+   "Mathematics (Compulsory Part)": 10.0,
+   "Mathematics Extended Part (Module 1)": 10.0,
+   "Mathematics Extended Part (Module 2)": 10.0,
+   "Music": 5.0,
+   "Physical Education": 5.0,
+   "Physics": 7.0,
+   "Spanish: Diploma of Spanish as a Foreign Language": 5.0,
+   "Technology and Living (Fashion, Clothing and Textiles)": 5.0,
+   "Technology and Living (Food Science and Technology)": 5.0,
+   "Tourism and Hospitality Studies": 5.0,
+   "Urdu: Urdu (International)": 5.0,
+   "Visual Arts": 5.0
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": ""
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": ""
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 308.9,
+   "lq": 295.1,
+   "mean": 310.6
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://www.polyu.edu.hk/saso/docdrive/jupas/admission_figures.pdf",
+   "https://www.polyu.edu.hk/saso/docdrive/jupas/2027_JS3478_SW.pdf",
+   "https://www.polyu.edu.hk/study/ug/jupas/2027/js3478"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS3569",
+  "institution": "PolyU",
+  "name": "BA (Hons) Scheme in Design (Advertising Design/Environmental Design/Immersive Media and Game Design/Information Design/Interaction Design/Interior Design/Product Design/Service Design/Social Design)",
+  "formula_2027": "Any Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "Biology": 5.0,
+   "Business, Accounting and Financial Studies": 7.0,
+   "Chemistry": 5.0,
+   "Chinese History": 5.0,
+   "Chinese Language": 10.0,
+   "Chinese Literature": 5.0,
+   "Combined Science: Biology + Chemistry": 5.0,
+   "Combined Science: Biology + Physics": 5.0,
+   "Combined Science: Physics + Chemistry": 5.0,
+   "Design and Applied Technology": 10.0,
+   "Economics": 7.0,
+   "English Language": 10.0,
+   "Ethics and Religious Studies": 5.0,
+   "French: Advanced Diploma of French Language Studies / Diploma of French Language Studies": 5.0,
+   "Geography": 5.0,
+   "German: Goethe-Certificate": 5.0,
+   "Health Management and Social Care": 5.0,
+   "History": 7.0,
+   "Information and Communication Technology": 10.0,
+   "Integrated Science": 5.0,
+   "Japanese: Japanese-Language Proficiency Test": 5.0,
+   "Korean: Test of Proficiency in Korean II": 5.0,
+   "Literature in English": 5.0,
+   "Mathematics (Compulsory Part)": 10.0,
+   "Mathematics Extended Part (Module 1)": 5.0,
+   "Mathematics Extended Part (Module 2)": 5.0,
+   "Music": 7.0,
+   "Physical Education": 5.0,
+   "Physics": 5.0,
+   "Spanish: Diploma of Spanish as a Foreign Language": 5.0,
+   "Technology and Living (Fashion, Clothing and Textiles)": 7.0,
+   "Technology and Living (Food Science and Technology)": 7.0,
+   "Tourism and Hospitality Studies": 7.0,
+   "Urdu: Urdu (International)": 5.0,
+   "Visual Arts": 10.0
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": ""
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": ""
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 199.3,
+   "lq": 184.3,
+   "mean": 204.3
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://www.polyu.edu.hk/saso/docdrive/jupas/admission_figures.pdf",
+   "https://www.polyu.edu.hk/saso/docdrive/jupas/2027_JS3569_SW.pdf",
+   "https://www.polyu.edu.hk/study/ug/jupas/2027/js3569"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS3612",
+  "institution": "PolyU",
+  "name": "BSc (Hons) in Radiography",
+  "formula_2027": "Any Best 5 Subjects (plus an additional bonus score for the 6th subject with Level 3 or above)",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "Biology": 10.0,
+   "Business, Accounting and Financial Studies": 5.0,
+   "Chemistry": 10.0,
+   "Chinese History": 5.0,
+   "Chinese Language": 10.0,
+   "Chinese Literature": 5.0,
+   "Combined Science: Biology + Chemistry": 10.0,
+   "Combined Science: Biology + Physics": 10.0,
+   "Combined Science: Physics + Chemistry": 10.0,
+   "Design and Applied Technology": 5.0,
+   "Economics": 5.0,
+   "English Language": 10.0,
+   "Ethics and Religious Studies": 5.0,
+   "French: Advanced Diploma of French Language Studies / Diploma of French Language Studies": 5.0,
+   "Geography": 5.0,
+   "German: Goethe-Certificate": 5.0,
+   "Health Management and Social Care": 5.0,
+   "History": 5.0,
+   "Information and Communication Technology": 5.0,
+   "Integrated Science": 5.0,
+   "Japanese: Japanese-Language Proficiency Test": 5.0,
+   "Korean: Test of Proficiency in Korean II": 5.0,
+   "Literature in English": 5.0,
+   "Mathematics (Compulsory Part)": 10.0,
+   "Mathematics Extended Part (Module 1)": 7.0,
+   "Mathematics Extended Part (Module 2)": 7.0,
+   "Music": 5.0,
+   "Physical Education": 5.0,
+   "Physics": 10.0,
+   "Spanish: Diploma of Spanish as a Foreign Language": 5.0,
+   "Technology and Living (Fashion, Clothing and Textiles)": 5.0,
+   "Technology and Living (Food Science and Technology)": 5.0,
+   "Tourism and Hospitality Studies": 5.0,
+   "Urdu: Urdu (International)": 5.0,
+   "Visual Arts": 5.0
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": ""
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": ""
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 339.0,
+   "lq": 328.5,
+   "mean": 341.7
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://www.polyu.edu.hk/saso/docdrive/jupas/admission_figures.pdf",
+   "https://www.polyu.edu.hk/saso/docdrive/jupas/2027_JS3612_SW.pdf",
+   "https://www.polyu.edu.hk/study/ug/jupas/2027/js3612"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS3624",
+  "institution": "PolyU",
+  "name": "BSc (Hons) in Occupational Therapy",
+  "formula_2027": "Any Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "Biology": 10.0,
+   "Business, Accounting and Financial Studies": 7.0,
+   "Chemistry": 10.0,
+   "Chinese History": 7.0,
+   "Chinese Language": 10.0,
+   "Chinese Literature": 7.0,
+   "Combined Science: Biology + Chemistry": 10.0,
+   "Combined Science: Biology + Physics": 10.0,
+   "Combined Science: Physics + Chemistry": 10.0,
+   "Design and Applied Technology": 7.0,
+   "Economics": 7.0,
+   "English Language": 10.0,
+   "Ethics and Religious Studies": 5.0,
+   "French: Advanced Diploma of French Language Studies / Diploma of French Language Studies": 5.0,
+   "Geography": 7.0,
+   "German: Goethe-Certificate": 5.0,
+   "Health Management and Social Care": 7.0,
+   "History": 7.0,
+   "Information and Communication Technology": 7.0,
+   "Integrated Science": 7.0,
+   "Japanese: Japanese-Language Proficiency Test": 5.0,
+   "Korean: Test of Proficiency in Korean II": 5.0,
+   "Literature in English": 7.0,
+   "Mathematics (Compulsory Part)": 7.0,
+   "Mathematics Extended Part (Module 1)": 7.0,
+   "Mathematics Extended Part (Module 2)": 7.0,
+   "Music": 5.0,
+   "Physical Education": 5.0,
+   "Physics": 10.0,
+   "Spanish: Diploma of Spanish as a Foreign Language": 5.0,
+   "Technology and Living (Fashion, Clothing and Textiles)": 5.0,
+   "Technology and Living (Food Science and Technology)": 5.0,
+   "Tourism and Hospitality Studies": 5.0,
+   "Urdu: Urdu (International)": 5.0,
+   "Visual Arts": 5.0
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": ""
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": ""
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 284.0,
+   "lq": 275.0,
+   "mean": 287.4
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://www.polyu.edu.hk/saso/docdrive/jupas/admission_figures.pdf",
+   "https://www.polyu.edu.hk/saso/docdrive/jupas/2027_JS3624_SW.pdf",
+   "https://www.polyu.edu.hk/study/ug/jupas/2027/js3624"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS3636",
+  "institution": "PolyU",
+  "name": "BSc (Hons) in Physiotherapy",
+  "formula_2027": "Any Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "Biology": 10.0,
+   "Business, Accounting and Financial Studies": 5.0,
+   "Chemistry": 10.0,
+   "Chinese History": 5.0,
+   "Chinese Language": 10.0,
+   "Chinese Literature": 5.0,
+   "Combined Science: Biology + Chemistry": 10.0,
+   "Combined Science: Biology + Physics": 10.0,
+   "Combined Science: Physics + Chemistry": 10.0,
+   "Design and Applied Technology": 5.0,
+   "Economics": 5.0,
+   "English Language": 10.0,
+   "Ethics and Religious Studies": 5.0,
+   "French: Advanced Diploma of French Language Studies / Diploma of French Language Studies": 5.0,
+   "Geography": 5.0,
+   "German: Goethe-Certificate": 5.0,
+   "Health Management and Social Care": 7.0,
+   "History": 5.0,
+   "Information and Communication Technology": 5.0,
+   "Integrated Science": 10.0,
+   "Japanese: Japanese-Language Proficiency Test": 5.0,
+   "Korean: Test of Proficiency in Korean II": 5.0,
+   "Literature in English": 5.0,
+   "Mathematics (Compulsory Part)": 10.0,
+   "Mathematics Extended Part (Module 1)": 10.0,
+   "Mathematics Extended Part (Module 2)": 10.0,
+   "Music": 5.0,
+   "Physical Education": 7.0,
+   "Physics": 10.0,
+   "Spanish: Diploma of Spanish as a Foreign Language": 5.0,
+   "Technology and Living (Fashion, Clothing and Textiles)": 5.0,
+   "Technology and Living (Food Science and Technology)": 5.0,
+   "Tourism and Hospitality Studies": 5.0,
+   "Urdu: Urdu (International)": 5.0,
+   "Visual Arts": 5.0
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": ""
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": ""
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 320.0,
+   "lq": 290.0,
+   "mean": 303.6
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://www.polyu.edu.hk/saso/docdrive/jupas/admission_figures.pdf",
+   "https://www.polyu.edu.hk/saso/docdrive/jupas/2027_JS3636_SW.pdf",
+   "https://www.polyu.edu.hk/study/ug/jupas/2027/js3636"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS3648",
+  "institution": "PolyU",
+  "name": "BSc (Hons) in Nursing",
+  "formula_2027": "Any Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "Biology": 10.0,
+   "Business, Accounting and Financial Studies": 7.0,
+   "Chemistry": 7.0,
+   "Chinese History": 7.0,
+   "Chinese Language": 10.0,
+   "Chinese Literature": 7.0,
+   "Combined Science: Biology + Chemistry": 10.0,
+   "Combined Science: Biology + Physics": 10.0,
+   "Combined Science: Physics + Chemistry": 7.0,
+   "Design and Applied Technology": 7.0,
+   "Economics": 7.0,
+   "English Language": 10.0,
+   "Ethics and Religious Studies": 7.0,
+   "French: Advanced Diploma of French Language Studies / Diploma of French Language Studies": 5.0,
+   "Geography": 7.0,
+   "German: Goethe-Certificate": 5.0,
+   "Health Management and Social Care": 7.0,
+   "History": 7.0,
+   "Information and Communication Technology": 7.0,
+   "Integrated Science": 7.0,
+   "Japanese: Japanese-Language Proficiency Test": 5.0,
+   "Korean: Test of Proficiency in Korean II": 5.0,
+   "Literature in English": 7.0,
+   "Mathematics (Compulsory Part)": 10.0,
+   "Mathematics Extended Part (Module 1)": 7.0,
+   "Mathematics Extended Part (Module 2)": 7.0,
+   "Music": 7.0,
+   "Physical Education": 7.0,
+   "Physics": 7.0,
+   "Spanish: Diploma of Spanish as a Foreign Language": 5.0,
+   "Technology and Living (Fashion, Clothing and Textiles)": 7.0,
+   "Technology and Living (Food Science and Technology)": 7.0,
+   "Tourism and Hospitality Studies": 7.0,
+   "Urdu: Urdu (International)": 5.0,
+   "Visual Arts": 7.0
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": ""
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": ""
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 218.0,
+   "lq": 216.5,
+   "mean": 222.8
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://www.polyu.edu.hk/saso/docdrive/jupas/admission_figures.pdf",
+   "https://www.polyu.edu.hk/saso/docdrive/jupas/2027_JS3648_SW.pdf",
+   "https://www.polyu.edu.hk/study/ug/jupas/2027/js3648"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS3739",
+  "institution": "PolyU",
+  "name": "BEng (Hons) in Civil Engineering",
+  "formula_2027": "Any Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "Biology": 7.0,
+   "Business, Accounting and Financial Studies": 5.0,
+   "Chemistry": 10.0,
+   "Chinese History": 5.0,
+   "Chinese Language": 7.0,
+   "Chinese Literature": 5.0,
+   "Combined Science: Biology + Chemistry": 10.0,
+   "Combined Science: Biology + Physics": 10.0,
+   "Combined Science: Physics + Chemistry": 10.0,
+   "Design and Applied Technology": 7.0,
+   "Economics": 7.0,
+   "English Language": 10.0,
+   "Ethics and Religious Studies": 5.0,
+   "French: Advanced Diploma of French Language Studies / Diploma of French Language Studies": 5.0,
+   "Geography": 7.0,
+   "German: Goethe-Certificate": 5.0,
+   "Health Management and Social Care": 5.0,
+   "History": 5.0,
+   "Information and Communication Technology": 7.0,
+   "Integrated Science": 10.0,
+   "Japanese: Japanese-Language Proficiency Test": 5.0,
+   "Korean: Test of Proficiency in Korean II": 5.0,
+   "Literature in English": 5.0,
+   "Mathematics (Compulsory Part)": 10.0,
+   "Mathematics Extended Part (Module 1)": 10.0,
+   "Mathematics Extended Part (Module 2)": 10.0,
+   "Music": 5.0,
+   "Physical Education": 5.0,
+   "Physics": 10.0,
+   "Spanish: Diploma of Spanish as a Foreign Language": 5.0,
+   "Technology and Living (Fashion, Clothing and Textiles)": 5.0,
+   "Technology and Living (Food Science and Technology)": 5.0,
+   "Tourism and Hospitality Studies": 5.0,
+   "Urdu: Urdu (International)": 5.0,
+   "Visual Arts": 5.0
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": ""
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": ""
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 231.3,
+   "lq": 226.8,
+   "mean": 235.2
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://www.polyu.edu.hk/saso/docdrive/jupas/admission_figures.pdf",
+   "https://www.polyu.edu.hk/saso/docdrive/jupas/2027_JS3739_SW.pdf",
+   "https://www.polyu.edu.hk/study/ug/jupas/2027/js3739"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS3741",
+  "institution": "PolyU",
+  "name": "BEng (Hons) Scheme in Mechanical Engineering (Intelligent Robotics Engineering / Mechanical Engineering)",
+  "formula_2027": "Any Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "Biology": 10.0,
+   "Business, Accounting and Financial Studies": 5.0,
+   "Chemistry": 10.0,
+   "Chinese History": 5.0,
+   "Chinese Language": 7.0,
+   "Chinese Literature": 5.0,
+   "Combined Science: Biology + Chemistry": 10.0,
+   "Combined Science: Biology + Physics": 10.0,
+   "Combined Science: Physics + Chemistry": 10.0,
+   "Design and Applied Technology": 10.0,
+   "Economics": 5.0,
+   "English Language": 10.0,
+   "Ethics and Religious Studies": 5.0,
+   "French: Advanced Diploma of French Language Studies / Diploma of French Language Studies": 5.0,
+   "Geography": 5.0,
+   "German: Goethe-Certificate": 5.0,
+   "Health Management and Social Care": 5.0,
+   "History": 5.0,
+   "Information and Communication Technology": 10.0,
+   "Integrated Science": 5.0,
+   "Japanese: Japanese-Language Proficiency Test": 5.0,
+   "Korean: Test of Proficiency in Korean II": 5.0,
+   "Literature in English": 5.0,
+   "Mathematics (Compulsory Part)": 10.0,
+   "Mathematics Extended Part (Module 1)": 10.0,
+   "Mathematics Extended Part (Module 2)": 10.0,
+   "Music": 5.0,
+   "Physical Education": 5.0,
+   "Physics": 10.0,
+   "Spanish: Diploma of Spanish as a Foreign Language": 5.0,
+   "Technology and Living (Fashion, Clothing and Textiles)": 5.0,
+   "Technology and Living (Food Science and Technology)": 5.0,
+   "Tourism and Hospitality Studies": 5.0,
+   "Urdu: Urdu (International)": 5.0,
+   "Visual Arts": 5.0
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": ""
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": ""
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 235.0,
+   "lq": 230.0,
+   "mean": 237.5
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://www.polyu.edu.hk/saso/docdrive/jupas/admission_figures.pdf",
+   "https://www.polyu.edu.hk/saso/docdrive/jupas/2027_JS3741_SW.pdf",
+   "https://www.polyu.edu.hk/study/ug/jupas/2027/js3741"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS3789",
+  "institution": "PolyU",
+  "name": "BSc (Hons) in Surveying",
+  "formula_2027": "Any Best 5 Subjects (plus an additional bonus score for the 6th subject with Level 3 or above)",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "Biology": 7.0,
+   "Business, Accounting and Financial Studies": 7.0,
+   "Chemistry": 7.0,
+   "Chinese History": 7.0,
+   "Chinese Language": 7.0,
+   "Chinese Literature": 7.0,
+   "Combined Science: Biology + Chemistry": 7.0,
+   "Combined Science: Biology + Physics": 7.0,
+   "Combined Science: Physics + Chemistry": 7.0,
+   "Design and Applied Technology": 7.0,
+   "Economics": 7.0,
+   "English Language": 10.0,
+   "Ethics and Religious Studies": 7.0,
+   "French: Advanced Diploma of French Language Studies / Diploma of French Language Studies": 5.0,
+   "Geography": 7.0,
+   "German: Goethe-Certificate": 5.0,
+   "Health Management and Social Care": 7.0,
+   "History": 7.0,
+   "Information and Communication Technology": 7.0,
+   "Integrated Science": 7.0,
+   "Japanese: Japanese-Language Proficiency Test": 5.0,
+   "Korean: Test of Proficiency in Korean II": 5.0,
+   "Literature in English": 7.0,
+   "Mathematics (Compulsory Part)": 7.0,
+   "Mathematics Extended Part (Module 1)": 7.0,
+   "Mathematics Extended Part (Module 2)": 7.0,
+   "Music": 5.0,
+   "Physical Education": 5.0,
+   "Physics": 7.0,
+   "Spanish: Diploma of Spanish as a Foreign Language": 5.0,
+   "Technology and Living (Fashion, Clothing and Textiles)": 5.0,
+   "Technology and Living (Food Science and Technology)": 5.0,
+   "Tourism and Hospitality Studies": 7.0,
+   "Urdu: Urdu (International)": 5.0,
+   "Visual Arts": 5.0
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": ""
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": ""
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 186.3,
+   "lq": 180.3,
+   "mean": 190.3
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://www.polyu.edu.hk/saso/docdrive/jupas/admission_figures.pdf",
+   "https://www.polyu.edu.hk/saso/docdrive/jupas/2027_JS3789_SW.pdf",
+   "https://www.polyu.edu.hk/study/ug/jupas/2027/js3789"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS3791",
+  "institution": "PolyU",
+  "name": "BSc (Hons) in Building Engineering and Management",
+  "formula_2027": "Any Best 5 Subjects (plus an additional bonus score for the 6th subject with Level 3 or above)",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "Biology": 7.0,
+   "Business, Accounting and Financial Studies": 7.0,
+   "Chemistry": 7.0,
+   "Chinese History": 7.0,
+   "Chinese Language": 7.0,
+   "Chinese Literature": 7.0,
+   "Combined Science: Biology + Chemistry": 7.0,
+   "Combined Science: Biology + Physics": 10.0,
+   "Combined Science: Physics + Chemistry": 10.0,
+   "Design and Applied Technology": 7.0,
+   "Economics": 7.0,
+   "English Language": 10.0,
+   "Ethics and Religious Studies": 7.0,
+   "French: Advanced Diploma of French Language Studies / Diploma of French Language Studies": 5.0,
+   "Geography": 7.0,
+   "German: Goethe-Certificate": 5.0,
+   "Health Management and Social Care": 7.0,
+   "History": 7.0,
+   "Information and Communication Technology": 7.0,
+   "Integrated Science": 7.0,
+   "Japanese: Japanese-Language Proficiency Test": 5.0,
+   "Korean: Test of Proficiency in Korean II": 5.0,
+   "Literature in English": 7.0,
+   "Mathematics (Compulsory Part)": 10.0,
+   "Mathematics Extended Part (Module 1)": 10.0,
+   "Mathematics Extended Part (Module 2)": 10.0,
+   "Music": 5.0,
+   "Physical Education": 5.0,
+   "Physics": 10.0,
+   "Spanish: Diploma of Spanish as a Foreign Language": 5.0,
+   "Technology and Living (Fashion, Clothing and Textiles)": 5.0,
+   "Technology and Living (Food Science and Technology)": 5.0,
+   "Tourism and Hospitality Studies": 7.0,
+   "Urdu: Urdu (International)": 5.0,
+   "Visual Arts": 5.0
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": ""
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": ""
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 207.2,
+   "lq": 205.3,
+   "mean": 207.4
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://www.polyu.edu.hk/saso/docdrive/jupas/admission_figures.pdf",
+   "https://www.polyu.edu.hk/saso/docdrive/jupas/2027_JS3791_SW.pdf",
+   "https://www.polyu.edu.hk/study/ug/jupas/2027/js3791"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS3868",
+  "institution": "PolyU",
+  "name": "BSc (Hons) Scheme in Computing and AI (Computer Science / Enterprise Information Systems)",
+  "formula_2027": "Any Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "Biology": 10.0,
+   "Business, Accounting and Financial Studies": 10.0,
+   "Chemistry": 10.0,
+   "Chinese History": 7.0,
+   "Chinese Language": 7.0,
+   "Chinese Literature": 7.0,
+   "Combined Science: Biology + Chemistry": 10.0,
+   "Combined Science: Biology + Physics": 10.0,
+   "Combined Science: Physics + Chemistry": 10.0,
+   "Design and Applied Technology": 7.0,
+   "Economics": 10.0,
+   "English Language": 10.0,
+   "Ethics and Religious Studies": 7.0,
+   "French: Advanced Diploma of French Language Studies / Diploma of French Language Studies": 7.0,
+   "Geography": 7.0,
+   "German: Goethe-Certificate": 7.0,
+   "Health Management and Social Care": 7.0,
+   "History": 7.0,
+   "Information and Communication Technology": 10.0,
+   "Integrated Science": 7.0,
+   "Japanese: Japanese-Language Proficiency Test": 7.0,
+   "Korean: Test of Proficiency in Korean II": 7.0,
+   "Literature in English": 7.0,
+   "Mathematics (Compulsory Part)": 10.0,
+   "Mathematics Extended Part (Module 1)": 10.0,
+   "Mathematics Extended Part (Module 2)": 10.0,
+   "Music": 7.0,
+   "Physical Education": 7.0,
+   "Physics": 10.0,
+   "Spanish: Diploma of Spanish as a Foreign Language": 7.0,
+   "Technology and Living (Fashion, Clothing and Textiles)": 7.0,
+   "Technology and Living (Food Science and Technology)": 7.0,
+   "Tourism and Hospitality Studies": 7.0,
+   "Urdu: Urdu (International)": 7.0,
+   "Visual Arts": 7.0
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": ""
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": ""
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 245.0,
+   "lq": 235.0,
+   "mean": 247.1
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://www.polyu.edu.hk/saso/docdrive/jupas/admission_figures.pdf",
+   "https://www.polyu.edu.hk/saso/docdrive/jupas/2027_JS3868_SW.pdf",
+   "https://www.polyu.edu.hk/study/ug/jupas/2027/js3868"
+  ],
+  "confidence": "official"
+ },
+ {
+  "jupas_code": "JS3997",
+  "institution": "PolyU",
+  "name": "BSc (Hons) in Chemical Technology",
+  "formula_2027": "Any Best 5 Subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "Biology": 7.0,
+   "Business, Accounting and Financial Studies": 5.0,
+   "Chemistry": 10.0,
+   "Chinese History": 5.0,
+   "Chinese Language": 7.0,
+   "Chinese Literature": 5.0,
+   "Combined Science: Biology + Chemistry": 7.0,
+   "Combined Science: Biology + Physics": 7.0,
+   "Combined Science: Physics + Chemistry": 10.0,
+   "Design and Applied Technology": 5.0,
+   "Economics": 5.0,
+   "English Language": 10.0,
+   "Ethics and Religious Studies": 5.0,
+   "French: Advanced Diploma of French Language Studies / Diploma of French Language Studies": 5.0,
+   "Geography": 5.0,
+   "German: Goethe-Certificate": 5.0,
+   "Health Management and Social Care": 5.0,
+   "History": 5.0,
+   "Information and Communication Technology": 5.0,
+   "Integrated Science": 7.0,
+   "Japanese: Japanese-Language Proficiency Test": 5.0,
+   "Korean: Test of Proficiency in Korean II": 5.0,
+   "Literature in English": 5.0,
+   "Mathematics (Compulsory Part)": 10.0,
+   "Mathematics Extended Part (Module 1)": 7.0,
+   "Mathematics Extended Part (Module 2)": 7.0,
+   "Music": 5.0,
+   "Physical Education": 5.0,
+   "Physics": 10.0,
+   "Spanish: Diploma of Spanish as a Foreign Language": 5.0,
+   "Technology and Living (Fashion, Clothing and Textiles)": 5.0,
+   "Technology and Living (Food Science and Technology)": 5.0,
+   "Tourism and Hospitality Studies": 5.0,
+   "Urdu: Urdu (International)": 5.0,
+   "Visual Arts": 5.0
+  },
+  "best_of_weights_2027": [],
+  "min_requirements_2027": {
+   "chi": "3",
+   "eng": "3",
+   "math": "2",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": ""
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": ""
+   }
+  },
+  "scores_2026": {
+   "uq": null,
+   "median": 224.5,
+   "lq": 218.5,
+   "mean": 226.9
+  },
+  "score_grades_2026": null,
+  "sources": [
+   "https://www.polyu.edu.hk/saso/docdrive/jupas/admission_figures.pdf",
+   "https://www.polyu.edu.hk/saso/docdrive/jupas/2027_JS3997_SW.pdf",
+   "https://www.polyu.edu.hk/study/ug/jupas/2027/js3997"
+  ],
+  "confidence": "partial"
+ }
+]

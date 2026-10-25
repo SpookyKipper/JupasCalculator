@@ -1,0 +1,39 @@
+{
+  "name": "jupas-cal",
+  "private": true,
+  "version": "1.3.0",
+  "admissionCycle": "2027",
+  "description": "Unofficial, client-side 2027 HKDSE/JUPAS admission-score calculator for Hong Kong university applicants. Uses 2027 weightings and 2026 intake admission scores. Educational use only.",
+  "homepage": "https://jupascal.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JUPASCal/JUPASCal.github.io.git"
+  },
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 0.0.0.0 --port 5174 --strictPort",
+    "build": "tsc -b && vite build && npm run build:seo && node scripts/copy_runtime_data.mjs",
+    "build:seo": "node scripts/seo/generate_seo_pages.mjs",
+    "preview": "vite preview --host 0.0.0.0",
+    "audit": "node scripts/audit_eligibility.mjs",
+    "audit:analysis": "node scripts/analysis_scenarios.mjs",
+    "audit:analysis:cases": "node scripts/analysis_cases.mjs",
+    "audit:category-c": "~/miniconda3/envs/jupascal/bin/python scripts/utils/test_category_c_policies.py",
+    "audit:suggestions": "node scripts/suggestions_audit.mjs",
+    "audit:selection": "node scripts/selection_audit.mjs",
+    "audit:apl": "node scripts/apl_audit.mjs"
+  },
+  "dependencies": {
+    "html-to-image": "^1.11.13",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+  },
+  "devDependencies": {
+    "@types/react": "^19.2.14",
+    "@types/react-dom": "^19.2.3",
+    "@vitejs/plugin-react": "^5.0.4",
+    "typescript": "^5.9.3",
+    "vite": "^7.1.12"
+  }
+}
