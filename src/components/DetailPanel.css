@@ -2822,3 +2822,15 @@
   text-decoration: underline;
   text-underline-offset: 2px;
 }
+
+/* AI-assistance caveat at the end of the detail panel. This 2027 fork has no
+   public issue tracker, so the former "report" link is now a static note. */
+.detail-ai-note,
+.detail-ai-note:hover {
+  cursor: default;
+  font-weight: 500;
+  text-align: center;
+  border-color: var(--line);
+  color: var(--muted);
+  background: var(--surface-strong);
+}

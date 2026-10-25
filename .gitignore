@@ -16,3 +16,6 @@ docs/audit_report.html
 # Local historical archive (2023/2024 versions) — kept out of the public
 # repo; full history is preserved in the backup bundle.
 /Archives/
+
+# Vite dependency cache
+.vite/

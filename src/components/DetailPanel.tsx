@@ -907,21 +907,16 @@ export function DetailPanel({ results, activeCode, reviewRequest, onActiveCodeCh
 
         <OfficialLinksCard programme={programme} />
 
-        {/* Crowd-sourced correction: scores/weightings are compiled from public
-            sources and can lag or err. Routes to the GitHub issue tracker; the
-            code is in the label so the reporter knows what to cite. */}
-        <a
-          className="detail-report-link"
-          href="https://github.com/JUPASCal/JUPASCal.github.io/issues/new"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
+        {/* This 2027 fork is not publicly hosted on GitHub yet. Instead of an
+            external report link, show the AI-assistance / accuracy caveat. */}
+        <p className="detail-report-link detail-ai-note">
           <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true">
-            <path d="M4 15s1-1 4-1 5 2 8 2 4-1 4-1V3s-1 1-4 1-5-2-8-2-4 1-4 1z" />
-            <line x1="4" y1="22" x2="4" y2="15" />
+            <path d="M12 3 4 7v6c0 4.4 3.4 7.4 8 8 4.6-.6 8-3.6 8-8V7l-8-4z" />
+            <path d="M12 8v5" />
+            <path d="M12 16.5h.01" />
           </svg>
-          {t("detail.reportError")}
-        </a>
+          {t("detail.aiDataNote")}
+        </p>
       </aside>
     </div>
   );

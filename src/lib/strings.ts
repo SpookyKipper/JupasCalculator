@@ -70,14 +70,14 @@ export const STRINGS = {
   "welcome.slide3.cap": { en: "Every JUPAS programme, in one place", zh: "集中查看所有JUPAS 課程" },
   "welcome.gotoSlide": { en: "Go to slide {n}", zh: "前往第 {n} 張" },
   "welcome.getStarted": { en: "Get started", zh: "開始使用" },
-  "welcome.footnote.pre": { en: "Free · open-source · unofficial · reference only · ", zh: "免費 · 開放原始碼 · 非官方 · 僅供參考 · " },
+  "welcome.footnote.pre": { en: "Free · unofficial 2027 fork · AI-assisted data · reference only · ", zh: "免費 · 非官方 2027 分支 · AI 輔助資料 · 僅供參考 · " },
   "welcome.footnote.how": { en: "How it works ↗︎", zh: "運作原理 ↗︎" },
 
   // – About page –
   "about.eyebrow": { en: "About", zh: "關於" },
   "about.title": { en: "JUPASCal", zh: "JUPASCal" },
-  "about.lede": { en: "An unofficial JUPAS admissions score calculator for comparing programmes and historical score benchmarks across Hong Kong universities.", zh: "非官方 JUPAS 收生計分器，可比較香港各大學課程及其往年收生分數基準。" },
-  "about.free": { en: "JUPASCal is completely free and open-source. No account is needed, and there is no paid version.", zh: "JUPASCal 完全免費開源，毋須開設帳戶，亦沒有收費版本。" },
+  "about.lede": { en: "An unofficial 2027 fork of the JUPASCal 2026 calculator, for comparing programmes and recent admission-score benchmarks across Hong Kong universities.", zh: "JUPASCal 2026 的非官方 2027 分支，可比較香港各大學課程及其近年收生分數基準。" },
+  "about.free": { en: "JUPASCal 2027 is free to use. No account is needed, and there is no paid version.", zh: "JUPASCal 2027 免費使用，毋須開設帳戶，亦沒有收費版本。" },
   "about.facts.institutions": { en: "institutions", zh: "所院校" },
   "about.facts.programmes": { en: "programmes", zh: "個課程" },
   "about.facts.baselines": { en: "score baselines", zh: "收生分數基準" },
@@ -94,15 +94,20 @@ export const STRINGS = {
     zh: "JUPASCal 完全在你的瀏覽器內運行。你的成績、檔案及選擇只儲存於你的裝置，並不會存放於任何伺服器，亦無需任何帳戶。此網站只會載入公開的課程數據。若你選擇分享計劃，相關資料只會儲存於該分享連結中。此網站沒有亦不會收集任何用家數據。"
   },
   "about.source.h": {
-    en: "Report an error or feedback",
-    zh: "回報錯誤或意見"
+    en: "About this 2027 fork",
+    zh: "關於此 2027 分支"
   },
   "about.source.p.pre": {
-    en: "Found a wrong score, requirement, or anything off? JUPASCal is open source on GitHub, where you can open an issue to report it or contribute directly.",
-    zh: "發現分數、入學要求或其他地方出錯？JUPASCal 於 GitHub 開源，你可在該處提交 issue 回報或直接參與貢獻。"
+    en: "JUPASCal 2027 is an unofficial fork of the original JUPASCal 2026 project. The 2027 weightings and entrance requirements, and the 2026 intake scores, were gathered with AI assistance and manual checking. They may contain errors and their accuracy is not guaranteed. Always verify against official JUPAS and institution publications.",
+    zh: "JUPASCal 2027 是原 JUPASCal 2026 項目的非官方分支。2027 年科目比重及入學要求、以及 2026 年入學收生分數，均由 AI 協助整理並經人工抽查，仍可能有錯漏，準確性不受保證。作出決定前，請務必以 JUPAS 及各院校官方資料為準。"
   },
-  "about.source.github": { en: "Report on GitHub ↗︎", zh: "前往 GitHub 回報 ↗︎" },
-  "about.source.changelog": { en: "Changelog ↗︎", zh: "更新紀錄 ↗︎" },
+  "about.source.original": { en: "Original 2026 project ↗︎", zh: "原 2026 版本 ↗︎" },
+  "about.source.jupas": { en: "Official JUPAS site ↗︎", zh: "JUPAS 官方網站 ↗︎" },
+  "about.ai.h": { en: "AI-assisted data", zh: "AI 輔助資料" },
+  "about.ai.p": {
+    en: "The 2027 weightings, entrance requirements, 2026 intake scores and admission statistics were compiled with AI assistance and manual spot-checks. We do not guarantee that the data is accurate, complete or up to date. Do not rely on it as the sole basis for a JUPAS decision.",
+    zh: "2027 年科目比重、入學要求、2026 年入學收生分數及收生統計，均由 AI 協助整理並經人工抽查。我們不保證資料準確、完整或為最新版本，請勿單憑本工具作出 JUPAS 決定。"
+  },
   "about.more.h": { en: "Data sources", zh: "數據來源" },
   "about.more.p": { en: "2027 subject weightings and entrance requirements come from each institution's 2027 admissions publications and the official JUPAS 2027 catalogue. Benchmarks are the institutions' published 2026 intake admission scores (UQ / median / LQ, or a published mean where quartiles are not released). New or restructured programmes without a published 2026 cohort show no benchmark. All figures remain reference estimates — always confirm with the institution and JUPAS before relying on them.", zh: "2027 年科目比重及入學要求整理自各院校的 2027 年收生刊物及 JUPAS 2027 官方課程目錄。收生基準為各院校公佈的 2026 年入學（2026 intake）分數（UQ／中位數／LQ；若院校只公佈平均分則採用平均分）。尚未有 2026 年收生紀錄的新課程或重組課程會顯示暫無基準。所有數字僅屬參考估算，作決定前請務必向院校及 JUPAS 官方資料核實。" },
   "about.version": { en: "Version", zh: "版本" },
@@ -658,7 +663,6 @@ export const STRINGS = {
   "detail.programmeWebsite": { en: "Programme website", zh: "課程網站" },
   "detail.notOnRecord": { en: "Not on record", zh: "沒有記錄" },
   "detail.noWebsiteRecord": { en: "No institution programme page on record", zh: "沒有院校課程頁面記錄" },
-  "detail.reportError": { en: "Spotted a wrong score or weighting? Report here ↗︎", zh: "發現分數或科目比重有誤？按此回報 ↗︎" },
   "elig.chi": { en: "CHI", zh: "中文" },
   "elig.eng": { en: "ENG", zh: "英文" },
   "elig.math": { en: "MATH", zh: "數學" },

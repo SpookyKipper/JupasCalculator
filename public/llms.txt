@@ -1,21 +1,26 @@
-# JUPASCal — JUPAS / HKDSE admission-score calculator
+# JUPASCal 2027 — unofficial fork of JUPASCal 2026
 
-> JUPASCal is a free, unofficial JUPAS (Joint University Programmes Admissions
-> System) admission-score calculator for Hong Kong HKDSE students. Enter your DSE
-> grades to estimate your score under each JUPAS programme's own subject weighting,
-> and compare it against the 2026 intake lower-quartile, median and upper-quartile
-> admission scores across all ten institutions, using each programme's 2027 weighting.
+> This is an unofficial 2027 fork of the original JUPASCal 2026 project at
+> <https://jupascal.com/>. It is a free JUPAS / HKDSE admission-score calculator
+> for local applicants: enter your DSE grades to estimate your score under each
+> programme's 2027 subject weighting, then compare it with the 2026 intake's
+> published lower-quartile, median and upper-quartile scores.
 
 ## Key facts
 
-- Covers every JUPAS undergraduate degree programme across Hong Kong's 10 institutions: HKU, CUHK, HKUST, PolyU, CityUHK, HKBU, Lingnan University, EdUHK, HKMU, and the SSSDP programmes.
-- For each programme it provides: the real subject weighting and Best-5 / Best-6 scoring formula, 2026 intake admission scores (LQ / median / UQ or published mean), 2027 entrance requirements and weightings, and admission statistics (applications, offers, competition).
-- Scoring uses the published 2027 subject weighting; the benchmarks are the 2026 intake admission scores, and eligibility is checked against 2027 entrance requirements.
-- Free, bilingual (English / 中文), no sign-up. Unofficial and for reference only — students should confirm details with each institution and JUPAS.
+- Covers the 2027 JUPAS catalogue across 10 institutions: HKU, CUHK, HKUST, PolyU, CityUHK, HKBU, Lingnan University, EdUHK, HKMU and the SSSDP programmes.
+- Uses 2027 subject weightings and entrance requirements, with 2026 intake admission scores (LQ / median / UQ, or a published mean) as benchmarks.
+- The 2027 weightings, requirements, 2026 intake scores and admission statistics were gathered with **AI assistance** and manual spot-checks.
+- **Accuracy is not guaranteed.** The data may contain errors, omissions or out-of-date figures. Always verify against official JUPAS and institution publications.
+- This 2027 fork is **not currently published as an open-source repository** and has no public GitHub repository.
+- Free, bilingual (English / 中文), no sign-up. Unofficial and for reference only.
 
-## Pages
+## Original project
 
-- [JUPAS score calculator (home)](https://jupascal.com/)
-- [All programmes — browse index](https://jupascal.com/p/)
-- Individual programme pages follow the pattern `https://jupascal.com/p/<JUPAS-CODE>/`, e.g. [JS4725](https://jupascal.com/p/JS4725/). Each has that programme's scores, weighting, requirements, statistics, and an FAQ.
-- Full URL list: [sitemap.xml](https://jupascal.com/sitemap.xml)
+- Original 2026 JUPASCal: <https://jupascal.com/>
+
+## Disclaimer
+
+This is an independent, unofficial fork. It is not affiliated with JUPAS, any
+university, or the original JUPASCal maintainers. Scores are estimates only, not
+predictions or guarantees of admission.
