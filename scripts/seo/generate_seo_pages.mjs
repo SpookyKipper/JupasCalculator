@@ -14,7 +14,7 @@
 // programme's REQUIREMENTS. Every CTA deep-links into the app (/?p=<CODE>).
 import { readFileSync, writeFileSync, mkdirSync, readdirSync } from "fs";
 
-const SITE = "https://jupascal.com";
+const SITE = "https://jupascalc.spooky.hk";
 const OUT = "dist";
 const DATA = "data/processed/JUPAS_2027_Unified_Data.json";
 const data = JSON.parse(readFileSync(DATA, "utf8"));

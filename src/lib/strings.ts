@@ -70,14 +70,14 @@ export const STRINGS = {
   "welcome.slide3.cap": { en: "Every JUPAS programme, in one place", zh: "集中查看所有JUPAS 課程" },
   "welcome.gotoSlide": { en: "Go to slide {n}", zh: "前往第 {n} 張" },
   "welcome.getStarted": { en: "Get started", zh: "開始使用" },
-  "welcome.footnote.pre": { en: "Free · unofficial 2027 fork · AI-assisted data · reference only · ", zh: "免費 · 非官方 2027 分支 · AI 輔助資料 · 僅供參考 · " },
+  "welcome.footnote.pre": { en: "Free · open-source · unofficial 2027 fork · AI-assisted data · reference only · ", zh: "免費 · 開源 · 非官方 2027 分支 · AI 輔助資料 · 僅供參考 · " },
   "welcome.footnote.how": { en: "How it works ↗︎", zh: "運作原理 ↗︎" },
 
   // – About page –
   "about.eyebrow": { en: "About", zh: "關於" },
   "about.title": { en: "JUPASCal", zh: "JUPASCal" },
   "about.lede": { en: "An unofficial 2027 fork of the JUPASCal 2026 calculator, for comparing programmes and recent admission-score benchmarks across Hong Kong universities.", zh: "JUPASCal 2026 的非官方 2027 分支，可比較香港各大學課程及其近年收生分數基準。" },
-  "about.free": { en: "JUPASCal 2027 is free to use. No account is needed, and there is no paid version.", zh: "JUPASCal 2027 免費使用，毋須開設帳戶，亦沒有收費版本。" },
+  "about.free": { en: "JUPASCal 2027 is free and open source under the MIT License. No account is needed, and there is no paid version.", zh: "JUPASCal 2027 免費開源，以 MIT 授權條款發布，毋須開設帳戶，亦沒有收費版本。" },
   "about.facts.institutions": { en: "institutions", zh: "所院校" },
   "about.facts.programmes": { en: "programmes", zh: "個課程" },
   "about.facts.baselines": { en: "score baselines", zh: "收生分數基準" },
@@ -98,9 +98,11 @@ export const STRINGS = {
     zh: "關於此 2027 分支"
   },
   "about.source.p.pre": {
-    en: "JUPASCal 2027 is an unofficial fork of the original JUPASCal 2026 project. The 2027 weightings and entrance requirements, and the 2026 intake scores, were gathered with AI assistance and manual checking. They may contain errors and their accuracy is not guaranteed. Always verify against official JUPAS and institution publications.",
-    zh: "JUPASCal 2027 是原 JUPASCal 2026 項目的非官方分支。2027 年科目比重及入學要求、以及 2026 年入學收生分數，均由 AI 協助整理並經人工抽查，仍可能有錯漏，準確性不受保證。作出決定前，請務必以 JUPAS 及各院校官方資料為準。"
+    en: "JUPASCal 2027 is an unofficial fork of the original JUPASCal 2026 project. The 2027 weightings and entrance requirements, and the 2026 intake scores, were gathered with AI assistance and manual checking. They may contain errors and their accuracy is not guaranteed. This 2027 fork is open source under the MIT License; always verify against official JUPAS and institution publications.",
+    zh: "JUPASCal 2027 是原 JUPASCal 2026 項目的非官方分支。2027 年科目比重及入學要求、以及 2026 年入學收生分數，均由 AI 協助整理並經人工抽查，仍可能有錯漏，準確性不受保證。此 2027 分支以 MIT 授權條款開源發布；作出決定前，請務必以 JUPAS 及各院校官方資料為準。"
   },
+  "about.source.live2027": { en: "2027 live site ↗︎", zh: "2027 網站 ↗︎" },
+  "about.source.github2027": { en: "2027 GitHub (MIT) ↗︎", zh: "2027 GitHub（MIT）↗︎" },
   "about.source.original": { en: "Original 2026 site ↗︎", zh: "原 2026 網站 ↗︎" },
   "about.source.github": { en: "Original 2026 GitHub ↗︎", zh: "原 2026 GitHub ↗︎" },
   "about.source.jupas": { en: "Official JUPAS site ↗︎", zh: "JUPAS 官方網站 ↗︎" },
@@ -681,7 +683,7 @@ export const STRINGS = {
   "share.viewAnalysis": { en: "View analysis", zh: "查看分析" },
   "share.viewModeBadge": { en: "Viewing a shared plan", zh: "正在檢視分享的計劃" },
   "share.recapAria": { en: "JUPAS recap card", zh: "JUPAS 總覽卡" },
-  "share.recapFootnote": { en: "jupascal.com · unofficial JUPAS calculator · for reference only", zh: "jupascal.com · 非官方 JUPAS 計分器 · 僅供參考" },
+  "share.recapFootnote": { en: "jupascalc.spooky.hk · unofficial JUPAS calculator · for reference only", zh: "jupascalc.spooky.hk · 非官方 JUPAS 計分器 · 僅供參考" },
   "share.showScoresToggle": { en: "Show my calculated scores on the card", zh: "在卡片上顯示我的計算分數" },
   "share.shareThisAria": { en: "Share this plan", zh: "分享此計劃" },
   "share.shareViaTitle": { en: "Share via…", zh: "分享…" },

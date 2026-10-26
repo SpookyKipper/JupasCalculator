@@ -130,6 +130,22 @@ export function AboutPage({ onClose }: Props) {
             <div className="about-source-actions">
               <a
                 className="about-source-btn"
+                href="https://jupascalc.spooky.hk/"
+                target="_blank"
+                rel="noreferrer"
+              >
+                {t("about.source.live2027")}
+              </a>
+              <a
+                className="about-source-btn is-secondary"
+                href="https://github.com/SpookyKipper/JupasCalculator"
+                target="_blank"
+                rel="noreferrer"
+              >
+                {t("about.source.github2027")}
+              </a>
+              <a
+                className="about-source-btn is-secondary"
                 href="https://jupascal.com/"
                 target="_blank"
                 rel="noreferrer"

@@ -1,10 +1,13 @@
 # JUPASCal 2027 — unofficial fork of JUPASCal 2026
 
-> This is an unofficial 2027 fork of the original JUPASCal 2026 project at
-> <https://jupascal.com/>. It is a free JUPAS / HKDSE admission-score calculator
-> for local applicants: enter your DSE grades to estimate your score under each
-> programme's 2027 subject weighting, then compare it with the 2026 intake's
-> published lower-quartile, median and upper-quartile scores.
+> JUPASCal 2027 is an unofficial fork of the original JUPASCal 2026 project at
+> <https://jupascal.com/>. It is a free JUPAS / HKDSE admission-score calculator:
+> enter your DSE grades to estimate your score under each programme's 2027
+> subject weighting, then compare it with the 2026 intake's published
+> lower-quartile, median and upper-quartile scores.
+
+- 2027 live site: <https://jupascalc.spooky.hk/>
+- 2027 source (MIT License): <https://github.com/SpookyKipper/JupasCalculator>
 
 ## Key facts
 
@@ -12,7 +15,7 @@
 - Uses 2027 subject weightings and entrance requirements, with 2026 intake admission scores (LQ / median / UQ, or a published mean) as benchmarks.
 - The 2027 weightings, requirements, 2026 intake scores and admission statistics were gathered with **AI assistance** and manual spot-checks.
 - **Accuracy is not guaranteed.** The data may contain errors, omissions or out-of-date figures. Always verify against official JUPAS and institution publications.
-- This 2027 fork is **not currently published as an open-source repository** and has no public GitHub repository.
+- Open source under the **MIT License**; see `LICENSE` in the 2027 repository.
 - Free, bilingual (English / 中文), no sign-up. Unofficial and for reference only.
 
 ## Original project

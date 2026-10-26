@@ -1,15 +1,13 @@
 # JUPASCal 2027 · unofficial fork of JUPASCal 2026
 
 An **unofficial 2027 fork** of the original [JUPASCal 2026 project](https://github.com/JUPASCal/JUPASCal.github.io),
-for Hong Kong DSE students. The original 2026 project is released under the
-**MIT License** and is available on [GitHub](https://github.com/JUPASCal/JUPASCal.github.io)
-and at <https://jupascal.com/>. This 2027 fork is **not currently published as an
-open-source repository** and has no public GitHub repository. Enter your HKDSE grades, build your A1–B6 programme list, and the tool
-estimates your admission score for every JUPAS programme (400+ across 10
-institutions) and compares it against historical admission data — a fast **DSE
-score calculator** that works out each programme's own weighting for you.
+for Hong Kong DSE students. Enter your HKDSE grades, build your A1–B6 programme
+list, and the tool estimates your admission score for every JUPAS programme
+(400+ across 10 institutions) and compares it against 2026 intake admission data.
 
-🔗 **Original 2026 project:** [GitHub](https://github.com/JUPASCal/JUPASCal.github.io) (MIT License) · [jupascal.com](https://jupascal.com/) — this working copy is the 2027 data refresh of that MIT-licensed app. Remove/change the canonical URL and branding before publishing your own deployment.
+🔗 **2027 live site: <https://jupascalc.spooky.hk/>**
+📦 **2027 source: <https://github.com/SpookyKipper/JupasCalculator>** (MIT License)
+🧬 **Original 2026 project:** [GitHub](https://github.com/JUPASCal/JUPASCal.github.io) · [jupascal.com](https://jupascal.com/)
 
 > [!IMPORTANT]
 > **This is an unofficial, educational tool — not affiliated with JUPAS or any

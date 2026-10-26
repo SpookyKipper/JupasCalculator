@@ -13,7 +13,7 @@ HTML = """
 <!doctype html><html lang="zh-Hant"><head><meta charset="utf-8">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Source+Serif+4:wght@700&family=Noto+Serif+TC:wght@700&text=2026%20JUPAS%E8%A8%88%E5%88%86%E5%99%A8%28%E9%9D%9E%E5%AE%98%E6%96%B9%29&display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Source+Serif+4:wght@700&family=Noto+Serif+TC:wght@700&text=2027%20JUPAS%E8%A8%88%E5%88%86%E5%99%A8%28%E9%9D%9E%E5%AE%98%E6%96%B9%29&display=swap">
 <style>
   * { margin: 0; box-sizing: border-box; }
   html, body { width: 1200px; height: 630px; }
@@ -40,12 +40,12 @@ HTML = """
 </style></head>
 <body>
   <div class="card">
-    <div class="word"><span class="yr">2026</span> JUPAS 計分器<span class="unofficial">(非官方)</span></div>
+    <div class="word"><span class="yr">2027</span> JUPAS 計分器<span class="unofficial">(非官方)</span></div>
     <div class="rule"></div>
     <div class="tag">比較全港大學各 JUPAS 課程收生分數
       <span class="en">An unofficial JUPAS / DSE admission-score calculator</span>
     </div>
-    <div class="url">jupascal.com</div>
+    <div class="url">jupascalc.spooky.hk</div>
     <div class="free">完全免費 · 絕不收集個人資料 · 毋需帳戶 · 開源</div>
   </div>
 </body></html>

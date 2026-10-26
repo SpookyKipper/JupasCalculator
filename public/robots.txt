@@ -31,4 +31,4 @@ Allow: /
 User-agent: CCBot
 Allow: /
 
-Sitemap: https://jupascal.com/sitemap.xml
+Sitemap: https://jupascalc.spooky.hk/sitemap.xml

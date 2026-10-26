@@ -8,6 +8,7 @@ const files = [
   ["data/processed/JUPAS_2027_Unified_Data.version", "dist/data/processed/JUPAS_2027_Unified_Data.version"],
   ["data/processed/programme_details_2027.json", "dist/data/processed/programme_details_2027.json"],
   ["data/raw/subjects.canonical.json", "dist/data/raw/subjects.canonical.json"],
+  ["CNAME", "dist/CNAME"],
 ];
 for (const [src, dst] of files) {
   await mkdir(dirname(dst), { recursive: true });
