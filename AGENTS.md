@@ -119,11 +119,6 @@ This document is the single source of truth for all AI agents (Gemini, Claude, e
 - **Bump `package.json` `"version"` (semver) ONLY when cutting a release**: pre-1.0 stay `0.1.0-beta.N`; set `1.0.0` at stable launch; then PATCH=fixes, MINOR=features (and the annual data refresh — also bump `"admissionCycle"`), MAJOR=overhauls. Tag releases (`vX.Y.Z`) + publish GitHub Release notes.
 - **`"admissionCycle"`** (`package.json`, e.g. `"2027"`) is the JUPAS entry year the data targets — a separate axis, bumped only on a data refresh, surfaced as `__ADMISSION_CYCLE__`. This applies to ALL agents — read `VERSIONING.md` before any release push.
 
-### Deployment (auto-deploy on push to `main`)
-- **`.github/workflows/deploy.yml`** builds the app, copies the runtime data files (`data/processed/JUPAS_2027_Unified_Data.json` + `.version`, `data/raw/subjects.canonical.json`) and `CNAME` into `dist/`, and publishes `dist/` to GitHub Pages. **A push to `main` is a production deploy** — there is no separate build/copy step and no committed bundle.
-- One-time GitHub setting (already configured): repo **Settings → Pages → Source = "GitHub Actions"**.
-- The app fetches its data at runtime via paths **relative** to `index.html` (`data/processed/…`), so any new runtime-fetched file MUST be added to the workflow's copy step or it will 404 in production.
-
 ---
 
 ## 6. Institutions & Admission Baselines
