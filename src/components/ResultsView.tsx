@@ -1,4 +1,4 @@
-import { useEffect, useRef, useState } from "react";
+import { useCallback, useEffect, useRef, useState } from "react";
 import type { MouseEvent as ReactMouseEvent } from "react";
 import { institutionLabel } from "../lib/institutions";
 import { slotLabel } from "../lib/slots";
@@ -16,6 +16,24 @@ import "./ResultsView.css";
 // the bottom. Kept generous so scrolling never visibly "waits" for rows.
 const WINDOW_INITIAL = 40;
 const WINDOW_CHUNK = 40;
+// How far ahead of the bottom the next chunk starts loading. Measured against
+// the list's own scroll container (see scrollContainerOf) so it really does
+// preload — with the default viewport root, the scroller's clip made this
+// margin useless and rows only appeared once the last one was already on
+// screen, i.e. exactly at the bottom.
+const WINDOW_PRELOAD = 600;
+
+// Nearest scrollable ancestor of the sentinel. Desktop Browse scrolls inside
+// `.table-shell`; mobile scrolls the whole `.app-shell`. Returns null for
+// document scrolling.
+function scrollContainerOf(node: Element | null): Element | null {
+  for (let el = node?.parentElement ?? null; el; el = el.parentElement) {
+    if (el === document.body || el === document.documentElement) break;
+    const overflowY = getComputedStyle(el).overflowY;
+    if (overflowY === "auto" || overflowY === "scroll" || overflowY === "overlay") return el;
+  }
+  return null;
+}
 
 type Props = {
   results: ProgrammeResult[];
@@ -63,11 +81,13 @@ export function ResultsView({ results, selectedCodes, activeCode, compact, delta
   // list identity changes (filter / sort / data update).
   const [visibleCount, setVisibleCount] = useState(WINDOW_INITIAL);
   // Callback ref so the same sentinel logic works for the table's <tr> and
-  // the card list's <div> without ref-type variance gymnastics.
+  // the card list's <div> without ref-type variance gymnastics. Stable across
+  // renders: a fresh closure each render made React detach and re-attach the
+  // ref on every commit.
   const sentinelRef = useRef<Element | null>(null);
-  const setSentinel = (el: Element | null) => {
+  const setSentinel = useCallback((el: Element | null) => {
     sentinelRef.current = el;
-  };
+  }, []);
 
   useEffect(() => {
     setVisibleCount(WINDOW_INITIAL);
@@ -76,13 +96,18 @@ export function ResultsView({ results, selectedCodes, activeCode, compact, delta
   useEffect(() => {
     const node = sentinelRef.current;
     if (!node) return;
+    // Root at the actual scroll container, so rootMargin really preloads.
+    // (With the default viewport root, the scroller's own clip bounds the
+    // intersection, so the next chunk only started loading once the sentinel
+    // was already on screen — i.e. exactly at the bottom, where the sudden
+    // jump in content height yanked the scrollbar thumb back to the middle.)
+    const root = scrollContainerOf(node);
     const observer = new IntersectionObserver(
       (entries) => {
-        if (entries[0]?.isIntersecting) {
-          setVisibleCount((current) => Math.min(current + WINDOW_CHUNK, results.length));
-        }
+        if (!entries[0]?.isIntersecting) return;
+        setVisibleCount((current) => Math.min(current + WINDOW_CHUNK, results.length));
       },
-      { rootMargin: "800px 0px" },
+      { root, rootMargin: `${WINDOW_PRELOAD}px 0px` },
     );
     observer.observe(node);
     return () => observer.disconnect();

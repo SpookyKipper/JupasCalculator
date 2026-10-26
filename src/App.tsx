@@ -37,6 +37,15 @@ const VERSION_URL = "/data/processed/JUPAS_2027_Unified_Data.version";
 // Stable empty reference for allResults before the first worker
 // compute lands – a fresh [] each render would defeat downstream memos.
 const EMPTY_RESULTS: ProgrammeResult[] = [];
+// Same idea for legacy profiles that omit picks / retakes. These are read in
+// the render body (not just in event handlers), so `profile.pickedCodes ?? []`
+// would mint a new array on EVERY render. They feed useDeferredValue → the
+// worker-recompute effect → setAllResults, so an unstable [] re-posted a
+// compute on every render: an endless recompute/render loop that kept resetting
+// the Browse list's windowed render to its first chunk (the "scrollbar jumps
+// to the middle / last row flickers at the bottom" bug).
+const EMPTY_PICKS: (string | null)[] = [];
+const EMPTY_RETAKENS: string[] = [];
 
 // Messages the data/compute worker posts back to the main thread.
 type WorkerResponse =
@@ -244,8 +253,8 @@ function CalculatorApp() {
   const displayProfile = sharedViewActive ? previewProfile! : activeProfile;
   const grades = displayProfile.grades;
   const deferredGrades = useDeferredValue(grades);
-  const pickedCodes = displayProfile.pickedCodes ?? [];
-  const retakenSubjects = displayProfile.retakenSubjects ?? [];
+  const pickedCodes = displayProfile.pickedCodes ?? EMPTY_PICKS;
+  const retakenSubjects = displayProfile.retakenSubjects ?? EMPTY_RETAKENS;
   const deferredRetakenSubjects = useDeferredValue(retakenSubjects);
 
   function setPickedCodes(
