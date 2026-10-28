@@ -46,7 +46,7 @@ HTML = """
       <span class="en">An unofficial JUPAS / DSE admission-score calculator</span>
     </div>
     <div class="url">jupascalc.spooky.hk</div>
-    <div class="free">完全免費 · 絕不收集個人資料 · 毋需帳戶 · 開源</div>
+    <div class="free">完全免費 · 無 cookie 分析 · 毋需帳戶 · 開源</div>
   </div>
 </body></html>
 """

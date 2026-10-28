@@ -90,8 +90,8 @@ export const STRINGS = {
   },
   "about.privacy.h": { en: "Privacy", zh: "私隱" },
   "about.privacy.p": {
-    en: "JUPASCal runs entirely in your browser. Your grades, profiles and selections are saved on your own device, not on any server, and there is no account or sign-in. The app only loads the public programme data. If you choose to share a plan, the details are encoded in the link itself rather than stored online. No user data is or will be collected.",
-    zh: "JUPASCal 完全在你的瀏覽器內運行。你的成績、檔案及選擇只儲存於你的裝置，並不會存放於任何伺服器，亦無需任何帳戶。此網站只會載入公開的課程數據。若你選擇分享計劃，相關資料只會儲存於該分享連結中。此網站沒有亦不會收集任何用家數據。"
+    en: "JUPASCal runs in your browser. Your grades, profiles and selections are saved on your own device, not on any server, and there is no account or sign-in. If you choose to share a plan, the details are encoded in the link itself rather than stored online. For anonymous usage statistics the site uses Plausible analytics, which is cookieless: it does not collect personal data and does not track individual users across devices or sites.",
+    zh: "JUPASCal 在你的瀏覽器內運行。你的成績、檔案及選擇只儲存於你的裝置，並不會存放於任何伺服器，亦無需任何帳戶。若你選擇分享計劃，相關資料只會儲存於該分享連結中。本網站使用 Plausible 分析服務作匿名瀏覽統計；它不使用 cookie，不收集個人資料，亦不會跨裝置或跨網站追蹤個別使用者。"
   },
   "about.source.h": {
     en: "About this 2027 fork",
