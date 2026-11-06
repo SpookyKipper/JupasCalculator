@@ -876,20 +876,30 @@
   "jupas_code": "JS1050",
   "institution": "CityUHK",
   "name": "JS1050 International Sustainability Programme for Innovation, Research & Entrepreneurship (INSPIRE) (Majors: BEng Energy Science & Engineering/BEng Environmental Science & Engineering + Features: Global Focus)",
-  "formula_2027": "3 Core Subjects + 2 Elective Subjects (including at least one elective subject in Biology, Chemistry, or",
+  "formula_2027": "3 Core Subjects + 2 Elective Subjects (including at least one elective in Biology, Chemistry or Physics)",
   "formula_2027_id": "best5",
   "subject_weights_2027": {
+   "English Language": 1.25,
    "Biology": 1.5,
    "Chemistry": 1.5,
    "Geography": 1.5,
    "Mathematics (Compulsory Part)": 1.5,
    "Mathematics Extended Part (Module 1)": 1.5,
    "Mathematics Extended Part (Module 2)": 1.5,
-   "Physics": 1.5,
-   "English Language": 1.25
+   "Physics": 1.5
   },
   "best_of_weights_2027": [],
-  "calculation_constraints": [],
+  "calculation_constraints": [
+   {
+    "type": "compulsory_subjects",
+    "subjects": [
+     "Chinese Language",
+     "English Language",
+     "Mathematics (Compulsory Part)"
+    ],
+    "description": "3 Core Subjects + 2 Elective Subjects (at least one elective in Biology, Chemistry or Physics)"
+   }
+  ],
   "min_requirements_2027": {
    "eng": "3",
    "chin": "3",
@@ -924,11 +934,30 @@
   "jupas_code": "JS1051",
   "institution": "CityUHK",
   "name": "JS1051 Energy and Environment (Majors: BEng Energy Science and Engineering / BEng Environmental Science and Engineering)",
-  "formula_2027": "Physics)",
+  "formula_2027": "3 Core Subjects + 2 Elective Subjects (including at least one elective in Biology, Chemistry or Physics)",
   "formula_2027_id": "best5",
-  "subject_weights_2027": {},
+  "subject_weights_2027": {
+   "English Language": 1.25,
+   "Biology": 1.5,
+   "Chemistry": 1.5,
+   "Geography": 1.5,
+   "Mathematics (Compulsory Part)": 1.5,
+   "Mathematics Extended Part (Module 1)": 1.5,
+   "Mathematics Extended Part (Module 2)": 1.5,
+   "Physics": 1.5
+  },
   "best_of_weights_2027": [],
-  "calculation_constraints": [],
+  "calculation_constraints": [
+   {
+    "type": "compulsory_subjects",
+    "subjects": [
+     "Chinese Language",
+     "English Language",
+     "Mathematics (Compulsory Part)"
+    ],
+    "description": "3 Core Subjects + 2 Elective Subjects (at least one elective in Biology, Chemistry or Physics)"
+   }
+  ],
   "min_requirements_2027": {
    "eng": "3",
    "chin": "3",
@@ -2873,46 +2902,7 @@
   "jupas_code": "JS1805",
   "institution": "CityUHK",
   "name": "JS1805 Biomedical Sciences (Majors: BSc Biological Sciences / BSc Biomedical Sciences)",
-  "formula_2027": "",
-  "formula_2027_id": "best5",
-  "subject_weights_2027": {},
-  "best_of_weights_2027": [],
-  "calculation_constraints": [],
-  "min_requirements_2027": {
-   "eng": null,
-   "chin": null,
-   "math": null,
-   "csd": null,
-   "elect1": {
-    "count": 1,
-    "subjects": [
-     "Any"
-    ],
-    "grade": "3",
-    "note": ""
-   },
-   "elect2": {
-    "count": 1,
-    "subjects": [
-     "Any"
-    ],
-    "grade": "3",
-    "note": ""
-   }
-  },
-  "scores_2026": {
-   "median": 33.0,
-   "lq": 32.5,
-   "uq": null,
-   "mean": null
-  },
-  "source": "CityUHK JUPAS Admissions (2027 Entry) PDF"
- },
- {
-  "jupas_code": "JS1806",
-  "institution": "CityUHK",
-  "name": "JS1806 BSc Biological Sciences (Features: Bioinformatics / Biochemistry / Genetics / Cellular & Molecular Biology / Immunology / Research Rotation Projects for Hands-on Experience) JS1801, JS1805, JS1806 and Applied Learning (ApL) subjects • Distinction II) are used in the * Excluding students admitted • ∆Exclude HKDSE Citizenship and • # Subject to the University's • The JUPAS entrance requirements © All rights reserved. The information CityUHK may be incomplete, misleading",
-  "formula_2027": "3 core + 2 elective subjects JS1806 and JS1807, a Nominations, Sports reproduced by",
+  "formula_2027": "3 core + 2 elective subjects",
   "formula_2027_id": "best5",
   "subject_weights_2027": {
    "English Language": 1.5,
@@ -2920,7 +2910,11 @@
    "Chemistry": 1.5,
    "Mathematics (Compulsory Part)": 1.25,
    "Business, Accounting and Financial Studies": 1.25,
-   "Design and Applied Technology": 1.25
+   "Design and Applied Technology": 1.25,
+   "Information and Communication Technology": 1.25,
+   "Mathematics Extended Part (Module 1)": 1.25,
+   "Mathematics Extended Part (Module 2)": 1.25,
+   "Physics": 1.25
   },
   "best_of_weights_2027": [],
   "calculation_constraints": [
@@ -2942,10 +2936,12 @@
    "elect1": {
     "count": 1,
     "subjects": [
-     "Any"
+     "Biology",
+     "Chemistry",
+     "Physics"
     ],
     "grade": "3",
-    "note": "Level 3 in one elective subject from: · Biology · Chemistry are counted as one subject JS1040, JS1041, JS1042, JS1043, and Achievements in reserves the right to amend the University cautions members of responsibility for the unauthorised"
+    "note": "Level 3 in one elective subject from Biology / Chemistry / Physics"
    },
    "elect2": {
     "count": 1,
@@ -2953,7 +2949,69 @@
      "Any"
     ],
     "grade": "3",
-    "note": "Level 3 in any elective subjects [may include Attained with Distinction II in the ApL subject – only. JS1044, JS1300, JS1805, Competitions/Activities, Principal's information from time to time. the public that any such information use of the data."
+    "note": "Level 3 in any elective subjects"
+   }
+  },
+  "scores_2026": {
+   "median": 33.0,
+   "lq": 32.5,
+   "uq": null,
+   "mean": null
+  },
+  "source": "CityUHK JUPAS Admissions (2027 Entry) PDF"
+ },
+ {
+  "jupas_code": "JS1806",
+  "institution": "CityUHK",
+  "name": "JS1806 BSc Biological Sciences (Features: Bioinformatics / Biochemistry / Genetics / Cellular & Molecular Biology / Immunology / Research Rotation Projects for Hands-on Experience) JS1801, JS1805, JS1806 and Applied Learning (ApL) subjects • Distinction II) are used in the * Excluding students admitted • ∆Exclude HKDSE Citizenship and • # Subject to the University's • The JUPAS entrance requirements © All rights reserved. The information CityUHK may be incomplete, misleading",
+  "formula_2027": "3 core + 2 elective subjects",
+  "formula_2027_id": "best5",
+  "subject_weights_2027": {
+   "English Language": 1.5,
+   "Biology": 1.5,
+   "Chemistry": 1.5,
+   "Mathematics (Compulsory Part)": 1.25,
+   "Business, Accounting and Financial Studies": 1.25,
+   "Design and Applied Technology": 1.25,
+   "Information and Communication Technology": 1.25,
+   "Mathematics Extended Part (Module 1)": 1.25,
+   "Mathematics Extended Part (Module 2)": 1.25,
+   "Physics": 1.25
+  },
+  "best_of_weights_2027": [],
+  "calculation_constraints": [
+   {
+    "type": "compulsory_subjects",
+    "subjects": [
+     "Chinese Language",
+     "English Language",
+     "Mathematics (Compulsory Part)"
+    ],
+    "description": "3 Core + 2 Elective: Chinese, English and Mathematics are compulsory"
+   }
+  ],
+  "min_requirements_2027": {
+   "eng": "3",
+   "chin": "3",
+   "math": "3",
+   "csd": "A",
+   "elect1": {
+    "count": 1,
+    "subjects": [
+     "Biology",
+     "Chemistry",
+     "Physics"
+    ],
+    "grade": "3",
+    "note": "Level 3 in one elective subject from Biology / Chemistry / Physics"
+   },
+   "elect2": {
+    "count": 1,
+    "subjects": [
+     "Any"
+    ],
+    "grade": "3",
+    "note": "Level 3 in any elective subjects"
    }
   },
   "scores_2026": {
@@ -2968,23 +3026,46 @@
   "jupas_code": "JS1807",
   "institution": "CityUHK",
   "name": "JS1807 BSc Biomedical Sciences (Features: Clinical Chemistry / Hematology / Medical Microbiology and Infection / Anatomical Pathology / Immunology / Clinical Placement / Intensive Laboratory Experience) COLLEGE OF BUSINESS",
-  "formula_2027": "",
+  "formula_2027": "3 core + 2 elective subjects",
   "formula_2027_id": "best5",
-  "subject_weights_2027": {},
+  "subject_weights_2027": {
+   "English Language": 1.5,
+   "Biology": 1.5,
+   "Chemistry": 1.5,
+   "Mathematics (Compulsory Part)": 1.25,
+   "Business, Accounting and Financial Studies": 1.25,
+   "Design and Applied Technology": 1.25,
+   "Information and Communication Technology": 1.25,
+   "Mathematics Extended Part (Module 1)": 1.25,
+   "Mathematics Extended Part (Module 2)": 1.25,
+   "Physics": 1.25
+  },
   "best_of_weights_2027": [],
-  "calculation_constraints": [],
+  "calculation_constraints": [
+   {
+    "type": "compulsory_subjects",
+    "subjects": [
+     "Chinese Language",
+     "English Language",
+     "Mathematics (Compulsory Part)"
+    ],
+    "description": "3 Core + 2 Elective: Chinese, English and Mathematics are compulsory"
+   }
+  ],
   "min_requirements_2027": {
-   "eng": null,
-   "chin": null,
-   "math": null,
-   "csd": null,
+   "eng": "3",
+   "chin": "3",
+   "math": "3",
+   "csd": "A",
    "elect1": {
     "count": 1,
     "subjects": [
-     "Any"
+     "Biology",
+     "Chemistry",
+     "Physics"
     ],
     "grade": "3",
-    "note": ""
+    "note": "Level 3 in one elective subject from Biology / Chemistry / Physics"
    },
    "elect2": {
     "count": 1,
@@ -2992,7 +3073,7 @@
      "Any"
     ],
     "grade": "3",
-    "note": "Medical Laboratory Science]"
+    "note": "Level 3 in any elective subjects"
    }
   },
   "scores_2026": {

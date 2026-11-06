@@ -131,32 +131,66 @@ except Exception as e:
 
 # ---- HKUST: update the structured formula-step weights to 2027 ----
 try:
+    import importlib.util
+    _spec=importlib.util.spec_from_file_location('_unify_helpers','scripts/utils/unify_2026_data.py')
+    _uh=importlib.util.module_from_spec(_spec); _spec.loader.exec_module(_uh)
+    _norm=_uh.normalize_subject
+
     hkust=json.load(open(f'{OVER}/HKUST.json',encoding='utf-8'))
     for r in hkust:
         p=base.get(r['jupas_code'])
         if not p: continue
-        neww=r.get('subject_weights_2027') or {}
+        raw=r.get('subject_weights_2027') or {}
+        # Normalise BOTH sides of the lookup. The JS-extract writes the Maths core as
+        # "Mathematics Compulsory Part" while the 2027 overrides use the canonical
+        # "Mathematics (Compulsory Part)"; a raw .get() missed it and silently demoted
+        # the ×2 Maths core to ×1 on every HKUST programme.
+        neww={_norm(k):v for k,v in raw.items() if k and isinstance(v,(int,float))}
+        # 2027 best-of pools (e.g. JS5312's Chem/Econ/Phys/M1/M2 ×1.5) live in
+        # best_of_weights_2027, NOT in the flat subject_weights map, so they must be
+        # looked up separately — otherwise the pool multiplier falls back to ×1.
+        pools=[bw for bw in (r.get('best_of_weights_2027') or []) if isinstance(bw,dict)]
+
+        def w_for(sub):
+            """Override weight for a subject, or None when 2027 says nothing about it."""
+            return neww.get(_norm(sub), raw.get(sub))
+
+        def pool_w_for(subs):
+            """Override weight for a pooled subject group, or None if not a 2027 pool.
+
+            Require the group to sit INSIDE the override pool (subset), so an
+            unrelated weight group in the same step (e.g. the Bio/Chem/Phys ×2
+            science group) isn't handed a neighbouring pool's multiplier.
+            """
+            keys={_norm(s) for s in (subs or [])}
+            if not keys: return None
+            for bw in pools:
+                pool_keys={_norm(s) for s in (bw.get('subjects') or [])}
+                if keys <= pool_keys:
+                    return bw.get('weight')
+            return None
+
+        def patch_step(st):
+            if st.get('type')=='required' and st.get('subject'):
+                w=w_for(st['subject'])
+                if w is not None: st['weight']=w
+            if st.get('weights'):
+                for grp in st['weights']:
+                    pw=pool_w_for(grp.get('subjects'))
+                    if pw is not None:
+                        grp['weight']=pw
+                    else:
+                        vals=[w for w in (w_for(s) for s in (grp.get('subjects') or [])) if w is not None]
+                        if vals: grp['weight']=max(vals)
+
         steps=p.get('hkust_formula_steps')
         if isinstance(steps,list):
-            def w_for(sub): return neww.get(sub,1.0)
             for st in steps:
-                if st.get('type')=='required' and st.get('subject'):
-                    st['weight']=w_for(st['subject'])
-                if st.get('weights'):
-                    for grp in st['weights']:
-                        subs=grp.get('subjects') or []
-                        vals=[w_for(s) for s in subs]
-                        if vals: grp['weight']=max(vals)
+                patch_step(st)
                 if st.get('type')=='better_of':
                     for opt in st.get('options',[]):
-                        for sub in opt:
-                            if sub.get('type')=='required' and sub.get('subject'):
-                                sub['weight']=w_for(sub['subject'])
-                            if sub.get('weights'):
-                                for grp in sub['weights']:
-                                    vals=[w_for(s) for s in (grp.get('subjects') or [])]
-                                    if vals: grp['weight']=max(vals)
-        p['subject_weights_2027']=neww
+                        for sub in opt: patch_step(sub)
+        p['subject_weights_2027']=raw
         p['weights_status']='official_2027'
 except Exception as e:
     print('HKUST post-process warning:',e)
